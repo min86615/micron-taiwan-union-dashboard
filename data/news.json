@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-02T23:09:48.537893+08:00",
+    "generated_at": "2026-09-02T23:15:42.293151+08:00",
     "record_count": 75,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -19,7 +19,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "dashboard_new",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -37,7 +37,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": null
     },
@@ -55,7 +55,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": null
     },
@@ -73,7 +73,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -90,7 +90,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "aggregation",
       "duplicate_of": "https://www.cls.cn/detail/2471571"
     },
@@ -108,7 +108,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -127,7 +127,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -144,7 +144,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -162,7 +162,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -180,7 +180,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://news.cnyes.com/news/id/6594640"
     },
@@ -198,7 +198,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "dashboard_new",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -217,7 +217,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -235,7 +235,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "報告時段外發現／不寄送",
+      "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -253,7 +253,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -270,7 +270,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -289,7 +289,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外發現／不寄送",
+      "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -306,7 +306,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
     },
@@ -325,7 +325,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外發現／不寄送",
+      "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -344,7 +344,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -361,7 +361,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars"
     },
@@ -378,7 +378,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "報告時段外發現／不寄送",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -395,7 +395,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "ambiguous_time",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -413,7 +413,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://stocktwits.com/news-articles/markets/equity/micron-taiwan-unit-reportedly-plans-record-bonuses-to-avert-strike-mu-stock-dips-for-second-day/cZsAZk2RJum"
     },
@@ -430,7 +430,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "aggregation",
       "duplicate_of": null
     },
@@ -448,7 +448,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -465,7 +465,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -483,7 +483,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -502,7 +502,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -521,7 +521,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -540,7 +540,7 @@
         "罷工",
         "勞資調解"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -559,7 +559,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -578,7 +578,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "translation_or_syndication",
       "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -596,7 +596,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -614,7 +614,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -631,7 +631,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "報告時段外發現／不寄送",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -650,7 +650,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外發現／不寄送",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -669,7 +669,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -688,7 +688,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -706,7 +706,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -725,7 +725,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -744,7 +744,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -762,7 +762,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -781,7 +781,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -799,7 +799,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -818,7 +818,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -837,7 +837,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -856,7 +856,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -874,7 +874,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -893,7 +893,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -912,7 +912,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -930,7 +930,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -948,7 +948,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -965,7 +965,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -984,7 +984,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1003,7 +1003,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1022,7 +1022,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1040,7 +1040,7 @@
         "工會／勞資",
         "獎金／分紅"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1059,7 +1059,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1077,7 +1077,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1095,7 +1095,7 @@
         "工會／勞資",
         "獎金／分紅"
       ],
-      "status": "同稿轉載／不另重複",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1112,7 +1112,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1130,7 +1130,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1148,7 +1148,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1166,7 +1166,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1184,7 +1184,7 @@
         "工會／勞資",
         "獎金／分紅"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1202,7 +1202,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1219,7 +1219,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1237,7 +1237,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1255,7 +1255,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1274,7 +1274,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1293,7 +1293,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1312,7 +1312,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1330,7 +1330,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1349,7 +1349,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1368,7 +1368,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已納入追蹤／曾列入報告",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     }
