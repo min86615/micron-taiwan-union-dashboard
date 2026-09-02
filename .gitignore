@@ -1,0 +1,9 @@
+# Static dashboard repo
+.DS_Store
+*.log
+.env
+*.pem
+*.key
+*.token
+credentials*
+secrets*
