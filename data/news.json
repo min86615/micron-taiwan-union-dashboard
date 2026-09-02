@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-02T23:39:42.429044+08:00",
-    "record_count": 76,
+    "generated_at": "2026-09-03T01:08:42.136534+08:00",
+    "record_count": 80,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T22:38:08+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
       "language": "EN",
       "topics": [
         "罷工",
@@ -113,6 +113,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0079",
+      "media": "Yahoo新聞／放言 Fount Media",
+      "title": "美光台灣近萬人工會走向罷工！8成受調查會員支持 AI大賺後員工要求：15％營業利益拿來分紅",
+      "url": "https://www.fountmedia.io/article/420253",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T16:12:37+08:00",
+      "listed_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.fountmedia.io/article/420253"
+    },
+    {
       "id": "news-0052",
       "media": "放言 Fount Media",
       "title": "美光台灣近萬人工會走向罷工！8成受調查會員支持 AI大賺後員工要求：15％營業利益拿來分紅",
@@ -120,7 +139,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T16:12:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-02T21:00:19+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -139,7 +158,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T15:38:09+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-02T21:00:19+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -192,7 +211,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T15:00:05+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -210,7 +229,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T14:34:45+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-02T21:00:19+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -294,6 +313,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0078",
+      "media": "騰訊新聞／芯智訊",
+      "title": "工会酝酿罢工！台湾美光回应：将发放史上最高绩效奖金！",
+      "url": "https://www.sohu.com/a/1070973818_128469",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T09:37:53+08:00",
+      "listed_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
+    },
+    {
       "id": "news-0070",
       "media": "電子工程專輯／芯智訊",
       "title": "工会酝酿罢工！台湾美光回应：将发放史上最高绩效奖金！",
@@ -328,6 +364,25 @@
       "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0077",
+      "media": "AsiaOne／Reuters",
+      "title": "Micron's Taiwan unions threaten strike over bonus dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T04:26:00+08:00",
+      "listed_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0073",
@@ -380,6 +435,23 @@
       ],
       "status": "out_of_window",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0080",
+      "media": "NewsCase",
+      "title": "美光台湾厂区劳资对峙升级：万人工会酝酿罢工，AI存储巨头遭遇“增长悖论”",
+      "url": "https://www.newscase.com/%E7%BE%8E%E5%85%89%E5%8F%B0%E6%B9%BE%E5%8E%82%E5%8C%BA%E5%8A%B3%E8%B5%84%E5%AF%B9%E5%B3%99%E5%8D%87%E7%BA%A7%EF%BC%9A%E4%B8%87%E4%BA%BA%E5%B7%A5%E4%BC%9A%E9%85%9D%E9%85%BF%E7%BD%A2%E5%B7%A5%EF%BC%8Cai/",
+      "published_date": "2026-09-02",
+      "published_at": null,
+      "listed_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "original_ai_analysis",
       "duplicate_of": null
     },
     {
@@ -905,7 +977,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T01:08:36+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
