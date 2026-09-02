@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T01:08:42.136534+08:00",
-    "record_count": 80,
+    "generated_at": "2026-09-03T03:04:46.299226+08:00",
+    "record_count": 92,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T22:38:08+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "罷工",
@@ -193,7 +193,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T15:00:06+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -211,7 +211,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T15:00:05+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -373,7 +373,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T04:26:00+08:00",
       "listed_at": "2026-09-03T01:08:36+08:00",
-      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -392,7 +392,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T04:16:06+05:30",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -567,7 +567,7 @@
       "published_date": "2026-09-02",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -586,7 +586,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-01T21:48:00+05:30",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -634,6 +634,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0087",
+      "media": "Infoseek／Reuters",
+      "title": "マイクロン台湾労組がスト示唆、賞与制度見直し要求",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T19:49:00+09:00",
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0062",
@@ -727,6 +746,195 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0088",
+      "media": "dメニューニュース／Reuters",
+      "title": "マイクロン台湾労組がスト示唆、賞与制度見直し要求",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0086",
+      "media": "Yahoo!ニュース／Reuters",
+      "title": "マイクロン台湾労組がスト示唆、賞与制度見直し要求",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0084",
+      "media": "TradingView／格隆匯",
+      "title": "美光台灣工會喊話：不改獎金制度就罷工",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0091",
+      "media": "TradingKey 日本語",
+      "title": "マイクロンの台湾労組がストライキを予告、時間外取引でMUが2%下落",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262143646-micron-taiwan-union-strike-mu-pre-market-drop-tradingkey",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "out_of_window",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0081",
+      "media": "SRN News",
+      "title": "Micron's Taiwan unions threaten strike over bonus dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0089",
+      "media": "Newsweek Japan／Reuters",
+      "title": "マイクロン台湾労組がスト示唆、賞与制度見直し要求",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0083",
+      "media": "Goldsea",
+      "title": "Micron's Taiwan Unions Threaten Strike over Bonus Dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0085",
+      "media": "Economic Times／Reuters",
+      "title": "Micron's Taiwan unions threaten strike over bonus dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0090",
+      "media": "ChosunBiz 日本語",
+      "title": "マイクロン台湾労組が成果給拡充求めスト予告",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0082",
+      "media": "Bluewater Healthy Living",
+      "title": "Micron’s Taiwan unions threaten strike over bonus dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
       "id": "news-0042",
       "media": "財訊快報",
       "title": "記憶體罷工潮蔓延到台灣，傳美光桃園醞釀罷工，勞資問題一觸即發",
@@ -772,7 +980,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -846,7 +1054,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -865,7 +1073,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -883,7 +1091,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -921,7 +1129,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -940,7 +1148,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅",
@@ -977,7 +1185,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1087,7 +1295,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1124,7 +1332,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1460,6 +1668,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0092",
+      "media": "PCMasterInsider",
+      "title": "Micron Taiwan Union Prepares Potential Strike Over AI Profit-Sharing Bonuses",
+      "url": "https://pcmasterinsider.com/micron-taiwan-union-strike-bonus-pay",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "unverified_commentary",
       "duplicate_of": null
     }
   ]
