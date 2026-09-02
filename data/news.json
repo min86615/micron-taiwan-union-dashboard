@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-02T21:51:23.010910+08:00",
+    "generated_at": "2026-09-02T21:57:55.010525+08:00",
     "record_count": 61,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -14,7 +14,7 @@
       "published_at": "2026-09-02T17:19:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -32,7 +32,7 @@
       "published_at": "2026-09-02T17:19:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -50,7 +50,7 @@
       "published_at": "2026-09-02T17:19:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -68,7 +68,7 @@
       "published_at": "2026-09-02T16:35:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -86,7 +86,7 @@
       "published_at": "2026-09-02T16:12:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -105,7 +105,7 @@
       "published_at": "2026-09-02T15:38:09+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "中文",
+      "language": "SC",
       "topics": [
         "美光產業"
       ],
@@ -122,7 +122,7 @@
       "published_at": "2026-09-02T15:29:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -140,7 +140,7 @@
       "published_at": "2026-09-02T14:34:45+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -159,7 +159,7 @@
       "published_at": "2026-09-02T12:00:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "罷工",
         "記憶體／HBM"
@@ -177,7 +177,7 @@
       "published_at": "2026-09-02T11:11:00+08:00",
       "listed_at": "2026-09-02T16:52:46+08:00",
       "last_checked_at": "2026-09-02T16:52:46+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -195,7 +195,7 @@
       "published_at": "2026-09-02T10:36:00+08:00",
       "listed_at": "2026-09-02T17:30:00+08:00",
       "last_checked_at": "2026-09-02T17:30:00+08:00",
-      "language": "中文",
+      "language": "SC",
       "topics": [
         "美光產業"
       ],
@@ -212,7 +212,7 @@
       "published_at": "2026-09-02T10:03:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -231,7 +231,7 @@
       "published_at": "2026-09-02T08:26:35+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
       "last_checked_at": "2026-09-02T21:00:19+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -250,7 +250,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T17:30:00+08:00",
       "last_checked_at": "2026-09-02T17:30:00+08:00",
-      "language": "中文",
+      "language": "SC",
       "topics": [
         "美光產業"
       ],
@@ -267,7 +267,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T17:20:00+08:00",
       "last_checked_at": "2026-09-02T17:20:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "罷工",
         "記憶體／HBM"
@@ -285,7 +285,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T17:20:00+08:00",
       "last_checked_at": "2026-09-02T17:20:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "罷工"
       ],
@@ -302,7 +302,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -320,7 +320,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -339,7 +339,7 @@
       "published_at": "2026-09-01T21:09:50+08:00",
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工",
@@ -358,7 +358,7 @@
       "published_at": "2026-09-01T20:30:04+08:00",
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -377,7 +377,7 @@
       "published_at": "2026-09-01T18:10:50+08:00",
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -395,7 +395,7 @@
       "published_at": "2026-09-01T16:42:00+08:00",
       "listed_at": "2026-09-02T13:01:05+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -413,7 +413,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工",
@@ -432,7 +432,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -451,7 +451,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "罷工",
         "記憶體／HBM"
@@ -469,7 +469,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -488,7 +488,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -507,7 +507,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -525,7 +525,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -544,7 +544,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -562,7 +562,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -581,7 +581,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -600,7 +600,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -619,7 +619,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -637,7 +637,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -656,7 +656,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -675,7 +675,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -693,7 +693,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -711,7 +711,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "美光產業"
       ],
@@ -728,7 +728,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -747,7 +747,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -766,7 +766,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -785,7 +785,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅"
@@ -803,7 +803,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "English",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -822,7 +822,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T13:01:05+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -840,7 +840,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T13:01:05+08:00",
       "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅"
@@ -858,7 +858,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "美光產業"
       ],
@@ -875,7 +875,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -893,7 +893,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -911,7 +911,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "罷工",
         "記憶體／HBM"
@@ -929,7 +929,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅"
@@ -947,7 +947,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -965,7 +965,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "美光產業"
       ],
@@ -982,7 +982,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -1000,7 +1000,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -1018,7 +1018,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -1037,7 +1037,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -1056,7 +1056,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -1075,7 +1075,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
@@ -1093,7 +1093,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -1112,7 +1112,7 @@
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
       "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "中文",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",

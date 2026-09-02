@@ -35,9 +35,16 @@
     .panel h2 { margin:0 0 14px; font-size:17px; }
     .chart-box { position:relative; height:280px; }
     .table-wrap { overflow:auto; }
-    table { border-collapse:collapse; width:100%; min-width:760px; }
+    table { border-collapse:collapse; width:100%; min-width:980px; table-layout:fixed; }
+    col.time-col { width:130px; }
+    col.media-col { width:130px; }
+    col.title-col { width:42%; }
+    col.lang-col { width:58px; }
+    col.status-col { width:96px; }
     th,td { text-align:left; vertical-align:top; padding:12px 10px; border-bottom:1px solid var(--line); }
     th { color:var(--muted); font-size:12px; white-space:nowrap; }
+    td.title-cell { font-weight:550; overflow-wrap:anywhere; }
+    .lang-code { display:inline-block; min-width:30px; padding:2px 6px; border-radius:6px; text-align:center; background:#eef2ff; color:#2945a5; font-size:12px; font-weight:700; letter-spacing:.03em; }
     td a { color:var(--blue); text-decoration:none; }
     td a:hover { text-decoration:underline; }
     .tag { display:inline-block; background:#f0f2f6; color:#4b5563; border-radius:999px; padding:2px 8px; margin:2px 3px 2px 0; font-size:12px; }
@@ -79,7 +86,7 @@
     <div class="panel"><h2>主題分布</h2><div class="chart-box"><canvas id="topicChart"></canvas></div></div>
   </section>
   <section class="panel"><h2>公開新聞清單 <span id="resultCount" style="color:var(--muted);font-size:13px;font-weight:400"></span></h2>
-    <div class="table-wrap"><table><thead><tr><th>發布時間</th><th>加入列表</th><th>最後確認</th><th>媒體</th><th>標題</th><th>語言</th><th>主題</th><th>狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
+    <div class="table-wrap"><table><colgroup><col class="time-col"><col class="time-col"><col class="time-col"><col class="media-col"><col class="title-col"><col class="lang-col"><col><col class="status-col"></colgroup><thead><tr><th>發布時間</th><th>加入列表</th><th>最後確認</th><th>媒體</th><th>標題</th><th>語言</th><th>主題</th><th>狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
     <div class="pagination"><button id="prevPage" type="button">上一頁</button><span class="page-info" id="pageInfo">—</span><button id="nextPage" type="button">下一頁</button></div>
     <div class="empty" id="empty" hidden>沒有符合條件的新聞。</div>
   </section>
