@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-02T23:15:42.293151+08:00",
-    "record_count": 75,
+    "generated_at": "2026-09-02T23:39:42.429044+08:00",
+    "record_count": 76,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1222,6 +1222,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0076",
+      "media": "BigGo ファイナンス",
+      "title": "マイクロン台湾の従業員、ストライキへ前進——8割が賞与制度見直しを支持",
+      "url": "https://finance.biggo.jp/news/293528b8-ee19-4e4f-95bf-68b17470950d",
+      "published_date": "2026-08-29",
+      "published_at": "2026-08-29T02:32:11+08:00",
+      "listed_at": "2026-09-02T23:39:10+08:00",
+      "last_checked_at": "2026-09-02T23:39:10+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_translation",
+      "duplicate_of": "https://finance.biggo.com.tw/news/293528b8-ee19-4e4f-95bf-68b17470950d"
     },
     {
       "id": "news-0030",
