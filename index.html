@@ -52,6 +52,26 @@
     footer { color:var(--muted); font-size:12px; margin-top:18px; }
     @media (max-width:800px) { .stats { grid-template-columns:repeat(2,1fr); } .charts { grid-template-columns:1fr; } }
     @media (max-width:480px) { .wrap { width:min(100% - 20px,1180px); } .stats { gap:8px; } .stat { padding:12px; } .stat strong { font-size:23px; } input { min-width:100%; } }
+    @media (max-width:800px) {
+      table { min-width:0; table-layout:auto; }
+      col { width:auto !important; }
+      thead { display:none; }
+      tbody, tr, td { display:block; width:100%; }
+      tbody tr { border-bottom:1px solid var(--line); padding:14px 0; }
+      tbody td { border:0; padding:4px 0; overflow-wrap:anywhere; }
+      tbody td::before { color:var(--muted); font-size:11px; font-weight:600; margin-right:7px; }
+      tbody td:nth-child(1)::before { content:'發布'; }
+      tbody td:nth-child(2)::before { content:'加入'; }
+      tbody td:nth-child(3)::before { content:'確認'; }
+      tbody td:nth-child(4)::before { content:'媒體'; }
+      tbody td:nth-child(5)::before { content:''; margin:0; }
+      tbody td:nth-child(6)::before { content:'語言'; }
+      tbody td:nth-child(7)::before { content:'主題'; display:block; margin-bottom:2px; }
+      tbody td:nth-child(8)::before { content:'狀態'; }
+      tbody td.title-cell { font-size:16px; line-height:1.55; margin:5px 0; }
+      tbody td:nth-child(4), tbody td:nth-child(6), tbody td:nth-child(8) { display:inline-block; width:auto; margin-right:16px; vertical-align:middle; }
+      tbody td:nth-child(7) { margin-top:5px; }
+    }
   </style>
 </head>
 <body>
@@ -114,7 +134,7 @@ function fmt(v) { if (!v) return '待確認'; const d=new Date(v); if (Number.is
 function publishedLabel(x) { return x.published_at ? fmt(x.published_at) : (x.published_date || '日期待確認'); }
 function filtered() { const q=$('search').value.trim().toLowerCase(), d=$('dateFilter').value, l=$('languageFilter').value, s=$('statusFilter').value; return all.filter(x=>(!d||x.published_date===d)&&(!l||x.language===l)&&(!s||x.status===s)&&(!q||[x.title,x.media,x.language,x.status,...(x.topics||[])].join(' ').toLowerCase().includes(q))); }
 function sortItems(items) { const mode=$('sortFilter').value; const val=(x,key)=>x[key]||'0000-00-00'; return [...items].sort((a,b)=>{ if(mode==='media_asc'||mode==='media_desc'){const c=(a.media||'').localeCompare(b.media||'','zh-Hant');return mode==='media_asc'?c:-c;} const key=mode.startsWith('listed')?'listed_at':(mode.startsWith('published')?'published_at':'published_at'); const av=val(a,key)==='0000-00-00'?val(a,'published_date'):val(a,key); const bv=val(b,key)==='0000-00-00'?val(b,'published_date'):val(b,key); const c=av.localeCompare(bv); return mode.endsWith('_asc')?c:-c; }); }
-function render() { const items=sortItems(filtered()); const pageSize=Number($('pageSize').value), totalPages=Math.max(1,Math.ceil(items.length/pageSize)); if(currentPage>totalPages) currentPage=totalPages; const start=(currentPage-1)*pageSize, pageItems=items.slice(start,start+pageSize); $('resultCount').textContent=`（${items.length} 筆）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; pageItems.forEach(x=>{const tr=document.createElement('tr'); const cells=[publishedLabel(x),fmt(x.listed_at),fmt(x.last_checked_at),x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td');if(i===4){const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)}); const shownStart=items.length?start+1:0, shownEnd=Math.min(start+pageSize,items.length); $('pageInfo').textContent=`第 ${currentPage} / ${totalPages} 頁｜顯示 ${shownStart}–${shownEnd} 筆`; $('prevPage').disabled=currentPage<=1; $('nextPage').disabled=currentPage>=totalPages; renderCharts(items);}
+function render() { const items=sortItems(filtered()); const pageSize=Number($('pageSize').value), totalPages=Math.max(1,Math.ceil(items.length/pageSize)); if(currentPage>totalPages) currentPage=totalPages; const start=(currentPage-1)*pageSize, pageItems=items.slice(start,start+pageSize); $('resultCount').textContent=`（${items.length} 筆）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; pageItems.forEach(x=>{const tr=document.createElement('tr'); const cells=[publishedLabel(x),fmt(x.listed_at),fmt(x.last_checked_at),x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td'); if(i===4) td.className='title-cell'; if(i===4){const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else if(i===5){td.innerHTML=`<span class="lang-code">${v}</span>`}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)}); const shownStart=items.length?start+1:0, shownEnd=Math.min(start+pageSize,items.length); $('pageInfo').textContent=`第 ${currentPage} / ${totalPages} 頁｜顯示 ${shownStart}–${shownEnd} 筆`; $('prevPage').disabled=currentPage<=1; $('nextPage').disabled=currentPage>=totalPages; renderCharts(items);}
 async function init(){ try {const r=await fetch('data/news.json'); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const dates=[...new Set(all.map(x=>x.published_date).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(x,x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='同稿轉載').length; const latest=all.map(x=>x.listed_at).filter(Boolean).sort().pop(); $('latest').textContent=latest?fmt(latest):'—'; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：列表依新聞發布時間由新到舊排列；加入追蹤時間與最後確認時間分開顯示。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
 ['search','dateFilter','languageFilter','statusFilter','sortFilter','pageSize'].forEach(id=>$(id).addEventListener(id==='search'?'input': 'change',()=>{currentPage=1;render();})); $('prevPage').addEventListener('click',()=>{if(currentPage>1){currentPage--;render();}}); $('nextPage').addEventListener('click',()=>{const totalPages=Math.max(1,Math.ceil(filtered().length/Number($('pageSize').value)));if(currentPage<totalPages){currentPage++;render();}}); init();
 </script>
