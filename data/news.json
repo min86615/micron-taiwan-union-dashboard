@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T03:04:46.299226+08:00",
+    "generated_at": "2026-09-03T05:05:01.883076+08:00",
     "record_count": 92,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0048",
+      "media": "財報狗",
+      "title": "美光逾 8 成台灣員工醞釀罷工 增添記憶體供應鏈變數",
+      "url": "https://statementdog.com/news/17567",
+      "published_date": "2026-09-03",
+      "published_at": null,
+      "listed_at": "2026-09-02T17:20:00+08:00",
+      "last_checked_at": "2026-09-03T05:00:29+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0063",
       "media": "TechTimes",
@@ -504,24 +522,6 @@
       ],
       "status": "syndicated",
       "source_type": "aggregation",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0048",
-      "media": "財報狗",
-      "title": "美光逾 8 成台灣員工醞釀罷工 增添記憶體供應鏈變數",
-      "url": "https://statementdog.com/news/17567",
-      "published_date": "2026-09-02",
-      "published_at": null,
-      "listed_at": "2026-09-02T17:20:00+08:00",
-      "last_checked_at": "2026-09-02T17:20:00+08:00",
-      "language": "TW",
-      "topics": [
-        "罷工",
-        "記憶體／HBM"
-      ],
-      "status": "reported",
-      "source_type": "media",
       "duplicate_of": null
     },
     {
