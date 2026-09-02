@@ -17,7 +17,7 @@
     .lede { max-width:760px; color:#cbd5e1; margin:0; }
     main { padding:26px 0 60px; }
     .notice { background:var(--blue-soft); border:1px solid #d8e2ff; border-radius:14px; padding:14px 16px; margin-bottom:20px; color:#254194; }
-    .stats { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-bottom:20px; }
+    .stats { display:grid; grid-template-columns:repeat(5,1fr); gap:14px; margin-bottom:20px; }
     .stat,.panel { background:var(--card); border:1px solid var(--line); border-radius:14px; box-shadow:0 5px 18px #25304b08; }
     .stat { padding:16px; }
     .stat small { display:block; color:var(--muted); }
@@ -55,6 +55,7 @@
     <div class="stat"><small>涵蓋日期</small><strong id="days">—</strong></div>
     <div class="stat"><small>媒體來源</small><strong id="media">—</strong></div>
     <div class="stat"><small>同稿轉載紀錄</small><strong id="syndicated">—</strong></div>
+    <div class="stat"><small>最新加入列表</small><strong id="latest">—</strong></div>
   </section>
   <div class="controls">
     <input id="search" type="search" placeholder="搜尋標題、媒體或主題……" aria-label="搜尋新聞">
@@ -71,7 +72,7 @@
     <div class="panel"><h2>主題分布</h2><div class="chart-box"><canvas id="topicChart"></canvas></div></div>
   </section>
   <section class="panel"><h2>公開新聞清單 <span id="resultCount" style="color:var(--muted);font-size:13px;font-weight:400"></span></h2>
-    <div class="table-wrap"><table><thead><tr><th>日期</th><th>媒體</th><th>標題</th><th>語言</th><th>主題</th><th>狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
+    <div class="table-wrap"><table><thead><tr><th>發布時間</th><th>加入列表</th><th>最後確認</th><th>媒體</th><th>標題</th><th>語言</th><th>主題</th><th>狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
     <div class="empty" id="empty" hidden>沒有符合條件的新聞。</div>
   </section>
   <footer>資料來源為公開新聞頁面；本頁不包含工會內部資料、會員資訊、郵件紀錄或自動化 secrets。最後更新：<span id="generated">—</span></footer>
@@ -94,9 +95,11 @@ function renderCharts(items) {
    ['topicChart',{type:'bar',data:{labels:values(topic).map(x=>x[0]),datasets:[{label:'篇數',data:values(topic).map(x=>x[1]),backgroundColor:'#16a085'}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}}]
   ].forEach(([id,cfg])=>{destroy(id); charts[id]=new Chart($(id),cfg);});
 }
+function fmt(v) { if (!v) return '待確認'; const d=new Date(v); if (Number.isNaN(d.getTime())) return v; return new Intl.DateTimeFormat('zh-TW',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Taipei'}).format(d); }
+function publishedLabel(x) { return x.published_at ? fmt(x.published_at) : (x.published_date || '日期待確認'); }
 function filtered() { const q=$('search').value.trim().toLowerCase(), d=$('dateFilter').value, l=$('languageFilter').value, s=$('statusFilter').value; return all.filter(x=>(!d||x.published_date===d)&&(!l||x.language===l)&&(!s||x.status===s)&&(!q||[x.title,x.media,x.language,x.status,...(x.topics||[])].join(' ').toLowerCase().includes(q))); }
-function render() { const items=filtered(); $('resultCount').textContent=`（${items.length} 筆）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; items.forEach(x=>{const tr=document.createElement('tr'); const cells=[x.published_date||'日期待確認',x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td');if(i===2){const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)});renderCharts(items);}
-async function init(){ try {const r=await fetch('data/news.json'); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const dates=[...new Set(all.map(x=>x.published_date).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(x,x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='同稿轉載').length; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：同稿轉載會標記，但不計入獨立事件判讀。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
+function render() { const items=filtered(); $('resultCount').textContent=`（${items.length} 筆，依加入列表時間排序）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; items.forEach(x=>{const tr=document.createElement('tr'); const cells=[publishedLabel(x),fmt(x.listed_at),fmt(x.last_checked_at),x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td');if(i===4){const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)});renderCharts(items);}
+async function init(){ try {const r=await fetch('data/news.json'); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const dates=[...new Set(all.map(x=>x.published_date).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(x,x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='同稿轉載').length; const latest=all.map(x=>x.listed_at).filter(Boolean).sort().pop(); $('latest').textContent=latest?fmt(latest):'—'; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：列表依加入追蹤時間由新到舊排列；發布時間與加入時間分開顯示。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
 ['search','dateFilter','languageFilter','statusFilter'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render)); init();
 </script>
 </body></html>
