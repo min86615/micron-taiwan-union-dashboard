@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T05:05:01.883076+08:00",
+    "generated_at": "2026-09-03T06:42:05.799397+08:00",
     "record_count": 92,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -1469,6 +1469,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0092",
+      "media": "PCMasterInsider",
+      "title": "Micron Taiwan Union Prepares Potential Strike Over AI Profit-Sharing Bonuses",
+      "url": "https://pcmasterinsider.com/micron-taiwan-union-strike-bonus-pay",
+      "published_date": "2026-08-30",
+      "published_at": "2026-08-30T06:16:27+06:00",
+      "listed_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T06:41:44+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "unverified_commentary",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0031",
       "media": "騰訊新聞（TechWeb）",
       "title": "獎金「不及三星零頭」，美光員工醞釀罷工",
@@ -1668,25 +1687,6 @@
       ],
       "status": "reported",
       "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0092",
-      "media": "PCMasterInsider",
-      "title": "Micron Taiwan Union Prepares Potential Strike Over AI Profit-Sharing Bonuses",
-      "url": "https://pcmasterinsider.com/micron-taiwan-union-strike-bonus-pay",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-03T03:03:20+08:00",
-      "language": "EN",
-      "topics": [
-        "工會／勞資",
-        "獎金／分紅",
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "unverified_commentary",
       "duplicate_of": null
     }
   ]
