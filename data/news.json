@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-02T21:57:55.010525+08:00",
-    "record_count": 61,
+    "generated_at": "2026-09-02T21:58:52.722148+08:00",
+    "record_count": 62,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -367,6 +367,25 @@
       "status": "已報導",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0062",
+      "media": "Reuters Japan",
+      "title": "マイクロン台湾労組がスト示唆、賞与制度見直し要求",
+      "url": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T19:49:00+09:00",
+      "listed_at": "2026-09-02T21:58:33.826230+08:00",
+      "last_checked_at": "2026-09-02T21:58:33.826251+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "同稿轉載",
+      "source_type": "translation_or_syndication",
+      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0003",
