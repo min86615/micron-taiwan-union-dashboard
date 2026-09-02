@@ -25,6 +25,11 @@
     .controls { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:20px; }
     select,input { border:1px solid #d8dde8; border-radius:9px; padding:10px 12px; background:#fff; color:var(--ink); min-height:42px; }
     input { min-width:260px; flex:1; }
+    .pagination { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; padding-top:16px; }
+    .pagination button { border:1px solid #d8dde8; border-radius:8px; background:#fff; color:var(--ink); min-height:40px; min-width:42px; padding:8px 12px; cursor:pointer; }
+    .pagination button:hover:not(:disabled) { border-color:var(--blue); color:var(--blue); }
+    .pagination button:disabled { cursor:not-allowed; opacity:.45; }
+    .page-info { color:var(--muted); font-size:13px; }
     .charts { display:grid; grid-template-columns:2fr 1fr; gap:16px; margin-bottom:20px; }
     .panel { padding:18px; }
     .panel h2 { margin:0 0 14px; font-size:17px; }
@@ -62,6 +67,8 @@
     <select id="dateFilter" aria-label="依日期篩選"><option value="">全部日期</option></select>
     <select id="languageFilter" aria-label="依語言篩選"><option value="">全部語言</option></select>
     <select id="statusFilter" aria-label="依狀態篩選"><option value="">全部狀態</option></select>
+    <select id="sortFilter" aria-label="排序方式"><option value="published_desc">發布時間：新到舊</option><option value="published_asc">發布時間：舊到新</option><option value="listed_desc">加入列表：新到舊</option><option value="listed_asc">加入列表：舊到新</option><option value="media_asc">媒體名稱：A–Z</option><option value="media_desc">媒體名稱：Z–A</option></select>
+    <select id="pageSize" aria-label="每頁筆數"><option value="10">每頁 10 筆</option><option value="20" selected>每頁 20 筆</option><option value="50">每頁 50 筆</option><option value="100">每頁 100 筆</option></select>
   </div>
   <section class="charts">
     <div class="panel"><h2>每日報導數量</h2><div class="chart-box"><canvas id="dailyChart"></canvas></div></div>
@@ -73,12 +80,13 @@
   </section>
   <section class="panel"><h2>公開新聞清單 <span id="resultCount" style="color:var(--muted);font-size:13px;font-weight:400"></span></h2>
     <div class="table-wrap"><table><thead><tr><th>發布時間</th><th>加入列表</th><th>最後確認</th><th>媒體</th><th>標題</th><th>語言</th><th>主題</th><th>狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
+    <div class="pagination"><button id="prevPage" type="button">上一頁</button><span class="page-info" id="pageInfo">—</span><button id="nextPage" type="button">下一頁</button></div>
     <div class="empty" id="empty" hidden>沒有符合條件的新聞。</div>
   </section>
   <footer>資料來源為公開新聞頁面；本頁不包含工會內部資料、會員資訊、郵件紀錄或自動化 secrets。最後更新：<span id="generated">—</span></footer>
 </main>
 <script>
-let all = [], charts = {};
+let all = [], charts = {}, currentPage = 1;
 const $ = id => document.getElementById(id);
 const colors = ['#2855d9','#e78435','#16a085','#8e5bd9','#d34c65','#1596b5','#73808f','#d1a21c'];
 function countBy(items, keyFn) { return items.reduce((m,x)=>{const k=keyFn(x)||'未標示';m[k]=(m[k]||0)+1;return m;},{}); }
@@ -98,8 +106,9 @@ function renderCharts(items) {
 function fmt(v) { if (!v) return '待確認'; const d=new Date(v); if (Number.isNaN(d.getTime())) return v; return new Intl.DateTimeFormat('zh-TW',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Taipei'}).format(d); }
 function publishedLabel(x) { return x.published_at ? fmt(x.published_at) : (x.published_date || '日期待確認'); }
 function filtered() { const q=$('search').value.trim().toLowerCase(), d=$('dateFilter').value, l=$('languageFilter').value, s=$('statusFilter').value; return all.filter(x=>(!d||x.published_date===d)&&(!l||x.language===l)&&(!s||x.status===s)&&(!q||[x.title,x.media,x.language,x.status,...(x.topics||[])].join(' ').toLowerCase().includes(q))); }
-function render() { const items=filtered(); $('resultCount').textContent=`（${items.length} 筆，依加入列表時間排序）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; items.forEach(x=>{const tr=document.createElement('tr'); const cells=[publishedLabel(x),fmt(x.listed_at),fmt(x.last_checked_at),x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td');if(i===4){const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)});renderCharts(items);}
-async function init(){ try {const r=await fetch('data/news.json'); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const dates=[...new Set(all.map(x=>x.published_date).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(x,x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='同稿轉載').length; const latest=all.map(x=>x.listed_at).filter(Boolean).sort().pop(); $('latest').textContent=latest?fmt(latest):'—'; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：列表依加入追蹤時間由新到舊排列；發布時間與加入時間分開顯示。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
-['search','dateFilter','languageFilter','statusFilter'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render)); init();
+function sortItems(items) { const mode=$('sortFilter').value; const val=(x,key)=>x[key]||'0000-00-00'; return [...items].sort((a,b)=>{ if(mode==='media_asc'||mode==='media_desc'){const c=(a.media||'').localeCompare(b.media||'','zh-Hant');return mode==='media_asc'?c:-c;} const key=mode.startsWith('listed')?'listed_at':(mode.startsWith('published')?'published_at':'published_at'); const av=val(a,key)==='0000-00-00'?val(a,'published_date'):val(a,key); const bv=val(b,key)==='0000-00-00'?val(b,'published_date'):val(b,key); const c=av.localeCompare(bv); return mode.endsWith('_asc')?c:-c; }); }
+function render() { const items=sortItems(filtered()); const pageSize=Number($('pageSize').value), totalPages=Math.max(1,Math.ceil(items.length/pageSize)); if(currentPage>totalPages) currentPage=totalPages; const start=(currentPage-1)*pageSize, pageItems=items.slice(start,start+pageSize); $('resultCount').textContent=`（${items.length} 筆）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; pageItems.forEach(x=>{const tr=document.createElement('tr'); const cells=[publishedLabel(x),fmt(x.listed_at),fmt(x.last_checked_at),x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td');if(i===4){const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)}); const shownStart=items.length?start+1:0, shownEnd=Math.min(start+pageSize,items.length); $('pageInfo').textContent=`第 ${currentPage} / ${totalPages} 頁｜顯示 ${shownStart}–${shownEnd} 筆`; $('prevPage').disabled=currentPage<=1; $('nextPage').disabled=currentPage>=totalPages; renderCharts(items);}
+async function init(){ try {const r=await fetch('data/news.json'); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const dates=[...new Set(all.map(x=>x.published_date).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(x,x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='同稿轉載').length; const latest=all.map(x=>x.listed_at).filter(Boolean).sort().pop(); $('latest').textContent=latest?fmt(latest):'—'; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：列表依新聞發布時間由新到舊排列；加入追蹤時間與最後確認時間分開顯示。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
+['search','dateFilter','languageFilter','statusFilter','sortFilter','pageSize'].forEach(id=>$(id).addEventListener(id==='search'?'input': 'change',()=>{currentPage=1;render();})); $('prevPage').addEventListener('click',()=>{if(currentPage>1){currentPage--;render();}}); $('nextPage').addEventListener('click',()=>{const totalPages=Math.max(1,Math.ceil(filtered().length/Number($('pageSize').value)));if(currentPage<totalPages){currentPage++;render();}}); init();
 </script>
 </body></html>
