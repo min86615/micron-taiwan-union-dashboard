@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-02T22:15:35.337367+08:00",
-    "record_count": 62,
+    "generated_at": "2026-09-02T23:09:48.537893+08:00",
+    "record_count": 75,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0063",
+      "media": "TechTimes",
+      "title": "Micron Taiwan Strike Risk: HBM Workers Claim Share of AI Memory Supercycle",
+      "url": "https://www.techtimes.com/articles/326311/20260902/micron-taiwan-strike-risk-hbm-workers-claim-share-ai-memory-supercycle.htm",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T22:38:08+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "dashboard_new",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
     {
       "id": "news-0060",
       "media": "Yahoo Finance／Stocktwits",
@@ -49,7 +67,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T17:19:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-02T21:00:19+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅",
@@ -58,6 +76,23 @@
       "status": "已納入追蹤／曾列入報告",
       "source_type": "original_source",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0071",
+      "media": "搜狐網／滾動播報",
+      "title": "继三星、SK海力士和台积电之后 美光科技也出现劳资纠纷",
+      "url": "https://www.cls.cn/detail/2471571",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T16:38:04+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "aggregation",
+      "duplicate_of": "https://www.cls.cn/detail/2471571"
     },
     {
       "id": "news-0053",
@@ -129,6 +164,42 @@
       ],
       "status": "同稿轉載／不另重複",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0065",
+      "media": "LINE TODAY／鉅亨網",
+      "title": "台灣美光工會醞釀罷工 對公司股價有何影響？",
+      "url": "https://news.cnyes.com/news/id/6594640",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T15:00:06+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "syndicated",
+      "duplicate_of": "https://news.cnyes.com/news/id/6594640"
+    },
+    {
+      "id": "news-0064",
+      "media": "鉅亨網",
+      "title": "台灣美光工會醞釀罷工 對公司股價有何影響？",
+      "url": "https://news.cnyes.com/news/id/6594640",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T15:00:05+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "dashboard_new",
+      "source_type": "original_source",
       "duplicate_of": null
     },
     {
@@ -223,6 +294,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0070",
+      "media": "電子工程專輯／芯智訊",
+      "title": "工会酝酿罢工！台湾美光回应：将发放史上最高绩效奖金！",
+      "url": "https://www.sohu.com/a/1070973818_128469",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T09:25:00+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
+    },
+    {
       "id": "news-0057",
       "media": "The Herald Business",
       "title": "Micron's Taiwan unions threaten strike, demand 15% of operating profit as bonus",
@@ -240,6 +328,94 @@
       "status": "報告時段外發現／不寄送",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0073",
+      "media": "NewsX／Reuters",
+      "title": "Micron's Taiwan unions threaten strike over bonus dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T04:16:06+05:30",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0068",
+      "media": "Yahoo Finance／GuruFocus",
+      "title": "Micron Faces New Taiwan Risk as AI Demand Soars",
+      "url": "https://www.gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T03:02:07+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars"
+    },
+    {
+      "id": "news-0067",
+      "media": "GuruFocus",
+      "title": "Micron Faces New Taiwan Risk as AI Demand Soars",
+      "url": "https://www.gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T02:02:07+08:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "報告時段外發現／不寄送",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0072",
+      "media": "觀點網",
+      "title": "美光中国台湾地区工会威胁罢工 公司发放历年最高绩效奖金",
+      "url": "https://www.guandian.cn/article/20260902/596251.html",
+      "published_date": "2026-09-02",
+      "published_at": null,
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "ambiguous_time",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0075",
+      "media": "Intellectia.AI／Stocktwits",
+      "title": "Micron's Taiwan Unit Prepares Record Bonuses to Avert Strike",
+      "url": "https://stocktwits.com/news-articles/markets/equity/micron-taiwan-unit-reportedly-plans-record-bonuses-to-avert-strike-mu-stock-dips-for-second-day/cZsAZk2RJum",
+      "published_date": "2026-09-02",
+      "published_at": null,
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "syndicated",
+      "duplicate_of": "https://stocktwits.com/news-articles/markets/equity/micron-taiwan-unit-reportedly-plans-record-bonuses-to-avert-strike-mu-stock-dips-for-second-day/cZsAZk2RJum"
     },
     {
       "id": "news-0050",
@@ -331,6 +507,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0074",
+      "media": "Economic Times／Reuters",
+      "title": "Micron's Taiwan unions threaten strike over bonus dispute",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-01T21:48:00+05:30",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "同稿轉載／不另重複",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
       "id": "news-0005",
       "media": "風傳媒",
       "title": "台灣美光爆罷工危機？逾萬名員工提勞資調解　專家曝最糟結果：全球2大供應鏈瑟瑟發抖",
@@ -357,7 +552,7 @@
       "published_date": "2026-09-01",
       "published_at": "2026-09-01T20:30:04+08:00",
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -376,7 +571,7 @@
       "published_date": "2026-09-01",
       "published_at": "2026-09-01T19:49:00+09:00",
       "listed_at": "2026-09-02T21:58:33.826230+08:00",
-      "last_checked_at": "2026-09-02T21:58:33.826251+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
@@ -421,6 +616,42 @@
       ],
       "status": "已納入追蹤／曾列入報告",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0066",
+      "media": "Barron's",
+      "title": "Micron’s Workers Are Threatening to Strike. What It Means for the Stock.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-worker-strike-c8a21d87",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T12:22:00-04:00",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "報告時段外發現／不寄送",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0069",
+      "media": "BigGo Finance",
+      "title": "Micron's Taiwan Union Threatens Strike, Demands Profit Sharing on Par with Korean Peers",
+      "url": "https://finance.biggo.com/news/9a216d68-f24c-47df-8e1d-33753852d7b9",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T12:05:28.000Z",
+      "listed_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "報告時段外發現／不寄送",
+      "source_type": "original_source",
       "duplicate_of": null
     },
     {
@@ -674,7 +905,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-02T23:00:20+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
