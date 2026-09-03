@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T17:28:10.653033+08:00",
+    "generated_at": "2026-09-03T17:33:32.891498+08:00",
     "record_count": 106,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -944,6 +944,40 @@
         "罷工"
       ],
       "status": "out_of_window",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0105",
+      "media": "Yahoo Finance／Benzinga",
+      "title": "Micron’s Largest Production Base Faces Strike Over 83 Months’ Pay",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay"
+    },
+    {
+      "id": "news-0104",
+      "media": "Benzinga",
+      "title": "Micron Taiwan Strike: 83 Months Pay",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -1907,40 +1941,6 @@
       "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
-    },
-    {
-      "id": "news-0105",
-      "media": "Yahoo Finance／Benzinga",
-      "title": "Micron’s Largest Production Base Faces Strike Over 83 Months’ Pay",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-09-03T17:22:09+08:00",
-      "last_checked_at": "2026-09-03T17:22:09+08:00",
-      "language": "EN",
-      "topics": [
-        "罷工"
-      ],
-      "status": "syndicated",
-      "source_type": "syndicated",
-      "duplicate_of": "https://benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay"
-    },
-    {
-      "id": "news-0104",
-      "media": "Benzinga",
-      "title": "Micron Taiwan Strike: 83 Months Pay",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-09-03T17:22:09+08:00",
-      "last_checked_at": "2026-09-03T17:22:09+08:00",
-      "language": "EN",
-      "topics": [
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "original_source",
-      "duplicate_of": null
     }
   ]
 }
