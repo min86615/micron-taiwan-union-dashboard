@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T12:45:26.758503+08:00",
-    "record_count": 94,
+    "generated_at": "2026-09-03T13:05:13.822565+08:00",
+    "record_count": 96,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0096",
+      "media": "Yahoo Finance／The Motley Fool",
+      "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
+      "url": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T09:13:01+08:00",
+      "listed_at": "2026-09-03T13:03:49+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/"
+    },
+    {
+      "id": "news-0095",
+      "media": "The Motley Fool",
+      "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
+      "url": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T08:53:01+08:00",
+      "listed_at": "2026-09-03T13:03:49+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
     {
       "id": "news-0048",
       "media": "財報狗",
@@ -31,7 +69,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T22:38:08+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-03T09:04:27+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "EN",
       "topics": [
         "罷工",
@@ -247,7 +285,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T14:34:45+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-03T09:04:27+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -338,7 +376,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T10:03:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-03T09:04:27+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -661,7 +699,7 @@
       "published_date": "2026-09-01",
       "published_at": "2026-09-01T20:30:04+08:00",
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1222,7 +1260,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-03T09:04:27+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1294,7 +1332,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1678,7 +1716,7 @@
       "published_date": "2026-08-28",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T16:41:23+08:00",
+      "last_checked_at": "2026-09-03T13:03:49+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
