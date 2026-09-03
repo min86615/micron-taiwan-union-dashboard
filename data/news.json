@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T21:06:59.008396+08:00",
-    "record_count": 109,
+    "generated_at": "2026-09-03T23:45:51.924530+08:00",
+    "record_count": 111,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -871,6 +871,25 @@
       "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
+      "id": "news-0110",
+      "media": "中天新聞網 CTiNews",
+      "title": "美光台灣工會爭取分紅改革！調查顯示超8成會員支持發動罷工",
+      "url": "https://ctinews.com/news/items/v7x33ZPbxj",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T21:31:39+08:00",
+      "listed_at": "2026-09-03T23:30:00+08:00",
+      "last_checked_at": "2026-09-03T23:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0005",
       "media": "風傳媒",
       "title": "台灣美光爆罷工危機？逾萬名員工提勞資調解　專家曝最糟結果：全球2大供應鏈瑟瑟發抖",
@@ -944,6 +963,25 @@
       ],
       "status": "syndicated",
       "source_type": "translation_or_syndication",
+      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
+      "id": "news-0111",
+      "media": "MeZha（日本版）",
+      "title": "台湾のMicron労組がストライキを警告、賞与制度と利益配分の見直しを要求",
+      "url": "https://mezha.net/jp/bukvy/2ce01640_micron_workers_in/",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T18:38:47+08:00",
+      "listed_at": "2026-09-03T23:30:00+08:00",
+      "last_checked_at": "2026-09-03T23:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
       "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
