@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T17:07:34.640623+08:00",
-    "record_count": 101,
+    "generated_at": "2026-09-03T17:22:13.699129+08:00",
+    "record_count": 106,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -49,7 +49,7 @@
       "published_date": "2026-09-03",
       "published_at": "2026-09-03T15:24:00+08:00",
       "listed_at": "2026-09-03T17:00:51+08:00",
-      "last_checked_at": "2026-09-03T17:00:51+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -67,11 +67,31 @@
       "published_date": "2026-09-03",
       "published_at": "2026-09-03T13:35:00+08:00",
       "listed_at": "2026-09-03T17:00:51+08:00",
-      "last_checked_at": "2026-09-03T17:00:51+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "報告時段外",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0106",
+      "media": "財経新聞",
+      "title": "マイクロン台湾労組が利益連動賞与を要求、ストライキの可能性も―HBM供給への影響焦点",
+      "url": "https://zaikei.co.jp/article/20260903/868491.html",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T11:35:45+09:00",
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
+        "記憶體／HBM"
       ],
       "status": "報告時段外",
       "source_type": "original_source",
@@ -104,7 +124,7 @@
       "published_date": "2026-09-03",
       "published_at": "2026-09-03T08:53:01+08:00",
       "listed_at": "2026-09-03T13:03:49+08:00",
-      "last_checked_at": "2026-09-03T15:04:33+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -141,7 +161,7 @@
       "published_date": "2026-09-03",
       "published_at": null,
       "listed_at": "2026-09-02T17:20:00+08:00",
-      "last_checked_at": "2026-09-03T05:00:29+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -159,7 +179,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T22:38:08+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-03T13:03:49+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "EN",
       "topics": [
         "罷工",
@@ -297,6 +317,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0102",
+      "media": "GuruFocus",
+      "title": "Micron Rises as Taiwan Workers Demand 15% Profit Pool",
+      "url": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T15:45:55.000Z",
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "報告時段外",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0051",
       "media": "搜狐網／芯智訊",
       "title": "工会酝酿罢工！台湾美光回应：将发放史上最高绩效奖金！",
@@ -357,7 +394,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T15:00:05+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -375,7 +412,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T14:34:45+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-03T15:04:33+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -611,7 +648,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T02:02:07+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-02T23:00:20+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -1350,7 +1387,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-03T15:04:33+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1852,6 +1889,57 @@
       ],
       "status": "已報導",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0103",
+      "media": "Yahoo Finance／GuruFocus",
+      "title": "Micron Rises as Taiwan Workers Demand 15% Profit Pool",
+      "url": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "同稿轉載",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
+    },
+    {
+      "id": "news-0105",
+      "media": "Yahoo Finance／Benzinga",
+      "title": "Micron’s Largest Production Base Faces Strike Over 83 Months’ Pay",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "同稿轉載",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay"
+    },
+    {
+      "id": "news-0104",
+      "media": "Benzinga",
+      "title": "Micron Taiwan Strike: 83 Months Pay",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "已報導",
+      "source_type": "original_source",
       "duplicate_of": null
     }
   ]
