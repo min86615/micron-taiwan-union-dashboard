@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T06:42:05.799397+08:00",
-    "record_count": 92,
+    "generated_at": "2026-09-03T09:04:34.552034+08:00",
+    "record_count": 93,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -31,7 +31,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T22:38:08+08:00",
       "listed_at": "2026-09-02T23:00:20+08:00",
-      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
       "language": "EN",
       "topics": [
         "罷工",
@@ -247,7 +247,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T14:34:45+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-03T01:08:36+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -284,7 +284,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T11:11:00+08:00",
       "listed_at": "2026-09-02T16:52:46+08:00",
-      "last_checked_at": "2026-09-02T16:52:46+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -292,6 +292,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0093",
+      "media": "鏈新聞 ABMedia",
+      "title": "美光祭史上最高績效獎金防工會罷工！CEO 影片現身 SEMICON 挺台灣",
+      "url": "https://abmedia.io/micron-will-issue-record-high-performance-bonuses",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T10:51:42+08:00",
+      "listed_at": "2026-09-03T09:04:27+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "out_of_window",
+      "source_type": "original_source",
       "duplicate_of": null
     },
     {
@@ -319,7 +338,7 @@
       "published_date": "2026-09-02",
       "published_at": "2026-09-02T10:03:00+08:00",
       "listed_at": "2026-09-02T21:00:19+08:00",
-      "last_checked_at": "2026-09-02T21:00:19+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1185,7 +1204,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-03T03:03:20+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1476,7 +1495,7 @@
       "published_date": "2026-08-30",
       "published_at": "2026-08-30T06:16:27+06:00",
       "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-03T06:41:44+08:00",
+      "last_checked_at": "2026-09-03T09:04:27+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
