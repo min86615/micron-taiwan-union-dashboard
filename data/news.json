@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T17:55:45.982470+08:00",
-    "record_count": 106,
+    "generated_at": "2026-09-03T19:06:06.032281+08:00",
+    "record_count": 109,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0109",
+      "media": "放言 Fount Media",
+      "title": "美光台灣近萬名工會會員醞釀罷工！逾8成支持採取行動 勞動部：已全面掌握、必要時協助勞資調解",
+      "url": "https://www.fountmedia.io/article/420689",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T17:26:00+08:00",
+      "listed_at": "2026-09-03T19:05:37+08:00",
+      "last_checked_at": "2026-09-03T19:05:37+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0100",
       "media": "Yahoo新聞／三立新聞網",
@@ -78,6 +97,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0107",
+      "media": "苦勞網",
+      "title": "美光釀罷工：公司大賺叫 AI 紅利，工人要分卻叫供應鏈風險？",
+      "url": "https://www.coolloud.org.tw/node/99519",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T13:02:18+08:00",
+      "listed_at": "2026-09-03T19:05:37+08:00",
+      "last_checked_at": "2026-09-03T19:05:37+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0106",
       "media": "財経新聞",
       "title": "マイクロン台湾労組が利益連動賞与を要求、ストライキの可能性も―HBM供給への影響焦点",
@@ -133,6 +169,24 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0108",
+      "media": "Silicon Analysts",
+      "title": "When Workers Strike Back: Micron Taiwan, Fab Wage Pressure, and the Political Economy of Semiconductor Labor",
+      "url": "https://siliconanalysts.com/analysis/semiconductor-labor-tariff-policy-2026",
+      "published_date": "2026-09-03",
+      "published_at": null,
+      "listed_at": "2026-09-03T19:05:37+08:00",
+      "last_checked_at": "2026-09-03T19:05:37+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
