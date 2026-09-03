@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T17:50:51.479519+08:00",
+    "generated_at": "2026-09-03T17:55:45.982470+08:00",
     "record_count": 106,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -315,6 +315,23 @@
       "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0103",
+      "media": "Yahoo Finance／GuruFocus",
+      "title": "Micron Rises as Taiwan Workers Demand 15% Profit Pool",
+      "url": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T15:45:55.000Z",
+      "listed_at": "2026-09-03T17:22:09+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
     },
     {
       "id": "news-0102",
@@ -1924,23 +1941,6 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
-    },
-    {
-      "id": "news-0103",
-      "media": "Yahoo Finance／GuruFocus",
-      "title": "Micron Rises as Taiwan Workers Demand 15% Profit Pool",
-      "url": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-09-03T17:22:09+08:00",
-      "last_checked_at": "2026-09-03T17:22:09+08:00",
-      "language": "EN",
-      "topics": [
-        "美光產業"
-      ],
-      "status": "syndicated",
-      "source_type": "syndicated",
-      "duplicate_of": "https://gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
     }
   ]
 }
