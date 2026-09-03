@@ -129,7 +129,7 @@ function countBy(items, keyFn) { return items.reduce((m,x)=>{const k=keyFn(x)||'
 function values(obj) { return Object.entries(obj).sort((a,b)=>b[1]-a[1]); }
 function destroy(name) { if (charts[name]) charts[name].destroy(); }
 function renderCharts(items) {
-  const daily = countBy(items, x=>x.published_date||'日期待確認');
+  const daily = countBy(items, x=>x.published_date||'—');
   const media = countBy(items, x=>x.media);
   const language = countBy(items, x=>x.language);
   const topic = {}; items.forEach(x=>(x.topics||[]).forEach(t=>topic[t]=(topic[t]||0)+1));
@@ -139,8 +139,8 @@ function renderCharts(items) {
    ['topicChart',{type:'bar',data:{labels:values(topic).map(x=>x[0]),datasets:[{label:'篇數',data:values(topic).map(x=>x[1]),backgroundColor:'#16a085'}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}}]
   ].forEach(([id,cfg])=>{destroy(id); charts[id]=new Chart($(id),cfg);});
 }
-function fmt(v) { if (!v) return '待確認'; const d=new Date(v); if (Number.isNaN(d.getTime())) return v; return new Intl.DateTimeFormat('zh-TW',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Taipei'}).format(d); }
-function publishedLabel(x) { return x.published_at ? fmt(x.published_at) : (x.published_date || '日期待確認'); }
+function fmt(v) { if (!v) return '—'; const d=new Date(v); if (Number.isNaN(d.getTime())) return '—'; return new Intl.DateTimeFormat('zh-TW',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Taipei'}).format(d); }
+function publishedLabel(x) { return x.published_at ? fmt(x.published_at) : (x.published_date || '—'); }
 const STATUS_LABELS = {reported:'已報導', syndicated:'同稿轉載', out_of_window:'報告時段外'};
 function statusClass(v) { return v==='syndicated'?'status-syndicated':(v==='out_of_window'?'status-window':'status-reported'); }
 function statusLabel(v) { return STATUS_LABELS[v] || STATUS_LABELS.reported; }
