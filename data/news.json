@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T17:22:13.699129+08:00",
+    "generated_at": "2026-09-03T17:23:40.344459+08:00",
     "record_count": 106,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -19,7 +19,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.setn.com/ampnews/1901005"
     },
@@ -37,7 +37,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.setn.com/ampnews/1901005"
     },
@@ -55,7 +55,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -73,7 +73,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -93,7 +93,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -112,7 +112,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/"
     },
@@ -131,7 +131,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -149,7 +149,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://news.cts.com.tw/cts/money/202609/202609033074607.html"
     },
@@ -167,7 +167,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -185,7 +185,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -203,7 +203,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": null
     },
@@ -221,7 +221,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": null
     },
@@ -239,7 +239,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -256,7 +256,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "aggregation",
       "duplicate_of": "https://www.cls.cn/detail/2471571"
     },
@@ -274,7 +274,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -293,7 +293,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.fountmedia.io/article/420253"
     },
@@ -312,7 +312,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -329,7 +329,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -346,7 +346,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -364,7 +364,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -382,7 +382,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://news.cnyes.com/news/id/6594640"
     },
@@ -400,7 +400,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -419,7 +419,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -437,7 +437,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -455,7 +455,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -474,7 +474,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -491,7 +491,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -510,7 +510,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -527,7 +527,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
     },
@@ -544,7 +544,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
     },
@@ -562,7 +562,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -581,7 +581,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -600,7 +600,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -619,7 +619,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -636,7 +636,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars"
     },
@@ -653,7 +653,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -670,7 +670,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_ai_analysis",
       "duplicate_of": null
     },
@@ -687,7 +687,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -705,7 +705,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://stocktwits.com/news-articles/markets/equity/micron-taiwan-unit-reportedly-plans-record-bonuses-to-avert-strike-mu-stock-dips-for-second-day/cZsAZk2RJum"
     },
@@ -722,7 +722,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "aggregation",
       "duplicate_of": null
     },
@@ -739,7 +739,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -757,7 +757,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -776,7 +776,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -795,7 +795,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -814,7 +814,7 @@
         "罷工",
         "勞資調解"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -833,7 +833,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -852,7 +852,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -871,7 +871,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "translation_or_syndication",
       "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -889,7 +889,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -907,7 +907,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -924,7 +924,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -943,7 +943,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -962,7 +962,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -981,7 +981,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1000,7 +1000,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1018,7 +1018,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "報告時段外",
+      "status": "out_of_window",
       "source_type": "analysis",
       "duplicate_of": null
     },
@@ -1037,7 +1037,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1056,7 +1056,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1075,7 +1075,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1094,7 +1094,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1113,7 +1113,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1132,7 +1132,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
@@ -1151,7 +1151,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1170,7 +1170,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1188,7 +1188,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1207,7 +1207,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1226,7 +1226,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1244,7 +1244,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1263,7 +1263,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1281,7 +1281,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1300,7 +1300,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1319,7 +1319,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1338,7 +1338,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1356,7 +1356,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1375,7 +1375,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1394,7 +1394,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1412,7 +1412,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1430,7 +1430,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1447,7 +1447,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1466,7 +1466,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1485,7 +1485,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1504,7 +1504,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1522,7 +1522,7 @@
         "工會／勞資",
         "獎金／分紅"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1541,7 +1541,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1559,7 +1559,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1577,7 +1577,7 @@
         "工會／勞資",
         "獎金／分紅"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1594,7 +1594,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1612,7 +1612,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1630,7 +1630,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1648,7 +1648,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1666,7 +1666,7 @@
         "工會／勞資",
         "獎金／分紅"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1685,7 +1685,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "unverified_commentary",
       "duplicate_of": null
     },
@@ -1703,7 +1703,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1720,7 +1720,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1738,7 +1738,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "aggregator_translation",
       "duplicate_of": "https://finance.biggo.com.tw/news/293528b8-ee19-4e4f-95bf-68b17470950d"
     },
@@ -1756,7 +1756,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1774,7 +1774,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1793,7 +1793,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1812,7 +1812,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1831,7 +1831,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1849,7 +1849,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1868,7 +1868,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1887,7 +1887,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -1904,7 +1904,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
     },
@@ -1921,7 +1921,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "同稿轉載",
+      "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay"
     },
@@ -1938,7 +1938,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "已報導",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     }
