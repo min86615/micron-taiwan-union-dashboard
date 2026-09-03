@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T09:04:34.552034+08:00",
-    "record_count": 93,
+    "generated_at": "2026-09-03T12:45:26.758503+08:00",
+    "record_count": 94,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -382,6 +382,24 @@
       "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
+    },
+    {
+      "id": "news-0094",
+      "media": "壹蘋新聞網",
+      "title": "美光台南新廠剛落成 「AI賺翻獎金太低」逾萬人挺罷工！公司急發聲",
+      "url": "https://news.nextapple.com/finance/20260902/54D02705D47FBE06E7FDB575E253D562",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T08:59:00+08:00",
+      "listed_at": "2026-09-03T12:44:52+08:00",
+      "last_checked_at": "2026-09-03T12:44:52+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
     },
     {
       "id": "news-0057",
