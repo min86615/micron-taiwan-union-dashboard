@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T21:04:54.392389+08:00",
+    "generated_at": "2026-09-03T21:06:59.008396+08:00",
     "record_count": 109,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -437,7 +437,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://ctee.com.tw/news/20260831700086-439901"
     },
     {
       "id": "news-0065",
