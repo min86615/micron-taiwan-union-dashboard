@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T23:45:51.924530+08:00",
-    "record_count": 111,
+    "generated_at": "2026-09-04T01:06:20.446608+08:00",
+    "record_count": 112,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -77,6 +77,24 @@
       "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0112",
+      "media": "加密城市 CryptoCity／ABMedia",
+      "title": "美光防罷工！緊急祭出史上最高績效獎金，CEO影片現身挺台灣",
+      "url": "https://abmedia.io/micron-will-issue-record-high-performance-bonuses",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T15:15:44+08:00",
+      "listed_at": "2026-09-04T01:04:45+08:00",
+      "last_checked_at": "2026-09-04T01:04:45+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://abmedia.io/micron-will-issue-record-high-performance-bonuses"
     },
     {
       "id": "news-0097",
