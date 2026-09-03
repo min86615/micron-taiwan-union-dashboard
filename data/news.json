@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-03T17:39:25.558650+08:00",
+    "generated_at": "2026-09-03T17:50:51.479519+08:00",
     "record_count": 106,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -73,7 +73,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -93,7 +93,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -329,7 +329,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -437,7 +437,7 @@
         "罷工",
         "記憶體／HBM"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -474,7 +474,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -510,7 +510,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -581,7 +581,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null
     },
@@ -653,7 +653,7 @@
       "topics": [
         "美光產業"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -924,7 +924,7 @@
       "topics": [
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -943,7 +943,7 @@
         "獎金／分紅",
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
     },
@@ -1052,7 +1052,7 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "out_of_window",
+      "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
     },

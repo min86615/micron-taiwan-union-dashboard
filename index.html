@@ -51,7 +51,7 @@
     .status-badge { display:inline-block; border-radius:999px; padding:4px 8px; font-size:11px; line-height:1.35; white-space:normal; }
     .status-reported { background:#e8f5ed; color:#166534; }
     .status-syndicated { background:#fff4df; color:#92400e; }
-    .status-window { background:#eef2f7; color:#526071; }
+
     .status-legend { display:flex; gap:8px; flex-wrap:wrap; margin:-4px 0 14px; color:var(--muted); font-size:12px; }
     .status-legend span { padding:7px 9px; border:1px solid var(--line); border-radius:8px; background:#fafbfd; }
 
@@ -114,7 +114,7 @@
     <div class="panel"><h2>主題分布</h2><div class="chart-box"><canvas id="topicChart"></canvas></div></div>
   </section>
   <section class="panel"><h2>公開新聞清單 <span id="resultCount" style="color:var(--muted);font-size:13px;font-weight:400"></span></h2>
-    <div class="status-legend"><span><b>已報導</b>：已納入公開 Dashboard；後續輪次不再算作新增</span><span><b>同稿轉載</b>：內容與原始來源高度相同；保留媒體紀錄但不另重複計算</span><span><b>報告時段外</b>：24 小時回看找到，但不在該次報告時段；保留紀錄但不列入該次報告</span></div>
+    <div class="status-legend"><span><b>已報導</b>：獨立來源或主紀錄；後續輪次不再算作新增</span><span><b>同稿轉載</b>：內容與原始來源高度相同；保留媒體紀錄但不另重複計算</span></div>
     <div class="table-wrap"><table><colgroup><col class="time-col"><col class="time-col"><col class="time-col"><col class="media-col"><col class="title-col"><col class="lang-col"><col><col class="status-col"></colgroup><thead><tr><th>發布時間</th><th>加入列表</th><th>最後確認</th><th>媒體</th><th>標題</th><th>語言</th><th>主題</th><th>狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
     <div class="pagination"><button id="prevPage" type="button">上一頁</button><span class="page-info" id="pageInfo">—</span><button id="nextPage" type="button">下一頁</button></div>
     <div class="empty" id="empty" hidden>沒有符合條件的新聞。</div>
@@ -141,8 +141,8 @@ function renderCharts(items) {
 }
 function fmt(v) { if (!v) return '—'; const d=new Date(v); if (Number.isNaN(d.getTime())) return '—'; return new Intl.DateTimeFormat('zh-TW',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Taipei'}).format(d); }
 function publishedLabel(x) { return x.published_at ? fmt(x.published_at) : (x.published_date || '—'); }
-const STATUS_LABELS = {reported:'已報導', syndicated:'同稿轉載', out_of_window:'報告時段外'};
-function statusClass(v) { return v==='syndicated'?'status-syndicated':(v==='out_of_window'?'status-window':'status-reported'); }
+const STATUS_LABELS = {reported:'已報導', syndicated:'同稿轉載'};
+function statusClass(v) { return v==='syndicated'?'status-syndicated':'status-reported'; }
 function statusLabel(v) { return STATUS_LABELS[v] || STATUS_LABELS.reported; }
 function statusBadge(v) { return `<span class="status-badge ${statusClass(v)}">${statusLabel(v)}</span>`; }
 function filtered() { const q=$('search').value.trim().toLowerCase(), d=$('dateFilter').value, l=$('languageFilter').value, s=$('statusFilter').value; return all.filter(x=>(!d||x.published_date===d)&&(!l||x.language===l)&&(!s||x.status===s)&&(!q||[x.title,x.media,x.language,x.status,...(x.topics||[])].join(' ').toLowerCase().includes(q))); }
