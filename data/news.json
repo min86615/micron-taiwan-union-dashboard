@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-04T23:04:33.180648+08:00",
-    "record_count": 134,
+    "generated_at": "2026-09-05T01:04:50.616493+08:00",
+    "record_count": 136,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-04T23:00:30+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -50,7 +50,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:36:00+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -68,7 +68,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:30:44+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-04T23:00:30+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -96,6 +96,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0135",
+      "media": "旺得富理財網／中時",
+      "title": "分紅爭議調解未獲共識 台灣美光：數周內公布獎勵",
+      "url": "https://wantrich.chinatimes.com/news/20260904900476-420501",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:21:00+08:00",
+      "listed_at": "2026-09-05T01:04:37+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0126",
       "media": "鏡報 Mirror Daily",
       "title": "美光罷工風波延燒、今首次調解破局 公司強調：持續傾聽 盼回饋團隊貢獻",
@@ -103,7 +121,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:21:00+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -157,7 +175,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:14:35+08:00",
       "listed_at": "2026-09-04T21:03:44+08:00",
-      "last_checked_at": "2026-09-04T21:03:44+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -194,7 +212,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:05:49+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -212,7 +230,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -274,6 +292,23 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0136",
+      "media": "公民行動影音紀錄資料庫／桃園市產業總工會",
+      "title": "【新聞稿】美光工會、乖乖工會勞資爭議進入二調！華通工會、桃勤工會規劃跟進申請勞資爭議",
+      "url": "https://www.civilmedia.tw/archives/140976",
+      "published_date": "2026-09-04",
+      "published_at": null,
+      "listed_at": "2026-09-05T01:04:37+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "press_release",
       "duplicate_of": null
     },
     {
@@ -392,7 +427,7 @@
       "published_date": "2026-09-03",
       "published_at": "2026-09-03T17:26:00+08:00",
       "listed_at": "2026-09-03T19:05:37+08:00",
-      "last_checked_at": "2026-09-03T19:05:37+08:00",
+      "last_checked_at": "2026-09-05T01:04:37+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
