@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-09-05T01:04:50.616493+08:00",
-    "record_count": 136,
+    "generated_at": "2026-09-05T03:03:42.594962+08:00",
+    "record_count": 138,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0138",
+      "media": "聯合新聞網／經濟日報",
+      "title": "美光與工會進行調解…雙方仍無共識 規畫第二次調解",
+      "url": "https://udn.com/news/story/7240/9735437",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T21:35:43+08:00",
+      "listed_at": "2026-09-05T03:02:51+08:00",
+      "last_checked_at": "2026-09-05T03:02:51+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0137",
+      "media": "TechNews 科技新報",
+      "title": "勞資雙方進行首次調解！美光：雖暫無共識但已為後續對話保留空間",
+      "url": "https://finance.technews.tw/2026/09/04/the-labor-and-management-parties-held-their-first-mediation",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T21:15:00+08:00",
+      "listed_at": "2026-09-05T03:02:51+08:00",
+      "last_checked_at": "2026-09-05T03:02:51+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0133",
       "media": "中央社 CNA",
