@@ -1,10 +1,119 @@
 {
   "summary": {
-    "generated_at": "2026-09-04T05:05:11.846684+08:00",
-    "record_count": 113,
+    "generated_at": "2026-09-04T11:07:23.440344+08:00",
+    "record_count": 120,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0115",
+      "media": "民生頭條／中華超傳媒",
+      "title": "美光台灣工會醞釀罷工 83個月獎金訴求引爆勞資協商，桃園台中1.5萬員工成焦點",
+      "url": "https://lifetoutiao.news/353339",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T00:38:37+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0117",
+      "media": "東森財經新聞 FNC",
+      "title": "員工釀罷工喊爭83個月 美光急發最高獎金滅火",
+      "url": "https://news.ebc.net.tw/news/business/569595",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T23:07:00+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.ebc.net.tw/news/business/569595"
+    },
+    {
+      "id": "news-0116",
+      "media": "東森新聞 EBC",
+      "title": "員工釀罷工喊爭83個月 美光急發最高獎金滅火",
+      "url": "https://news.ebc.net.tw/news/business/569595",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T23:07:00+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0118",
+      "media": "Yahoo新聞／東森新聞",
+      "title": "員工釀罷工喊爭83個月 美光急發最高獎金滅火",
+      "url": "https://news.ebc.net.tw/news/business/569595",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T23:07:00+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.ebc.net.tw/news/business/569595"
+    },
+    {
+      "id": "news-0119",
+      "media": "Yahoo新聞／東森新聞",
+      "title": "員工釀罷工喊爭83個月 美光急發最高獎金滅火",
+      "url": "https://news.ebc.net.tw/news/business/569595",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T23:07:00+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.ebc.net.tw/news/business/569595"
+    },
+    {
+      "id": "news-0120",
+      "media": "LINE TODAY／東森新聞",
+      "title": "員工釀罷工喊爭83個月 美光急發最高獎金滅火",
+      "url": "https://news.ebc.net.tw/news/business/569595",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T23:07:00+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.ebc.net.tw/news/business/569595"
+    },
     {
       "id": "news-0109",
       "media": "放言 Fount Media",
@@ -129,6 +238,23 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0114",
+      "media": "鏡新聞 MNews",
+      "title": "台灣美光「罷工風暴」！ 董事長盧東暉「2度迴避媒體」：不便發言",
+      "url": "https://mnews.tw/story/20260903sot1300001",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T13:05:00+08:00",
+      "listed_at": "2026-09-04T11:06:27+08:00",
+      "last_checked_at": "2026-09-04T11:06:27+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "video_media",
       "duplicate_of": null
     },
     {
