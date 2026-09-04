@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-04T21:05:40.746509+08:00",
-    "record_count": 132,
+    "generated_at": "2026-09-04T23:04:33.180648+08:00",
+    "record_count": 134,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0133",
+      "media": "中央社 CNA",
+      "title": "罷工危機記憶體市場關注 美光：將召開第2次調解會議",
+      "url": "https://www.cna.com.tw/news/afe/202609040248.aspx",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:46:00+08:00",
+      "listed_at": "2026-09-04T23:00:30+08:00",
+      "last_checked_at": "2026-09-04T23:00:30+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0129",
       "media": "自由財經",
@@ -36,6 +55,23 @@
       "topics": [
         "工會／勞資",
         "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0134",
+      "media": "中時新聞網／時報資訊",
+      "title": "《科技》美光與工會續談 強調傾聽及獎勵",
+      "url": "https://www.chinatimes.com/realtimenews/20260904003588-260410",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:30:44+08:00",
+      "listed_at": "2026-09-04T23:00:30+08:00",
+      "last_checked_at": "2026-09-04T23:00:30+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
