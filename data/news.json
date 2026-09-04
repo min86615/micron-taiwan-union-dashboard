@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-04T15:05:07.845421+08:00",
+    "generated_at": "2026-09-04T17:04:39.592393+08:00",
     "record_count": 121,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -130,6 +130,24 @@
       "status": "syndicated",
       "source_type": "syndicated_media",
       "duplicate_of": "https://news.ebc.net.tw/news/business/569595"
+    },
+    {
+      "id": "news-0017",
+      "media": "今周刊",
+      "title": "美光台灣罷工一觸即發，8千名員工力爭83個月獎金！公司急滅火：今年將發史上最高績效獎金",
+      "url": "https://news.cnyes.com/news/id/6594361",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T18:00:00+08:00",
+      "listed_at": "2026-09-02T16:41:23+08:00",
+      "last_checked_at": "2026-09-04T17:00:23+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6594361"
     },
     {
       "id": "news-0109",
@@ -991,24 +1009,6 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
-    },
-    {
-      "id": "news-0017",
-      "media": "今周刊",
-      "title": "美光台灣罷工一觸即發，8千名員工力爭83個月獎金！公司急滅火：今年將發史上最高績效獎金",
-      "url": "https://news.cnyes.com/news/id/6594361",
-      "published_date": "2026-09-02",
-      "published_at": null,
-      "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T13:10:00+08:00",
-      "language": "TW",
-      "topics": [
-        "獎金／分紅",
-        "罷工"
-      ],
-      "status": "syndicated",
-      "source_type": "media",
-      "duplicate_of": "https://news.cnyes.com/news/id/6594361"
     },
     {
       "id": "news-0006",
