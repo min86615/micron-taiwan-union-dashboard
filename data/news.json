@@ -1,10 +1,191 @@
 {
   "summary": {
-    "generated_at": "2026-09-04T17:04:39.592393+08:00",
-    "record_count": 121,
+    "generated_at": "2026-09-04T19:08:01.095807+08:00",
+    "record_count": 131,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0129",
+      "media": "自由財經",
+      "title": "美光桃園罷工首度調解無共識 數周內公布更多獎勵細節",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5563365",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:38:45+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0128",
+      "media": "經濟日報",
+      "title": "美光與桃園工會首度調解未達共識 將召開第二次會議續談",
+      "url": "https://money.udn.com/money/story/5612/9735085",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:36:00+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0125",
+      "media": "中時新聞網",
+      "title": "分紅爭議調解未獲共識 台灣美光：數周內公布獎勵",
+      "url": "https://www.chinatimes.com/realtimenews/20260904003373-260410",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:21:29+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0126",
+      "media": "鏡報 Mirror Daily",
+      "title": "美光罷工風波延燒、今首次調解破局 公司強調：持續傾聽 盼回饋團隊貢獻",
+      "url": "https://www.mirrordaily.news/story/83812",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:21:00+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0131",
+      "media": "LINE TODAY/鏡報",
+      "title": "美光罷工風波延燒、今首次調解破局 公司強調：持續傾聽 盼回饋團隊貢獻",
+      "url": "https://www.mirrordaily.news/story/83812",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:21:00+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.mirrordaily.news/story/83812"
+    },
+    {
+      "id": "news-0124",
+      "media": "知新聞 Knews",
+      "title": "台灣美光今與工會調解未達共識 強調未來幾周與員工分享更多獎勵細節",
+      "url": "https://www.knews.com.tw/news/793C4C504069813A6864A759F8161971",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:18:00+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0123",
+      "media": "壹蘋新聞網",
+      "title": "美光台灣罷工危機未解！首場勞資調解無共識 將再開第二次會議",
+      "url": "https://news.nextapple.com/finance/20260904/B3CA250D0BA354DA150AC10F0C815CA8",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:08:00+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0122",
+      "media": "工商時報",
+      "title": "美光與桃園工會進行正式調解會議 雙方未達成共識",
+      "url": "https://www.ctee.com.tw/news/20260904701518-430502",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:05:49+08:00",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0127",
+      "media": "鉅亨網",
+      "title": "美光首輪勞資調解無共識 數周內將公布更多獎勵細節",
+      "url": "https://news.cnyes.com/news/id/6597661",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T09:35:25.000Z",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0130",
+      "media": "LINE TODAY/鉅亨網",
+      "title": "美光首輪勞資調解無共識 數周內將公布更多獎勵細節",
+      "url": "https://news.cnyes.com/news/id/6597661",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T09:35:25.000Z",
+      "listed_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6597661"
+    },
     {
       "id": "news-0121",
       "media": "Simply Wall St News",
