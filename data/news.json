@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-04T11:07:23.440344+08:00",
-    "record_count": 120,
+    "generated_at": "2026-09-04T15:05:07.845421+08:00",
+    "record_count": 121,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0121",
+      "media": "Simply Wall St News",
+      "title": "Micron Technology (MU) Faces Taiwan Strike Threat From Nearly 10,000 Workers",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mu/micron-technology/news/micron-technology-mu-faces-taiwan-strike-threat-from-nearly",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T01:22:01.245+08:00",
+      "listed_at": "2026-09-04T15:03:49+08:00",
+      "last_checked_at": "2026-09-04T15:03:49+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
     {
       "id": "news-0115",
       "media": "民生頭條／中華超傳媒",
