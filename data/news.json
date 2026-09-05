@@ -1,10 +1,178 @@
 {
   "summary": {
-    "generated_at": "2026-09-05T13:07:26.972780+08:00",
-    "record_count": 145,
+    "generated_at": "2026-09-06T01:13:38.930409+08:00",
+    "record_count": 154,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0153",
+      "media": "行銷人／記者爆料網",
+      "title": "記憶體大廠美光釀罷工爭議 勞動部出面回應",
+      "url": "https://new-reporter.com/news/277442",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T23:42:40+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277442"
+    },
+    {
+      "id": "news-0146",
+      "media": "火報 Firenews",
+      "title": "美光爆發績效獎金爭議！工會啟動調解程序 罷工風險恐衝擊全球記憶體供應",
+      "url": "https://firenews.com.tw/2026/09/05/%e7%be%8e%e5%85%89%e7%88%86%e7%99%bc%e7%b8%be%e6%95%88%e7%8d%8e%e9%87%91%e7%88%ad%e8%ad%b0%ef%bc%81%e5%b7%a5%e6%9c%83%e5%95%9f%e5%8b%95%e8%aa%bf%e8%a7%a3%e7%a8%8b%e5%ba%8f-%e7%bd%b7%e5%b7%a5%e9%a2%a8",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T23:40:03+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0147",
+      "media": "記者爆料網／賴傳媒",
+      "title": "美光員工不滿分紅釀罷工 首場調解無共識將約第二次",
+      "url": "https://new-reporter.com/news/277447",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T22:55:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0150",
+      "media": "記者爆料網／賴傳媒",
+      "title": "記憶體大廠美光釀罷工爭議 勞動部出面回應",
+      "url": "https://new-reporter.com/news/277442",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T22:17:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0154",
+      "media": "新頭條 TheHubNews／賴傳媒、記者爆料網",
+      "title": "記憶體大廠美光釀罷工爭議 勞動部出面回應",
+      "url": "https://new-reporter.com/news/277442",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T22:17:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277442"
+    },
+    {
+      "id": "news-0151",
+      "media": "創新聞／賴傳媒、記者爆料網",
+      "title": "記憶體大廠美光釀罷工爭議 勞動部出面回應",
+      "url": "https://new-reporter.com/news/277442",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T22:17:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277442"
+    },
+    {
+      "id": "news-0152",
+      "media": "Life生活網／記者爆料網",
+      "title": "記憶體大廠美光釀罷工爭議 勞動部出面回應",
+      "url": "https://new-reporter.com/news/277442",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T22:17:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277442"
+    },
+    {
+      "id": "news-0148",
+      "media": "記者新聞網／賴傳媒",
+      "title": "美光員工不滿分紅釀罷工 首場調解無共識將約第二次",
+      "url": "https://new-reporter.com/news/277447",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T21:57:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277447"
+    },
+    {
+      "id": "news-0149",
+      "media": "Life生活網／記者爆料網",
+      "title": "美光員工不滿分紅釀罷工 首場調解無共識將約第二次",
+      "url": "https://new-reporter.com/news/277447",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T21:57:00+08:00",
+      "listed_at": "2026-09-06T01:06:15+08:00",
+      "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277447"
+    },
     {
       "id": "news-0139",
       "media": "中國時報",
