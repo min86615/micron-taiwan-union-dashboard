@@ -1,10 +1,67 @@
 {
   "summary": {
-    "generated_at": "2026-09-05T03:03:42.594962+08:00",
-    "record_count": 138,
+    "generated_at": "2026-09-05T09:04:46.766048+08:00",
+    "record_count": 141,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0139",
+      "media": "中國時報",
+      "title": "美光、乖乖調解未果 工會喊罷工",
+      "url": "https://chinatimes.com/newspapers/20260905000444-260106",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T04:10:00+08:00",
+      "listed_at": "2026-09-05T09:03:16+08:00",
+      "last_checked_at": "2026-09-05T09:03:16+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0140",
+      "media": "Yahoo新聞／中國時報",
+      "title": "美光、乖乖調解未果 工會喊罷工",
+      "url": "https://chinatimes.com/newspapers/20260905000444-260106",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T04:10:00+08:00",
+      "listed_at": "2026-09-05T09:03:16+08:00",
+      "last_checked_at": "2026-09-05T09:03:16+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://chinatimes.com/newspapers/20260905000444-260106"
+    },
+    {
+      "id": "news-0141",
+      "media": "S8088／中央社",
+      "title": "罷工危機記憶體市場關注 美光：將召開第2次調解會議",
+      "url": "https://www.cna.com.tw/news/afe/202609040248.aspx",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T02:25:00+08:00",
+      "listed_at": "2026-09-05T09:03:16+08:00",
+      "last_checked_at": "2026-09-05T09:03:16+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202609040248.aspx"
+    },
     {
       "id": "news-0138",
       "media": "聯合新聞網／經濟日報",
