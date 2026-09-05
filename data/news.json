@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-05T09:04:46.766048+08:00",
-    "record_count": 141,
+    "generated_at": "2026-09-05T13:07:26.972780+08:00",
+    "record_count": 145,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -157,7 +157,7 @@
       "id": "news-0134",
       "media": "中時新聞網／時報資訊",
       "title": "《科技》美光與工會續談 強調傾聽及獎勵",
-      "url": "https://www.chinatimes.com/realtimenews/20260904003588-260410",
+      "url": "https://www.ctee.com.tw/news/20260904701734-430503",
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:30:44+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
@@ -166,9 +166,9 @@
       "topics": [
         "工會／勞資"
       ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20260904701734-430503"
     },
     {
       "id": "news-0125",
@@ -192,7 +192,7 @@
       "id": "news-0135",
       "media": "旺得富理財網／中時",
       "title": "分紅爭議調解未獲共識 台灣美光：數周內公布獎勵",
-      "url": "https://wantrich.chinatimes.com/news/20260904900476-420501",
+      "url": "https://www.ctee.com.tw/news/20260904701749-430503",
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:21:00+08:00",
       "listed_at": "2026-09-05T01:04:37+08:00",
@@ -202,9 +202,9 @@
         "獎金／分紅",
         "勞資調解"
       ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20260904701749-430503"
     },
     {
       "id": "news-0126",
@@ -241,6 +241,23 @@
       "status": "syndicated",
       "source_type": "syndicated_media",
       "duplicate_of": "https://www.mirrordaily.news/story/83812"
+    },
+    {
+      "id": "news-0142",
+      "media": "工商時報／時報資訊",
+      "title": "《科技》美光與工會續談 強調傾聽及獎勵",
+      "url": "https://www.ctee.com.tw/news/20260904701734-430503",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:18:00+08:00",
+      "listed_at": "2026-09-05T13:00:43+08:00",
+      "last_checked_at": "2026-09-05T13:00:43+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0124",
@@ -386,6 +403,61 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0144",
+      "media": "經濟日報／中央社",
+      "title": "罷工危機記憶體市場關注 美光：將召開第2次調解會議",
+      "url": "https://www.cna.com.tw/news/afe/202609040248.aspx",
+      "published_date": "2026-09-04",
+      "published_at": null,
+      "listed_at": "2026-09-05T13:00:43+08:00",
+      "last_checked_at": "2026-09-05T13:00:43+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202609040248.aspx"
+    },
+    {
+      "id": "news-0143",
+      "media": "工商時報／時報資訊",
+      "title": "分紅爭議調解未獲共識 台灣美光：數周內公布獎勵",
+      "url": "https://www.ctee.com.tw/news/20260904701749-430503",
+      "published_date": "2026-09-04",
+      "published_at": null,
+      "listed_at": "2026-09-05T13:00:43+08:00",
+      "last_checked_at": "2026-09-05T13:00:43+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0145",
+      "media": "Yahoo股市／鉅亨網",
+      "title": "美光首輪勞資調解無共識 數周內將公布更多獎勵細節",
+      "url": "https://news.cnyes.com/news/id/6597661",
+      "published_date": "2026-09-04",
+      "published_at": null,
+      "listed_at": "2026-09-05T13:00:43+08:00",
+      "last_checked_at": "2026-09-05T13:00:43+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6597661"
     },
     {
       "id": "news-0136",
