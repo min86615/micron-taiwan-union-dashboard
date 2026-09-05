@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-06T01:13:38.930409+08:00",
+    "generated_at": "2026-09-06T01:15:36.519460+08:00",
     "record_count": 154,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -787,7 +787,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://setn.com/ampnews/1901005"
+      "duplicate_of": "https://www.setn.com/ampnews/1901005"
     },
     {
       "id": "news-0099",
@@ -805,7 +805,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://setn.com/ampnews/1901005"
+      "duplicate_of": "https://www.setn.com/ampnews/1901005"
     },
     {
       "id": "news-0098",
@@ -949,7 +949,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month"
+      "duplicate_of": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/"
     },
     {
       "id": "news-0095",
@@ -1148,7 +1148,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://fountmedia.io/article/420253"
+      "duplicate_of": "https://www.fountmedia.io/article/420253"
     },
     {
       "id": "news-0052",
@@ -1184,7 +1184,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
+      "duplicate_of": "https://www.gurufocus.com/news/9064323/micron-rises-as-taiwan-workers-demand-15-profit-pool"
     },
     {
       "id": "news-0102",
@@ -1236,7 +1236,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://ctee.com.tw/news/20260831700086-439901"
+      "duplicate_of": "https://www.ctee.com.tw/news/20260831700086-430501"
     },
     {
       "id": "news-0065",
@@ -1399,7 +1399,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://sohu.com/a/1070973818_128469"
+      "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
     },
     {
       "id": "news-0070",
@@ -1416,7 +1416,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://sohu.com/a/1070973818_128469"
+      "duplicate_of": "https://www.sohu.com/a/1070973818_128469"
     },
     {
       "id": "news-0094",
@@ -1472,7 +1472,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0073",
@@ -1491,7 +1491,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0068",
@@ -1508,7 +1508,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars"
+      "duplicate_of": "https://www.gurufocus.com/news/9061691/micron-faces-new-taiwan-risk-as-ai-demand-soars"
     },
     {
       "id": "news-0067",
@@ -1630,7 +1630,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0074",
@@ -1649,7 +1649,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0110",
@@ -1725,7 +1725,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0062",
@@ -1744,7 +1744,7 @@
       ],
       "status": "syndicated",
       "source_type": "translation_or_syndication",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0111",
@@ -1763,7 +1763,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://mezha.net/jp/bukvy/2ce01640_micron_workers_in/"
     },
     {
       "id": "news-0003",
@@ -1852,7 +1852,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay"
+      "duplicate_of": "https://www.benzinga.com/markets/prediction-markets/26/09/61551297/micron-taiwan-strike-83-months-pay"
     },
     {
       "id": "news-0104",
@@ -1888,7 +1888,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0086",
@@ -1907,7 +1907,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0084",
@@ -1926,7 +1926,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0091",
@@ -1963,7 +1963,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0089",
@@ -1982,7 +1982,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0083",
@@ -2001,7 +2001,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0085",
@@ -2020,7 +2020,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0090",
@@ -2039,7 +2039,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0082",
@@ -2058,7 +2058,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0042",
@@ -2114,7 +2114,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0038",
@@ -2170,7 +2170,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://nownews.com/news/6871259"
+      "duplicate_of": "https://www.nownews.com/news/6871259"
     },
     {
       "id": "news-0009",
@@ -2189,7 +2189,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0019",
@@ -2207,7 +2207,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0011",
@@ -2226,7 +2226,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0014",
@@ -2264,7 +2264,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0010",
@@ -2282,7 +2282,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0044",
@@ -2338,7 +2338,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://nownews.com/news/6871259"
+      "duplicate_of": "https://www.nownews.com/news/6871259"
     },
     {
       "id": "news-0020",
@@ -2356,7 +2356,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://nownews.com/news/6871259"
+      "duplicate_of": "https://www.nownews.com/news/6871259"
     },
     {
       "id": "news-0045",
@@ -2430,7 +2430,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0043",
@@ -2467,7 +2467,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0016",
@@ -2664,7 +2664,7 @@
       ],
       "status": "syndicated",
       "source_type": "aggregator_translation",
-      "duplicate_of": "https://finance.biggo.com.tw/news/293528b8-ee19-4e4f-95bf-68b17470950d"
+      "duplicate_of": "https://finance.biggo.jp/news/293528b8-ee19-4e4f-95bf-68b17470950d"
     },
     {
       "id": "news-0030",
