@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-06T01:17:45.423956+08:00",
-    "record_count": 154,
+    "generated_at": "2026-09-06T15:03:03.734651+08:00",
+    "record_count": 155,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -163,6 +163,25 @@
       "published_at": "2026-09-05T21:57:00+08:00",
       "listed_at": "2026-09-06T01:06:15+08:00",
       "last_checked_at": "2026-09-06T01:06:15+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/277447"
+    },
+    {
+      "id": "news-0155",
+      "media": "樂聯網 Leho／賴傳媒、記者爆料網",
+      "title": "美光員工不滿分紅釀罷工 首場調解無共識將約第二次",
+      "url": "https://new-reporter.com/news/277447",
+      "published_date": "2026-09-05",
+      "published_at": "2026-09-05T13:57:00+08:00",
+      "listed_at": "2026-09-06T15:02:50+08:00",
+      "last_checked_at": "2026-09-06T15:02:50+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
