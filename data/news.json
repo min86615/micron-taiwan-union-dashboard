@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-07T03:04:03.166923+08:00",
+    "generated_at": "2026-09-07T03:05:19.299190+08:00",
     "record_count": 157,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -1292,7 +1292,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://ctee.com.tw/news/20260831700086-439901"
     },
     {
       "id": "news-0065",
@@ -1819,7 +1819,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
     },
     {
       "id": "news-0003",
@@ -2720,7 +2720,7 @@
       ],
       "status": "syndicated",
       "source_type": "aggregator_translation",
-      "duplicate_of": null
+      "duplicate_of": "https://finance.biggo.com.tw/news/293528b8-ee19-4e4f-95bf-68b17470950d"
     },
     {
       "id": "news-0030",
