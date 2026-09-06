@@ -30,7 +30,8 @@
     .pagination button:hover:not(:disabled) { border-color:var(--blue); color:var(--blue); }
     .pagination button:disabled { cursor:not-allowed; opacity:.45; }
     .page-info { color:var(--muted); font-size:13px; }
-    .charts { display:grid; grid-template-columns:2fr 1fr; gap:16px; margin-bottom:20px; }
+    .charts { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; margin-bottom:20px; }
+    .charts-wide { grid-template-columns:1fr; }
     .panel { padding:18px; }
     .panel h2 { margin:0 0 14px; font-size:17px; }
     .chart-box { position:relative; height:280px; }
@@ -105,13 +106,15 @@
     <select id="pageSize" aria-label="每頁筆數"><option value="10">每頁 10 筆</option><option value="20" selected>每頁 20 筆</option><option value="50">每頁 50 筆</option><option value="100">每頁 100 筆</option></select>
 
   </div>
-  <section class="charts">
-    <div class="panel"><h2>每日報導數量</h2><div class="chart-box"><canvas id="dailyChart"></canvas></div></div>
-    <div class="panel"><h2>語言分布</h2><div class="chart-box"><canvas id="languageChart"></canvas></div></div>
+  <section class="charts charts-wide">
+    <div class="panel"><h2 id="dailyTitle">報導趨勢</h2><div class="chart-box"><canvas id="dailyChart"></canvas></div></div>
   </section>
   <section class="charts">
-    <div class="panel"><h2>媒體來源分布</h2><div class="chart-box"><canvas id="mediaChart"></canvas></div></div>
-    <div class="panel"><h2>主題分布</h2><div class="chart-box"><canvas id="topicChart"></canvas></div></div>
+    <div class="panel"><h2>語言分布</h2><div class="chart-box"><canvas id="languageChart"></canvas></div></div>
+    <div class="panel"><h2>媒體來源分布（Top 10）</h2><div class="chart-box"><canvas id="mediaChart"></canvas></div></div>
+  </section>
+  <section class="charts charts-wide">
+    <div class="panel"><h2>主要主題分布（Top 8）</h2><div class="chart-box"><canvas id="topicChart"></canvas></div></div>
   </section>
   <section class="panel"><h2>公開新聞清單 <span id="resultCount" style="color:var(--muted);font-size:13px;font-weight:400"></span></h2>
     <div class="status-legend"><span><b>已報導</b>：獨立來源或主紀錄；後續輪次不再算作新增</span><span><b>同稿轉載</b>：內容與原始來源高度相同；保留媒體紀錄但不另重複計算</span></div>
@@ -126,17 +129,44 @@ let all = [], charts = {}, currentPage = 1;
 const $ = id => document.getElementById(id);
 const colors = ['#2855d9','#e78435','#16a085','#8e5bd9','#d34c65','#1596b5','#73808f','#d1a21c'];
 function countBy(items, keyFn) { return items.reduce((m,x)=>{const k=keyFn(x)||'未標示';m[k]=(m[k]||0)+1;return m;},{}); }
-function values(obj) { return Object.entries(obj).sort((a,b)=>b[1]-a[1]); }
+function values(obj) { return Object.entries(obj).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'zh-Hant')); }
 function destroy(name) { if (charts[name]) charts[name].destroy(); }
+function parseDateOnly(value) { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(value||''); return m?new Date(Date.UTC(Number(m[1]),Number(m[2])-1,Number(m[3]))):null; }
+function isoDate(date) { return date.toISOString().slice(0,10); }
+function temporalSeries(items) {
+  const dates=items.map(x=>parseDateOnly(x.published_date)).filter(Boolean);
+  const span=dates.length?Math.round((Math.max(...dates)-Math.min(...dates))/86400000)+1:0;
+  const mode=span<=31?'day':(span<=180?'week':'month');
+  const counts={};
+  items.forEach(x=>{
+    const date=parseDateOnly(x.published_date);
+    if(!date){counts['—']=(counts['—']||0)+1;return;}
+    let key=isoDate(date);
+    if(mode==='week'){const monday=new Date(date);monday.setUTCDate(monday.getUTCDate()-((monday.getUTCDay()+6)%7));key=isoDate(monday);}
+    if(mode==='month') key=key.slice(0,7);
+    counts[key]=(counts[key]||0)+1;
+  });
+  const labels=Object.keys(counts).filter(x=>x!=='—').sort();
+  if(counts['—']) labels.push('—');
+  return {labels,data:labels.map(x=>counts[x]),granularity:mode==='day'?'每日':(mode==='week'?'每週':'每月')};
+}
+function topWithOther(obj, limit) {
+  const ranked=values(obj);
+  if(ranked.length<=limit) return ranked;
+  const rest=ranked.slice(limit).reduce((sum,x)=>sum+x[1],0);
+  return [...ranked.slice(0,limit),['其他',rest]];
+}
+function horizontalOptions() { return {indexAxis:'y',responsive:true,maintainAspectRatio:false,scales:{x:{beginAtZero:true,ticks:{precision:0}},y:{ticks:{autoSkip:false,font:{size:11}}}},plugins:{legend:{display:false}}}; }
 function renderCharts(items) {
-  const daily = countBy(items, x=>x.published_date||'—');
-  const media = countBy(items, x=>x.media);
-  const language = countBy(items, x=>x.language);
-  const topic = {}; items.forEach(x=>(x.topics||[]).forEach(t=>topic[t]=(topic[t]||0)+1));
-  [['dailyChart', {type:'bar',data:{labels:Object.keys(daily).sort(),datasets:[{label:'篇數',data:Object.keys(daily).sort().map(k=>daily[k]),backgroundColor:'#2855d9'}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}}],
+  const trend=temporalSeries(items);
+  const media=topWithOther(countBy(items,x=>x.media),10);
+  const language=countBy(items,x=>x.language);
+  const topic={}; items.forEach(x=>(x.topics||[]).forEach(t=>topic[t]=(topic[t]||0)+1));
+  $('dailyTitle').textContent=`報導趨勢（${trend.granularity}）`;
+  [['dailyChart',{type:'bar',data:{labels:trend.labels,datasets:[{label:'篇數',data:trend.data,backgroundColor:'#2855d9',borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,scales:{x:{ticks:{maxRotation:0,autoSkip:true}},y:{beginAtZero:true,ticks:{precision:0}}},plugins:{legend:{display:false}}}}],
    ['languageChart',{type:'doughnut',data:{labels:Object.keys(language),datasets:[{data:Object.values(language),backgroundColor:colors}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}}}}],
-   ['mediaChart',{type:'bar',data:{labels:values(media).map(x=>x[0]).reverse(),datasets:[{label:'篇數',data:values(media).map(x=>x[1]).reverse(),backgroundColor:'#e78435'}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}}],
-   ['topicChart',{type:'bar',data:{labels:values(topic).map(x=>x[0]),datasets:[{label:'篇數',data:values(topic).map(x=>x[1]),backgroundColor:'#16a085'}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}}]
+   ['mediaChart',{type:'bar',data:{labels:media.map(x=>x[0]).reverse(),datasets:[{label:'篇數',data:media.map(x=>x[1]).reverse(),backgroundColor:'#e78435',borderRadius:4}]},options:horizontalOptions()}],
+   ['topicChart',{type:'bar',data:{labels:topWithOther(topic,8).map(x=>x[0]).reverse(),datasets:[{label:'篇數',data:topWithOther(topic,8).map(x=>x[1]).reverse(),backgroundColor:'#16a085',borderRadius:4}]},options:horizontalOptions()}]
   ].forEach(([id,cfg])=>{destroy(id); charts[id]=new Chart($(id),cfg);});
 }
 function fmt(v) { if (!v) return '—'; const d=new Date(v); if (Number.isNaN(d.getTime())) return '—'; return new Intl.DateTimeFormat('zh-TW',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'Asia/Taipei'}).format(d); }
