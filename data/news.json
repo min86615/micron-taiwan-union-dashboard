@@ -1,10 +1,44 @@
 {
   "summary": {
-    "generated_at": "2026-09-07T23:05:51.298710+08:00",
-    "record_count": 161,
+    "generated_at": "2026-09-08T05:06:29.581934+08:00",
+    "record_count": 163,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0163",
+      "media": "Yahoo Finance／Barchart",
+      "title": "Micron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.",
+      "url": "https://www.barchart.com/story/news/4467449/micron-stock-more-than-tripled-in-2026-now-taiwan-strike-threat-could-shake-the-ai-boom",
+      "published_date": "2026-09-08",
+      "published_at": null,
+      "listed_at": "2026-09-08T05:06:09+08:00",
+      "last_checked_at": "2026-09-08T05:06:09+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.barchart.com/story/news/4467449/micron-stock-more-than-tripled-in-2026-now-taiwan-strike-threat-could-shake-the-ai-boom"
+    },
+    {
+      "id": "news-0162",
+      "media": "Barchart",
+      "title": "Micron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.",
+      "url": "https://www.barchart.com/story/news/4467449/micron-stock-more-than-tripled-in-2026-now-taiwan-strike-threat-could-shake-the-ai-boom",
+      "published_date": "2026-09-08",
+      "published_at": null,
+      "listed_at": "2026-09-08T05:06:09+08:00",
+      "last_checked_at": "2026-09-08T05:06:09+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
     {
       "id": "news-0161",
       "media": "TradingKey（繁中）",
