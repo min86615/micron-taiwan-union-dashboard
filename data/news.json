@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-08T17:04:25.363911+08:00",
+    "generated_at": "2026-09-08T17:06:55.929762+08:00",
     "record_count": 166,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -13,7 +13,7 @@
       "published_date": "2026-09-08",
       "published_at": "2026-09-08T11:35:49+08:00",
       "listed_at": "2026-09-08T17:02:02+08:00",
-      "last_checked_at": "2026-09-08T17:02:02+08:00",
+      "last_checked_at": "2026-09-08T17:06:26+08:00",
       "language": "TW",
       "topics": [
         "罷工"
