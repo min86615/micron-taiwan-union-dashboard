@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-08T13:03:49.109516+08:00",
+    "generated_at": "2026-09-08T15:02:37.977444+08:00",
     "record_count": 164,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -100,7 +100,7 @@
       "published_date": "2026-09-07",
       "published_at": "2026-09-07T07:20:40+00:00",
       "listed_at": "2026-09-07T19:00:56+08:00",
-      "last_checked_at": "2026-09-08T13:02:35+08:00",
+      "last_checked_at": "2026-09-08T15:02:37+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -397,7 +397,7 @@
       "published_date": "2026-09-05",
       "published_at": "2026-09-05T02:25:00+08:00",
       "listed_at": "2026-09-05T09:03:16+08:00",
-      "last_checked_at": "2026-09-08T09:04:24+08:00",
+      "last_checked_at": "2026-09-08T15:02:37+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -452,7 +452,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-08T13:02:35+08:00",
+      "last_checked_at": "2026-09-08T15:02:37+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -668,7 +668,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:05:49+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-08T09:04:24+08:00",
+      "last_checked_at": "2026-09-08T15:02:37+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -758,7 +758,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-05T13:00:43+08:00",
-      "last_checked_at": "2026-09-08T09:04:24+08:00",
+      "last_checked_at": "2026-09-08T15:02:37+08:00",
       "language": "TW",
       "topics": [
         "罷工",
