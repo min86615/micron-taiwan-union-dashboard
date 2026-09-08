@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-08T21:44:40.509657+08:00",
-    "record_count": 169,
+    "generated_at": "2026-09-08T23:05:15.624015+08:00",
+    "record_count": 171,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -117,7 +117,7 @@
       "published_date": "2026-09-07",
       "published_at": "2026-09-07T07:20:40+00:00",
       "listed_at": "2026-09-07T19:00:56+08:00",
-      "last_checked_at": "2026-09-08T21:44:31+08:00",
+      "last_checked_at": "2026-09-08T23:05:03+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -497,6 +497,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0170",
+      "media": "BigGo 財經",
+      "title": "美光台灣勞資首輪調解破局 罷工陰霾未散",
+      "url": "https://finance.biggo.com.tw/news/faf42e4d-ae21-476e-aa37-d2e1206cd0c5",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:56:07+08:00",
+      "listed_at": "2026-09-08T23:05:03+08:00",
+      "last_checked_at": "2026-09-08T23:05:03+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0133",
       "media": "中央社 CNA",
       "title": "罷工危機記憶體市場關注 美光：將召開第2次調解會議",
@@ -532,6 +551,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0171",
+      "media": "Newsquawk",
+      "title": "Micron (MU) says no agreement has been reached in mediation with Taiwan's Taoyuan union; second meting has been scheduled",
+      "url": "https://www.newsquawk.com/headlines/micron-mu-says-no-agreement-has-been-reached-in-mediation-with-taiwans-taoyuan-union",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:36:10+08:00",
+      "listed_at": "2026-09-08T23:05:03+08:00",
+      "last_checked_at": "2026-09-08T23:05:03+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6597661"
     },
     {
       "id": "news-0128",
@@ -1008,7 +1045,7 @@
       "published_date": "2026-09-03",
       "published_at": "2026-09-03T17:26:00+08:00",
       "listed_at": "2026-09-03T19:05:37+08:00",
-      "last_checked_at": "2026-09-05T01:04:37+08:00",
+      "last_checked_at": "2026-09-08T23:05:03+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
