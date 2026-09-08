@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-08T15:02:37.977444+08:00",
-    "record_count": 164,
+    "generated_at": "2026-09-08T17:03:03.776348+08:00",
+    "record_count": 165,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0165",
+      "media": "財訊雙週刊",
+      "title": "急擴產卻逢罷工危機 台灣美光董事長兩頭燒",
+      "url": "https://www.wealth.com.tw/articles/a1887889-9339-48dd-82cb-dbe7eb122b89",
+      "published_date": "2026-09-08",
+      "published_at": "2026-09-08T11:35:49+08:00",
+      "listed_at": "2026-09-08T17:02:02+08:00",
+      "last_checked_at": "2026-09-08T17:02:02+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0163",
       "media": "Yahoo Finance／Barchart",
