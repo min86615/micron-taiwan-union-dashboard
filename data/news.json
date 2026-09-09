@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-09T11:02:34.825593+08:00",
-    "record_count": 172,
+    "generated_at": "2026-09-09T15:03:36.304604+08:00",
+    "record_count": 173,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -587,6 +587,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0173",
+      "media": "Yahoo財經／鉅亨網",
+      "title": "美光首輪勞資調解無共識 數周內將公布更多獎勵細節",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%85%89%E9%A6%96%E8%BC%AA%E5%8B%9E%E8%B3%87%E8%AA%BF%E8%A7%A3%E7%84%A1%E5%85%B1%E8%AD%98-%E6%95%B8%E5%91%A8%E5%85%A7%E5%B0%87%E5%85%AC%E5%B8%83%E6%9B%B4%E5%A4%9A%E7%8D%8E%E5%8B%B5%E7%B4%B0%E7%AF%80-093525830.html",
+      "published_date": "2026-09-04",
+      "published_at": "2026-09-04T17:35:00+08:00",
+      "listed_at": "2026-09-09T15:03:02+08:00",
+      "last_checked_at": "2026-09-09T15:03:02+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6597661"
     },
     {
       "id": "news-0134",
