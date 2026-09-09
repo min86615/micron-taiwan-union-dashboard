@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-09T19:03:16.592859+08:00",
-    "record_count": 173,
+    "generated_at": "2026-09-09T21:04:12.454812+08:00",
+    "record_count": 174,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -20,6 +20,23 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0174",
+      "media": "The Cheap Investor",
+      "title": "Micron’s Taiwan Workers Want 15% of Profit. Sept. 30 Matters.",
+      "url": "https://www.thecheapinvestor.com/2026/09/08/microns-taiwan-workers-want-15-of-profit-sept-30-matters/",
+      "published_date": "2026-09-08",
+      "published_at": null,
+      "listed_at": "2026-09-09T21:04:06.861470+08:00",
+      "last_checked_at": "2026-09-09T21:04:06.861470+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
@@ -449,7 +466,7 @@
       "published_date": "2026-09-05",
       "published_at": "2026-09-05T02:25:00+08:00",
       "listed_at": "2026-09-05T09:03:16+08:00",
-      "last_checked_at": "2026-09-08T19:03:20+08:00",
+      "last_checked_at": "2026-09-09T21:04:06.861470+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -3088,7 +3105,7 @@
       "published_date": "2026-08-28",
       "published_at": null,
       "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-03T13:03:49+08:00",
+      "last_checked_at": "2026-09-09T21:04:06.861470+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -3144,7 +3161,7 @@
       "published_date": null,
       "published_at": null,
       "listed_at": "2026-09-08T21:44:31+08:00",
-      "last_checked_at": "2026-09-09T07:03:41+08:00",
+      "last_checked_at": "2026-09-09T21:04:06.861470+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
