@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-10T09:06:05.029224+08:00",
+    "generated_at": "2026-09-10T11:03:18.527868+08:00",
     "record_count": 176,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -503,7 +503,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T21:15:00+08:00",
       "listed_at": "2026-09-05T03:02:51+08:00",
-      "last_checked_at": "2026-09-09T11:02:26+08:00",
+      "last_checked_at": "2026-09-10T11:02:40.741343+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -521,7 +521,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:56:07+08:00",
       "listed_at": "2026-09-08T23:05:03+08:00",
-      "last_checked_at": "2026-09-09T11:02:26+08:00",
+      "last_checked_at": "2026-09-10T11:02:40.741343+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -613,7 +613,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:35:00+08:00",
       "listed_at": "2026-09-09T15:03:02+08:00",
-      "last_checked_at": "2026-09-09T19:03:11.181673+08:00",
+      "last_checked_at": "2026-09-10T11:02:40.741343+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -2074,7 +2074,7 @@
       "published_date": "2026-09-01",
       "published_at": "2026-09-01T19:49:00+09:00",
       "listed_at": "2026-09-02T21:58:33.826230+08:00",
-      "last_checked_at": "2026-09-10T01:03:54.245111+08:00",
+      "last_checked_at": "2026-09-10T11:02:40.741343+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
@@ -3033,7 +3033,7 @@
       "published_date": "2026-08-29",
       "published_at": "2026-08-29T02:32:11+08:00",
       "listed_at": "2026-09-02T23:39:10+08:00",
-      "last_checked_at": "2026-09-09T01:04:06+08:00",
+      "last_checked_at": "2026-09-10T11:02:40.741343+08:00",
       "language": "JP",
       "topics": [
         "獎金／分紅",
