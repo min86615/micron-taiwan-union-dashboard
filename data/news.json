@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-10T13:05:06.742704+08:00",
-    "record_count": 177,
+    "generated_at": "2026-09-10T17:07:07.338268+08:00",
+    "record_count": 179,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0179",
+      "media": "Evertiq",
+      "title": "Micron faces strike threat in Taiwan over bonus dispute",
+      "url": "https://www.evertiq.com/design/2026-09-09-micron-faces-strike-threat-in-taiwan-over-bonus-dispute",
+      "published_date": "2026-09-09",
+      "published_at": null,
+      "listed_at": "2026-09-10T17:06:36+08:00",
+      "last_checked_at": "2026-09-10T17:06:36+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
     {
       "id": "news-0165",
       "media": "財訊雙週刊",
@@ -873,6 +891,25 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0178",
+      "media": "Yahoo股市／中央社",
+      "title": "罷工危機記憶體市場關注美光：將召開第2次調解會議",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BD%B7%E5%B7%A5%E5%8D%B1%E6%A9%9F%E8%A8%98%E6%86%B6%E9%AB%94%E5%B8%82%E5%A0%B4%E9%97%9C%E6%B3%A8-%E7%BE%8E%E5%85%89-%E5%B0%87%E5%8F%AC%E9%96%8B%E7%AC%AC2%E6%AC%A1%E8%AA%BF%E8%A7%A3%E6%9C%83%E8%AD%B0-094835380.html",
+      "published_date": "2026-09-04",
+      "published_at": null,
+      "listed_at": "2026-09-10T17:06:36+08:00",
+      "last_checked_at": "2026-09-10T17:06:36+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202609040248.aspx"
     },
     {
       "id": "news-0176",
