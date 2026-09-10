@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-10T11:03:18.527868+08:00",
-    "record_count": 176,
+    "generated_at": "2026-09-10T13:05:06.742704+08:00",
+    "record_count": 177,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1280,6 +1280,25 @@
       "published_at": "2026-09-03T09:13:01+08:00",
       "listed_at": "2026-09-03T13:03:49+08:00",
       "last_checked_at": "2026-09-03T13:03:49+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/"
+    },
+    {
+      "id": "news-0177",
+      "media": "The Globe and Mail／Motley Fool",
+      "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/4413512/microns-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T09:13:00+08:00",
+      "listed_at": "2026-09-10T13:05:06.691448+08:00",
+      "last_checked_at": "2026-09-10T13:05:06.691448+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
