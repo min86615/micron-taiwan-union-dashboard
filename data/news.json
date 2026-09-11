@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T09:02:51.656539+08:00",
+    "generated_at": "2026-09-11T09:51:58.292022+08:00",
     "record_count": 179,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -631,7 +631,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:35:00+08:00",
       "listed_at": "2026-09-09T15:03:02+08:00",
-      "last_checked_at": "2026-09-10T11:02:40.741343+08:00",
+      "last_checked_at": "2026-09-11T09:51:58.258789+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -828,7 +828,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-11T05:03:09.487199+08:00",
+      "last_checked_at": "2026-09-11T09:51:58.258789+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -846,7 +846,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-09T19:03:11.181673+08:00",
+      "last_checked_at": "2026-09-11T09:51:58.258789+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -993,7 +993,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-05T13:00:43+08:00",
-      "last_checked_at": "2026-09-09T19:03:11.181673+08:00",
+      "last_checked_at": "2026-09-11T09:51:58.258789+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
