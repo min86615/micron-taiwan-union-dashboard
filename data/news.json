@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T15:04:18.255861+08:00",
-    "record_count": 184,
+    "generated_at": "2026-09-11T16:40:17.431456+08:00",
+    "record_count": 185,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0185",
+      "media": "TVBS新聞網",
+      "title": "獨／美光發每人百萬、最高68個月 員工轟「數字遊戲」：拿股票灌水",
+      "url": "https://news.tvbs.com.tw/money/4020742",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T13:22:21+08:00",
+      "listed_at": "2026-09-11T16:38:05+08:00",
+      "last_checked_at": "2026-09-11T16:38:05+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0183",
       "media": "BusinessNext",
