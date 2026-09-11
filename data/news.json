@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T21:07:12.211791+08:00",
-    "record_count": 191,
+    "generated_at": "2026-09-11T23:03:35.314893+08:00",
+    "record_count": 192,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -30,7 +30,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:22:21+08:00",
       "listed_at": "2026-09-11T16:38:05+08:00",
-      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
+      "last_checked_at": "2026-09-11T23:03:26.607907+08:00",
       "language": "TW",
       "topics": [
         "美光產業"
@@ -64,7 +64,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:45:00+08:00",
       "listed_at": "2026-09-11T13:04:47.005289+08:00",
-      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
+      "last_checked_at": "2026-09-11T23:03:26.607907+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -82,7 +82,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:11:00+08:00",
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
+      "last_checked_at": "2026-09-11T23:03:26.607907+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -143,6 +143,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0192",
+      "media": "民報／Yahoo新聞",
+      "title": "美光史上最高獎酬！台灣員工最多領68個月 獎金、勞資爭議一次搞懂",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E7%A5%AD%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E7%8D%8E%E9%85%AC-%E5%8F%B0%E7%81%A3%E5%93%A1%E5%B7%A5%E6%9C%80%E9%AB%9868%E5%80%8B%E6%9C%88-%E7%8D%8E%E9%87%91-%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0-%E6%AC%A1%E6%90%9E%E6%87%82-035629194.html",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-11T23:03:26.607907+08:00",
+      "last_checked_at": "2026-09-11T23:03:26.607907+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0186",
       "media": "大紀元時報",
       "title": "美光發史上最高獎酬 台灣員工最高獲68個月薪",
@@ -150,7 +168,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-11T19:04:20+08:00",
-      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T23:03:26.607907+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
