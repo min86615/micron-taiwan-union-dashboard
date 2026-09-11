@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T16:40:17.431456+08:00",
+    "generated_at": "2026-09-11T17:04:40.452712+08:00",
     "record_count": 185,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -13,7 +13,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:22:21+08:00",
       "listed_at": "2026-09-11T16:38:05+08:00",
-      "last_checked_at": "2026-09-11T16:38:05+08:00",
+      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
       "language": "TW",
       "topics": [
         "美光產業"
@@ -30,7 +30,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:45:00+08:00",
       "listed_at": "2026-09-11T13:04:47.005289+08:00",
-      "last_checked_at": "2026-09-11T13:04:47.005289+08:00",
+      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -48,7 +48,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T09:37:00+08:00",
       "listed_at": "2026-09-11T09:56:00+08:00",
-      "last_checked_at": "2026-09-11T13:04:47.005289+08:00",
+      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -65,7 +65,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-11T15:04:18.215906+08:00",
+      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
