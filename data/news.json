@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T13:08:36.791107+08:00",
-    "record_count": 183,
+    "generated_at": "2026-09-11T15:04:18.255861+08:00",
+    "record_count": 184,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -35,6 +35,23 @@
       "language": "TW",
       "topics": [
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0184",
+      "media": "Reuters",
+      "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-11T15:04:18.215906+08:00",
+      "last_checked_at": "2026-09-11T15:04:18.215906+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
