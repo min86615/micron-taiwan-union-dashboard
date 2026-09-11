@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T23:03:35.314893+08:00",
-    "record_count": 192,
+    "generated_at": "2026-09-12T01:02:40.712547+08:00",
+    "record_count": 193,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -141,6 +141,24 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0193",
+      "media": "LINE TODAY／數位時代",
+      "title": "美光祭出史上最高分紅：台灣員工可領100萬感謝獎金，新人工程師年薪破340萬！有望化解罷工危機？ | 數位時代 | LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/NvzKP6p",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T01:02:03.727342+08:00",
+      "last_checked_at": "2026-09-12T01:02:03.727342+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bnext.com.tw/article/92206/micron-fy26-record-rewards-taiwan-union-strike"
     },
     {
       "id": "news-0192",
