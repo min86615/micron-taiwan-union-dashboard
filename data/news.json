@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T19:06:20.242078+08:00",
-    "record_count": 189,
+    "generated_at": "2026-09-11T21:07:12.211791+08:00",
+    "record_count": 191,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0190",
+      "media": "Focus Taiwan／中央社 CNA",
+      "title": "Micron to give employees rewards worth 35-68 months' pay",
+      "url": "https://focustaiwan.tw/business/202609110009",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T16:05:00+08:00",
+      "listed_at": "2026-09-11T21:05:37.853402+08:00",
+      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0185",
       "media": "TVBS新聞網",
@@ -13,7 +30,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:22:21+08:00",
       "listed_at": "2026-09-11T16:38:05+08:00",
-      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
       "language": "TW",
       "topics": [
         "美光產業"
@@ -58,6 +75,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0184",
+      "media": "Reuters",
+      "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T10:11:00+08:00",
+      "listed_at": "2026-09-11T15:04:18.215906+08:00",
+      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0180",
       "media": "TechNews 科技新報",
       "title": "【最新】美光獎酬創紀錄！台灣員工每人 100 萬元感謝獎金，初階工程師平均薪酬達 340 萬元",
@@ -65,7 +99,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T09:37:00+08:00",
       "listed_at": "2026-09-11T09:56:00+08:00",
-      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -73,6 +107,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0191",
+      "media": "AsiaOne／Reuters",
+      "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://asiaone.com/money/microns-taiwan-workers-get-rewards-worth-68-months-pay",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T05:17:00+08:00",
+      "listed_at": "2026-09-11T21:05:37.853402+08:00",
+      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0187",
@@ -101,23 +152,6 @@
       "listed_at": "2026-09-11T19:04:20+08:00",
       "last_checked_at": "2026-09-11T19:04:20+08:00",
       "language": "SC",
-      "topics": [
-        "美光產業"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0184",
-      "media": "Reuters",
-      "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
-      "url": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11",
-      "published_date": "2026-09-11",
-      "published_at": null,
-      "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-11T19:04:20+08:00",
-      "language": "EN",
       "topics": [
         "美光產業"
       ],
@@ -3411,7 +3445,7 @@
       "published_date": null,
       "published_at": null,
       "listed_at": "2026-09-11T19:04:20+08:00",
-      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
