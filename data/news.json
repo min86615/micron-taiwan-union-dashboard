@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T09:51:58.292022+08:00",
-    "record_count": 179,
+    "generated_at": "2026-09-11T09:56:51.568409+08:00",
+    "record_count": 180,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0180",
+      "media": "TechNews 科技新報",
+      "title": "【最新】美光獎酬創紀錄！台灣員工每人 100 萬元感謝獎金，初階工程師平均薪酬達 340 萬元",
+      "url": "https://finance.technews.tw/2026/09/11/micron-taiwan-employees-each-receive-a-nt1-million-appreciation-bonus/",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T09:37:00+08:00",
+      "listed_at": "2026-09-11T09:56:00+08:00",
+      "last_checked_at": "2026-09-11T09:56:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0179",
       "media": "Evertiq",
