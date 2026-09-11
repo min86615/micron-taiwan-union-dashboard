@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-11T17:04:40.452712+08:00",
-    "record_count": 185,
+    "generated_at": "2026-09-11T19:06:20.242078+08:00",
+    "record_count": 189,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:22:21+08:00",
       "listed_at": "2026-09-11T16:38:05+08:00",
-      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
       "language": "TW",
       "topics": [
         "美光產業"
@@ -21,6 +21,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0189",
+      "media": "新浪科技／IT之家",
+      "title": "约35~68个月薪资：美光将向中国台湾地区员工发放历年最高绩效奖金",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-09-11/doc-inirmruc2432296.shtml",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T13:06:00+08:00",
+      "listed_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0183",
@@ -48,10 +65,44 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T09:37:00+08:00",
       "listed_at": "2026-09-11T09:56:00+08:00",
-      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0187",
+      "media": "TradingKey",
+      "title": "美光台湾员工最高领超5年薪资，现金补偿最低5.3万美元",
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262162483-stock-micron-mu-price-taiwan-tradingkey",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T03:30:00+08:00",
+      "listed_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0186",
+      "media": "大紀元時報",
+      "title": "美光發史上最高獎酬 台灣員工最高獲68個月薪",
+      "url": "https://www.epochtimes.com/gb/26/9/11/n14847635.htm",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -65,7 +116,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-11T17:04:40.403246+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -662,7 +713,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-11T03:02:49.937040+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -3347,6 +3398,23 @@
         "工會／勞資",
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0188",
+      "media": "鉅亨網",
+      "title": "美光大手筆發獎酬！台灣員工每人百萬元感謝獎金 初階工程師平均薪酬340萬元",
+      "url": "https://news.cnyes.com/news/id/6604335",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-11T19:04:20+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
