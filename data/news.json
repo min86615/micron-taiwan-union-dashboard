@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-12T21:04:26.846363+08:00",
-    "record_count": 204,
+    "generated_at": "2026-09-12T23:08:17.014217+08:00",
+    "record_count": 206,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -204,7 +204,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T09:37:00+08:00",
       "listed_at": "2026-09-11T09:56:00+08:00",
-      "last_checked_at": "2026-09-11T21:05:37.853402+08:00",
+      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -245,6 +245,40 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0206",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光祭史上最高獎金滅火 台灣員工每人百萬、產線薪酬最高68個月",
+      "url": "https://www.mirrormedia.mg/story/20260911-180fin-111457",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T23:07:09.559668+08:00",
+      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0205",
+      "media": "經理人 ManagerToday",
+      "title": "美光開出「史上最強獎酬」，豪發每人百萬感謝金、工程師年薪看 340 萬！能解罷工危機嗎？",
+      "url": "https://www.managertoday.com.tw/articles/view/72917",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T23:07:09.559668+08:00",
+      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -637,7 +671,7 @@
       "published_date": "2026-09-06",
       "published_at": "2026-09-06T13:04:51+08:00",
       "listed_at": "2026-09-07T03:02:16+08:00",
-      "last_checked_at": "2026-09-10T23:03:20.984512+08:00",
+      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -655,7 +689,7 @@
       "published_date": "2026-09-06",
       "published_at": "2026-09-06T12:57:15+08:00",
       "listed_at": "2026-09-07T03:02:16+08:00",
-      "last_checked_at": "2026-09-08T13:02:35+08:00",
+      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3671,7 +3705,7 @@
       "published_date": null,
       "published_at": null,
       "listed_at": "2026-09-11T19:04:20+08:00",
-      "last_checked_at": "2026-09-12T03:02:44.730447+08:00",
+      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
