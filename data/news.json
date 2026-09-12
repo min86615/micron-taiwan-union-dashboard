@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-12T13:08:13.663146+08:00",
+    "generated_at": "2026-09-12T15:02:56.947832+08:00",
     "record_count": 199,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -83,7 +83,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T16:05:00+08:00",
       "listed_at": "2026-09-11T21:05:37.853402+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-12T15:02:15.576402+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -888,7 +888,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-12T15:02:15.576402+08:00",
       "language": "TW",
       "topics": [
         "罷工",
