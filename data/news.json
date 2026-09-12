@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-12T15:02:56.947832+08:00",
-    "record_count": 199,
+    "generated_at": "2026-09-12T17:04:49.957012+08:00",
+    "record_count": 204,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -187,7 +187,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:11:00+08:00",
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -246,6 +246,91 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0201",
+      "media": "The Jakarta Post／AFP",
+      "title": "Micron promises Taiwan workers up to 68 months' pay after strike threat",
+      "url": "https://www.thejakartapost.com/business/2026/09/11/micron-promises-taiwan-workers-up-to-68-months-pay-after-strike-threat",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T17:03:26.512096+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0200",
+      "media": "The Hindu BusinessLine／Reuters",
+      "title": "Micron announces record bonuses of up to 68 months’ pay for Taiwan employees",
+      "url": "https://www.thehindubusinessline.com/info-tech/micron-announces-record-bonuses-of-up-to-68-months-pay-for-taiwan-employees/article71454679.ece",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T17:03:26.512096+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0204",
+      "media": "MarketScreener／Reuters",
+      "title": "Micron’s Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://sa.marketscreener.com/news/micron-s-taiwan-workers-to-get-rewards-worth-up-to-68-months-of-pay-ce785bdfd88ff52d",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T17:03:26.512096+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0203",
+      "media": "Channel NewsAsia／Reuters",
+      "title": "Micron’s Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://www.channelnewsasia.com/east-asia/micron-taiwan-workers-68-months-pay-bonus-reward-6377621",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T17:03:26.512096+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0202",
+      "media": "CNBC",
+      "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://www.cnbc.com/2026/09/11/micron-taiwan-workers-rewards-pay.html",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T17:03:26.512096+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0193",
@@ -429,7 +514,7 @@
       "published_date": "2026-09-07",
       "published_at": "2026-09-07T07:20:40+00:00",
       "listed_at": "2026-09-07T23:01:08+08:00",
-      "last_checked_at": "2026-09-11T13:04:47.005289+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -447,7 +532,7 @@
       "published_date": "2026-09-07",
       "published_at": "2026-09-07T07:20:40+00:00",
       "listed_at": "2026-09-07T23:01:08+08:00",
-      "last_checked_at": "2026-09-11T10:06:42.130024+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
       "language": "SC",
       "topics": [
         "記憶體／HBM"
@@ -1085,7 +1170,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:18:00+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
