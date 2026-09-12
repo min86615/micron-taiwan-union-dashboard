@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-12T11:05:47.333333+08:00",
-    "record_count": 198,
+    "generated_at": "2026-09-12T13:07:21.024279+08:00",
+    "record_count": 199,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -55,6 +55,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0199",
+      "media": "記者爆料網/賴傳媒",
+      "title": "美光發每人百萬獎酌！工會仍喊罷工：一次性獎金沒用",
+      "url": "https://new-reporter.com/news/278115/",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T17:37:00+08:00",
+      "listed_at": "2026-09-12T13:04:22.313977+08:00",
+      "last_checked_at": "2026-09-12T13:04:22.313977+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0190",
@@ -123,6 +142,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0195",
+      "media": "民報",
+      "title": "美光史上最高獎酬！台灣員工最多領68個月 獎金、勞資爭議一次搞懂",
+      "url": "https://www.peoplenews.tw/articles/economic-news/54767",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T11:56:29+08:00",
+      "listed_at": "2026-09-12T09:04:48.634381+08:00",
+      "last_checked_at": "2026-09-12T13:04:22.313977+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0183",
@@ -208,24 +245,6 @@
       ],
       "status": "reported",
       "source_type": "analysis",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0195",
-      "media": "民報",
-      "title": "美光史上最高獎酬！台灣員工最多頖68個月 獎金、勞資爭議一次搞懂",
-      "url": "https://www.peoplenews.tw/articles/economic-news/54767",
-      "published_date": "2026-09-11",
-      "published_at": null,
-      "listed_at": "2026-09-12T09:04:48.634381+08:00",
-      "last_checked_at": "2026-09-12T09:04:48.634381+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "獎金／分紅"
-      ],
-      "status": "reported",
-      "source_type": "media",
       "duplicate_of": null
     },
     {
