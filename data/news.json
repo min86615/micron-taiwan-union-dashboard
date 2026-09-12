@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-12T07:02:35.898784+08:00",
-    "record_count": 193,
+    "generated_at": "2026-09-12T09:05:15.295411+08:00",
+    "record_count": 195,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0194",
+      "media": "工商時報",
+      "title": "平息台灣罷工爭議？ 美光祭史上最高員工獎酬",
+      "url": "https://www.chinatimes.com/newspapers/20260912000214-260202",
+      "published_date": "2026-09-12",
+      "published_at": "2026-09-12T04:10:00+08:00",
+      "listed_at": "2026-09-12T09:04:48.634381+08:00",
+      "last_checked_at": "2026-09-12T09:04:48.634381+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0190",
       "media": "Focus Taiwan／中央社 CNA",
@@ -140,6 +157,24 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0195",
+      "media": "民報",
+      "title": "美光史上最高獎酬！台灣員工最多頖68個月 獎金、勞資爭議一次搞懂",
+      "url": "https://www.peoplenews.tw/articles/economic-news/54767",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-12T09:04:48.634381+08:00",
+      "last_checked_at": "2026-09-12T09:04:48.634381+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
