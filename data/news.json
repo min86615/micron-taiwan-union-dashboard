@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T03:03:07.190655+08:00",
+    "generated_at": "2026-09-13T05:05:02.901476+08:00",
     "record_count": 207,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -151,7 +151,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T11:56:29+08:00",
       "listed_at": "2026-09-12T09:04:48.634381+08:00",
-      "last_checked_at": "2026-09-12T13:04:22.313977+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -169,7 +169,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:45:00+08:00",
       "listed_at": "2026-09-11T13:04:47.005289+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -290,7 +290,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -951,7 +951,7 @@
       "published_date": "2026-09-05",
       "published_at": "2026-09-05T02:25:00+08:00",
       "listed_at": "2026-09-05T09:03:16+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -1025,7 +1025,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-13T01:03:50.664268+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -1367,7 +1367,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-10T17:06:36+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -1423,7 +1423,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-05T13:00:43+08:00",
-      "last_checked_at": "2026-09-13T03:02:58.916959+08:00",
+      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
       "language": "TW",
       "topics": [
         "罷工",
