@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-12T23:08:17.014217+08:00",
-    "record_count": 206,
+    "generated_at": "2026-09-13T01:04:23.797028+08:00",
+    "record_count": 207,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -245,6 +245,24 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0207",
+      "media": "Investing.com",
+      "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+      "url": "https://www.investing.com/news/stock-market-news/micron-offers-taiwan-workers-up-to-68month-bonuses-as-strike-threat-looms-4897688",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-13T01:03:50.664268+08:00",
+      "last_checked_at": "2026-09-13T01:03:50.664268+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -601,7 +619,7 @@
       "published_date": "2026-09-07",
       "published_at": "2026-09-07T07:20:40+00:00",
       "listed_at": "2026-09-07T19:00:56+08:00",
-      "last_checked_at": "2026-09-11T10:06:42.130024+08:00",
+      "last_checked_at": "2026-09-13T01:04:12.887585+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1007,7 +1025,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-12T15:02:15.576402+08:00",
+      "last_checked_at": "2026-09-13T01:03:50.664268+08:00",
       "language": "TW",
       "topics": [
         "罷工",
