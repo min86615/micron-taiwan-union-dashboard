@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T11:47:00.336716+08:00",
-    "record_count": 208,
+    "generated_at": "2026-09-13T15:10:12.737886+08:00",
+    "record_count": 210,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -74,6 +74,24 @@
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
+      "id": "news-0210",
+      "media": "Gout and Design",
+      "title": "Why Micron’s 68-Month Bonus Has Not Settled Taiwan Labor Dispute",
+      "url": "https://goutanddesign.com/wpress/2026/09/why-microns-68-month-bonus-has-not-settled-taiwan-labor-dispute/",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T20:36:10+08:00",
+      "listed_at": "2026-09-13T15:09:15.632911+08:00",
+      "last_checked_at": "2026-09-13T15:09:15.632911+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0199",
       "media": "記者爆料網/賴傳媒",
       "title": "美光發每人百萬獎酬！工會仍喊罷工：一次性獎金沒用",
@@ -104,6 +122,25 @@
       "language": "EN",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0209",
+      "media": "三立新聞網 SETN",
+      "title": "快訊／美光砸百萬薪酬 工會不滿「這點」喊罷工",
+      "url": "https://www.setn.com/news/1905482",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T16:01:00+08:00",
+      "listed_at": "2026-09-13T15:09:15.632911+08:00",
+      "last_checked_at": "2026-09-13T15:09:15.632911+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -168,7 +205,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T11:56:29+08:00",
       "listed_at": "2026-09-12T09:04:48.634381+08:00",
-      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
+      "last_checked_at": "2026-09-13T15:09:15.632911+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -186,7 +223,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:45:00+08:00",
       "listed_at": "2026-09-11T13:04:47.005289+08:00",
-      "last_checked_at": "2026-09-13T05:04:50.406133+08:00",
+      "last_checked_at": "2026-09-13T15:09:15.632911+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
