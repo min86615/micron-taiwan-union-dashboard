@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T03:04:17.277040+08:00",
-    "record_count": 214,
+    "generated_at": "2026-09-14T05:08:42.165464+08:00",
+    "record_count": 217,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0215",
+      "media": "ad-hoc-news.de/boerse-global.de",
+      "title": "Micron Bets 68 Months' Pay Can Quiet Taiwan While Investors Eye September 30",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/micron-bets-68-months-pay-can-quiet-taiwan-while-investors-eye-september/70095168",
+      "published_date": "2026-09-13",
+      "published_at": null,
+      "listed_at": "2026-09-14T05:07:11.254356+08:00",
+      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0217",
+      "media": "FTV News/LINE TODAY",
+      "title": "工會揚言罷工 美光宣布台灣員工最高領68個月薪資",
+      "url": "https://today.line.me/tw/v3/article/rmRWLNk",
+      "published_date": "2026-09-13",
+      "published_at": null,
+      "listed_at": "2026-09-14T05:07:11.254356+08:00",
+      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0208",
       "media": "富聯網／工商時報",
@@ -295,7 +330,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:11:00+08:00",
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -373,6 +408,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0216",
+      "media": "RTE/AFP",
+      "title": "Micron workers to get 68 months' pay after strike threat",
+      "url": "https://www.rte.ie/news/business/2026/0911/1591142-micron-workers-in-taiwan/",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-14T05:07:11.254356+08:00",
+      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.thejakartapost.com/business/2026/09/11/micron-promises-taiwan-workers-up-to-68-months-pay-after-strike-threat"
+    },
+    {
       "id": "news-0207",
       "media": "Investing.com",
       "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
@@ -415,7 +467,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -1420,7 +1472,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
+      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
