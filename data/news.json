@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T05:05:02.901476+08:00",
-    "record_count": 207,
+    "generated_at": "2026-09-13T11:06:33.334027+08:00",
+    "record_count": 208,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0208",
+      "media": "富聯網／工商時報",
+      "title": "《科技》平息台灣罷工爭議？ 美光祭史上最高員工獎酬",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6300870001&PU=0010",
+      "published_date": "2026-09-12",
+      "published_at": "2026-09-12T17:03:00+08:00",
+      "listed_at": "2026-09-13T11:06:26.963267+08:00",
+      "last_checked_at": "2026-09-13T11:06:26.963267+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.chinatimes.com/newspapers/20260912000214-260202"
+    },
     {
       "id": "news-0194",
       "media": "工商時報",
