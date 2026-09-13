@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T17:07:37.616043+08:00",
+    "generated_at": "2026-09-13T19:05:37.696612+08:00",
     "record_count": 210,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -135,7 +135,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T16:01:00+08:00",
       "listed_at": "2026-09-13T15:09:15.632911+08:00",
-      "last_checked_at": "2026-09-13T17:06:19.263730+08:00",
+      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -205,7 +205,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T11:56:29+08:00",
       "listed_at": "2026-09-12T09:04:48.634381+08:00",
-      "last_checked_at": "2026-09-13T15:09:15.632911+08:00",
+      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -344,7 +344,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-13T17:06:19.263730+08:00",
+      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -535,7 +535,7 @@
       "published_date": "2026-09-08",
       "published_at": "2026-09-08T11:35:49+08:00",
       "listed_at": "2026-09-08T17:02:02+08:00",
-      "last_checked_at": "2026-09-08T21:44:31+08:00",
+      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -1349,7 +1349,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
