@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T23:08:56.936343+08:00",
+    "generated_at": "2026-09-14T01:04:56.239272+08:00",
     "record_count": 214,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -208,7 +208,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:22:21+08:00",
       "listed_at": "2026-09-11T16:38:05+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
       "language": "TW",
       "topics": [
         "美光產業"
@@ -329,7 +329,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T09:37:00+08:00",
       "listed_at": "2026-09-11T09:56:00+08:00",
-      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
+      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -415,7 +415,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
+      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -2903,7 +2903,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-13T17:06:19.263730+08:00",
+      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
@@ -2978,7 +2978,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-13T17:06:19.263730+08:00",
+      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
@@ -3848,7 +3848,7 @@
       "published_date": null,
       "published_at": null,
       "listed_at": "2026-09-11T19:04:20+08:00",
-      "last_checked_at": "2026-09-12T23:07:09.559668+08:00",
+      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
