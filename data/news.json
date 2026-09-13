@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T05:08:42.165464+08:00",
+    "generated_at": "2026-09-14T07:03:35.400884+08:00",
     "record_count": 217,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -134,7 +134,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T23:12:44+08:00",
       "listed_at": "2026-09-12T11:05:33.962581+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅"
@@ -260,7 +260,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:18:00+08:00",
       "listed_at": "2026-09-12T11:05:33.962581+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -277,7 +277,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T13:06:00+08:00",
       "listed_at": "2026-09-11T19:04:20+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -312,7 +312,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:45:00+08:00",
       "listed_at": "2026-09-11T13:04:47.005289+08:00",
-      "last_checked_at": "2026-09-13T17:06:19.263730+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -330,7 +330,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:11:00+08:00",
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -381,7 +381,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T05:17:00+08:00",
       "listed_at": "2026-09-11T21:05:37.853402+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -467,7 +467,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -501,7 +501,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T17:03:26.512096+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅"
@@ -518,7 +518,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T17:03:26.512096+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -535,7 +535,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T17:03:26.512096+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -552,7 +552,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T17:03:26.512096+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -1275,7 +1275,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:35:00+08:00",
       "listed_at": "2026-09-09T15:03:02+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1328,7 +1328,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:21:00+08:00",
       "listed_at": "2026-09-05T01:04:37+08:00",
-      "last_checked_at": "2026-09-05T01:04:37+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -1472,7 +1472,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-14T05:07:11.254356+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1490,7 +1490,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1637,7 +1637,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-05T13:00:43+08:00",
-      "last_checked_at": "2026-09-12T07:02:14.272675+08:00",
+      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
