@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T21:05:51.925410+08:00",
-    "record_count": 211,
+    "generated_at": "2026-09-13T23:08:56.936343+08:00",
+    "record_count": 214,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -21,6 +21,24 @@
       "status": "syndicated",
       "source_type": "syndicated_media",
       "duplicate_of": "https://www.chinatimes.com/newspapers/20260912000214-260202"
+    },
+    {
+      "id": "news-0212",
+      "media": "自由財經／自由時報",
+      "title": "美光史上最高獎酬》工會不買單喊罷工 業界憂衝擊供應鏈缺口",
+      "url": "https://stock.ltn.com.tw/article/t45d4p5c16gw",
+      "published_date": "2026-09-12",
+      "published_at": "2026-09-12T05:30:00+08:00",
+      "listed_at": "2026-09-13T23:08:38.291589+08:00",
+      "last_checked_at": "2026-09-13T23:08:38.291589+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0194",
@@ -107,6 +125,25 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0214",
+      "media": "行銷人／轉載賴傳媒",
+      "title": "美光發每人百萬獎酬！工會仍喊罷工：一次性獎金沒用",
+      "url": "https://www.marketersgo.com/media-collaboration/202609/%E7%BE%8E%E5%85%89%E7%99%BC%E6%AF%8F%E4%BA%BA%E7%99%BE%E8%90%AC%E7%8D%8E%E9%85%AC%EF%BC%81%E5%B7%A5%E6%9C%83%E4%BB%8D%E5%96%8A%E7%BD%B7%E5%B7%A5%EF%BC%9A%E4%B8%80%E6%AC%A1%E6%80%A7%E7%8D%8E%E9%87%91/",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T17:37:00+08:00",
+      "listed_at": "2026-09-13T23:08:38.291589+08:00",
+      "last_checked_at": "2026-09-13T23:08:38.291589+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://new-reporter.com/news/278115/"
     },
     {
       "id": "news-0199",
@@ -260,6 +297,23 @@
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
       "last_checked_at": "2026-09-13T17:06:19.263730+08:00",
       "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0213",
+      "media": "經濟日報／UDN",
+      "title": "美光台灣目前員工集體持股 市值逾千億元",
+      "url": "https://money.udn.com/money/story/5612/9747991",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T10:01:44+08:00",
+      "listed_at": "2026-09-13T23:08:38.291589+08:00",
+      "last_checked_at": "2026-09-13T23:08:38.291589+08:00",
+      "language": "TW",
       "topics": [
         "美光產業"
       ],
