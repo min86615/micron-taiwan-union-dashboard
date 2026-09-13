@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-13T11:06:33.334027+08:00",
+    "generated_at": "2026-09-13T11:47:00.336716+08:00",
     "record_count": 208,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -1850,6 +1850,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0048",
+      "media": "財報狗",
+      "title": "美光逾 8 成台灣員工醞釀罷工 增添記憶體供應鏈變數",
+      "url": "https://statementdog.com/news/17567",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T00:02:00+08:00",
+      "listed_at": "2026-09-02T17:20:00+08:00",
+      "last_checked_at": "2026-09-03T17:22:09+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0108",
       "media": "Silicon Analysts",
       "title": "When Workers Strike Back: Micron Taiwan, Fab Wage Pressure, and the Political Economy of Semiconductor Labor",
@@ -1884,24 +1902,6 @@
       "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://news.cts.com.tw/cts/money/202609/202609033074607.html"
-    },
-    {
-      "id": "news-0048",
-      "media": "財報狗",
-      "title": "美光逾 8 成台灣員工醞釀罷工 增添記憶體供應鏈變數",
-      "url": "https://statementdog.com/news/17567",
-      "published_date": "2026-09-03",
-      "published_at": null,
-      "listed_at": "2026-09-02T17:20:00+08:00",
-      "last_checked_at": "2026-09-03T17:22:09+08:00",
-      "language": "TW",
-      "topics": [
-        "罷工",
-        "記憶體／HBM"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
     },
     {
       "id": "news-0063",
@@ -2170,6 +2170,23 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0047",
+      "media": "民報",
+      "title": "美光獲利創新高員工卻怒了 　台灣萬名員工醞釀罷工兩大訴求一次看",
+      "url": "https://peoplenews.tw/articles/economic-news/53190",
+      "published_date": "2026-09-02",
+      "published_at": "2026-09-02T12:40:32+08:00",
+      "listed_at": "2026-09-02T17:20:00+08:00",
+      "last_checked_at": "2026-09-02T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -2474,23 +2491,6 @@
       "status": "syndicated",
       "source_type": "aggregation",
       "duplicate_of": "https://cls.cn/detail/2471571"
-    },
-    {
-      "id": "news-0047",
-      "media": "民報",
-      "title": "美光獲利創新高員工卻怒了 　台灣萬名員工醞釀罷工兩大訴求一次看",
-      "url": "https://peoplenews.tw/articles/economic-news/53190",
-      "published_date": "2026-09-02",
-      "published_at": null,
-      "listed_at": "2026-09-02T17:20:00+08:00",
-      "last_checked_at": "2026-09-02T17:20:00+08:00",
-      "language": "TW",
-      "topics": [
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
     },
     {
       "id": "news-0006",
