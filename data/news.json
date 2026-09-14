@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T05:22:08.444604+08:00",
-    "record_count": 233,
+    "generated_at": "2026-09-15T07:05:36.173758+08:00",
+    "record_count": 234,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0234",
+      "media": "TechSpot",
+      "title": "Micron offered its Taiwan workers up to 68 months' pay. They turned it down within hours",
+      "url": "https://www.techspot.com/news/113837-micron-offered-taiwan-workers-up-68-months-pay.html",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T21:05:00+08:00",
+      "listed_at": "2026-09-15T07:03:40.186855+08:00",
+      "last_checked_at": "2026-09-15T07:03:40.186855+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
     {
       "id": "news-0230",
       "media": "Tom’s Hardware",
@@ -13,7 +30,7 @@
       "published_date": "2026-09-14",
       "published_at": "2026-09-14T20:00:00+08:00",
       "listed_at": "2026-09-15T01:05:48.556260+08:00",
-      "last_checked_at": "2026-09-15T01:05:48.556260+08:00",
+      "last_checked_at": "2026-09-15T07:03:40.186855+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -87,7 +104,7 @@
       "published_date": "2026-09-14",
       "published_at": "2026-09-14T14:33:33+08:00",
       "listed_at": "2026-09-14T17:06:48.791032+08:00",
-      "last_checked_at": "2026-09-14T21:03:34.127793+08:00",
+      "last_checked_at": "2026-09-15T07:03:40.186855+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -123,7 +140,7 @@
       "published_date": "2026-09-14",
       "published_at": null,
       "listed_at": "2026-09-15T05:05:26.819379+08:00",
-      "last_checked_at": "2026-09-15T05:05:26.819379+08:00",
+      "last_checked_at": "2026-09-15T07:03:40.186855+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
