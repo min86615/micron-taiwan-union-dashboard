@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T13:05:00.958359+08:00",
-    "record_count": 221,
+    "generated_at": "2026-09-14T15:07:22.578225+08:00",
+    "record_count": 223,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0223",
+      "media": "KuCoin／ChainCatcher",
+      "title": "Micron Announces Record Bonuses Amid Ongoing Labor Disputes in Taiwan",
+      "url": "https://www.kucoin.com/news/flash/micron-announces-record-bonuses-amid-ongoing-labor-disputes-in-taiwan",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "listed_at": "2026-09-14T15:06:44.515359+08:00",
+      "last_checked_at": "2026-09-14T15:06:44.515359+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chaincatcher.com/article/2289533"
+    },
+    {
+      "id": "news-0222",
+      "media": "ChainCatcher",
+      "title": "美光發放史上最高獎酬，台灣工會稱將繼續推動罷工",
+      "url": "https://www.chaincatcher.com/article/2289533",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "listed_at": "2026-09-14T15:06:44.515359+08:00",
+      "last_checked_at": "2026-09-14T15:06:44.515359+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0215",
       "media": "ad-hoc-news.de/boerse-global.de",
