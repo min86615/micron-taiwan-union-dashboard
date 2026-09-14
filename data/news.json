@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T21:04:22.609342+08:00",
+    "generated_at": "2026-09-14T22:02:52.165423+08:00",
     "record_count": 226,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -465,6 +465,23 @@
       "topics": [
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0188",
+      "media": "鉅亨網",
+      "title": "美光大手筆發獎酬！台灣員工每人百萬元感謝獎金 初階工程師平均薪酬340萬元",
+      "url": "https://news.cnyes.com/news/id/6604335",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T10:12:36+08:00",
+      "listed_at": "2026-09-11T19:04:20+08:00",
+      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -3007,6 +3024,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0169",
+      "media": "Newsquawk",
+      "title": "Micron's (MU) Taiwanese labour unions are reportedly moving toward a possible strike unless the Co. agrees to reform its bonus system",
+      "url": "https://www.newsquawk.com/headlines/microns-mu-taiwanese-labour-unions-are-reportedly-moving-toward-a-possible-strike-unless-the-co-agrees-to-reform-its-bonus-system",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T16:29:03+08:00",
+      "listed_at": "2026-09-08T21:44:31+08:00",
+      "last_checked_at": "2026-09-10T07:02:57.435120+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0066",
       "media": "Barron's",
       "title": "Micron’s Workers Are Threatening to Strike. What It Means for the Stock.",
@@ -4056,42 +4092,6 @@
       ],
       "status": "reported",
       "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0188",
-      "media": "鉅亨網",
-      "title": "美光大手筆發獎酬！台灣員工每人百萬元感謝獎金 初階工程師平均薪酬340萬元",
-      "url": "https://news.cnyes.com/news/id/6604335",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-09-11T19:04:20+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
-      "language": "TW",
-      "topics": [
-        "獎金／分紅"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0169",
-      "media": "Newsquawk",
-      "title": "Micron's (MU) Taiwanese labour unions are reportedly moving toward a possible strike unless the Co. agrees to reform its bonus system",
-      "url": "https://www.newsquawk.com/headlines/microns-mu-taiwanese-labour-unions-are-reportedly-moving-toward-a-possible-strike-unless-the-co-agrees-to-reform-its-bonus-system",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-09-08T21:44:31+08:00",
-      "last_checked_at": "2026-09-10T07:02:57.435120+08:00",
-      "language": "EN",
-      "topics": [
-        "工會／勞資",
-        "獎金／分紅",
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "analysis",
       "duplicate_of": null
     }
   ]
