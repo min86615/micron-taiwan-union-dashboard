@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T07:03:35.400884+08:00",
-    "record_count": 217,
+    "generated_at": "2026-09-14T09:09:31.802747+08:00",
+    "record_count": 220,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -160,6 +160,43 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0220",
+      "media": "NewsBreak／TradingKey",
+      "title": "Micron Taiwan Employees Get Up to 68 Months of Pay: Will Strike Risk Ease as HBM Supply Draws Focus?",
+      "url": "https://www.newsbreak.com/tradingkey-331884976/4880151937560-micron-taiwan-employees-get-up-to-68-months-of-pay-will-strike-risk-ease-as-hbm-supply-draws-focus",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T19:22:18+08:00",
+      "listed_at": "2026-09-14T09:09:17.077854+08:00",
+      "last_checked_at": "2026-09-14T09:09:17.077854+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0218",
+      "media": "警政時報／賴傳媒、記者爆料網",
+      "title": "美光發每人百萬獎酬！工會仍喊罷工：一次性獎金沒用",
+      "url": "https://www.tcpttw.com/other/other_industrial/2026/09/11/309540/",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T18:19:23+08:00",
+      "listed_at": "2026-09-14T09:09:17.077854+08:00",
+      "last_checked_at": "2026-09-14T09:09:17.077854+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/278115/"
     },
     {
       "id": "news-0214",
@@ -406,6 +443,24 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0219",
+      "media": "Moneycontrol／Reuters",
+      "title": "Up to 68 months’ pay: Micron unveils rewards for Taiwan workers as unions weigh strike",
+      "url": "https://www.moneycontrol.com/news/business/up-to-68-months-pay-micron-unveils-rewards-for-taiwan-workers-as-unions-weigh-strike-14027639.html",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "listed_at": "2026-09-14T09:09:17.077854+08:00",
+      "last_checked_at": "2026-09-14T09:09:17.077854+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0216",
