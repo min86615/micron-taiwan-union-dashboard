@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T23:04:52.693529+08:00",
-    "record_count": 227,
+    "generated_at": "2026-09-15T01:05:54.950898+08:00",
+    "record_count": 230,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0230",
+      "media": "Tom’s Hardware",
+      "title": "Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall — workers reject record payout package, demand 15% profit-sharing plan",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/micron-offers-taiwan-employees-usd31-650-cash-bonus-as-unions-threaten-strike-over-ai-windfall-workers-reject-record-payout-package-demand-15-percent-profit-sharing-plan",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T20:00:00+08:00",
+      "listed_at": "2026-09-15T01:05:48.556260+08:00",
+      "last_checked_at": "2026-09-15T01:05:48.556260+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0229",
+      "media": "搜狐／芯智訊",
+      "title": "史上最高奖金遭拒！美光台湾工会：拟继续罢工！",
+      "url": "https://sohu.com/a/1075919819_128469",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T17:25:00+08:00",
+      "listed_at": "2026-09-15T01:05:48.556260+08:00",
+      "last_checked_at": "2026-09-15T01:05:48.556260+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0226",
       "media": "新浪科技／快科技",
@@ -56,6 +92,24 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0228",
+      "media": "TradingKey",
+      "title": "美光台灣員工整體薪酬最高達68個月，仍未平息爭議，工會要求15%利潤分享",
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262166072-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T09:29:00+08:00",
+      "listed_at": "2026-09-15T01:05:48.556260+08:00",
+      "last_checked_at": "2026-09-15T01:05:48.556260+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
