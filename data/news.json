@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T22:02:52.165423+08:00",
-    "record_count": 226,
+    "generated_at": "2026-09-14T23:04:52.693529+08:00",
+    "record_count": 227,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -252,6 +252,24 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0227",
+      "media": "Yahoo Finance HK／Investing.com HK",
+      "title": "美光向中國台灣員工提供最高68個月獎金，罷工威脅陰雲未散",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%85%89%E5%90%91%E4%B8%AD%E5%9C%8B%E5%8F%B0%E7%81%A3%E5%93%A1%E5%B7%A5%E6%8F%90%E4%BE%9B%E6%9C%80%E9%AB%9868%E5%80%8B%E6%9C%88%E7%8D%8E%E9%87%91-%E7%BD%B7%E5%B7%A5%E5%A8%81%E8%84%85%E9%99%B0%E9%9B%B2%E6%9C%AA%E6%95%A3-122655549.html",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T20:26:00+08:00",
+      "listed_at": "2026-09-14T23:04:30+08:00",
+      "last_checked_at": "2026-09-14T23:04:30+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.investing.com/news/stock-market-news/micron-offers-taiwan-workers-up-to-68month-bonuses-as-strike-threat-looms-4897688"
     },
     {
       "id": "news-0220",
