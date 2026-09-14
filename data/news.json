@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T01:05:54.950898+08:00",
-    "record_count": 230,
+    "generated_at": "2026-09-15T05:22:08.444604+08:00",
+    "record_count": 233,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -114,6 +114,60 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0231",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光工會回擊公司以單次獎金帶風向　本週舉辦團結活動",
+      "url": "https://www.mirrormedia.mg/story/20260914-180fin-164235",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "listed_at": "2026-09-15T05:05:26.819379+08:00",
+      "last_checked_at": "2026-09-15T05:05:26.819379+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0232",
+      "media": "Yahoo新聞／太報 TaiSounds",
+      "title": "美光工會批公司「沒有誠信」　本週四將舉辦團結活動！強調不會停止罷工規劃",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E6%89%B9%E5%85%AC%E5%8F%B8-%E6%B2%92%E6%9C%89%E8%AA%A0%E4%BF%A1-%E6%9C%AC%E9%80%B1%E5%9B%9B%E5%B0%87%E8%88%89%E8%BE%A6%E5%9C%98%E7%B5%90%E6%B4%BB%E5%8B%95-%E5%BC%B7%E8%AA%BF%E4%B8%8D%E6%9C%83%E5%81%9C%E6%AD%A2%E7%BD%B7%E5%B7%A5%E8%A6%8F%E5%8A%83-063333094.html",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "listed_at": "2026-09-15T05:05:26.819379+08:00",
+      "last_checked_at": "2026-09-15T05:05:26.819379+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/288535"
+    },
+    {
+      "id": "news-0233",
+      "media": "LINE TODAY／鏡週刊 Mirror Media",
+      "title": "美光工會回擊公司以單次獎金帶風向　本週舉辦團結活動",
+      "url": "https://today.line.me/tw/v3/article/7Nva95P",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "listed_at": "2026-09-15T05:05:26.819379+08:00",
+      "last_checked_at": "2026-09-15T05:05:26.819379+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20260914-180fin-164235"
     },
     {
       "id": "news-0223",
