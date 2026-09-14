@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-14T09:09:31.802747+08:00",
-    "record_count": 220,
+    "generated_at": "2026-09-14T13:05:00.958359+08:00",
+    "record_count": 221,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -273,6 +273,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0221",
+      "media": "記者爆料網／賴傳媒",
+      "title": "美光最高68個月獎酬背後有原因？台灣工會醞釀罷工 首輪調解仍破局",
+      "url": "https://new-reporter.com/news/278077/",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T13:58:00+08:00",
+      "listed_at": "2026-09-14T13:04:19.345865+08:00",
+      "last_checked_at": "2026-09-14T13:04:19.345865+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0185",
       "media": "TVBS新聞網",
       "title": "獨／美光發每人百萬、最高68個月 員工轟「數字遊戲」：拿股票灌水",
@@ -367,7 +386,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:11:00+08:00",
       "listed_at": "2026-09-11T15:04:18.215906+08:00",
-      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
+      "last_checked_at": "2026-09-14T11:07:03.405063+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -522,7 +541,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
+      "last_checked_at": "2026-09-14T11:07:03.405063+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -539,7 +558,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T17:03:26.512096+08:00",
-      "last_checked_at": "2026-09-12T17:03:26.512096+08:00",
+      "last_checked_at": "2026-09-14T11:07:03.405063+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -607,7 +626,7 @@
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T17:03:26.512096+08:00",
-      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
+      "last_checked_at": "2026-09-14T11:07:03.405063+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
