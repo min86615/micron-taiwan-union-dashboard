@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T21:09:37.414205+08:00",
-    "record_count": 250,
+    "generated_at": "2026-09-15T23:06:44.279526+08:00",
+    "record_count": 253,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -55,6 +55,24 @@
         "工會／勞資",
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0252",
+      "media": "TaiwanPlus",
+      "title": "Union Reps Want Micron To Put 15% Profit-Sharing Program in Place",
+      "url": "https://www.taiwanplus.com/news/taiwan-news/labor-affairs/260915006/union-reps-want-micron-to-put-15percentage-profit-sharing-program-in-place",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T15:02:15+08:00",
+      "listed_at": "2026-09-15T23:06:38.605367+08:00",
+      "last_checked_at": "2026-09-15T23:06:38.605367+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -115,6 +133,42 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0251",
+      "media": "Rti 中央廣播電臺",
+      "title": "美光祭百萬獎金難平爭議 工會要求15%分潤、醞釀罷工",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=231924",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T11:31:00+08:00",
+      "listed_at": "2026-09-15T23:06:38.605367+08:00",
+      "last_checked_at": "2026-09-15T23:06:38.605367+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0253",
+      "media": "電子工程專輯 EETimes China",
+      "title": "拒绝68个月奖金，美光台湾工会拟继续罢工",
+      "url": "https://www.eet-china.com/news/202609155872.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-15T23:06:38.605367+08:00",
+      "last_checked_at": "2026-09-15T23:06:38.605367+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
     },
     {
       "id": "news-0249",
