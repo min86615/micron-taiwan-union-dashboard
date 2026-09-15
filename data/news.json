@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T07:05:36.173758+08:00",
-    "record_count": 234,
+    "generated_at": "2026-09-15T09:04:23.947198+08:00",
+    "record_count": 236,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -115,6 +115,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0235",
+      "media": "TradingKey",
+      "title": "Micron Taiwan Total Pay of Up to 68 Months Fails to Quell Dispute as Union Demands 15% Profit Sharing",
+      "url": "https://tradingkey.com/analysis/stocks/us-stocks/262166073-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T09:29:00+08:00",
+      "listed_at": "2026-09-15T09:04:10.541805+08:00",
+      "last_checked_at": "2026-09-15T09:04:10.541805+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262166072-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey"
+    },
+    {
       "id": "news-0228",
       "media": "TradingKey",
       "title": "美光台灣員工整體薪酬最高達68個月，仍未平息爭議，工會要求15%利潤分享",
@@ -131,6 +149,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0236",
+      "media": "Mitrade／TradingKey",
+      "title": "Micron Taiwan Total Pay of Up to 68 Months Fails to Quell Dispute as Union Demands 15% Profit Sharing",
+      "url": "https://www.mitrade.com/insights/news/live-news/article-8-2083500-20260914",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "listed_at": "2026-09-15T09:04:10.541805+08:00",
+      "last_checked_at": "2026-09-15T09:04:10.541805+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262166072-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey"
     },
     {
       "id": "news-0231",
