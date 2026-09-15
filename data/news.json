@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T03:06:57.395214+08:00",
-    "record_count": 257,
+    "generated_at": "2026-09-16T05:05:21.594180+08:00",
+    "record_count": 258,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0258",
+      "media": "Taipei Times／CNA",
+      "title": "Micron union nixes payout deal",
+      "url": "https://taipeitimes.com/News/biz/archives/2026/09/16/2003864321",
+      "published_date": "2026-09-16",
+      "published_at": null,
+      "listed_at": "2026-09-16T05:03:35.703355+08:00",
+      "last_checked_at": "2026-09-16T05:03:35.703355+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://focustaiwan.tw/business/202609150015"
+    },
     {
       "id": "news-0255",
       "media": "風傳媒",
