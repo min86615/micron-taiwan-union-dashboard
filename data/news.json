@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T19:06:30.715436+08:00",
-    "record_count": 246,
+    "generated_at": "2026-09-15T21:09:37.414205+08:00",
+    "record_count": 250,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0247",
+      "media": "Focus Taiwan／中央社 CNA",
+      "title": "Micron Taiwan union rejects one-time reward package",
+      "url": "https://focustaiwan.tw/business/202609150015",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T15:23:00+08:00",
+      "listed_at": "2026-09-15T21:09:23.582378+08:00",
+      "last_checked_at": "2026-09-15T21:09:23.582378+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0250",
+      "media": "The Star／Reuters",
+      "title": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/15/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-alive",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T15:06:00+08:00",
+      "listed_at": "2026-09-15T21:09:23.582378+08:00",
+      "last_checked_at": "2026-09-15T21:09:23.582378+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-2026-09-15"
+    },
     {
       "id": "news-0244",
       "media": "Newtalk新聞",
@@ -15,6 +51,25 @@
       "listed_at": "2026-09-15T19:05:43.274894+08:00",
       "last_checked_at": "2026-09-15T19:05:43.274894+08:00",
       "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0248",
+      "media": "Reuters",
+      "title": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive",
+      "url": "https://www.reuters.com/business/world-at-work/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-2026-09-15",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T14:17:00+08:00",
+      "listed_at": "2026-09-15T21:09:23.582378+08:00",
+      "last_checked_at": "2026-09-15T21:09:23.582378+08:00",
+      "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
@@ -59,6 +114,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0249",
+      "media": "TrendForce News",
+      "title": "[News] Micron Taiwan Union Reportedly Seeks 15% Profit Share After New Reward Plan; Warns of Strike Vote",
+      "url": "https://www.trendforce.com/news/2026/09/15/news-micron-taiwan-union-reportedly-seeks-15-profit-share-after-new-reward-plan-warns-of-strike-vote/",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-15T21:09:23.582378+08:00",
+      "last_checked_at": "2026-09-15T21:09:23.582378+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
