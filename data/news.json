@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T13:05:25.662990+08:00",
-    "record_count": 242,
+    "generated_at": "2026-09-15T13:07:20.490152+08:00",
+    "record_count": 243,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -394,6 +394,23 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0243",
+      "media": "Edgen",
+      "title": "Micron offers 68 months pay as union holds 15% profit demand",
+      "url": "https://edgen.tech/fr/news/post/micron-offers-68-months-pay-as-union-holds-15-profit-demand",
+      "published_date": "2026-09-12",
+      "published_at": null,
+      "listed_at": "2026-09-15T13:07:20.445504+08:00",
+      "last_checked_at": "2026-09-15T13:07:20.445504+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
