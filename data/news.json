@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T23:06:44.279526+08:00",
-    "record_count": 253,
+    "generated_at": "2026-09-16T03:04:05.604404+08:00",
+    "record_count": 257,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0255",
+      "media": "風傳媒",
+      "title": "台灣重演三星勞資風暴？美光發破百萬獎金 工會不買單「我們要分潤」：否則啟動罷工",
+      "url": "https://www.storm.mg/article/11164811",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T19:37:00+08:00",
+      "listed_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0247",
       "media": "Focus Taiwan／中央社 CNA",
@@ -17,6 +36,25 @@
       "language": "EN",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0254",
+      "media": "NOWnews今日新聞",
+      "title": "美光發100萬獎金仍難平爭議 工會喊15%分潤：談不攏恐罷工",
+      "url": "https://www.nownews.com/news/6875208",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T15:11:41+08:00",
+      "listed_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -152,6 +190,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0256",
+      "media": "PChome新聞／NOWnews",
+      "title": "美光百萬獎金難平息 工會喊15%分潤",
+      "url": "https://news.pchome.com.tw/finance/nownews/20260915/index-78945630144224207003.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.nownews.com/news/6875208"
     },
     {
       "id": "news-0253",
@@ -313,6 +369,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0257",
+      "media": "Infoseek／Reuters",
+      "title": "マイクロン、台湾従業員に最大68カ月分の賞与 労組は報酬制度変更要求",
+      "url": "https://news.infoseek.co.jp/article/14reutersJAPAN_KBN3V009T/",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T12:37:00+08:00",
+      "listed_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0238",
