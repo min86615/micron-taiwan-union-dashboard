@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T05:05:21.594180+08:00",
-    "record_count": 258,
+    "generated_at": "2026-09-16T07:10:50.772183+08:00",
+    "record_count": 264,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -49,7 +49,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:23:00+08:00",
       "listed_at": "2026-09-15T21:09:23.582378+08:00",
-      "last_checked_at": "2026-09-15T21:09:23.582378+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資"
@@ -141,12 +141,30 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T14:17:00+08:00",
       "listed_at": "2026-09-15T21:09:23.582378+08:00",
-      "last_checked_at": "2026-09-15T21:09:23.582378+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0259",
+      "media": "工商時報",
+      "title": "美光喊發68個月獎金！工會不買單籲建立15％分潤制度",
+      "url": "https://www.ctee.com.tw/news/20260915701365-431401",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T13:45:00+08:00",
+      "listed_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -209,6 +227,96 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0261",
+      "media": "鏡週刊 Mirror Media／Yahoo新聞",
+      "title": "美光釀罷工／工會出面批公司沒有誠信 拆解「薪酬68個月」話術",
+      "url": "https://tw.news.yahoo.com/%E7%BE8E%E5%85%89%E9%87%80%E7%BD%B7%E5%B7%A5-%E5%B7%A5%E6%9C%83%E5%87%BA%E9%9D%A2%E6%89%B9%E5%85%AC%E5%8F%B8%E6%B2%92%E6%9C%89%E8%AA%A0%E4%BF%A1-%E6%8B%86%E8%A7%A3-%E8%96%AA%E9%85%AC68%E5%80%8B%E6%9C%88-%E8%A9%B1%E8%A1%93-111900398.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0262",
+      "media": "知新聞 Knews／Yahoo股市",
+      "title": "台灣美光工會拒一次性百萬獎金！怒轟資方缺乏誠信　堅持營業利益15%制度化分潤",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E6%8B%92-%E6%AC%A1%E6%80%A7%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E6%80%92%E8%BD%9F%E8%B3%87%E6%96%B9%E7%BC%BA%E4%B9%8F%E8%AA%A0%E4%BF%A1-%E5%A0%85%E6%8C%81%E7%87%9F%E6%A5%AD%E5%88%A9%E7%9B%8A15-%E5%88%B6%E5%BA%A6%E5%8C%96%E5%88%86%E6%BD%A4-040300085.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0260",
+      "media": "工商時報／中央社 CNA",
+      "title": "台灣美光工會訴求營業利益15％分潤制 公司這樣回應",
+      "url": "https://www.ctee.com.tw/news/20260915701093-430501",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://focustaiwan.tw/business/202609150015"
+    },
+    {
+      "id": "news-0264",
+      "media": "Yahoo新聞／中國時報",
+      "title": "美光喊發68個月獎金！工會不買單籲建立15％分潤制度",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%96%8A%E7%99%BC68%E5%80%8B%E6%9C%88%E7%8D%8E%E9%87%91-%E5%B7%A5%E6%9C%83%E4%B8%8D%E8%B2%B7%E5%96%AE%E7%B1%B2%E5%BB%BA%E7%AB%8B15-%E5%88%86%E6%BD%A4%E5%88%B6%E5%BA%A6-055057974.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.ctee.com.tw/news/20260915701365-431401"
+    },
+    {
+      "id": "news-0263",
+      "media": "Yahoo新聞／NOWnews",
+      "title": "美光百萬獎金難平息　工會喊15%分潤",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91%E9%9B%A3%E5%B9%B3%E6%81%AF-%E5%B7%A5%E6%9C%83%E5%96%8A15-%E5%88%86%E6%BD%A4-071141793.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.nownews.com/news/6875208"
+    },
+    {
       "id": "news-0256",
       "media": "PChome新聞／NOWnews",
       "title": "美光百萬獎金難平息 工會喊15%分潤",
@@ -269,7 +377,7 @@
       "published_date": "2026-09-15",
       "published_at": null,
       "listed_at": "2026-09-15T13:05:17.236541+08:00",
-      "last_checked_at": "2026-09-15T13:05:17.236541+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -876,7 +984,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T16:01:00+08:00",
       "listed_at": "2026-09-13T15:09:15.632911+08:00",
-      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
+      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
