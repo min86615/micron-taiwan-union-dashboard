@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T09:04:23.947198+08:00",
-    "record_count": 236,
+    "generated_at": "2026-09-15T11:13:37.595126+08:00",
+    "record_count": 240,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -113,6 +113,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0238",
+      "media": "TradingKey 日本語",
+      "title": "台湾マイクロン、最大68か月分の総報酬も争議鎮静化に至らず　組合は15%の利益分配を要求",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262166076-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T09:29:55+00:00",
+      "listed_at": "2026-09-15T11:12:09.052687+08:00",
+      "last_checked_at": "2026-09-15T11:12:09.052687+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262166072-micron-taiwan-employee-compensation-68-months-union-profit-sharing-15-percent-tradingkey"
     },
     {
       "id": "news-0235",
@@ -470,6 +487,25 @@
       "duplicate_of": "https://new-reporter.com/news/278115/"
     },
     {
+      "id": "news-0239",
+      "media": "新頭條 TheHubNews／賴傳媒、記者爆料網",
+      "title": "美光發每人百萬獎酬！工會仍喊罷工：一次性獎金沒用",
+      "url": "https://www.thehubnews.net/archives/664247",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T17:37:00+08:00",
+      "listed_at": "2026-09-15T11:12:09.052687+08:00",
+      "last_checked_at": "2026-09-15T11:12:09.052687+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://new-reporter.com/news/278115/"
+    },
+    {
       "id": "news-0214",
       "media": "行銷人／轉載賴傳媒",
       "title": "美光發每人百萬獎酬！工會仍喊罷工：一次性獎金沒用",
@@ -544,6 +580,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0237",
+      "media": "网易订阅",
+      "title": "每人先发100万！美光发史上最高奖金，但68个月奖金仍让员工不满",
+      "url": "https://www.163.com/dy/article/L6IB0E5P0511DG68.html",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T15:41:42+08:00",
+      "listed_at": "2026-09-15T11:12:09.052687+08:00",
+      "last_checked_at": "2026-09-15T11:12:09.052687+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0221",
       "media": "記者爆料網／賴傳媒",
       "title": "美光最高68個月獎酬背後有原因？台灣工會醞釀罷工 首輪調解仍破局",
@@ -591,6 +644,23 @@
       "language": "EN",
       "topics": [
         "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0240",
+      "media": "The Straits Times／Reuters",
+      "title": "Micron set to reward engineers in Taiwan with $40,000 cash bonus",
+      "url": "https://www.straitstimes.com/business/micron-rewards-engineers-in-taiwan-with-40000-cash-bonus",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T13:10:00+08:00",
+      "listed_at": "2026-09-15T11:12:09.052687+08:00",
+      "last_checked_at": "2026-09-15T11:12:09.052687+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "syndicated",
       "source_type": "media",
