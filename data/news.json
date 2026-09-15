@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-15T11:13:37.595126+08:00",
-    "record_count": 240,
+    "generated_at": "2026-09-15T13:05:25.662990+08:00",
+    "record_count": 242,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0242",
+      "media": "電子工程專輯／深圳市中小企業公共服務平台",
+      "title": "拒绝68个月奖金，美光台湾工会拟继续罢工",
+      "url": "https://www.seccw.com/Document/detail/id/50210.html",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-15T13:05:17.236541+08:00",
+      "last_checked_at": "2026-09-15T13:05:17.236541+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0234",
       "media": "TechSpot",
@@ -696,6 +713,23 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0241",
+      "media": "鉅亨網",
+      "title": "AI記憶體大賺 美光台灣豪發最高68個月薪 每人最低拿170萬",
+      "url": "https://news.cnyes.com/news/id/6604349",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T11:20:02+08:00",
+      "listed_at": "2026-09-15T13:05:17.236541+08:00",
+      "last_checked_at": "2026-09-15T13:05:17.236541+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
