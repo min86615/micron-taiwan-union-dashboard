@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T19:04:40.259342+08:00",
-    "record_count": 271,
+    "generated_at": "2026-09-16T21:06:42.104440+08:00",
+    "record_count": 273,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -243,6 +243,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0273",
+      "media": "鏡週刊／鏡報 Mirror Daily",
+      "title": "美光工會最後通牒9/21前給分潤方案否則罷工　公司回應：持續傾聽並參與調解",
+      "url": "https://www.mirrormedia.mg/external/amp/mirrordaily_85787",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T12:16:00+08:00",
+      "listed_at": "2026-09-16T21:00:39+08:00",
+      "last_checked_at": "2026-09-16T21:00:39+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.mirrordaily.news/story/85787"
+    },
+    {
       "id": "news-0245",
       "media": "鏡報 Mirror Daily",
       "title": "美光工會最後通牒9/21前給分潤方案否則罷工 公司回應：持續傾聽並參與調解",
@@ -314,6 +333,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0272",
+      "media": "TVBS新聞網",
+      "title": "美光砸百萬獎金仍滅不了罷工火　工會轟：別再摸頭、給合理分潤",
+      "url": "https://news.tvbs.com.tw/money/4022383",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T21:00:39+08:00",
+      "last_checked_at": "2026-09-16T21:00:39+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0271",
