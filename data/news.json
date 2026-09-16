@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-17T03:08:44.199844+08:00",
-    "record_count": 281,
+    "generated_at": "2026-09-17T05:06:35.160278+08:00",
+    "record_count": 282,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0282",
+      "media": "Taiwan News",
+      "title": "Micron Taiwan union threatens strike over profit-sharing plan",
+      "url": "https://taiwannews.com.tw/en/news/6440963",
+      "published_date": "2026-09-16",
+      "published_at": "2026-09-16T18:53:00+08:00",
+      "listed_at": "2026-09-17T05:06:26.824479+08:00",
+      "last_checked_at": "2026-09-17T05:06:26.824479+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0275",
       "media": "Seoul Economic Daily",
