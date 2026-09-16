@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T11:07:13.020403+08:00",
-    "record_count": 267,
+    "generated_at": "2026-09-16T17:06:44.814167+08:00",
+    "record_count": 270,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -36,6 +36,23 @@
         "工會／勞資",
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0268",
+      "media": "8world",
+      "title": "美光工会踢爆“68个月奖金”话术 质疑算法拒领并酝酿罢工",
+      "url": "https://www.8world.com/greater-china/micron-union-challenges-68-month-bonus-claim-3279571",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T15:44:36+08:00",
+      "listed_at": "2026-09-16T17:02:03.331815+08:00",
+      "last_checked_at": "2026-09-16T17:02:03.331815+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -95,6 +112,25 @@
       "status": "syndicated",
       "source_type": "syndicated_copy",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-2026-09-15"
+    },
+    {
+      "id": "news-0269",
+      "media": "Newtalk／LINE TODAY",
+      "title": "「68個月薪酬」還滅不了火！ 美光工會不買單：營利分潤15%、罷工照準備",
+      "url": "https://today.line.me/tw/v3/article/QwlpVOe",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T15:03:20+08:00",
+      "listed_at": "2026-09-16T17:02:03.331815+08:00",
+      "last_checked_at": "2026-09-16T17:02:03.331815+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0244",
@@ -184,6 +220,23 @@
         "工會／勞資",
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0270",
+      "media": "Business Standard",
+      "title": "Micron workers reject 68 months' pay, seek share of AI boom profits instead",
+      "url": "https://www.business-standard.com/amp/world-news/micron-workers-reject-68-months-pay-seek-share-of-ai-boom-profits-instead-126091500413_1.html",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T12:54:00+05:30",
+      "listed_at": "2026-09-16T17:02:03.331815+08:00",
+      "last_checked_at": "2026-09-16T17:02:03.331815+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
