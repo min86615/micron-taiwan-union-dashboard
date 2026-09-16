@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T09:08:24.765975+08:00",
-    "record_count": 266,
+    "generated_at": "2026-09-16T11:06:03.258723+08:00",
+    "record_count": 267,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -261,6 +261,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0267",
+      "media": "東森新聞",
+      "title": "美光祭百萬獎金 工會不滿喊15%分潤！釀醬罷工｜東森新聞",
+      "url": "https://news.ebc.net.tw/news/business/571358",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T11:06:03.215708+08:00",
+      "last_checked_at": "2026-09-16T11:06:03.215708+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0266",
