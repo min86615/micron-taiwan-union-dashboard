@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T17:06:44.814167+08:00",
-    "record_count": 270,
+    "generated_at": "2026-09-16T19:04:40.259342+08:00",
+    "record_count": 271,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -49,7 +49,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:44:36+08:00",
       "listed_at": "2026-09-16T17:02:03.331815+08:00",
-      "last_checked_at": "2026-09-16T17:02:03.331815+08:00",
+      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -269,7 +269,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:10:09+08:00",
       "listed_at": "2026-09-15T19:05:43.274894+08:00",
-      "last_checked_at": "2026-09-15T19:05:43.274894+08:00",
+      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -306,7 +306,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T09:40:50+08:00",
       "listed_at": "2026-09-15T23:06:38.605367+08:00",
-      "last_checked_at": "2026-09-15T23:06:38.605367+08:00",
+      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -314,6 +314,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0271",
+      "media": "動區動趨 BlockTempo",
+      "title": "美光「68 個月」獎金灌水話術？工會下最後通牒：9/21 前不給 15% 分潤就啟動罷工投票",
+      "url": "https://www.blocktempo.com/micron-taiwan-union-rejects-68-month-bonus-demands-15-percent/",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-16T19:04:32.151251+08:00",
+      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0267",
@@ -2157,7 +2176,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:56:07+08:00",
       "listed_at": "2026-09-08T23:05:03+08:00",
-      "last_checked_at": "2026-09-15T17:01:30+08:00",
+      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
