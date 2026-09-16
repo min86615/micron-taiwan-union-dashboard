@@ -1,10 +1,64 @@
 {
   "summary": {
-    "generated_at": "2026-09-16T21:06:42.104440+08:00",
-    "record_count": 273,
+    "generated_at": "2026-09-17T01:08:06.354698+08:00",
+    "record_count": 281,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0275",
+      "media": "Seoul Economic Daily",
+      "title": "Micron Union in Taiwan Rejects Record Bonus, Demands Profit Sharing",
+      "url": "https://en.sedaily.com/international/2026/09/16/micron-union-in-taiwan-rejects-record-bonus-demands-profit",
+      "published_date": "2026-09-16",
+      "published_at": "2026-09-16T14:54:34+09:00",
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0274",
+      "media": "SBS News (English)",
+      "title": "Give Us Like Samsung and SK Hynix! Micron Faces Strike Threat Over Profit-Sharing Demands",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008755820",
+      "published_date": "2026-09-16",
+      "published_at": "2026-09-16T11:33:00+09:00",
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0276",
+      "media": "The Herald Business",
+      "title": "Micron offers record compensation, but Taiwan union rejects it — threatens strike unless 15% of operating profit shared",
+      "url": "https://biz.heraldcorp.com/article/10875223",
+      "published_date": "2026-09-16",
+      "published_at": "2026-09-16T10:25:24+09:00",
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0258",
       "media": "Taipei Times／CNA",
@@ -335,6 +389,24 @@
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
     },
     {
+      "id": "news-0278",
+      "media": "中央社 CNA",
+      "title": "台灣美光工會：盼營業利益15%分潤制　不要一次性獎金",
+      "url": "https://www.cna.com.tw/news/afe/202609150087.aspx",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "translation_or_syndication",
+      "duplicate_of": "https://focustaiwan.tw/business/202609150015"
+    },
+    {
       "id": "news-0272",
       "media": "TVBS新聞網",
       "title": "美光砸百萬獎金仍滅不了罷工火　工會轟：別再摸頭、給合理分潤",
@@ -660,6 +732,42 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0279",
+      "media": "Yahoo!ニュース／Reuters Japan",
+      "title": "マイクロン、台湾従業員に最大68カ月分の賞与　労組は報酬制度変更要求",
+      "url": "https://news.yahoo.co.jp/articles/f1eb2d5367d6f406b1e3b444386831b1d13ab64c",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T13:37:00+09:00",
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "translation_or_syndication",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0280",
+      "media": "Infoseek／Reuters Japan",
+      "title": "マイクロン、台湾従業員に最大68カ月分の賞与　労組は報酬制度変更要求",
+      "url": "https://news.infoseek.co.jp/topics/14reutersJAPAN_KBN3V009T",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T13:37:00+09:00",
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "translation_or_syndication",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0257",
@@ -1281,6 +1389,23 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0277",
+      "media": "TradingKey",
+      "title": "美光台湾员工最高获68个月薪资，罢工风险能否缓解？HBM供应受关注",
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262163332-micron-taiwan-employees-68-months-salary-strike-risk-hbm-supply-tradingkey",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T11:22:00+08:00",
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "SC",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
@@ -3945,6 +4070,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0281",
+      "media": "TradingView／Reuters",
+      "title": "マイクロンの台湾労組、賞与巡る争議でストを予告",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N44T0OR:0",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "listed_at": "2026-09-17T01:05:50.513204+08:00",
+      "last_checked_at": "2026-09-17T01:05:50.513204+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "translation_or_syndication",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01"
+    },
+    {
       "id": "news-0105",
       "media": "Yahoo Finance／Benzinga",
       "title": "Micron’s Largest Production Base Faces Strike Over 83 Months’ Pay",
@@ -4080,7 +4224,7 @@
       "published_date": "2026-09-01",
       "published_at": null,
       "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-14T01:03:57.296663+08:00",
+      "last_checked_at": "2026-09-17T01:08:06.294849+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
