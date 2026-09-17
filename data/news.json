@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-17T17:07:37.449466+08:00",
-    "record_count": 287,
+    "generated_at": "2026-09-17T19:06:55.101091+08:00",
+    "record_count": 289,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -404,6 +404,40 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0288",
+      "media": "鏡報 Mirror Daily",
+      "title": "踢爆公司「爽領68個月」公關話術！美光工會怒揭真相 要制度化15%分潤、拒絕摸頭",
+      "url": "https://www.mirrordaily.news/story/85776",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T11:59:00+08:00",
+      "listed_at": "2026-09-17T19:06:50.362035+08:00",
+      "last_checked_at": "2026-09-17T19:06:50.362035+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0289",
+      "media": "Yahoo新聞／鏡報 Mirror Daily",
+      "title": "踢爆公司「爽領68個月」公關話術！美光工會怒揭真相 要制度化15%分潤、拒絕摸頭",
+      "url": "https://tw.news.yahoo.com/%E8%B8%A2%E7%88%86%E5%85%AC%E5%8F%B8-%E7%88%BD%E9%A0%9868%E5%80%8B%E6%9C%88-%E5%85%AC%E9%97%9C%E8%A9%B1%E8%A1%93-%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E6%80%92%E6%8F%AD%E7%9C%9F%E7%9B%B8-%E8%A6%81%E5%88%B6%E5%BA%A6%E5%8C%9615-035900715.html",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T11:59:00+08:00",
+      "listed_at": "2026-09-17T19:06:50.362035+08:00",
+      "last_checked_at": "2026-09-17T19:06:50.362035+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.mirrordaily.news/story/85776"
     },
     {
       "id": "news-0251",
