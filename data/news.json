@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-18T05:06:06.245595+08:00",
-    "record_count": 295,
+    "generated_at": "2026-09-18T07:03:45.979197+08:00",
+    "record_count": 296,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-09-17",
       "published_at": "2026-09-17T23:24:00+08:00",
       "listed_at": "2026-09-18T05:04:50.099383+08:00",
-      "last_checked_at": "2026-09-18T05:04:50.099383+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅"
@@ -30,7 +30,7 @@
       "published_date": "2026-09-17",
       "published_at": "2026-09-17T22:18:00+08:00",
       "listed_at": "2026-09-18T05:04:50.099383+08:00",
-      "last_checked_at": "2026-09-18T05:04:50.099383+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅",
@@ -244,7 +244,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:11:41+08:00",
       "listed_at": "2026-09-16T03:02:26+08:00",
-      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -447,7 +447,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:16:00+08:00",
       "listed_at": "2026-09-16T21:00:39+08:00",
-      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -466,7 +466,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:16:00+08:00",
       "listed_at": "2026-09-15T19:05:43.274894+08:00",
-      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -537,7 +537,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T11:31:00+08:00",
       "listed_at": "2026-09-15T23:06:38.605367+08:00",
-      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -564,6 +564,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0296",
+      "media": "SRN News／Reuters",
+      "title": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive",
+      "url": "https://srnnews.com/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-alive",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-18T07:03:37.159617+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-2026-09-15"
     },
     {
       "id": "news-0291",
@@ -793,7 +812,7 @@
       "published_date": "2026-09-15",
       "published_at": null,
       "listed_at": "2026-09-16T07:09:04.600785+08:00",
-      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -811,7 +830,7 @@
       "published_date": "2026-09-15",
       "published_at": null,
       "listed_at": "2026-09-16T03:02:26+08:00",
-      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -2533,7 +2552,7 @@
       "published_date": "2026-09-05",
       "published_at": "2026-09-05T02:25:00+08:00",
       "listed_at": "2026-09-05T09:03:16+08:00",
-      "last_checked_at": "2026-09-14T21:03:34.127793+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -2570,7 +2589,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T21:15:00+08:00",
       "listed_at": "2026-09-05T03:02:51+08:00",
-      "last_checked_at": "2026-09-13T21:04:54.009281+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -2607,7 +2626,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:46:00+08:00",
       "listed_at": "2026-09-04T23:00:30+08:00",
-      "last_checked_at": "2026-09-14T21:03:34.127793+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -2949,7 +2968,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-10T17:06:36+08:00",
-      "last_checked_at": "2026-09-14T21:03:34.127793+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "罷工",
@@ -3005,7 +3024,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-05T13:00:43+08:00",
-      "last_checked_at": "2026-09-14T21:03:34.127793+08:00",
+      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
       "language": "TW",
       "topics": [
         "罷工",
