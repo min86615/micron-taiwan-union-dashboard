@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-09-17T21:09:15.725328+08:00",
-    "record_count": 292,
+    "generated_at": "2026-09-18T05:06:06.245595+08:00",
+    "record_count": 295,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0295",
+      "media": "France 24／AFP",
+      "title": "Micron’s Taiwan workers say 68 months’ bonus not enough",
+      "url": "https://www.france24.com/en/live-news/20260917-micron-s-taiwan-workers-say-68-months-bonus-not-enough",
+      "published_date": "2026-09-17",
+      "published_at": "2026-09-17T23:24:00+08:00",
+      "listed_at": "2026-09-18T05:04:50.099383+08:00",
+      "last_checked_at": "2026-09-18T05:04:50.099383+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/microns-taiwan-workers-threaten-strike-say-up-to-68-months-bonus-not-enough"
+    },
+    {
+      "id": "news-0293",
+      "media": "The Straits Times／AFP",
+      "title": "Micron’s Taiwan workers threaten strike, say up to 68 months’ bonus not enough",
+      "url": "https://www.straitstimes.com/asia/east-asia/microns-taiwan-workers-threaten-strike-say-up-to-68-months-bonus-not-enough",
+      "published_date": "2026-09-17",
+      "published_at": "2026-09-17T22:18:00+08:00",
+      "listed_at": "2026-09-18T05:04:50.099383+08:00",
+      "last_checked_at": "2026-09-18T05:04:50.099383+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0283",
       "media": "Mirror Media",
@@ -309,6 +344,24 @@
         "工會／勞資",
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0294",
+      "media": "自由財經",
+      "title": "台灣美光工會不滿獎金取代制度改革 要求營業利益15％分潤制",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5574529",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T14:02:00+08:00",
+      "listed_at": "2026-09-18T05:04:50.099383+08:00",
+      "last_checked_at": "2026-09-18T05:04:50.099383+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
