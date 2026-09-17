@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-17T13:08:17.121150+08:00",
+    "generated_at": "2026-09-17T17:07:37.449466+08:00",
     "record_count": 287,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -395,7 +395,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:10:09+08:00",
       "listed_at": "2026-09-15T19:05:43.274894+08:00",
-      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
+      "last_checked_at": "2026-09-17T17:07:24+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -542,7 +542,7 @@
       "published_date": "2026-09-15",
       "published_at": null,
       "listed_at": "2026-09-16T11:06:03.215708+08:00",
-      "last_checked_at": "2026-09-16T11:06:03.215708+08:00",
+      "last_checked_at": "2026-09-17T17:07:24+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -598,7 +598,7 @@
       "published_date": "2026-09-15",
       "published_at": null,
       "listed_at": "2026-09-16T07:09:04.600785+08:00",
-      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-17T17:07:24+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1540,7 +1540,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T10:45:00+08:00",
       "listed_at": "2026-09-11T13:04:47.005289+08:00",
-      "last_checked_at": "2026-09-14T07:03:35.348319+08:00",
+      "last_checked_at": "2026-09-17T17:07:24+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -2484,7 +2484,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:38:45+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-04T19:00:26+08:00",
+      "last_checked_at": "2026-09-17T17:07:24+08:00",
       "language": "TW",
       "topics": [
         "罷工",
