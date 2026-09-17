@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-17T19:06:55.101091+08:00",
-    "record_count": 289,
+    "generated_at": "2026-09-17T21:09:15.725328+08:00",
+    "record_count": 292,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -113,6 +113,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0292",
+      "media": "放言 Fount Media",
+      "title": "美光祭史上最高獎金仍壓不住工會！台灣員工要求固定分15％營業利益　9月18、21日成罷工談判關卡",
+      "url": "https://www.fountmedia.io/article/424782",
+      "published_date": "2026-09-16",
+      "published_at": "2026-09-16T07:01:00+08:00",
+      "listed_at": "2026-09-17T21:09:04.055220+08:00",
+      "last_checked_at": "2026-09-17T21:09:04.055220+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0258",
       "media": "Taipei Times／CNA",
       "title": "Micron union nixes payout deal",
@@ -156,7 +175,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:44:36+08:00",
       "listed_at": "2026-09-16T17:02:03.331815+08:00",
-      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
+      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -321,7 +340,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T13:41:45+08:00",
       "listed_at": "2026-09-16T09:07:00.980849+08:00",
-      "last_checked_at": "2026-09-16T09:07:00.980849+08:00",
+      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -350,6 +369,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0290",
+      "media": "緯來新聞網",
+      "title": "台灣美光工會：一次性獎金無法解決問題、盼15％分潤 公司回應了！",
+      "url": "https://news.videoland.com.tw/article/697d8211-063b-40c8-9397-96eec9bbea70.html",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T12:51:00+08:00",
+      "listed_at": "2026-09-17T21:09:04.055220+08:00",
+      "last_checked_at": "2026-09-17T21:09:04.055220+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0273",
       "media": "鏡週刊／鏡報 Mirror Daily",
       "title": "美光工會最後通牒9/21前給分潤方案否則罷工　公司回應：持續傾聽並參與調解",
@@ -357,7 +394,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:16:00+08:00",
       "listed_at": "2026-09-16T21:00:39+08:00",
-      "last_checked_at": "2026-09-16T21:00:39+08:00",
+      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -376,7 +413,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:16:00+08:00",
       "listed_at": "2026-09-15T19:05:43.274894+08:00",
-      "last_checked_at": "2026-09-15T19:05:43.274894+08:00",
+      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -447,7 +484,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T11:31:00+08:00",
       "listed_at": "2026-09-15T23:06:38.605367+08:00",
-      "last_checked_at": "2026-09-15T23:06:38.605367+08:00",
+      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -474,6 +511,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0291",
+      "media": "太報 TaiSounds",
+      "title": "工會籲美光建立15%分潤制　強調「一次性獎金不能解決問題」",
+      "url": "https://www.taisounds.com/news/content/76/288702",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-17T21:09:04.055220+08:00",
+      "last_checked_at": "2026-09-17T21:09:04.055220+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0286",
