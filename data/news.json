@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-17T07:06:46.588970+08:00",
-    "record_count": 284,
+    "generated_at": "2026-09-17T13:08:17.121150+08:00",
+    "record_count": 287,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -442,6 +442,43 @@
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
     },
     {
+      "id": "news-0286",
+      "media": "LINE TODAY／鏡報",
+      "title": "美光工會最後通牒9/21前給分潤方案否則罷工 公司回應：持續傾聽並參與調解",
+      "url": "https://today.line.me/tw/v3/article/LXyW0zM",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-17T13:01:00+08:00",
+      "last_checked_at": "2026-09-17T13:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/85787"
+    },
+    {
+      "id": "news-0287",
+      "media": "LINE TODAY／Reuters",
+      "title": "美光台灣工會堅持分潤訴求，持續籌備罷工",
+      "url": "https://today.line.me/tw/v3/article/x2ERZX6",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-17T13:01:00+08:00",
+      "last_checked_at": "2026-09-17T13:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-2026-09-15"
+    },
+    {
       "id": "news-0278",
       "media": "中央社 CNA",
       "title": "台灣美光工會：盼營業利益15%分潤制　不要一次性獎金",
@@ -712,6 +749,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0285",
+      "media": "騰訊新聞／芯智訊",
+      "title": "史上最高奖金遭拒！美光台湾工会：拟继续罢工！",
+      "url": "https://news.qq.com/rain/a/20260914A0B3CU00",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T17:25:00+08:00",
+      "listed_at": "2026-09-17T13:01:00+08:00",
+      "last_checked_at": "2026-09-17T13:01:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://sohu.com/a/1075919819_128469"
     },
     {
       "id": "news-0229",
