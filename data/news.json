@@ -1,10 +1,44 @@
 {
   "summary": {
-    "generated_at": "2026-09-18T23:05:26.862403+08:00",
-    "record_count": 297,
+    "generated_at": "2026-09-19T03:07:55.770682+08:00",
+    "record_count": 299,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0298",
+      "media": "EDAILY",
+      "title": "Risk of Micron Strike Mounts… Will Samsung and SK Gain Stronger Bargaining Power?",
+      "url": "https://en.edaily.co.kr/news/eda202609185564/",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T15:33:47+08:00",
+      "listed_at": "2026-09-19T03:07:51.681743+08:00",
+      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0299",
+      "media": "BusinessToday.in",
+      "title": "Micron workers want 83 months’ salary, reject company’s 68-month bonus offer as AI boom boosts profits",
+      "url": "https://www.businesstoday.in/world/story/micron-workers-want-83-months-salary-reject-companys-68-month-bonus-offer-as-ai-boom-boosts-profits-556309-2026-09-18",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T07:30:05+08:00",
+      "listed_at": "2026-09-19T03:07:51.681743+08:00",
+      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/microns-taiwan-workers-threaten-strike-say-up-to-68-months-bonus-not-enough"
+    },
     {
       "id": "news-0297",
       "media": "BusinessToday.in",
@@ -13,7 +47,7 @@
       "published_date": "2026-09-18",
       "published_at": "2026-09-18T04:05:00+08:00",
       "listed_at": "2026-09-18T09:03:23.975257+08:00",
-      "last_checked_at": "2026-09-18T09:03:23.975257+08:00",
+      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -410,7 +444,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T13:41:45+08:00",
       "listed_at": "2026-09-16T09:07:00.980849+08:00",
-      "last_checked_at": "2026-09-18T23:04:30.050395+08:00",
+      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -464,7 +498,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:16:00+08:00",
       "listed_at": "2026-09-16T21:00:39+08:00",
-      "last_checked_at": "2026-09-18T07:03:37.159617+08:00",
+      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -573,7 +607,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T09:40:50+08:00",
       "listed_at": "2026-09-15T23:06:38.605367+08:00",
-      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
+      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
