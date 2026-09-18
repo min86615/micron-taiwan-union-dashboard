@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-18T07:03:45.979197+08:00",
-    "record_count": 296,
+    "generated_at": "2026-09-18T09:04:29.373499+08:00",
+    "record_count": 297,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0297",
+      "media": "BusinessToday.in",
+      "title": "Micron workers reject 68 months’ pay, demand 15% of AI boom profits",
+      "url": "https://www.businesstoday.in/jobs/story/micron-workers-reject-68-months-pay-demand-15-of-ai-boom-profits-556192-2026-09-18",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T04:05:00+08:00",
+      "listed_at": "2026-09-18T09:03:23.975257+08:00",
+      "last_checked_at": "2026-09-18T09:03:23.975257+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0295",
       "media": "France 24／AFP",
