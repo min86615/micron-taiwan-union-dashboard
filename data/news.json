@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-19T15:07:35.333037+08:00",
-    "record_count": 302,
+    "generated_at": "2026-09-19T17:04:32.892213+08:00",
+    "record_count": 305,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,64 @@
       "topics": [
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0303",
+      "media": "中央社 CNA",
+      "title": "美光勞資首場調解破冰　承諾不秋後算帳10/22再開會",
+      "url": "https://www.cna.com.tw/news/afe/202609190065.aspx",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T11:28:00+08:00",
+      "listed_at": "2026-09-19T17:04:25.566806+08:00",
+      "last_checked_at": "2026-09-19T17:04:25.566806+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0305",
+      "media": "太報／LINE TODAY",
+      "title": "美光罷工有解？勞資召開首次調解會　討論獎金制度、禁秋後算帳等議題",
+      "url": "https://today.line.me/tw/v3/article/x2E88Le",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T10:57:00+08:00",
+      "listed_at": "2026-09-19T17:04:25.566806+08:00",
+      "last_checked_at": "2026-09-19T17:04:25.566806+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/289517"
+    },
+    {
+      "id": "news-0304",
+      "media": "太報 Taisounds",
+      "title": "美光罷工有解？勞資召開首次調解會 討論獎金制度、禁秋後算帳等議題",
+      "url": "https://www.taisounds.com/news/content/76/289517",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T10:57:00+08:00",
+      "listed_at": "2026-09-19T17:04:25.566806+08:00",
+      "last_checked_at": "2026-09-19T17:04:25.566806+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
