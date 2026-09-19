@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-20T01:07:03.837893+08:00",
-    "record_count": 310,
+    "generated_at": "2026-09-20T05:04:15.322001+08:00",
+    "record_count": 311,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -76,6 +76,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202609190065.aspx"
+    },
+    {
+      "id": "news-0311",
+      "media": "自由財經 LTN Finance",
+      "title": "美光與工會首場調解落幕 雙方同意10/22再協商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5579087",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T11:33:00+08:00",
+      "listed_at": "2026-09-20T05:03:32.403649+08:00",
+      "last_checked_at": "2026-09-20T05:03:32.403649+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0303",
