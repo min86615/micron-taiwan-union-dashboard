@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-19T23:09:52.843306+08:00",
-    "record_count": 307,
+    "generated_at": "2026-09-20T01:07:03.837893+08:00",
+    "record_count": 310,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0309",
+      "media": "UDN/Economic Daily",
+      "title": "美光首次勞資調解落幕！10月22日再次協商 討論獎酬與獎金制度架構",
+      "url": "https://udn.com/news/story/7240/9764930",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T15:48:24+08:00",
+      "listed_at": "2026-09-20T01:05:50.157759+08:00",
+      "last_checked_at": "2026-09-20T01:05:50.157759+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0307",
       "media": "中央廣播電臺 RTI",
@@ -41,6 +60,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0310",
+      "media": "UDN/CNA",
+      "title": "美光勞資首場調解破冰 承諾不秋後算帳10/22再開會",
+      "url": "https://money.udn.com/money/story/5612/9764581",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T11:36:50+08:00",
+      "listed_at": "2026-09-20T01:05:50.157759+08:00",
+      "last_checked_at": "2026-09-20T01:05:50.157759+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202609190065.aspx"
+    },
+    {
       "id": "news-0303",
       "media": "中央社 CNA",
       "title": "美光勞資首場調解破冰　承諾不秋後算帳10/22再開會",
@@ -53,6 +90,23 @@
       "topics": [
         "工會／勞資",
         "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0308",
+      "media": "CNYES",
+      "title": "美光勞資談判觸及三議題 10/22再舉行第二次會議",
+      "url": "https://news.cnyes.com/news/id/6610827",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T11:00:42+08:00",
+      "listed_at": "2026-09-20T01:05:50.157759+08:00",
+      "last_checked_at": "2026-09-20T01:05:50.157759+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
