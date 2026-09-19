@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-19T17:04:32.892213+08:00",
-    "record_count": 305,
+    "generated_at": "2026-09-19T23:09:52.843306+08:00",
+    "record_count": 307,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0307",
+      "media": "中央廣播電臺 RTI",
+      "title": "勞資破冰 美光承諾不秋後算帳 10月再協商",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=232795",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T12:35:55+08:00",
+      "listed_at": "2026-09-19T23:07:34.914578+08:00",
+      "last_checked_at": "2026-09-19T23:07:34.914578+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0302",
       "media": "Mothership.SG",
@@ -31,7 +48,7 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T11:28:00+08:00",
       "listed_at": "2026-09-19T17:04:25.566806+08:00",
-      "last_checked_at": "2026-09-19T17:04:25.566806+08:00",
+      "last_checked_at": "2026-09-19T23:07:34.914578+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -69,12 +86,30 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T10:57:00+08:00",
       "listed_at": "2026-09-19T17:04:25.566806+08:00",
-      "last_checked_at": "2026-09-19T17:04:25.566806+08:00",
+      "last_checked_at": "2026-09-19T23:07:34.914578+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
         "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0306",
+      "media": "鏡報 Mirror Daily",
+      "title": "美光進行首次勞資調解會議 強調不秋後算帳、10月22日再舉行二次會議",
+      "url": "https://www.mirrordaily.news/story/86647",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T09:45:00+08:00",
+      "listed_at": "2026-09-19T23:07:34.914578+08:00",
+      "last_checked_at": "2026-09-19T23:07:34.914578+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "勞資調解"
       ],
       "status": "reported",
