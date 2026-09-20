@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-20T09:05:13.156790+08:00",
-    "record_count": 311,
+    "generated_at": "2026-09-20T11:06:44.291324+08:00",
+    "record_count": 312,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1537,6 +1537,23 @@
       "status": "syndicated",
       "source_type": "syndicated_media",
       "duplicate_of": "https://www.chinatimes.com/newspapers/20260912000214-260202"
+    },
+    {
+      "id": "news-0312",
+      "media": "自由財經",
+      "title": "美光史上最高獎酬》台灣廠每人發百萬感謝金 初階工程師年薪拚340萬",
+      "url": "https://ec.ltn.com.tw/article/paper/1770299",
+      "published_date": "2026-09-12",
+      "published_at": "2026-09-12T05:30:00+08:00",
+      "listed_at": "2026-09-20T11:05:51.007548+08:00",
+      "last_checked_at": "2026-09-20T11:05:51.007548+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0212",
