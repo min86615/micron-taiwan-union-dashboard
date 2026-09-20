@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-20T17:06:01.203529+08:00",
+    "generated_at": "2026-09-20T19:04:45.410769+08:00",
     "record_count": 313,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -13,7 +13,7 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T15:48:24+08:00",
       "listed_at": "2026-09-20T01:05:50.157759+08:00",
-      "last_checked_at": "2026-09-20T01:05:50.157759+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -121,7 +121,7 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T11:00:42+08:00",
       "listed_at": "2026-09-20T01:05:50.157759+08:00",
-      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -215,7 +215,7 @@
       "published_date": "2026-09-18",
       "published_at": "2026-09-18T23:04:16+08:00",
       "listed_at": "2026-09-20T15:05:00+08:00",
-      "last_checked_at": "2026-09-20T15:05:00+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -680,7 +680,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T13:41:45+08:00",
       "listed_at": "2026-09-16T09:07:00.980849+08:00",
-      "last_checked_at": "2026-09-20T07:04:19+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -790,7 +790,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:09:44+08:00",
       "listed_at": "2026-09-16T21:00:39+08:00",
-      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -809,7 +809,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T11:59:00+08:00",
       "listed_at": "2026-09-17T19:06:50.362035+08:00",
-      "last_checked_at": "2026-09-17T19:06:50.362035+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -826,7 +826,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T11:59:00+08:00",
       "listed_at": "2026-09-17T19:06:50.362035+08:00",
-      "last_checked_at": "2026-09-18T17:03:01.765038+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -843,7 +843,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T11:31:00+08:00",
       "listed_at": "2026-09-15T23:06:38.605367+08:00",
-      "last_checked_at": "2026-09-20T07:04:19+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -2386,7 +2386,7 @@
       "published_date": "2026-09-08",
       "published_at": "2026-09-08T11:35:49+08:00",
       "listed_at": "2026-09-08T17:02:02+08:00",
-      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -3003,7 +3003,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:35:00+08:00",
       "listed_at": "2026-09-09T15:03:02+08:00",
-      "last_checked_at": "2026-09-19T09:00:45+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3200,7 +3200,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-19T09:00:45+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3218,7 +3218,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-19T09:00:45+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3365,7 +3365,7 @@
       "published_date": "2026-09-04",
       "published_at": null,
       "listed_at": "2026-09-05T13:00:43+08:00",
-      "last_checked_at": "2026-09-19T09:00:45+08:00",
+      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
