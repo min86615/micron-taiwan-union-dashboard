@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T05:04:23.642264+08:00",
-    "record_count": 316,
+    "generated_at": "2026-09-21T07:05:18.775217+08:00",
+    "record_count": 317,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -923,6 +923,23 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0317",
+      "media": "大纪元／The Epoch Times",
+      "title": "台湾美光工会喊话：营业利益15%分润",
+      "url": "https://www.epochtimes.com/gb/26/9/15/n14850045.htm",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-21T07:05:13.168308+08:00",
+      "last_checked_at": "2026-09-21T07:05:13.168308+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0296",
