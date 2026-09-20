@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-20T15:07:33.326423+08:00",
+    "generated_at": "2026-09-20T17:06:01.203529+08:00",
     "record_count": 313,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -121,7 +121,7 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T11:00:42+08:00",
       "listed_at": "2026-09-20T01:05:50.157759+08:00",
-      "last_checked_at": "2026-09-20T07:04:19+08:00",
+      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -783,6 +783,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0272",
+      "media": "TVBS新聞網",
+      "title": "美光砸百萬獎金仍滅不了罷工火　工會轟：別再摸頭、給合理分潤",
+      "url": "https://news.tvbs.com.tw/money/4022383",
+      "published_date": "2026-09-15",
+      "published_at": "2026-09-15T12:09:44+08:00",
+      "listed_at": "2026-09-16T21:00:39+08:00",
+      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0288",
       "media": "鏡報 Mirror Daily",
       "title": "踢爆公司「爽領68個月」公關話術！美光工會怒揭真相 要制度化15%分潤、拒絕摸頭",
@@ -943,25 +962,6 @@
       "status": "syndicated",
       "source_type": "translation_or_syndication",
       "duplicate_of": "https://focustaiwan.tw/business/202609150015"
-    },
-    {
-      "id": "news-0272",
-      "media": "TVBS新聞網",
-      "title": "美光砸百萬獎金仍滅不了罷工火　工會轟：別再摸頭、給合理分潤",
-      "url": "https://news.tvbs.com.tw/money/4022383",
-      "published_date": "2026-09-15",
-      "published_at": null,
-      "listed_at": "2026-09-16T21:00:39+08:00",
-      "last_checked_at": "2026-09-19T13:03:29.067308+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "獎金／分紅",
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
     },
     {
       "id": "news-0271",
@@ -2386,7 +2386,7 @@
       "published_date": "2026-09-08",
       "published_at": "2026-09-08T11:35:49+08:00",
       "listed_at": "2026-09-08T17:02:02+08:00",
-      "last_checked_at": "2026-09-13T19:03:59.236687+08:00",
+      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -2612,7 +2612,7 @@
       "published_date": "2026-09-06",
       "published_at": "2026-09-06T12:57:15+08:00",
       "listed_at": "2026-09-07T03:02:16+08:00",
-      "last_checked_at": "2026-09-19T13:03:29.067308+08:00",
+      "last_checked_at": "2026-09-20T17:05:21.129911+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
