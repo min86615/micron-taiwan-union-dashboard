@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-20T19:04:45.410769+08:00",
-    "record_count": 313,
+    "generated_at": "2026-09-20T21:05:51.191959+08:00",
+    "record_count": 314,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0314",
+      "media": "經濟日報／UDN",
+      "title": "美光首次勞資調解落幕 10月22日再次協商",
+      "url": "https://money.udn.com/money/story/5612/9764930",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T15:48:26+08:00",
+      "listed_at": "2026-09-20T21:04:57.628942+08:00",
+      "last_checked_at": "2026-09-20T21:04:57.628942+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7240/9764930"
+    },
     {
       "id": "news-0309",
       "media": "UDN/Economic Daily",
