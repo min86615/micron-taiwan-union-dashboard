@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T01:05:06.656061+08:00",
-    "record_count": 314,
+    "generated_at": "2026-09-21T03:07:01.066662+08:00",
+    "record_count": 316,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0315",
+      "media": "CMoney 研究報告／股市爆料同學會",
+      "title": "美光勞資首次調解破冰，台中廠風險解除了嗎？",
+      "url": "https://www.cmoney.tw/forum/article/184836117",
+      "published_date": "2026-09-21",
+      "published_at": null,
+      "listed_at": "2026-09-21T03:05:00.760586+08:00",
+      "last_checked_at": "2026-09-21T03:05:00.760586+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
     {
       "id": "news-0314",
       "media": "經濟日報／UDN",
@@ -258,6 +276,23 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://financefeeds.com/microns-taichung-union-went-into-mediation-today-demanding-15-of-operating-profit-with-a-strike-vote-behind-door-two/"
+    },
+    {
+      "id": "news-0316",
+      "media": "財聯社 Cailian Press",
+      "title": "中国台湾美光员工再次集会：68个月的奖金还不够！",
+      "url": "https://www.cls.cn/detail/2487113",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T16:31:00+08:00",
+      "listed_at": "2026-09-21T03:05:00.760586+08:00",
+      "last_checked_at": "2026-09-21T03:05:00.760586+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0298",
@@ -880,7 +915,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T09:40:50+08:00",
       "listed_at": "2026-09-15T23:06:38.605367+08:00",
-      "last_checked_at": "2026-09-19T03:07:51.681743+08:00",
+      "last_checked_at": "2026-09-21T03:05:00.760586+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -1368,7 +1403,7 @@
       "published_date": "2026-09-14",
       "published_at": "2026-09-14T09:29:55+00:00",
       "listed_at": "2026-09-15T11:12:09.052687+08:00",
-      "last_checked_at": "2026-09-15T11:12:09.052687+08:00",
+      "last_checked_at": "2026-09-21T03:05:00.760586+08:00",
       "language": "JP",
       "topics": [
         "美光產業"
@@ -3218,7 +3253,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T09:35:25.000Z",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
+      "last_checked_at": "2026-09-21T03:05:00.760586+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -4501,7 +4536,7 @@
       "published_date": "2026-09-01",
       "published_at": "2026-09-01T19:49:00+09:00",
       "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-11T03:02:49.937040+08:00",
+      "last_checked_at": "2026-09-21T03:05:00.760586+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
