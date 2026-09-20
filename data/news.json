@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-20T11:06:44.291324+08:00",
-    "record_count": 312,
+    "generated_at": "2026-09-20T15:07:33.326423+08:00",
+    "record_count": 313,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -206,6 +206,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0313",
+      "media": "Gate News",
+      "title": "美光与台燿科技举行首次调解会议，并安排于 10 月 22 日举行第二次会议",
+      "url": "https://www.gate.com/zh/news/detail/micron-and-taiwan-union-hold-first-mediation-session-schedule-second-24390285",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T23:04:16+08:00",
+      "listed_at": "2026-09-20T15:05:00+08:00",
+      "last_checked_at": "2026-09-20T15:05:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6610827"
     },
     {
       "id": "news-0301",
