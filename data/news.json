@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T15:05:41.092818+08:00",
-    "record_count": 319,
+    "generated_at": "2026-09-21T17:08:04.588886+08:00",
+    "record_count": 320,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0320",
+      "media": "TechNews 科技新報",
+      "title": "美光與工會首次調解討論，10/22 舉行第二次調解會議",
+      "url": "https://finance.technews.tw/2026/09/21/micron-and-the-union-held-their-first-mediation-session-to-discuss-several-issues/",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T09:00:00+08:00",
+      "listed_at": "2026-09-21T17:07:55.526893+08:00",
+      "last_checked_at": "2026-09-21T17:07:55.526893+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0315",
       "media": "CMoney 研究報告／股市爆料同學會",
