@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T13:05:31.611517+08:00",
-    "record_count": 318,
+    "generated_at": "2026-09-21T15:05:41.092818+08:00",
+    "record_count": 319,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1826,6 +1826,25 @@
       "published_at": "2026-09-11T18:19:23+08:00",
       "listed_at": "2026-09-14T09:09:17.077854+08:00",
       "last_checked_at": "2026-09-14T09:09:17.077854+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://new-reporter.com/news/278115/"
+    },
+    {
+      "id": "news-0319",
+      "media": "LIFE生活網",
+      "title": "美光發每人百萬獎酬！工會仍喊罷工：一次性獎金沒用",
+      "url": "https://life.tw/article/%E7%BE%8E%E5%85%89%E7%99%BC%E6%AF%8F%E4%BA%BA%E7%99%BE%E8%90%AC%E7%8D%8E%E9%85%AC-%E5%B7%A5%E6%9C%83%E4%BB%8D%E5%96%8A%E7%BD%B7%E5%B7%A5-%E4%B8%80%E6%AC%A1%E6%80%A7%E7%8D%8E%E9%87%91%E6%B2%92%E7%94%A8-3146455",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T17:37:00+08:00",
+      "listed_at": "2026-09-21T07:05:30.059Z",
+      "last_checked_at": "2026-09-21T07:05:30.059Z",
       "language": "TW",
       "topics": [
         "工會／勞資",
