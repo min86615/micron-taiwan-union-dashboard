@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T19:03:58.171702+08:00",
-    "record_count": 320,
+    "generated_at": "2026-09-21T21:41:08.880808+08:00",
+    "record_count": 321,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0321",
+      "media": "财联社",
+      "title": "美光台湾桃园工会称调解未达成协议，计划举行罢工投票",
+      "url": "https://www.cls.cn/detail/2489191",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T18:39:37+08:00",
+      "listed_at": "2026-09-21T21:38:25.104471+08:00",
+      "last_checked_at": "2026-09-21T21:38:25.104471+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0320",
       "media": "TechNews 科技新報",
