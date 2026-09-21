@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T01:27:20.305430+08:00",
-    "record_count": 327,
+    "generated_at": "2026-09-22T05:07:11.321157+08:00",
+    "record_count": 328,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -32,7 +32,7 @@
       "published_date": "2026-09-21",
       "published_at": "2026-09-21T20:06:00+08:00",
       "listed_at": "2026-09-22T01:05:30+08:00",
-      "last_checked_at": "2026-09-22T01:05:30+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -51,6 +51,25 @@
       "published_at": "2026-09-21T19:35:00+08:00",
       "listed_at": "2026-09-22T01:05:30+08:00",
       "last_checked_at": "2026-09-22T01:05:30+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0328",
+      "media": "中國時報 Chinatimes",
+      "title": "美光勞資調解觸礁！工會宣布推動罷工投票",
+      "url": "https://www.chinatimes.com/realtimenews/20260921003906-260405",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T19:02:00+08:00",
+      "listed_at": "2026-09-22T05:06:54.297072+08:00",
+      "last_checked_at": "2026-09-22T05:06:54.297072+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -142,7 +161,7 @@
       "published_date": "2026-09-21",
       "published_at": null,
       "listed_at": "2026-09-21T23:06:55.905050+08:00",
-      "last_checked_at": "2026-09-21T23:06:55.905050+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -882,7 +901,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T13:41:45+08:00",
       "listed_at": "2026-09-16T09:07:00.980849+08:00",
-      "last_checked_at": "2026-09-20T19:04:35.820568+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3149,7 +3168,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T21:15:00+08:00",
       "listed_at": "2026-09-05T03:02:51+08:00",
-      "last_checked_at": "2026-09-21T01:04:53.889168+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3241,7 +3260,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:36:00+08:00",
       "listed_at": "2026-09-04T19:00:26+08:00",
-      "last_checked_at": "2026-09-13T03:02:58.916959+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -3401,7 +3420,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:14:35+08:00",
       "listed_at": "2026-09-04T21:03:44+08:00",
-      "last_checked_at": "2026-09-11T03:02:49.937040+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -4758,7 +4777,7 @@
       "published_date": "2026-09-01",
       "published_at": "2026-09-01T19:49:00+09:00",
       "listed_at": "2026-09-02T21:58:33.826230+08:00",
-      "last_checked_at": "2026-09-14T03:03:02+08:00",
+      "last_checked_at": "2026-09-22T03:03:48.911221+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
