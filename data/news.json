@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T11:10:06.798264+08:00",
+    "generated_at": "2026-09-21T13:05:31.611517+08:00",
     "record_count": 318,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -31,7 +31,7 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T15:48:26+08:00",
       "listed_at": "2026-09-20T21:04:57.628942+08:00",
-      "last_checked_at": "2026-09-21T09:04:52.830402+08:00",
+      "last_checked_at": "2026-09-21T13:04:18.382473+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -567,7 +567,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:23:00+08:00",
       "listed_at": "2026-09-15T21:09:23.582378+08:00",
-      "last_checked_at": "2026-09-21T11:09:01.346739+08:00",
+      "last_checked_at": "2026-09-21T13:04:18.382473+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資"
@@ -678,7 +678,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T14:17:00+08:00",
       "listed_at": "2026-09-15T21:09:23.582378+08:00",
-      "last_checked_at": "2026-09-20T07:04:19+08:00",
+      "last_checked_at": "2026-09-21T13:04:18.382473+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -825,7 +825,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:10:09+08:00",
       "listed_at": "2026-09-15T19:05:43.274894+08:00",
-      "last_checked_at": "2026-09-18T19:02:14.530371+08:00",
+      "last_checked_at": "2026-09-21T13:04:18.382473+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1901,7 +1901,7 @@
       "published_date": "2026-09-11",
       "published_at": "2026-09-11T16:05:00+08:00",
       "listed_at": "2026-09-11T21:05:37.853402+08:00",
-      "last_checked_at": "2026-09-12T15:02:15.576402+08:00",
+      "last_checked_at": "2026-09-21T13:04:18.382473+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
