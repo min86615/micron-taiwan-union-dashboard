@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T09:05:37.729821+08:00",
-    "record_count": 317,
+    "generated_at": "2026-09-21T11:10:06.798264+08:00",
+    "record_count": 318,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -531,7 +531,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T19:37:00+08:00",
       "listed_at": "2026-09-16T03:02:26+08:00",
-      "last_checked_at": "2026-09-16T03:02:26+08:00",
+      "last_checked_at": "2026-09-21T11:09:01.346739+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -567,7 +567,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:23:00+08:00",
       "listed_at": "2026-09-15T21:09:23.582378+08:00",
-      "last_checked_at": "2026-09-16T07:09:04.600785+08:00",
+      "last_checked_at": "2026-09-21T11:09:01.346739+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資"
@@ -923,6 +923,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.seccw.com/Document/detail/id/50210.html"
+    },
+    {
+      "id": "news-0318",
+      "media": "LINE TODAY／NOWnews",
+      "title": "美光百萬獎金難平息 工會喊15%分潤",
+      "url": "https://today.line.me/tw/v3/article/zN8Zz1K",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "listed_at": "2026-09-21T11:09:01.346739+08:00",
+      "last_checked_at": "2026-09-21T11:09:01.346739+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.nownews.com/news/6875208"
     },
     {
       "id": "news-0317",
@@ -2981,7 +2999,7 @@
       "published_date": "2026-09-04",
       "published_at": "2026-09-04T17:56:07+08:00",
       "listed_at": "2026-09-08T23:05:03+08:00",
-      "last_checked_at": "2026-09-16T19:04:32.151251+08:00",
+      "last_checked_at": "2026-09-21T11:09:01.346739+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
