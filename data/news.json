@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T23:07:01.859045+08:00",
-    "record_count": 323,
+    "generated_at": "2026-09-22T01:27:20.305430+08:00",
+    "record_count": 327,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -14,6 +14,62 @@
       "published_at": "2026-09-21T20:19:00+08:00",
       "listed_at": "2026-09-21T23:06:55.905050+08:00",
       "last_checked_at": "2026-09-21T23:06:55.905050+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0326",
+      "media": "太報 TaiSounds",
+      "title": "勞資談判破裂！美光桃園工會宣布推動罷工投票 公司回應：盼持續對話",
+      "url": "https://www.taisounds.com/news/content/76/289911",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T20:06:00+08:00",
+      "listed_at": "2026-09-22T01:05:30+08:00",
+      "last_checked_at": "2026-09-22T01:05:30+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0325",
+      "media": "太報 TaiSounds",
+      "title": "美光桃園工會稱「勞資調解破裂」 宣布推動罷工投票",
+      "url": "https://www.taisounds.com/news/content/76/289906",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T19:35:00+08:00",
+      "listed_at": "2026-09-22T01:05:30+08:00",
+      "last_checked_at": "2026-09-22T01:05:30+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0324",
+      "media": "中央廣播電臺 RTI",
+      "title": "台灣美光桃園勞資調解破裂 工會宣布推動罷工投票",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=233140",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T18:41:00+08:00",
+      "listed_at": "2026-09-22T01:05:30+08:00",
+      "last_checked_at": "2026-09-22T01:05:30+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -58,6 +114,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0327",
+      "media": "LINE TODAY／太報",
+      "title": "美光桃園工會稱「勞資調解破裂」 宣布推動罷工投票",
+      "url": "https://today.line.me/tw/v3/article/9m3N9wE",
+      "published_date": "2026-09-21",
+      "published_at": null,
+      "listed_at": "2026-09-22T01:05:30+08:00",
+      "last_checked_at": "2026-09-22T01:05:30+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/289906"
     },
     {
       "id": "news-0323",
