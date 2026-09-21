@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-21T21:41:08.880808+08:00",
-    "record_count": 321,
+    "generated_at": "2026-09-21T23:07:01.859045+08:00",
+    "record_count": 323,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0322",
+      "media": "自由財經 LTN Finance",
+      "title": "美光勞資調解破局 將啟動罷工投票",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5581549",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T20:19:00+08:00",
+      "listed_at": "2026-09-21T23:06:55.905050+08:00",
+      "last_checked_at": "2026-09-21T23:06:55.905050+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0321",
       "media": "财联社",
@@ -34,6 +53,26 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0323",
+      "media": "知新聞 Knews",
+      "title": "美光勞資二次調解破局！不滿百萬獎金摸頭 工會不排除將推罷工投票",
+      "url": "https://www.knews.com.tw/news/E1BA06203AE6836932C3120F045594E2",
+      "published_date": "2026-09-21",
+      "published_at": null,
+      "listed_at": "2026-09-21T23:06:55.905050+08:00",
+      "last_checked_at": "2026-09-21T23:06:55.905050+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
         "勞資調解"
       ],
       "status": "reported",
