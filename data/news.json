@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T05:07:11.321157+08:00",
-    "record_count": 328,
+    "generated_at": "2026-09-22T07:13:29.048050+08:00",
+    "record_count": 330,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -62,6 +62,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0329",
+      "media": "三立iNEWS／SETN",
+      "title": "快訊／調解破局　美光罷工進度條曝光",
+      "url": "https://inews.setn.com/news/1910771",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T19:33:00+08:00",
+      "listed_at": "2026-09-22T07:13:01.850408+08:00",
+      "last_checked_at": "2026-09-22T07:13:01.850408+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0328",
       "media": "中國時報 Chinatimes",
       "title": "美光勞資調解觸礁！工會宣布推動罷工投票",
@@ -111,6 +129,25 @@
       "language": "SC",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0330",
+      "media": "Reuters／TradingView",
+      "title": "Micron's Taoyuan Union In Taiwan Says It Plans To Hold Strike Vote After Mediation Ended Without Agreement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44P08V:0-micron-s-taoyuan-union-in-taiwan-says-it-plans-to-hold-strike-vote-after-mediation-ended-without-agreement/",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T18:37:12+08:00",
+      "listed_at": "2026-09-22T07:13:01.850408+08:00",
+      "last_checked_at": "2026-09-22T07:13:01.850408+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
