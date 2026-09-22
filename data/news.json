@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-23T03:06:38.421876+08:00",
-    "record_count": 347,
+    "generated_at": "2026-09-23T05:12:05.684754+08:00",
+    "record_count": 348,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -2167,6 +2167,25 @@
       "duplicate_of": "https://www.chinatimes.com/newspapers/20260912000214-260202"
     },
     {
+      "id": "news-0348",
+      "media": "鉅亨網／BlockBeats 律動財經",
+      "title": "美光豪發最高68個月獎金，中國台灣地區工會仍威脅罷工",
+      "url": "https://news.cnyes.com/news/id/6605091",
+      "published_date": "2026-09-12",
+      "published_at": "2026-09-12T16:00:31+08:00",
+      "listed_at": "2026-09-23T05:11:34.876488+08:00",
+      "last_checked_at": "2026-09-23T05:11:34.876488+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0312",
       "media": "自由財經",
       "title": "美光史上最高獎酬》台灣廠每人發百萬感謝金 初階工程師年薪拚340萬",
@@ -2820,15 +2839,17 @@
     {
       "id": "news-0205",
       "media": "經理人 ManagerToday",
-      "title": "美光開出「史上最強獎酬」，豪發每人百萬感謝金、工程師年薪看 340 萬！能解罷工危機嗎？",
+      "title": "台灣美光 2 次勞資調解破局，宣布啟動罷工投票！豪發每人百萬感謝金也解不了危機？",
       "url": "https://www.managertoday.com.tw/articles/view/72917",
       "published_date": "2026-09-11",
       "published_at": null,
       "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-14T11:07:03.405063+08:00",
+      "last_checked_at": "2026-09-23T05:11:34.876488+08:00",
       "language": "TW",
       "topics": [
-        "罷工"
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
