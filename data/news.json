@@ -1,10 +1,104 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T07:13:29.048050+08:00",
-    "record_count": 330,
+    "generated_at": "2026-09-22T09:09:27.036754+08:00",
+    "record_count": 336,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0335",
+      "media": "聯合新聞網／經濟日報",
+      "title": "沒談攏！美光勞資二度調解破局 分潤案待美國董事會審議",
+      "url": "https://udn.com/news/story/7240/9769090",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T22:12:00+08:00",
+      "listed_at": "2026-09-22T09:09:11.041775+08:00",
+      "last_checked_at": "2026-09-22T09:09:11.041775+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0334",
+      "media": "聯合新聞網／聯合報",
+      "title": "不滿美光分潤勞資調解 工會宣布將推罷工投票",
+      "url": "https://udn.com/news/story/7240/9769067",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T21:52:00+08:00",
+      "listed_at": "2026-09-22T09:09:11.041775+08:00",
+      "last_checked_at": "2026-09-22T09:09:11.041775+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0333",
+      "media": "聯合新聞網／經濟日報",
+      "title": "分潤制度沒下文…美光桃園廠勞資調解破裂 工會擬推動罷工投票",
+      "url": "https://udn.com/news/story/7240/9769024",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T21:17:00+08:00",
+      "listed_at": "2026-09-22T09:09:11.041775+08:00",
+      "last_checked_at": "2026-09-22T09:09:11.041775+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202609210300.aspx"
+    },
+    {
+      "id": "news-0332",
+      "media": "中央社 CNA",
+      "title": "美光桃園廠勞資調解破裂 工會擬推動罷工投票",
+      "url": "https://www.cna.com.tw/news/afe/202609210300.aspx",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T21:00:00+08:00",
+      "listed_at": "2026-09-22T09:09:11.041775+08:00",
+      "last_checked_at": "2026-09-22T09:09:11.041775+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0331",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光釀罷工／桃園工會協商破裂將舉行罷工投票、台中10月底二次調解",
+      "url": "https://www.mirrormedia.mg/story/20260921-180fin-204353",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T20:50:00+08:00",
+      "listed_at": "2026-09-22T09:09:11.041775+08:00",
+      "last_checked_at": "2026-09-22T09:09:11.041775+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0322",
       "media": "自由財經 LTN Finance",
@@ -165,6 +259,25 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0336",
+      "media": "LINE TODAY／鏡報",
+      "title": "分潤制度沒下文！美光工會將發動罷工投票 調解沒共識、員工不滿到極限",
+      "url": "https://today.line.me/tw/v3/article/1DPLNW3",
+      "published_date": "2026-09-21",
+      "published_at": null,
+      "listed_at": "2026-09-22T09:09:11.041775+08:00",
+      "last_checked_at": "2026-09-22T09:09:11.041775+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
         "勞資調解"
       ],
       "status": "reported",
