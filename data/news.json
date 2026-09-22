@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-23T07:08:39.364690+08:00",
-    "record_count": 348,
+    "generated_at": "2026-09-23T07:16:10.457567+08:00",
+    "record_count": 349,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0349",
+      "media": "Taiwan News",
+      "title": "Micron Taiwan’s Taoyuan union plans strike vote",
+      "url": "https://www.taiwannews.com.tw/en/news/6444345",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T20:45:00+08:00",
+      "listed_at": "2026-09-23T07:14:55.168126+08:00",
+      "last_checked_at": "2026-09-23T07:14:55.168126+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0344",
       "media": "NOWnews今日新聞",
