@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T15:09:57.754408+08:00",
-    "record_count": 342,
+    "generated_at": "2026-09-22T19:04:15.329892+08:00",
+    "record_count": 343,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -358,6 +358,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0343",
+      "media": "LINE TODAY／太報",
+      "title": "勞資談判破裂！美光桃園工會宣布推動罷工投票 公司回應：盼持續對話",
+      "url": "https://today.line.me/tw/v3/article/Zap2k1N",
+      "published_date": "2026-09-21",
+      "published_at": null,
+      "listed_at": "2026-09-22T19:03:41.956180+08:00",
+      "last_checked_at": "2026-09-22T19:03:41.956180+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/289911"
     },
     {
       "id": "news-0341",
