@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T11:04:21.496964+08:00",
-    "record_count": 336,
+    "generated_at": "2026-09-22T13:06:42.412461+08:00",
+    "record_count": 338,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0337",
+      "media": "FTNN新聞網",
+      "title": "記憶體再逢新危機？美光桃園廠勞資調解破局 近期將展開罷工投票",
+      "url": "https://www.ftnn.com.tw/news/581068",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T09:50:00+08:00",
+      "listed_at": "2026-09-22T13:06:01.844294+08:00",
+      "last_checked_at": "2026-09-22T13:06:01.844294+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0338",
+      "media": "聯合新聞網／聯合報",
+      "title": "美光勞資爭議仍未達成共識 下月22日續進行第三次調解",
+      "url": "https://udn.com/news/amp/story/7240/9769646",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T09:13:00+08:00",
+      "listed_at": "2026-09-22T13:06:01.844294+08:00",
+      "last_checked_at": "2026-09-22T13:06:01.844294+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0335",
       "media": "聯合新聞網／經濟日報",
