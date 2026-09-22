@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T19:05:45.744349+08:00",
-    "record_count": 343,
+    "generated_at": "2026-09-22T23:13:53.871589+08:00",
+    "record_count": 347,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0344",
+      "media": "NOWnews今日新聞",
+      "title": "美光百萬獎金仍難平怒火！分潤沒下文 桃園工會擬罷工投票",
+      "url": "https://www.nownews.com/news/6877197",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T15:36:42+08:00",
+      "listed_at": "2026-09-22T23:13:42.735640+08:00",
+      "last_checked_at": "2026-09-22T23:13:42.735640+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0346",
+      "media": "TaiwanPlus",
+      "title": "Micron Taiwan Workers Threaten Strike Over Profit Sharing",
+      "url": "https://www.taiwanplus.com/news/taiwan-news/business/260922011/micron-taiwan-workers-threaten-strike-over-profit-sharing",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T14:58:26+08:00",
+      "listed_at": "2026-09-22T23:13:42.735640+08:00",
+      "last_checked_at": "2026-09-22T23:13:42.735640+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0337",
       "media": "FTNN新聞網",
@@ -62,6 +99,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0345",
+      "media": "壹蘋新聞網",
+      "title": "美光與桃園工會勞資調解破局！工會宣布推動罷工投票",
+      "url": "https://news.nextapple.com/finance/20260922/9E062B93088C783F2BECC5095363C9E6",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T02:03:00+08:00",
+      "listed_at": "2026-09-22T23:13:42.735640+08:00",
+      "last_checked_at": "2026-09-22T23:13:42.735640+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0342",
       "media": "民報 PeopleNews",
       "title": "拒絕被摸頭！美光桃園二度調解破局 工會擬推動罷工投票、近日公布規劃",
@@ -70,6 +126,25 @@
       "published_at": null,
       "listed_at": "2026-09-22T15:09:35.844403+08:00",
       "last_checked_at": "2026-09-22T15:09:35.844403+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0347",
+      "media": "自由財經",
+      "title": "美光與桃園工會罷工調解破局 10/22與台中工會協商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5581639",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T22:40:00+08:00",
+      "listed_at": "2026-09-22T23:13:42.735640+08:00",
+      "last_checked_at": "2026-09-22T23:13:42.735640+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
