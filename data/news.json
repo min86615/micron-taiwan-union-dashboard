@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-09-24T05:28:13.455324+08:00",
-    "record_count": 350,
+    "generated_at": "2026-09-24T23:33:13.557877+08:00",
+    "record_count": 352,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0351",
+      "media": "中央社 / PChome Online News",
+      "title": "美光桃園廠工會9/29舉辦說明會　10/1起罷工投票",
+      "url": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html",
+      "published_date": "2026-09-24",
+      "published_at": "2026-09-24T22:08:50+08:00",
+      "listed_at": "2026-09-24T23:33:04+08:00",
+      "last_checked_at": "2026-09-24T23:33:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "CNA wire feed via PChome",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0352",
+      "media": "中央商情 / PChome Online News",
+      "title": "美光桃園廠工會9/29舉辦說明會　10/1起罷工投票",
+      "url": "https://news.pchome.com.tw/finance/cna_business/20260924/index-17902589271110322003.html",
+      "published_date": "2026-09-24",
+      "published_at": "2026-09-24T22:08:47+08:00",
+      "listed_at": "2026-09-24T23:33:04+08:00",
+      "last_checked_at": "2026-09-24T23:33:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "CNA wire feed via PChome",
+      "duplicate_of": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html"
+    },
     {
       "id": "news-0350",
       "media": "Yahoo股市／財訊快報",
