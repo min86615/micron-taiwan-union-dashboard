@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-24T23:33:13.557877+08:00",
-    "record_count": 352,
+    "generated_at": "2026-09-25T05:10:51.922366+08:00",
+    "record_count": 353,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0353",
+      "media": "經濟日報（中央社稿）",
+      "title": "美光桃園廠工會9/29舉辦說明會　10/1起罷工投票",
+      "url": "https://money.udn.com/money/story/5612/9776465",
+      "published_date": "2026-09-24",
+      "published_at": "2026-09-24T22:21:25+08:00",
+      "listed_at": "2026-09-25T05:10:31+08:00",
+      "last_checked_at": "2026-09-25T05:10:31+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html"
+    },
     {
       "id": "news-0351",
       "media": "中央社 / PChome Online News",
@@ -13,7 +31,7 @@
       "published_date": "2026-09-24",
       "published_at": "2026-09-24T22:08:50+08:00",
       "listed_at": "2026-09-24T23:33:04+08:00",
-      "last_checked_at": "2026-09-24T23:33:04+08:00",
+      "last_checked_at": "2026-09-25T05:10:31+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
