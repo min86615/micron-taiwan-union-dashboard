@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-25T13:12:03.073773+08:00",
-    "record_count": 354,
+    "generated_at": "2026-09-25T13:24:21.310156+08:00",
+    "record_count": 355,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -22,6 +22,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0355",
+      "media": "中天新聞網 CTI",
+      "title": "美光桃園廠工會宣布：9/29舉辦說明會　10/1-10/3舉行罷工投票",
+      "url": "https://ctinews.com/news/items/M9n6mZ89xR",
+      "published_date": "2026-09-24",
+      "published_at": "2026-09-24T23:12:14+08:00",
+      "listed_at": "2026-09-25T13:24:09+08:00",
+      "last_checked_at": "2026-09-25T13:24:09+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html"
     },
     {
       "id": "news-0353",
