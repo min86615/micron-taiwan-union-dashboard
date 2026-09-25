@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-25T13:24:21.310156+08:00",
-    "record_count": 355,
+    "generated_at": "2026-09-25T17:18:32.344296+08:00",
+    "record_count": 356,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0356",
+      "media": "Yahoo股市／知新聞",
+      "title": "台灣美光勞資對立升級！工會定調9/29說明會　10/1起展開罷工投票",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E5%B0%8D%E7%AB%8B%E5%8D%87%E7%B4%9A-%E5%B7%A5%E6%9C%83%E5%AE%9A%E8%AA%BF9-29%E8%AA%AA%E6%98%8E%E6%9C%83-10-1%E8%B5%B7%E5%B1%95%E9%96%8B%E7%BD%B7%E5%B7%A5%E6%8A%95%E7%A5%A8-040100715.html",
+      "published_date": "2026-09-25",
+      "published_at": "2026-09-25T12:01:00+08:00",
+      "listed_at": "2026-09-25T17:16:02+08:00",
+      "last_checked_at": "2026-09-25T17:16:02+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.knews.com.tw/news/CC29DDF4DD82FD379AA50F52DAC008D1"
+    },
     {
       "id": "news-0354",
       "media": "知新聞 Knews",
