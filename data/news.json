@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-25T05:13:59.192318+08:00",
-    "record_count": 353,
+    "generated_at": "2026-09-25T13:12:03.073773+08:00",
+    "record_count": 354,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0354",
+      "media": "知新聞 Knews",
+      "title": "台灣美光勞資對立升級！工會定調9/29說明會　10/1起展開罷工投票",
+      "url": "https://www.knews.com.tw/news/CC29DDF4DD82FD379AA50F52DAC008D1",
+      "published_date": "2026-09-25",
+      "published_at": "2026-09-25T10:27:00+08:00",
+      "listed_at": "2026-09-25T13:11:43+08:00",
+      "last_checked_at": "2026-09-25T13:11:43+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0353",
       "media": "經濟日報（中央社稿）",
