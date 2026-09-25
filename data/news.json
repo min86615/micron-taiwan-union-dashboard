@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-25T17:18:32.344296+08:00",
-    "record_count": 356,
+    "generated_at": "2026-09-25T23:09:05.169891+08:00",
+    "record_count": 357,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -39,6 +39,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0357",
+      "media": "CMoney 投資網誌",
+      "title": "【美股巨頭】美光台灣廠罷工投票10/1啟動，這場勞資僵局怎麼影響你的持股？",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-c07a8272-b865-11f1-bb98-69f97c016ab0",
+      "published_date": "2026-09-25",
+      "published_at": "2026-09-25T06:17:38+08:00",
+      "listed_at": "2026-09-25T23:08:31+08:00",
+      "last_checked_at": "2026-09-25T23:08:31+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
