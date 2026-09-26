@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-25T23:09:05.169891+08:00",
-    "record_count": 357,
+    "generated_at": "2026-09-26T23:25:02.391980+08:00",
+    "record_count": 358,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -49,7 +49,7 @@
       "published_date": "2026-09-25",
       "published_at": "2026-09-25T06:17:38+08:00",
       "listed_at": "2026-09-25T23:08:31+08:00",
-      "last_checked_at": "2026-09-25T23:08:31+08:00",
+      "last_checked_at": "2026-09-25T23:17:06+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -75,7 +75,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html"
+      "duplicate_of": "https://www.cna.com.tw/news/ahel/202609240377.aspx"
     },
     {
       "id": "news-0353",
@@ -93,7 +93,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html"
+      "duplicate_of": "https://www.cna.com.tw/news/ahel/202609240377.aspx"
     },
     {
       "id": "news-0351",
@@ -109,9 +109,9 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "reported",
+      "status": "syndicated",
       "source_type": "CNA wire feed via PChome",
-      "duplicate_of": null
+      "duplicate_of": "https://www.cna.com.tw/news/ahel/202609240377.aspx"
     },
     {
       "id": "news-0352",
@@ -129,7 +129,25 @@
       ],
       "status": "syndicated",
       "source_type": "CNA wire feed via PChome",
-      "duplicate_of": "https://news.pchome.com.tw/finance/cna/20260924/index-17902589301744818003.html"
+      "duplicate_of": "https://www.cna.com.tw/news/ahel/202609240377.aspx"
+    },
+    {
+      "id": "news-0358",
+      "media": "中央社 CNA",
+      "title": "美光桃園廠工會9/29舉辦說明會　10/1起罷工投票",
+      "url": "https://www.cna.com.tw/news/ahel/202609240377.aspx",
+      "published_date": "2026-09-24",
+      "published_at": "2026-09-24T22:08:00+08:00",
+      "listed_at": "2026-09-26T23:22:53+08:00",
+      "last_checked_at": "2026-09-26T23:22:53+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "news_agency_original",
+      "duplicate_of": null
     },
     {
       "id": "news-0350",
