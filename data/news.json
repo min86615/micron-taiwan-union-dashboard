@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-26T23:25:02.391980+08:00",
-    "record_count": 358,
+    "generated_at": "2026-09-27T01:30:49.898112+08:00",
+    "record_count": 359,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -2839,6 +2839,23 @@
       "topics": [
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0359",
+      "media": "TVBS新聞網",
+      "title": "美光發史上最高獎酬！台灣員工每人拿100萬　初階工程師年薪衝340萬",
+      "url": "https://news.tvbs.com.tw/money/4020640",
+      "published_date": "2026-09-11",
+      "published_at": "2026-09-11T10:43:00+08:00",
+      "listed_at": "2026-09-27T01:30:23.705233+08:00",
+      "last_checked_at": "2026-09-27T01:30:23.705233+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
