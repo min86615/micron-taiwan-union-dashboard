@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-27T03:27:58.005837+08:00",
-    "record_count": 359,
+    "generated_at": "2026-09-27T21:16:15.264020+08:00",
+    "record_count": 360,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -609,6 +609,25 @@
       "topics": [
         "工會／勞資",
         "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0360",
+      "media": "ChainCatcher",
+      "title": "Micron and the Taiwan Micron Memory Union concluded their first mediation, agreeing to negotiate again on October 22",
+      "url": "https://www.chaincatcher.com/en/article/2291140",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T08:18:30+08:00",
+      "listed_at": "2026-09-27T21:16:07+08:00",
+      "last_checked_at": "2026-09-27T21:16:07+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解",
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
