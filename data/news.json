@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-28T05:23:00.448299+08:00",
-    "record_count": 360,
+    "generated_at": "2026-09-30T05:22:29.936395+08:00",
+    "record_count": 361,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0361",
+      "media": "Newtalk",
+      "title": "勞團確定10／19凱道集結！美光、乖乖等工會將宣布罷工最新進展",
+      "url": "https://newtalk.tw/news/view/2026-09-29/1062367",
+      "published_date": "2026-09-29",
+      "published_at": "2026-09-29T09:38:18+08:00",
+      "listed_at": "2026-09-30T05:22:19+08:00",
+      "last_checked_at": "2026-09-30T05:22:19+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0356",
       "media": "Yahoo股市／知新聞",
