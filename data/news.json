@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-09-30T09:17:05.960549+08:00",
-    "record_count": 362,
+    "generated_at": "2026-09-30T13:23:14.382136+08:00",
+    "record_count": 363,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0363",
+      "media": "TechNews科技新報",
+      "title": "記憶體紅利爆發！華邦電獎金傳上看百萬，但美光罷工票還沒算完",
+      "url": "https://technews.tw/2026/09/29/memory-winbond/",
+      "published_date": "2026-09-29",
+      "published_at": "2026-09-29T15:01:00+08:00",
+      "listed_at": "2026-09-30T13:21:22+08:00",
+      "last_checked_at": "2026-09-30T13:21:22+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0362",
       "media": "天下雜誌",
