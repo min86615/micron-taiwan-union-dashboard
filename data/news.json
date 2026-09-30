@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-09-30T05:22:29.936395+08:00",
-    "record_count": 361,
+    "generated_at": "2026-09-30T09:17:05.960549+08:00",
+    "record_count": 362,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0362",
+      "media": "天下雜誌",
+      "title": "三星之後，台灣美光也要罷工？發100萬獎金、提高分紅，為何仍止不住員工怒火？",
+      "url": "https://www.cw.com.tw/article/5143092",
+      "published_date": "2026-09-29",
+      "published_at": "2026-09-29T13:07:00+08:00",
+      "listed_at": "2026-09-30T09:15:06+08:00",
+      "last_checked_at": "2026-09-30T09:15:06+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0361",
       "media": "Newtalk",
