@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-09-30T13:23:14.382136+08:00",
-    "record_count": 363,
+    "generated_at": "2026-09-30T23:29:58.462175+08:00",
+    "record_count": 364,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0364",
+      "media": "einkCN",
+      "title": "美光台工厂工会准备罢工",
+      "url": "https://einkcn.com/html/product_6abc2852f221f7794.html",
+      "published_date": "2026-09-30",
+      "published_at": "2026-09-30T05:06:26+08:00",
+      "listed_at": "2026-09-30T23:29:47.139158+08:00",
+      "last_checked_at": "2026-09-30T23:29:47.139158+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.cw.com.tw/article/5143092"
+    },
     {
       "id": "news-0363",
       "media": "TechNews科技新報",
