@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-09-30T23:29:58.462175+08:00",
-    "record_count": 364,
+    "generated_at": "2026-10-01T09:27:36.991807+08:00",
+    "record_count": 365,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -6595,6 +6595,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0365",
+      "media": "Global Sources",
+      "title": "Micron Taiwan union votes on strike over profit-sharing demands",
+      "url": "https://www.globalsources.com/sourcing-digest/micron-taiwan-union-votes-on-strike-over-profit-sharing-demands/",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-01T09:07:38+08:00",
+      "last_checked_at": "2026-10-01T09:27:13+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     }
   ]
