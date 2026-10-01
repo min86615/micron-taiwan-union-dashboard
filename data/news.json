@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-01T09:34:06.075650+08:00",
-    "record_count": 365,
+    "generated_at": "2026-10-02T07:34:42.029590+08:00",
+    "record_count": 366,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0366",
+      "media": "太報 TaiSounds",
+      "title": "記憶體賺翻卻無分潤制度！美光工會啟動罷工投票　籲會員以選票表達意見",
+      "url": "https://dev.taisounds.news/news/content/76/291615",
+      "published_date": "2026-10-01",
+      "published_at": "2026-10-01T15:39:00+08:00",
+      "listed_at": "2026-10-02T07:34:25+08:00",
+      "last_checked_at": "2026-10-02T07:34:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0364",
       "media": "einkCN",
