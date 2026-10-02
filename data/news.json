@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-02T09:13:33.022338+08:00",
-    "record_count": 367,
+    "generated_at": "2026-10-02T17:27:48.476079+08:00",
+    "record_count": 368,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0368",
+      "media": "鉅亨網 Cnyes",
+      "title": "美光由黑翻紅 AI需求支撐買盤",
+      "url": "https://news.cnyes.com/news/id/6619686",
+      "published_date": "2026-10-02",
+      "published_at": "2026-10-02T08:10:00+08:00",
+      "listed_at": "2026-10-02T17:27:24+08:00",
+      "last_checked_at": "2026-10-02T17:27:24+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0367",
       "media": "壹蘋新聞網",
