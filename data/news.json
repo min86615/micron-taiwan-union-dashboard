@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-04T18:16:25.872356+08:00",
-    "record_count": 376,
+    "generated_at": "2026-10-05T07:06:08.455682+08:00",
+    "record_count": 377,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T18:51:00+08:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-04T18:00:51+08:00",
+      "last_checked_at": "2026-10-04T19:16:18+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -64,7 +64,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T00:20:00+08:00",
       "listed_at": "2026-10-04T17:09:11+08:00",
-      "last_checked_at": "2026-10-04T17:09:11+08:00",
+      "last_checked_at": "2026-10-04T19:16:18+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -82,7 +82,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T00:20:00+08:00",
       "listed_at": "2026-10-02T09:08:05+08:00",
-      "last_checked_at": "2026-10-04T17:09:11+08:00",
+      "last_checked_at": "2026-10-04T19:16:18+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -100,7 +100,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T11:37:13+08:00",
-      "last_checked_at": "2026-10-04T17:41:46+08:00",
+      "last_checked_at": "2026-10-04T19:16:18+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -6772,6 +6772,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0377",
+      "media": "Benzinga",
+      "title": "Benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62114761/micron-employee-bonuses-margin-outlook",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-04T19:16:18+08:00",
+      "last_checked_at": "2026-10-04T19:16:18+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0376",
       "media": "China Times",
       "title": "華邦電豪發現金 美光罷工投票 拒百萬爭分潤",
@@ -6779,7 +6796,7 @@
       "published_date": null,
       "published_at": null,
       "listed_at": "2026-10-04T18:00:51+08:00",
-      "last_checked_at": "2026-10-04T18:00:51+08:00",
+      "last_checked_at": "2026-10-04T19:16:18+08:00",
       "language": "TW",
       "topics": [
         "罷工"
