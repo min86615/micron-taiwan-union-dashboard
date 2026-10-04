@@ -1,10 +1,44 @@
 {
   "summary": {
-    "generated_at": "2026-10-02T17:27:48.476079+08:00",
-    "record_count": 368,
+    "generated_at": "2026-10-04T18:16:25.872356+08:00",
+    "record_count": 376,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0369",
+      "media": "Taiwan News",
+      "title": "Mayor Chang San-cheng’s handling of strikes draws ire of Taoyuan businesses",
+      "url": "https://www.taiwannews.com.tw/news/6451012",
+      "published_date": "2026-10-02",
+      "published_at": "2026-10-02T18:51:00+08:00",
+      "listed_at": "2026-10-03T09:16:32+08:00",
+      "last_checked_at": "2026-10-04T18:00:51+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0374",
+      "media": "NOWnews",
+      "title": "內幕 / 桃園選情冷、罷工熱！產業怨張善政擺爛恐淪「罷工重鎮」",
+      "url": "https://www.nownews.com/news/6880110",
+      "published_date": "2026-10-02",
+      "published_at": "2026-10-02T16:50:12+08:00",
+      "listed_at": "2026-10-04T17:40:22+08:00",
+      "last_checked_at": "2026-10-04T17:40:22+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_reporting",
+      "duplicate_of": null
+    },
     {
       "id": "news-0368",
       "media": "鉅亨網 Cnyes",
@@ -23,6 +57,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0373",
+      "media": "Yahoo News Taiwan",
+      "title": "美光6成產能在台灣！業績創高卻爆勞資爭議　桃園工會罷工投票至10/6",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%896%E6%88%90%E7%94%A2%E8%83%BD%E5%9C%A8%E5%8F%B0%E7%81%A3-%E6%A5%AD%E7%B8%BE%E5%89%B5%E9%AB%98%E5%8D%BB%E7%88%86%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E7%BD%B7%E5%B7%A5%E6%8A%95%E7%A5%A8%E8%87%B310-6-212000735.html",
+      "published_date": "2026-10-02",
+      "published_at": "2026-10-02T00:20:00+08:00",
+      "listed_at": "2026-10-04T17:09:11+08:00",
+      "last_checked_at": "2026-10-04T17:09:11+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.nextapple.com/finance/20261002/4EB1EFFFFAA9EB53F4B2DB1A26063F4F"
+    },
+    {
       "id": "news-0367",
       "media": "壹蘋新聞網",
       "title": "美光6成產能在台灣！業績創高卻爆勞資爭議　桃園工會罷工投票至10/6",
@@ -30,7 +82,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T00:20:00+08:00",
       "listed_at": "2026-10-02T09:08:05+08:00",
-      "last_checked_at": "2026-10-02T09:13:27+08:00",
+      "last_checked_at": "2026-10-04T17:09:11+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -38,6 +90,23 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0370",
+      "media": "Hundred East",
+      "title": "To strike or not to strike: Micron's $6.6 billion question",
+      "url": "https://hundredeast.com/insights/micron-profit-share-question",
+      "published_date": "2026-10-02",
+      "published_at": null,
+      "listed_at": "2026-10-03T11:37:13+08:00",
+      "last_checked_at": "2026-10-04T17:41:46+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
@@ -58,6 +127,57 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0372",
+      "media": "Yahoo Finance / Investing.com",
+      "title": "With record earnings in the rearview, Micron faces Taiwan strike prospects",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/record-earnings-rearview-micron-faces-144710350.html",
+      "published_date": "2026-10-01",
+      "published_at": "2026-10-01T14:47:10+00:00",
+      "listed_at": "2026-10-03T11:37:13+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "analysis",
+      "duplicate_of": "https://www.investing.com/news/stock-market-news/with-record-earnings-in-the-rearview-micron-faces-taiwan-strike-prospects-4927735"
+    },
+    {
+      "id": "news-0371",
+      "media": "Investing.com",
+      "title": "With record earnings in the rearview, Micron faces Taiwan strike prospects",
+      "url": "https://www.investing.com/news/stock-market-news/with-record-earnings-in-the-rearview-micron-faces-taiwan-strike-prospects-4927735",
+      "published_date": "2026-10-01",
+      "published_at": "2026-10-01T14:47:10+00:00",
+      "listed_at": "2026-10-03T11:37:13+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0375",
+      "media": "Investing.com Japan",
+      "title": "記録的決算を背景に、マイクロンテクノロジーが台湾でのストライキリスクに直面",
+      "url": "https://jp.investing.com/news/stock-market-news/article-1698918",
+      "published_date": "2026-10-01",
+      "published_at": "2026-10-01 23:17",
+      "listed_at": "2026-10-04T17:40:22+08:00",
+      "last_checked_at": "2026-10-04T17:40:22+08:00",
+      "language": "JP",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "translation_or_syndication",
+      "duplicate_of": "https://www.investing.com/news/stock-market-news/with-record-earnings-in-the-rearview-micron-faces-taiwan-strike-prospects-4927735"
     },
     {
       "id": "news-0364",
@@ -103,7 +223,7 @@
       "published_date": "2026-09-29",
       "published_at": "2026-09-29T13:07:00+08:00",
       "listed_at": "2026-09-30T09:15:06+08:00",
-      "last_checked_at": "2026-09-30T09:15:06+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
@@ -319,7 +439,7 @@
       "published_date": "2026-09-22",
       "published_at": "2026-09-22T15:36:42+08:00",
       "listed_at": "2026-09-22T23:13:42.735640+08:00",
-      "last_checked_at": "2026-09-27T03:27:46+08:00",
+      "last_checked_at": "2026-10-04T17:40:22+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -431,7 +551,7 @@
       "published_date": "2026-09-22",
       "published_at": null,
       "listed_at": "2026-09-22T15:09:35.844403+08:00",
-      "last_checked_at": "2026-09-28T05:22:36+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -450,7 +570,7 @@
       "published_date": "2026-09-21",
       "published_at": "2026-09-21T22:40:00+08:00",
       "listed_at": "2026-09-22T23:13:42.735640+08:00",
-      "last_checked_at": "2026-09-22T23:13:42.735640+08:00",
+      "last_checked_at": "2026-10-04T17:09:11+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1545,7 +1665,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T14:02:00+08:00",
       "listed_at": "2026-09-18T05:04:50.099383+08:00",
-      "last_checked_at": "2026-09-21T09:04:52.830402+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -4996,7 +5116,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": "https://ctee.com.tw/news/20260831700086-439901"
+      "duplicate_of": "https://www.ctee.com.tw/news/20260831700086-439901"
     },
     {
       "id": "news-0065",
@@ -6342,6 +6462,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0033",
+      "media": "工商時報",
+      "title": "工會8成都支持！美光台灣陷罷工危機 勞方訴求公司回應一次看",
+      "url": "https://www.ctee.com.tw/news/20260831700086-439901",
+      "published_date": "2026-08-31",
+      "published_at": "2026-08-31T03:00:00+08:00",
+      "listed_at": "2026-09-02T16:41:23+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0035",
       "media": "搜狐網",
       "title": "美光员工酝酿罢工！",
@@ -6353,24 +6491,6 @@
       "language": "TW",
       "topics": [
         "美光產業"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0033",
-      "media": "工商時報",
-      "title": "工會8成都支持！美光台灣陷罷工危機 勞方訴求公司回應一次看",
-      "url": "https://ctee.com.tw/news/20260831700086-439901",
-      "published_date": "2026-08-31",
-      "published_at": null,
-      "listed_at": "2026-09-02T16:41:23+08:00",
-      "last_checked_at": "2026-09-02T16:41:23+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -6436,9 +6556,9 @@
       "title": "Micron Taiwan Union Prepares Potential Strike Over AI Profit-Sharing Bonuses",
       "url": "https://pcmasterinsider.com/micron-taiwan-union-strike-bonus-pay",
       "published_date": "2026-08-30",
-      "published_at": "2026-08-30T06:16:27+06:00",
+      "published_at": null,
       "listed_at": "2026-09-03T03:03:20+08:00",
-      "last_checked_at": "2026-09-10T21:03:00.668892+08:00",
+      "last_checked_at": "2026-10-03T09:44:03+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -6645,6 +6765,23 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0376",
+      "media": "China Times",
+      "title": "華邦電豪發現金 美光罷工投票 拒百萬爭分潤",
+      "url": "https://www.chinatimes.com/newspapers/20261002000533-260121",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-04T18:00:51+08:00",
+      "last_checked_at": "2026-10-04T18:00:51+08:00",
+      "language": "TW",
+      "topics": [
         "罷工"
       ],
       "status": "reported",
