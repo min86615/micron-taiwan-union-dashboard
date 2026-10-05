@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-05T07:06:08.455682+08:00",
-    "record_count": 377,
+    "generated_at": "2026-10-05T18:47:16.758334+08:00",
+    "record_count": 378,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0378",
+      "media": "經理人",
+      "title": "美光、乖乖勞資爭議延燒……給得比法律多，為什麼還是擋不住罷工？",
+      "url": "https://www.managertoday.com.tw/columns/view/73057",
+      "published_date": "2026-10-05",
+      "published_at": "2026-10-05T11:10:00+08:00",
+      "listed_at": "2026-10-05T18:46:47+08:00",
+      "last_checked_at": "2026-10-05T18:46:47+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
     {
       "id": "news-0369",
       "media": "Taiwan News",
@@ -157,6 +175,23 @@
       "language": "EN",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0377",
+      "media": "Benzinga",
+      "title": "Micron CEO Says Record Employee Bonuses Weigh on Margin Outlook",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62114761/micron-employee-bonuses-margin-outlook",
+      "published_date": "2026-10-01",
+      "published_at": "2026-10-01T12:32:00",
+      "listed_at": "2026-10-04T19:16:18+08:00",
+      "last_checked_at": "2026-10-05T18:46:02+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "analysis",
@@ -6766,23 +6801,6 @@
         "工會／勞資",
         "獎金／分紅",
         "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0377",
-      "media": "Benzinga",
-      "title": "Benzinga",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62114761/micron-employee-bonuses-margin-outlook",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-10-04T19:16:18+08:00",
-      "last_checked_at": "2026-10-04T19:16:18+08:00",
-      "language": "EN",
-      "topics": [
-        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
