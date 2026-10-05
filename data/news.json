@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-10-05T18:47:16.758334+08:00",
+    "generated_at": "2026-10-06T07:10:09.513241+08:00",
     "record_count": 378,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -504,6 +504,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0342",
+      "media": "民報 PeopleNews",
+      "title": "拒絕被摸頭！美光桃園二度調解破局 工會擬推動罷工投票、近日公布規劃",
+      "url": "https://www.peoplenews.tw/articles/economic-news/56785",
+      "published_date": "2026-09-22",
+      "published_at": "2026-09-22T11:22:06+08:00",
+      "listed_at": "2026-09-22T15:09:35.844403+08:00",
+      "last_checked_at": "2026-10-03T11:37:13+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0337",
       "media": "FTNN新聞網",
       "title": "記憶體再逢新危機？美光桃園廠勞資調解破局 近期將展開罷工投票",
@@ -568,25 +587,6 @@
       "published_at": "2026-09-22T02:03:00+08:00",
       "listed_at": "2026-09-22T23:13:42.735640+08:00",
       "last_checked_at": "2026-09-23T01:09:43.584784+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "罷工",
-        "勞資調解"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0342",
-      "media": "民報 PeopleNews",
-      "title": "拒絕被摸頭！美光桃園二度調解破局 工會擬推動罷工投票、近日公布規劃",
-      "url": "https://www.peoplenews.tw/articles/economic-news/56785",
-      "published_date": "2026-09-22",
-      "published_at": null,
-      "listed_at": "2026-09-22T15:09:35.844403+08:00",
-      "last_checked_at": "2026-10-03T11:37:13+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
