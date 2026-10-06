@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-06T21:33:56.392384+08:00",
-    "record_count": 380,
+    "generated_at": "2026-10-06T21:39:51.536331+08:00",
+    "record_count": 381,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -6817,6 +6817,23 @@
       "topics": [
         "獎金／分紅",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0381",
+      "media": "Liberty Times Finance",
+      "title": "賴清德喊「AI紅利全民共享」 工會不買單嗆：勞工要加薪、勞退提撥率提高至15％",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5554086",
+      "published_date": "2026-08-27",
+      "published_at": "2026-08-27T13:03:10+08:00",
+      "listed_at": "2026-10-06T21:39:28+08:00",
+      "last_checked_at": "2026-10-06T21:39:28+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
