@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-06T21:39:51.536331+08:00",
-    "record_count": 381,
+    "generated_at": "2026-10-06T23:14:38.019728+08:00",
+    "record_count": 382,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0382",
+      "media": "桃園市產業總工會（Threads）",
+      "title": "台灣美光工會罷工投票結果公布國際記者會採訪通知",
+      "url": "https://www.threads.com/@tyctu.94/post/DeJp189kv5J",
+      "published_date": "2026-10-06",
+      "published_at": "2026-10-06T11:15:19+00:00",
+      "listed_at": "2026-10-06T23:14:10+08:00",
+      "last_checked_at": "2026-10-06T23:14:10+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "official_union_statement",
+      "duplicate_of": null
+    },
     {
       "id": "news-0378",
       "media": "經理人",
