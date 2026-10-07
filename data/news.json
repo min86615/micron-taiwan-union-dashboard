@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T01:27:37.261174+08:00",
-    "record_count": 424,
+    "generated_at": "2026-10-08T03:09:31.106984+08:00",
+    "record_count": 425,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0425",
+      "media": "Taipei Times",
+      "title": "Micron union secures strike approval",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/08/2003865571",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "listed_at": "2026-10-08T03:09:23+08:00",
+      "last_checked_at": "2026-10-08T03:09:23+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0404",
       "media": "Yahoo Finance / AFP",
@@ -479,7 +497,7 @@
       "published_date": "2026-10-07",
       "published_at": "2026-10-07T12:47:30+08:00",
       "listed_at": "2026-10-07T15:12:13+08:00",
-      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-08T03:09:23+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -533,7 +551,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-08T01:02:30.518522+08:00",
-      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "last_checked_at": "2026-10-08T03:09:23+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
