@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T03:09:31.106984+08:00",
-    "record_count": 425,
+    "generated_at": "2026-10-08T05:12:11.156413+08:00",
+    "record_count": 429,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -289,6 +289,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://finance.yahoo.com/markets/stocks/articles/micron-workers-taiwan-plant-vote-074005592.html"
+    },
+    {
+      "id": "news-0427",
+      "media": "記者爆料網",
+      "title": "美光勞資戰全面升溫！員工逾8成挺罷工 10/19上凱道發聲",
+      "url": "https://new-reporter.com/news/280750/",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:32:00",
+      "listed_at": "2026-10-08T05:08:12+08:00",
+      "last_checked_at": "2026-10-08T05:08:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
     },
     {
       "id": "news-0417",
@@ -7629,6 +7647,60 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0426",
+      "media": "鉅亨網",
+      "title": "美光台灣罷工案升溫 工會99%高票取得罷工權 全球員工高度關注",
+      "url": "https://news.cnyes.com/news/id/6623733",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T05:08:12+08:00",
+      "last_checked_at": "2026-10-08T05:08:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0429",
+      "media": "警政時報／記者爆料網",
+      "title": "美光勞資戰全面升溫！員工逾8成挺罷工 10/19上凱道發聲",
+      "url": "https://www.tcpttw.com/other/other_local/2026/10/07/318163/",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T05:08:12+08:00",
+      "last_checked_at": "2026-10-08T05:08:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://new-reporter.com/news/280750/"
+    },
+    {
+      "id": "news-0428",
+      "media": "工商時報",
+      "title": "美光桃園工會取得罷工權 揚言聯手台中廠突襲",
+      "url": "https://www.ctee.com.tw/news/20261007701895-431401",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T05:08:12+08:00",
+      "last_checked_at": "2026-10-08T05:08:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
       "duplicate_of": null
     },
     {
