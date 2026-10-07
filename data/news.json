@@ -1,10 +1,65 @@
 {
   "summary": {
-    "generated_at": "2026-10-07T17:21:24.239711+08:00",
-    "record_count": 388,
+    "generated_at": "2026-10-07T19:15:42.279755+08:00",
+    "record_count": 398,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0394",
+      "media": "太報 Taisounds",
+      "title": "美光工會將採「突襲式罷工」 公司回應：努力尋求兼顧各方的建設性方案",
+      "url": "https://www.taisounds.com/news/content/76/292748",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:09:00+08:00",
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0389",
+      "media": "TechNews 科技新報",
+      "title": "美光桃園工會宣布，透過會員投票取得罷工權",
+      "url": "https://finance.technews.tw/2026/10/07/new-developments-in-the-micron-taiwan-strike-case/",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:00:00+08:00",
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0392",
+      "media": "鏡報",
+      "title": "台灣美光員工績效獎金慘輸同業 罷工一觸即發！工會籲公司共享長期營運果實",
+      "url": "https://www.mirrordaily.news/story/90201",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:58:00+08:00",
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
     {
       "id": "news-0385",
       "media": "聯合新聞網／經濟日報",
@@ -57,6 +112,134 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0397",
+      "media": "自由財經",
+      "title": "美光桃園工會要求透明分潤 擬採「突襲式罷工」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5598763",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0396",
+      "media": "自由財經",
+      "title": "美光桃園工會取得罷工權 美光回應來了",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5598773",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0398",
+      "media": "聯合新聞網／經濟日報",
+      "title": "美光罷工投票通過 勞動部籲資方提可行方案與工會協商",
+      "url": "https://udn.com/news/story/7238/9800760",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0391",
+      "media": "民報",
+      "title": "美光罷工危機3》工會擬「突襲式罷工」 壓力直送美國董事會",
+      "url": "https://www.peoplenews.tw/articles/economic-news/59948",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0395",
+      "media": "中時新聞網",
+      "title": "工會取得合法罷工權 美光回應：尋求善意溝通",
+      "url": "https://www.chinatimes.com/realtimenews/20261007003928-260410",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0390",
+      "media": "中央社 CNA",
+      "title": "美光桃園廠工會取得罷工權 市調：DRAM產出添變數",
+      "url": "https://www.cna.com.tw/news/afe/202610070268.aspx",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0393",
+      "media": "ETtoday新聞雲",
+      "title": "快訊／記憶體美光台灣廠工會嗆聲！取得罷工權 10／19上凱道",
+      "url": "https://finance.ettoday.net/news/3250797",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
       "duplicate_of": null
     },
     {
