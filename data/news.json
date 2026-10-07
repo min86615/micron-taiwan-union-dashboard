@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-10-07T21:15:22.576363+08:00",
-    "record_count": 402,
+    "generated_at": "2026-10-08T01:27:37.261174+08:00",
+    "record_count": 424,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0404",
+      "media": "Yahoo Finance / AFP",
+      "title": "Micron workers at Taiwan plant vote in favour of strike",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-workers-taiwan-plant-vote-074005592.html",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T18:44:00+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0422",
+      "media": "Nikkei Asia / Reuters",
+      "title": "Micron Taiwan union wins mandate to strike over bonus dispute",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/micron-taiwan-union-wins-mandate-to-strike-over-bonus-dispute",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T18:30:00+09:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/"
+    },
     {
       "id": "news-0402",
       "media": "聯合報／經濟日報",
@@ -13,7 +49,78 @@
       "published_date": "2026-10-07",
       "published_at": "2026-10-07T18:14:02+08:00",
       "listed_at": "2026-10-07T21:15:05+08:00",
-      "last_checked_at": "2026-10-07T21:15:05+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0412",
+      "media": "FTNN",
+      "title": "美光台灣廠罷工箭在弦上！取得罷工權10/19「建議休假」上凱道集結　公司最新回應曝",
+      "url": "https://www.ftnn.com.tw/news/585426",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:49:00+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0420",
+      "media": "經濟日報（中央社稿）",
+      "title": "桃園廠工會取得罷工權 美光：尊重員工權利持續溝通",
+      "url": "https://money.udn.com/money/story/5612/9800914",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:31:32+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070228.aspx"
+    },
+    {
+      "id": "news-0410",
+      "media": "梅花新聞網",
+      "title": "桃園美光工會取得罷工權 19日號召員工上凱道遊行抗議",
+      "url": "https://www.i-meihua.com/Article/Detail/57245",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:17:00+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0419",
+      "media": "經濟日報",
+      "title": "美光回應桃園工會取得罷工權 尊重員工權利、持續善意溝通",
+      "url": "https://money.udn.com/money/story/5612/9800891",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:16:31+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -42,6 +149,58 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0421",
+      "media": "經濟日報",
+      "title": "台灣美光罷工危機升溫 桃園工會取得罷工權",
+      "url": "https://money.udn.com/money/story/5612/9800869",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:10:43+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0424",
+      "media": "PChome Online 新聞 / CTWANT",
+      "title": "美光罷工風暴升級！近99%投票者喊YES　勞動部出手了",
+      "url": "https://news.pchome.com.tw/finance/m00361/20261007/index-79136417274445361003.html",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:09:32+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctwant.com/article/501306"
+    },
+    {
+      "id": "news-0409",
+      "media": "CTWANT",
+      "title": "美光罷工風暴升級！近99%投票者喊YES　勞動部出手了",
+      "url": "https://www.ctwant.com/article/501306",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:09:00+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0394",
       "media": "太報 Taisounds",
       "title": "美光工會將採「突襲式罷工」 公司回應：努力尋求兼顧各方的建設性方案",
@@ -57,6 +216,96 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0413",
+      "media": "鏡報",
+      "title": "美光工會揚言罷工　公司回應：持續對話、溝通",
+      "url": "https://www.mirrordaily.news/story/90221",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T17:08:00+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0408",
+      "media": "Yahoo News Taiwan",
+      "title": "美光工會取得罷工權！近2千票同意 勞動部首度回應：提出具體方案協商",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E5%8F%96%E5%BE%97%E7%BD%B7%E5%B7%A5%E6%AC%8A%EF%BC%81%E8%BF%912%E5%8D%83%E7%A5%A8%E5%90%8C%E6%84%8F-%E5%8B%9E%E5%8B%95%E9%83%A8%E9%A6%96%E5%BA%A6%E5%9B%9E%E6%87%89%EF%BC%9A%E6%8F%90%E5%87%BA%E5%85%B7%E9%AB%94%E6%96%B9%E6%A1%88%E5%8D%94%E5%95%86-083301061.html",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:33:01+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0423",
+      "media": "The Straits Times / AFP",
+      "title": "Micron workers at Taiwan plant vote to strike over bonuses",
+      "url": "https://www.straitstimes.com/asia/east-asia/micron-workers-at-taiwan-plant-vote-to-strike-over-bonuses",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:33:00+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://finance.yahoo.com/markets/stocks/articles/micron-workers-taiwan-plant-vote-074005592.html"
+    },
+    {
+      "id": "news-0417",
+      "media": "經濟日報",
+      "title": "美光工會取得罷工權 律師提醒資方：恐面臨營運違約、ESG 評分衝擊",
+      "url": "https://money.udn.com/money/story/5648/9800773",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:30:56+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0418",
+      "media": "經濟日報",
+      "title": "美光罷工投票通過 勞動部籲資方提可行方案與工會協商",
+      "url": "https://money.udn.com/money/story/7307/9800760",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:22:50+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -78,6 +327,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0205",
+      "media": "經理人 ManagerToday",
+      "title": "台灣美光罷工投票近 9 成過關！工會痛批：CEO 股票多拿 400 倍、盼公平分配成果",
+      "url": "https://www.managertoday.com.tw/articles/view/72917",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:00:00+08:00",
+      "listed_at": "2026-09-12T23:07:09.559668+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0392",
       "media": "鏡報",
       "title": "台灣美光員工績效獎金慘輸同業 罷工一觸即發！工會籲公司共享長期營運果實",
@@ -94,6 +361,42 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0415",
+      "media": "聯合報",
+      "title": "不滿分潤制度 美光桃園工會取得罷工權擬「突襲罷工」",
+      "url": "https://money.udn.com/money/story/5612/9800687",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:57:46+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0414",
+      "media": "經濟日報",
+      "title": "美光桃園工會取得罷工權 考慮突襲式罷工、要求透明分潤",
+      "url": "https://money.udn.com/money/story/5612/9800675",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:54:42+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -133,6 +436,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0416",
+      "media": "經濟日報（中央社稿）",
+      "title": "美光桃園廠工會：取得罷工權　19日鼓勵員工休假上凱道",
+      "url": "https://money.udn.com/money/story/5612/9800572",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:13:02+08:00",
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070181.aspx"
+    },
+    {
       "id": "news-0384",
       "media": "中央社 CNA",
       "title": "美光桃園廠工會取得罷工權　擬鼓勵員工19日休假上凱道",
@@ -169,6 +490,78 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0411",
+      "media": "TVBS Finance",
+      "title": "美光工會「取得罷工權」爭合理分潤　勞動部發聲了",
+      "url": "https://news.tvbs.com.tw/money/4032909",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0403",
+      "media": "Reuters",
+      "title": "Micron Tech chipmaker union in Taiwan gets OK to strike",
+      "url": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0405",
+      "media": "Focus Taiwan / CNA",
+      "title": "Micron Taoyuan union secures strike authorization, weighs 'surprise strike'",
+      "url": "https://focustaiwan.tw/business/202610070021",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0406",
+      "media": "Commercial Times",
+      "title": "美光桃園工會取得罷工權 勞動部說話了",
+      "url": "https://www.ctee.com.tw/news/20261007702213-431401",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0401",
       "media": "中央社 CNA",
       "title": "美光桃園工會取得罷工權 勞動部籲資方提可行方案",
@@ -176,7 +569,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T21:15:05+08:00",
-      "last_checked_at": "2026-10-07T21:15:05+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -322,7 +715,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T17:16:15+08:00",
-      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -339,7 +732,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T17:16:15+08:00",
-      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -393,7 +786,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T18:51:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-07T15:12:13+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -3744,25 +4137,6 @@
       "language": "TW",
       "topics": [
         "獎金／分紅"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0205",
-      "media": "經理人 ManagerToday",
-      "title": "台灣美光 2 次勞資調解破局，宣布啟動罷工投票！豪發每人百萬感謝金也解不了危機？",
-      "url": "https://www.managertoday.com.tw/articles/view/72917",
-      "published_date": "2026-09-11",
-      "published_at": null,
-      "listed_at": "2026-09-12T23:07:09.559668+08:00",
-      "last_checked_at": "2026-09-24T05:28:13+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "罷工",
-        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
@@ -7233,6 +7607,24 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0407",
+      "media": "NOWnews",
+      "title": "美光工會罷工案99%壓倒性通過！取得罷工權 下一步動向曝",
+      "url": "https://www.nownews.com/news/6881518",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T01:02:30.518522+08:00",
+      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
