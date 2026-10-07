@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-10-07T15:12:29.232295+08:00",
-    "record_count": 383,
+    "generated_at": "2026-10-07T17:21:24.239711+08:00",
+    "record_count": 388,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0385",
+      "media": "聯合新聞網／經濟日報",
+      "title": "CEO攬400倍股票？美光罷工投票88.3%通過 工會揭三項質疑",
+      "url": "https://udn.com/news/amp/story/7238/9800596",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:26:43+08:00",
+      "listed_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0384",
+      "media": "中央社 CNA",
+      "title": "美光桃園廠工會取得罷工權　擬鼓勵員工19日休假上凱道",
+      "url": "https://www.cna.com.tw/news/afe/202610070181.aspx",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:07:00+08:00",
+      "listed_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0383",
       "media": "民報",
@@ -13,7 +49,42 @@
       "published_date": "2026-10-07",
       "published_at": "2026-10-07T12:47:30+08:00",
       "listed_at": "2026-10-07T15:12:13+08:00",
-      "last_checked_at": "2026-10-07T15:12:13+08:00",
+      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0386",
+      "media": "民報",
+      "title": "美光罷工危機2》AI讓美光賺翻卻擺不平員工 分潤爭議一次看",
+      "url": "https://www.peoplenews.tw/articles/economic-news/59820",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0387",
+      "media": "工商時報",
+      "title": "美光桃園工會99％同意罷工 台灣高科技業首度取得罷工權",
+      "url": "https://www.ctee.com.tw/news/20261007701634-431401",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-07T17:16:15+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -6912,6 +6983,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0388",
+      "media": "中時新聞網",
+      "title": "高科技業首例！美光桃園工會取得罷工權",
+      "url": "https://www.chinatimes.com/realtimenews/20261007003043-260405",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-07T17:16:15+08:00",
+      "last_checked_at": "2026-10-07T17:16:15+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261007701634-431401"
     },
     {
       "id": "news-0365",
