@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T05:12:11.156413+08:00",
-    "record_count": 429,
+    "generated_at": "2026-10-08T09:12:13.047817+08:00",
+    "record_count": 430,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -526,6 +526,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0430",
+      "media": "BlockTempo",
+      "title": "美光桃園工會以 88.3% 同意正式取得罷工權，日期未定擬「突襲式罷工」",
+      "url": "https://www.blocktempo.com/micron-taoyuan-union-strike-vote-wins-board-meeting-surprise-walkout/",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T09:12:04.509376+08:00",
+      "last_checked_at": "2026-10-08T09:12:04.509376+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0411",
       "media": "TVBS Finance",
       "title": "美光工會「取得罷工權」爭合理分潤　勞動部發聲了",
@@ -677,7 +695,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T19:15:38+08:00",
-      "last_checked_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-08T09:12:04.509376+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -822,7 +840,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T18:51:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "last_checked_at": "2026-10-08T09:12:04.509376+08:00",
       "language": "EN",
       "topics": [
         "罷工"
