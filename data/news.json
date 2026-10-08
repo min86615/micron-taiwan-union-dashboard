@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T09:12:13.047817+08:00",
-    "record_count": 430,
+    "generated_at": "2026-10-08T11:15:01.947210+08:00",
+    "record_count": 432,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0431",
+      "media": "工商時報",
+      "title": "《科技》工會取得罷工權19日上凱道 美光22日再協商",
+      "url": "https://www.ctee.com.tw/news/20261008700822-430503",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T09:03:00+08:00",
+      "listed_at": "2026-10-08T11:10:18+08:00",
+      "last_checked_at": "2026-10-08T11:10:18+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0425",
       "media": "Taipei Times",
@@ -695,7 +713,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T19:15:38+08:00",
-      "last_checked_at": "2026-10-08T09:12:04.509376+08:00",
+      "last_checked_at": "2026-10-08T11:10:18+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -7661,6 +7679,24 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0432",
+      "media": "旺得富",
+      "title": "近9成會員同意 美光桃園工會 取得罷工權",
+      "url": "https://wantrich.chinatimes.com/news/20261008900038-420501",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T11:10:18+08:00",
+      "last_checked_at": "2026-10-08T11:10:18+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
