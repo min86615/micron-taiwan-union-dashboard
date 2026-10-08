@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T19:13:53.962178+08:00",
-    "record_count": 444,
+    "generated_at": "2026-10-08T21:12:02.709386+08:00",
+    "record_count": 445,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,24 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0445",
+      "media": "聯合報 UDN",
+      "title": "台灣美光台中工會22日二次勞資調解 勞工局籲盡量協商力求共識",
+      "url": "https://udn.com/news/story/7240/9802626",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T12:53:22+08:00",
+      "listed_at": "2026-10-08T21:11:34+08:00",
+      "last_checked_at": "2026-10-08T21:11:34+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
