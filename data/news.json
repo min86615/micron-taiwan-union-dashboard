@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T17:14:39.207356+08:00",
-    "record_count": 439,
+    "generated_at": "2026-10-08T19:13:53.962178+08:00",
+    "record_count": 444,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0441",
+      "media": "聯合新聞網",
+      "title": "台灣美光桃園工會取得罷工權 桃市府：關注發展、適時協助",
+      "url": "https://udn.com/news/story/7240/9803120",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T15:26+08:00",
+      "listed_at": "2026-10-08T19:13:46.390743+08:00",
+      "last_checked_at": "2026-10-08T19:13:46.390743+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0431",
       "media": "工商時報",
@@ -51,6 +69,24 @@
       "listed_at": "2026-10-08T03:09:23+08:00",
       "last_checked_at": "2026-10-08T03:09:23+08:00",
       "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0442",
+      "media": "NOWnews",
+      "title": "美光桃園工會99.1%通過罷工！預告突襲式行動　勞動部喊話提方案",
+      "url": "https://www.nownews.com/news/6881524",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T21:26:38+08:00",
+      "listed_at": "2026-10-08T19:13:46.390743+08:00",
+      "last_checked_at": "2026-10-08T19:13:46.390743+08:00",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -129,6 +165,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/"
+    },
+    {
+      "id": "news-0440",
+      "media": "經濟日報",
+      "title": "台灣美光危機升溫！ 工會將採突襲罷工 勞動部籲資方協商",
+      "url": "https://money.udn.com/money/story/7307/9801041",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T18:16+08:00",
+      "listed_at": "2026-10-08T19:13:46.390743+08:00",
+      "last_checked_at": "2026-10-08T19:13:46.390743+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0402",
@@ -590,6 +644,23 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0443",
+      "media": "TIKR",
+      "title": "Micron Workers in Taiwan Authorize a Strike and Wants 15% of Operating Profit. Here’s What That Would Cost",
+      "url": "https://www.tikr.com/blog/micron-workers-in-taiwan-authorize-a-strike-and-wants-15-of-operating-profit-heres-what-that-would-cost",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T19:13:46.390743+08:00",
+      "last_checked_at": "2026-10-08T19:13:46.390743+08:00",
+      "language": "EN",
+      "topics": [
         "罷工"
       ],
       "status": "reported",
@@ -7773,6 +7844,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0444",
+      "media": "Yahoo Finance",
+      "title": "Micron Workers in Taiwan Authorize a Strike and Wants 15% of Operating Profit. Here’s What That Would Cost",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-workers-taiwan-authorize-strike-155449958.html",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T19:13:46.390743+08:00",
+      "last_checked_at": "2026-10-08T19:13:46.390743+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tikr.com/blog/micron-workers-in-taiwan-authorize-a-strike-and-wants-15-of-operating-profit-heres-what-that-would-cost"
     },
     {
       "id": "news-0438",
