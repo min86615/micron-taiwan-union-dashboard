@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T15:16:03.006235+08:00",
-    "record_count": 435,
+    "generated_at": "2026-10-08T17:14:39.207356+08:00",
+    "record_count": 439,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -51,6 +51,41 @@
       "listed_at": "2026-10-08T03:09:23+08:00",
       "last_checked_at": "2026-10-08T03:09:23+08:00",
       "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0439",
+      "media": "Liberty Times Finance",
+      "title": "美光通過罷工 勞動部籲資方協商、提出具體可行方案",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5599067",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T21:08:42+08:00",
+      "listed_at": "2026-10-08T17:14:31+08:00",
+      "last_checked_at": "2026-10-08T17:14:31+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0437",
+      "media": "NOWnews",
+      "title": "半導體大廠震撼彈！美光桃園工會「取得罷工權」 桃市府急發聲",
+      "url": "https://www.nownews.com/news/6881519",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T21:03:44+08:00",
+      "listed_at": "2026-10-08T17:14:31+08:00",
+      "last_checked_at": "2026-10-08T17:14:31+08:00",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "罷工"
@@ -552,6 +587,24 @@
       "published_at": "2026-10-07T12:47:30+08:00",
       "listed_at": "2026-10-07T15:12:13+08:00",
       "last_checked_at": "2026-10-08T03:09:23+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0436",
+      "media": "Commercial Times",
+      "title": "美光桃園工會取得罷工權！訴求15％員工分潤 公司稱持續善意溝通",
+      "url": "https://www.ctee.com.tw/news/20261007702172-430502",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-08T17:14:31+08:00",
+      "last_checked_at": "2026-10-08T17:14:31+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -7715,6 +7768,24 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0438",
+      "media": "China Times",
+      "title": "美光桃園工會取得罷工權 勞動部說話了",
+      "url": "https://www.chinatimes.com/realtimenews/20261007004267-260405",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-08T17:14:31+08:00",
+      "last_checked_at": "2026-10-08T17:14:31+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
