@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T11:15:01.947210+08:00",
-    "record_count": 432,
+    "generated_at": "2026-10-08T13:12:36.283587+08:00",
+    "record_count": 433,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13,7 +13,7 @@
       "published_date": "2026-10-08",
       "published_at": "2026-10-08T09:03:00+08:00",
       "listed_at": "2026-10-08T11:10:18+08:00",
-      "last_checked_at": "2026-10-08T11:10:18+08:00",
+      "last_checked_at": "2026-10-08T13:11:26.875575+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -22,6 +22,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0433",
+      "media": "中國時報",
+      "title": "《科技》工會取得罷工權19日上凱道 美光22日再協商",
+      "url": "https://www.chinatimes.com/realtimenews/20261008001615-260410",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "listed_at": "2026-10-08T13:11:26.875575+08:00",
+      "last_checked_at": "2026-10-08T13:11:26.875575+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261008700822-430503"
     },
     {
       "id": "news-0425",
@@ -713,7 +731,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T19:15:38+08:00",
-      "last_checked_at": "2026-10-08T11:10:18+08:00",
+      "last_checked_at": "2026-10-08T13:11:26.875575+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -787,7 +805,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-07T17:16:15+08:00",
-      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "last_checked_at": "2026-10-08T13:11:26.875575+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -858,7 +876,7 @@
       "published_date": "2026-10-02",
       "published_at": "2026-10-02T18:51:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-08T09:12:04.509376+08:00",
+      "last_checked_at": "2026-10-08T13:11:26.875575+08:00",
       "language": "EN",
       "topics": [
         "罷工"
