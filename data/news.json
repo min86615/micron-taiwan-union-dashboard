@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-10-08T23:23:17.055146+08:00",
-    "record_count": 448,
+    "generated_at": "2026-10-11T20:16:05.327813+08:00",
+    "record_count": 451,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0450",
+      "media": "TechNews 科技新報",
+      "title": "獲利分紅成主戰場，勞資都要面對的課題，台灣美光釀罷工危機，高科技業新考驗",
+      "url": "https://finance.technews.tw/2026/10/10/strike-risk-looms-at-micron-taiwan/",
+      "published_date": "2026-10-10",
+      "published_at": "2026-10-10T09:00:00+08:00",
+      "listed_at": "2026-10-11T20:16:05.237422+08:00",
+      "last_checked_at": "2026-10-11T20:16:05.237422+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.wealth.com.tw/articles/561dcfe4-f5e5-4878-801e-79e230dca8a0"
+    },
+    {
+      "id": "news-0451",
+      "media": "工商時報",
+      "title": "美光為何陷罷工危機？關鍵在員工分潤制度「有股票、沒股票」感受差多少？",
+      "url": "https://www.ctee.com.tw/news/20261010700010-430501",
+      "published_date": "2026-10-10",
+      "published_at": "2026-10-10T08:42:00+08:00",
+      "listed_at": "2026-10-11T20:16:05.237422+08:00",
+      "last_checked_at": "2026-10-11T20:16:05.237422+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.wealth.com.tw/articles/561dcfe4-f5e5-4878-801e-79e230dca8a0"
+    },
     {
       "id": "news-0447",
       "media": "經濟日報 UDN",
@@ -726,6 +762,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0449",
+      "media": "Reuters Japan",
+      "title": "米マイクロン、台湾で労使対立激化　賞与制度巡り労組スト承認 | ロイター",
+      "url": "https://www.reuters.com/jp/world/2446EHD4PNOAXEXTRXYQQADFLY-2026-10-08/",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-11T20:16:05.237422+08:00",
+      "last_checked_at": "2026-10-11T20:16:05.237422+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/"
+    },
+    {
       "id": "news-0443",
       "media": "TIKR",
       "title": "Micron Workers in Taiwan Authorize a Strike and Wants 15% of Operating Profit. Here’s What That Would Cost",
@@ -822,7 +877,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-08T01:02:30.518522+08:00",
-      "last_checked_at": "2026-10-08T23:22:40+08:00",
+      "last_checked_at": "2026-10-11T20:16:05.237422+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
