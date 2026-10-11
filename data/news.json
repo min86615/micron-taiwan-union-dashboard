@@ -1,8 +1,8 @@
 {
   "summary": {
-    "generated_at": "2026-10-11T22:52:43.632679+08:00",
+    "generated_at": "2026-10-11T23:13:05.892063+08:00",
     "record_count": 453,
-    "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
+    "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
     {
@@ -8191,7 +8191,8 @@
       ],
       "status": "reported",
       "source_type": "analysis",
-      "duplicate_of": null
+      "duplicate_of": null,
+      "updated_date_note": "來源更新時間（非發布日；時區未明）：2026-09-29 22:35／2026-09-30 10:35（不同呈現）"
     }
   ]
 }
