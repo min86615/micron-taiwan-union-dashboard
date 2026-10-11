@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-11T20:16:05.327813+08:00",
-    "record_count": 451,
+    "generated_at": "2026-10-11T21:47:15.669655+08:00",
+    "record_count": 453,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, and last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0453",
+      "media": "Yahoo Finance / Barchart",
+      "title": "Micron’s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-taiwan-union-authorized-strike-160002966.html",
+      "published_date": "2026-10-11",
+      "published_at": "2026-10-11T00:00:00+08:00",
+      "listed_at": "2026-10-11T21:46:59.960422+08:00",
+      "last_checked_at": "2026-10-11T21:46:59.960422+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.barchart.com/story/news/5727029/microns-taiwan-union-authorized-a-strike-over-a-bonus-dispute-what-this-means-for-mu-stock"
+    },
     {
       "id": "news-0450",
       "media": "TechNews 科技新報",
@@ -7973,6 +7992,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0452",
+      "media": "Barchart",
+      "title": "Micron’s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
+      "url": "https://www.barchart.com/story/news/5727029/microns-taiwan-union-authorized-a-strike-over-a-bonus-dispute-what-this-means-for-mu-stock",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-11T21:46:59.960422+08:00",
+      "last_checked_at": "2026-10-11T21:46:59.960422+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
       "duplicate_of": null
     },
     {
