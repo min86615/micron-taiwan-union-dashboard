@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-12T03:16:51.962332+08:00",
-    "record_count": 453,
+    "generated_at": "2026-10-12T05:11:09.736505+08:00",
+    "record_count": 454,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0454",
+      "media": "note.com",
+      "title": "【最新】マイクロン台湾でストライキ権獲得、DRAM供給への影響は？【2026/10/11 半導体ニュース】私見 利益還元と次の投資の両立。経営側も悩ましい",
+      "url": "https://note.com/handotai14/n/n9114b6d2ab7f",
+      "published_date": "2026-10-11",
+      "published_at": "2026-10-11T06:36:02+09:00",
+      "listed_at": "2026-10-12T05:10:58.921567+08:00",
+      "last_checked_at": "2026-10-12T05:10:58.921567+08:00",
+      "language": "JP",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0453",
       "media": "Yahoo Finance / Barchart",
@@ -691,6 +709,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0393",
+      "media": "ETtoday新聞雲",
+      "title": "快訊／記憶體美光台灣廠工會嗆聲！取得罷工權 10／19上凱道",
+      "url": "https://finance.ettoday.net/news/3250797",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:24:00+08:00",
+      "listed_at": "2026-10-07T19:15:38+08:00",
+      "last_checked_at": "2026-10-12T05:10:58.921567+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0418",
       "media": "經濟日報",
       "title": "美光罷工投票通過 勞動部籲資方提可行方案與工會協商",
@@ -1239,25 +1276,6 @@
       "published_at": null,
       "listed_at": "2026-10-07T19:15:38+08:00",
       "last_checked_at": "2026-10-07T19:15:38+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "罷工",
-        "記憶體／HBM"
-      ],
-      "status": "reported",
-      "source_type": "original_source",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0393",
-      "media": "ETtoday新聞雲",
-      "title": "快訊／記憶體美光台灣廠工會嗆聲！取得罷工權 10／19上凱道",
-      "url": "https://finance.ettoday.net/news/3250797",
-      "published_date": "2026-10-07",
-      "published_at": null,
-      "listed_at": "2026-10-07T19:15:38+08:00",
-      "last_checked_at": "2026-10-08T23:22:40+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
