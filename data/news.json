@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-12T05:11:09.736505+08:00",
-    "record_count": 454,
+    "generated_at": "2026-10-12T21:14:31.340409+08:00",
+    "record_count": 455,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0455",
+      "media": "鉅亨網",
+      "title": "美光單季賺贏蘋果！記憶體缺貨 讓晶片供應商掌握定價權",
+      "url": "https://news.cnyes.com/news/id/6627783",
+      "published_date": "2026-10-12",
+      "published_at": null,
+      "listed_at": "2026-10-12T21:14:16+08:00",
+      "last_checked_at": "2026-10-12T21:14:16+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null
+    },
     {
       "id": "news-0454",
       "media": "note.com",
