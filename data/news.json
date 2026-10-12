@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-12T21:14:31.340409+08:00",
-    "record_count": 455,
+    "generated_at": "2026-10-12T23:15:44.961098+08:00",
+    "record_count": 456,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -861,6 +861,24 @@
       "published_at": "2026-10-07T15:54:42+08:00",
       "listed_at": "2026-10-08T01:02:30.518522+08:00",
       "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0456",
+      "media": "經濟日報",
+      "title": "美光罷工投票88.3%通過 工會揭三項質疑",
+      "url": "https://money.udn.com/money/story/5612/9800596",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:26:45+08:00",
+      "listed_at": "2026-10-12T23:15:25.415589+08:00",
+      "last_checked_at": "2026-10-12T23:15:25.415589+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
