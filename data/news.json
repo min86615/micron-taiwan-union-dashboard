@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-12T23:15:44.961098+08:00",
-    "record_count": 456,
+    "generated_at": "2026-10-13T07:08:14.246756+08:00",
+    "record_count": 457,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -132,6 +132,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.wealth.com.tw/articles/561dcfe4-f5e5-4878-801e-79e230dca8a0"
+    },
+    {
+      "id": "news-0457",
+      "media": "聯合報／經濟日報",
+      "title": "台灣美光桃園工會取得罷工權 桃市府：關注發展、適時協助",
+      "url": "https://money.udn.com/money/story/7307/9803120",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T15:26:21+08:00",
+      "listed_at": "2026-10-13T07:06:24+08:00",
+      "last_checked_at": "2026-10-13T07:06:24+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0441",
@@ -2976,7 +2994,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T15:44:36+08:00",
       "listed_at": "2026-09-16T17:02:03.331815+08:00",
-      "last_checked_at": "2026-09-17T21:06:31.856731+08:00",
+      "last_checked_at": "2026-10-13T07:06:24+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
