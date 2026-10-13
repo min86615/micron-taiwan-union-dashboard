@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-14T03:13:37.798430+08:00",
-    "record_count": 461,
+    "generated_at": "2026-10-14T05:12:53.103927+08:00",
+    "record_count": 462,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -942,6 +942,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0462",
+      "media": "聯合新聞網／中央社稿",
+      "title": "爭15%分潤！美光桃園廠工會取得罷工權 19日鼓勵員工休假上凱道",
+      "url": "https://udn.com/news/story/7240/9800572",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:22:13+08:00",
+      "listed_at": "2026-10-14T05:11:32+08:00",
+      "last_checked_at": "2026-10-14T05:11:32+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070181.aspx"
     },
     {
       "id": "news-0399",
