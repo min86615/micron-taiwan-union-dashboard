@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-14T01:23:04.770667+08:00",
-    "record_count": 460,
+    "generated_at": "2026-10-14T03:13:37.798430+08:00",
+    "record_count": 461,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1049,6 +1049,23 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0461",
+      "media": "三立iNEWS / 三立新聞網 SETN.COM",
+      "title": "美光桃園取得罷工權　10月19日或上凱道",
+      "url": "https://inews.setn.com/news/1918735",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-14T03:13:34+08:00",
+      "last_checked_at": "2026-10-14T03:13:34+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
