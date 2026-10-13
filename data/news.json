@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-13T17:14:59.659887+08:00",
-    "record_count": 459,
+    "generated_at": "2026-10-14T01:23:04.770667+08:00",
+    "record_count": 460,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1049,6 +1049,23 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0460",
+      "media": "Taiwan News",
+      "title": "Micron’s Taoyuan workers authorize strike action",
+      "url": "https://www.taiwannews.com.tw/news/6453683",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "listed_at": "2026-10-14T01:23:00.319344+08:00",
+      "last_checked_at": "2026-10-14T01:23:00.319344+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
