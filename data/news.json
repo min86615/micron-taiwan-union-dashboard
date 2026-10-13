@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-13T07:08:14.246756+08:00",
-    "record_count": 457,
+    "generated_at": "2026-10-13T09:09:59.550413+08:00",
+    "record_count": 458,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0458",
+      "media": "民報",
+      "title": "DRAM搶貨戰4》美光工會爭15%分潤 南亞科Q3獎金跟著漲",
+      "url": "https://www.peoplenews.tw/articles/economic-news/60917",
+      "published_date": "2026-10-13",
+      "published_at": "2026-10-13T06:03:00+08:00",
+      "listed_at": "2026-10-13T09:07:11+08:00",
+      "last_checked_at": "2026-10-13T09:07:11+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0455",
       "media": "鉅亨網",
