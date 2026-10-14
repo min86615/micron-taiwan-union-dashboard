@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-10-14T19:14:33.382432+08:00",
+    "generated_at": "2026-10-15T01:07:54.631847+08:00",
     "record_count": 463,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -394,7 +394,7 @@
       "published_date": "2026-10-07",
       "published_at": "2026-10-07T18:44:00+08:00",
       "listed_at": "2026-10-08T01:02:30.518522+08:00",
-      "last_checked_at": "2026-10-08T01:26:35.627391+08:00",
+      "last_checked_at": "2026-10-15T01:06:54+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -1255,7 +1255,7 @@
       "published_date": "2026-10-07",
       "published_at": null,
       "listed_at": "2026-10-08T01:02:30.518522+08:00",
-      "last_checked_at": "2026-10-08T23:22:40+08:00",
+      "last_checked_at": "2026-10-15T01:06:54+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1612,7 +1612,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-08T23:22:40+08:00",
+      "last_checked_at": "2026-10-15T01:06:54+08:00",
       "language": "EN",
       "topics": [
         "罷工"
