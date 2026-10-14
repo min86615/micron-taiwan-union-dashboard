@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-14T05:12:53.103927+08:00",
-    "record_count": 462,
+    "generated_at": "2026-10-14T19:14:33.382432+08:00",
+    "record_count": 463,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -8327,6 +8327,24 @@
       "last_checked_at": "2026-10-13T17:14:48+08:00",
       "language": "TW",
       "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0463",
+      "media": "BusinessTech News",
+      "title": "Micron Taiwan Union Votes 99% to Authorize Strike Over Profit Share",
+      "url": "https://businesstech.news/micron-taiwan-union-strike-vote/",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-14T19:14:33+08:00",
+      "last_checked_at": "2026-10-14T19:14:33+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
