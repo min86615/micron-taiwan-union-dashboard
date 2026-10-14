@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-15T03:07:32.937646+08:00",
-    "record_count": 463,
+    "generated_at": "2026-10-15T03:12:23.205466+08:00",
+    "record_count": 464,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -2734,6 +2734,23 @@
       "topics": [
         "工會／勞資",
         "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0464",
+      "media": "TVBS新聞網",
+      "title": "美光完成首輪勞資協商！承諾「不秋後算帳」　10/22再開協調會",
+      "url": "https://news.tvbs.com.tw/money/4024351",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T09:28:34+08:00",
+      "listed_at": "2026-10-15T03:12:14+08:00",
+      "last_checked_at": "2026-10-15T03:12:14+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
