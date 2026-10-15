@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-16T01:12:53.265317+08:00",
-    "record_count": 474,
+    "generated_at": "2026-10-16T03:15:38.248565+08:00",
+    "record_count": 475,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -8521,6 +8521,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0475",
+      "media": "旺得富 / Reuters",
+      "title": "《國際產業》賴清德籲美光勞資雙方 先坐下來好好談",
+      "url": "https://wantrich.chinatimes.com/news/20261015900354-420201",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-16T03:11:47+08:00",
+      "last_checked_at": "2026-10-16T03:11:47+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
     },
     {
       "id": "news-0463",
