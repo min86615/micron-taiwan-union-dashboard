@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-10-15T23:13:15.325923+08:00",
-    "record_count": 472,
+    "generated_at": "2026-10-16T01:12:53.265317+08:00",
+    "record_count": 474,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0474",
+      "media": "工商時報 / Reuters",
+      "title": "《國際產業》賴清德籲美光勞資雙方 先坐下來好好談",
+      "url": "https://www.ctee.com.tw/news/20261015701721-430701",
+      "published_date": "2026-10-15",
+      "published_at": "2026-10-15T15:52:47+08:00",
+      "listed_at": "2026-10-16T01:12:27+08:00",
+      "last_checked_at": "2026-10-16T01:12:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
+    },
+    {
+      "id": "news-0473",
+      "media": "民視財經網 / Reuters",
+      "title": "美光工會恐發動罷工　賴清德喊話勞資雙方真誠協商",
+      "url": "https://finance.ftvnews.com.tw/news/detail/2026A15W0429",
+      "published_date": "2026-10-15",
+      "published_at": "2026-10-15T15:38:54+08:00",
+      "listed_at": "2026-10-16T01:12:27+08:00",
+      "last_checked_at": "2026-10-16T01:12:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
+    },
     {
       "id": "news-0469",
       "media": "MarketScreener / Reuters",
