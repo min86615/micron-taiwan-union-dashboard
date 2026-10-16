@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-16T11:22:39.774697+08:00",
-    "record_count": 477,
+    "generated_at": "2026-10-16T13:15:26.373631+08:00",
+    "record_count": 479,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0479",
+      "media": "The Manila Times / Reuters",
+      "title": "Micron, Taiwan union urged to avert strike",
+      "url": "https://www.manilatimes.net/2026/10/16/business/foreign-business/micron-taiwan-union-urged-to-avert-strike/2446896",
+      "published_date": "2026-10-16",
+      "published_at": "2026-10-16T00:01:00+08:00",
+      "listed_at": "2026-10-16T13:14:52+08:00",
+      "last_checked_at": "2026-10-16T13:14:52+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
+    },
     {
       "id": "news-0476",
       "media": "民報",
@@ -73,6 +91,23 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
+    },
+    {
+      "id": "news-0478",
+      "media": "Yahoo Finance / Reuters",
+      "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike",
+      "url": "https://finance.yahoo.com/news/taiwan-president-calls-micron-workers-051325499.html",
+      "published_date": "2026-10-15",
+      "published_at": "2026-10-15T07:34:36+00:00",
+      "listed_at": "2026-10-16T13:14:52+08:00",
+      "last_checked_at": "2026-10-16T13:14:52+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
     },
     {
