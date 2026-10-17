@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-17T23:10:39.063655+08:00",
-    "record_count": 483,
+    "generated_at": "2026-10-18T01:12:24.225224+08:00",
+    "record_count": 484,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -331,6 +331,24 @@
       ],
       "status": "reported",
       "source_type": "original_source",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0484",
+      "media": "Asia Daily",
+      "title": "Micron Taoyuan Union Authorizes Strike, Demands Permanent Share of Profits",
+      "url": "https://asiadaily.org/news/14767/",
+      "published_date": "2026-10-11",
+      "published_at": "2026-10-11T20:37:23+00:00",
+      "listed_at": "2026-10-18T01:12:18.764924+08:00",
+      "last_checked_at": "2026-10-18T01:12:18.764924+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
