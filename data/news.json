@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-10-17T21:11:34.219826+08:00",
+    "generated_at": "2026-10-17T23:10:39.063655+08:00",
     "record_count": 483,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -48,7 +48,7 @@
       "published_date": "2026-10-16",
       "published_at": null,
       "listed_at": "2026-10-16T07:12:41+08:00",
-      "last_checked_at": "2026-10-16T23:10:42.868186+08:00",
+      "last_checked_at": "2026-10-17T23:10:29.520910+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
