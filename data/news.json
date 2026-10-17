@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-17T13:18:39.599110+08:00",
-    "record_count": 482,
+    "generated_at": "2026-10-17T21:11:34.219826+08:00",
+    "record_count": 483,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -119,6 +119,23 @@
       "published_at": "2026-10-15T13:11:00+08:00",
       "listed_at": "2026-10-16T13:14:52+08:00",
       "last_checked_at": "2026-10-16T13:14:52+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
+    },
+    {
+      "id": "news-0483",
+      "media": "CNBC TV18 / Reuters",
+      "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike",
+      "url": "https://www.cnbctv18.com/technology/taiwan-president-calls-for-micron-workers-to-negotiate-sincerely-ahead-of-possible-strike-20012533.htm/amp",
+      "published_date": "2026-10-15",
+      "published_at": "2026-10-15T12:27:04+05:30",
+      "listed_at": "2026-10-17T21:10:48.130069+08:00",
+      "last_checked_at": "2026-10-17T21:10:48.130069+08:00",
       "language": "EN",
       "topics": [
         "罷工"
