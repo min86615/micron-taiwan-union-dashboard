@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-16T23:10:58.443423+08:00",
-    "record_count": 481,
+    "generated_at": "2026-10-17T13:18:39.599110+08:00",
+    "record_count": 482,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -156,6 +156,23 @@
       "language": "EN",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0482",
+      "media": "NOWnews",
+      "title": "美光新廠風光開幕、員工準備開走！賴清德喊「魚幫水、水幫魚」",
+      "url": "https://www.nownews.com/news/6883664",
+      "published_date": "2026-10-15",
+      "published_at": null,
+      "listed_at": "2026-10-17T13:18:31.191391+08:00",
+      "last_checked_at": "2026-10-17T13:18:31.191391+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
