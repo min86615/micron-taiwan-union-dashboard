@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-18T17:13:36.743621+08:00",
-    "record_count": 491,
+    "generated_at": "2026-10-19T01:12:07.046473+08:00",
+    "record_count": 492,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -8819,6 +8819,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0492",
+      "media": "Pocket Securities / Pocket School",
+      "title": "台灣美光工會99%投票支持罷工，記憶體供應怎麼看？",
+      "url": "https://www.pocket.tw/school/articles/8091/",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-19T01:07:35+08:00",
+      "last_checked_at": "2026-10-19T01:07:35+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null,
+      "updated_date_note": "原文頁面顯示更新於 2026-10-08；原始發布日期未標示。"
     },
     {
       "id": "news-0463",
