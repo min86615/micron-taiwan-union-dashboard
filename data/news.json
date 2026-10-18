@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-18T03:16:58.149967+08:00",
-    "record_count": 485,
+    "generated_at": "2026-10-18T11:14:48.756888+08:00",
+    "record_count": 487,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -195,6 +195,42 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0487",
+      "media": "壹蘋新聞網 NextApple",
+      "title": "福利不該淪短期回應！美光工會等不到分潤方案 10/19凱道集結",
+      "url": "https://news.nextapple.com/finance/20261015/7C6C0993F36DC613CDD65C2908CE0A89",
+      "published_date": "2026-10-15",
+      "published_at": null,
+      "listed_at": "2026-10-18T11:11:44+08:00",
+      "last_checked_at": "2026-10-18T11:11:44+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/91646"
+    },
+    {
+      "id": "news-0486",
+      "media": "Mirror Daily",
+      "title": "取得罷工權後美光急發福利！工會不買單：要的是分潤、不是小恩小惠",
+      "url": "https://www.mirrordaily.news/story/91646",
+      "published_date": "2026-10-15",
+      "published_at": null,
+      "listed_at": "2026-10-18T11:11:44+08:00",
+      "last_checked_at": "2026-10-18T11:11:44+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "updated_date_note": "原站顯示更新時間 2026-10-15 10:57（時區未標示）"
     },
     {
       "id": "news-0482",
