@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-18T13:05:57.532446+08:00",
-    "record_count": 489,
+    "generated_at": "2026-10-18T15:19:08.122844+08:00",
+    "record_count": 490,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -226,6 +226,23 @@
       "language": "EN",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0490",
+      "media": "Taiwan News",
+      "title": "Lai urges Micron to negotiate with Taiwanese workers as bonus dispute escalates",
+      "url": "https://www.taiwannews.com.tw/en/news/6458678",
+      "published_date": "2026-10-15",
+      "published_at": null,
+      "listed_at": "2026-10-18T15:18:59+08:00",
+      "last_checked_at": "2026-10-18T15:18:59+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
