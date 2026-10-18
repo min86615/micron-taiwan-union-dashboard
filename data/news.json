@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-10-18T11:19:33.415347+08:00",
-    "record_count": 487,
+    "generated_at": "2026-10-18T13:05:57.532446+08:00",
+    "record_count": 489,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0489",
+      "media": "Zaikei",
+      "title": "米マイクロン、台湾・台中にHBM新施設を開所　2027年の計画能力は売約済み",
+      "url": "https://www.zaikei.co.jp/amp/article/20261017/873899.html",
+      "published_date": "2026-10-17",
+      "published_at": null,
+      "listed_at": "2026-10-18T13:03:35+08:00",
+      "last_checked_at": "2026-10-18T13:03:35+08:00",
+      "language": "JP",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.techtimes.com/articles/329105/20261016/micron-opens-hbm-plant-2027-output-fully-contracted-strike-vote-looms.htm"
+    },
+    {
+      "id": "news-0488",
+      "media": "TechTimes",
+      "title": "Micron Opens HBM Plant With 2027 Output Fully Contracted; Strike Vote Looms",
+      "url": "https://www.techtimes.com/articles/329105/20261016/micron-opens-hbm-plant-2027-output-fully-contracted-strike-vote-looms.htm",
+      "published_date": "2026-10-16",
+      "published_at": "2026-10-16T01:54:00-04:00",
+      "listed_at": "2026-10-18T13:03:35+08:00",
+      "last_checked_at": "2026-10-18T13:03:35+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0479",
       "media": "The Manila Times / Reuters",
