@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-20T01:07:38.267328+08:00",
-    "record_count": 496,
+    "generated_at": "2026-10-20T03:11:56.137063+08:00",
+    "record_count": 499,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -126,6 +126,40 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0499",
+      "media": "Yahoo Finance／TIKR",
+      "title": "Micron’s New Taiwan Plant Is Sold Out for 2027. Its Workers Want 15% of Profits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-taiwan-plant-sold-2027-171749311.html",
+      "published_date": "2026-10-16",
+      "published_at": "2026-10-15T17:17:49.000Z",
+      "listed_at": "2026-10-20T03:10:58+08:00",
+      "last_checked_at": "2026-10-20T03:10:58+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.tikr.com/blog/microns-new-taiwan-plant-is-sold-out-for-2027-its-workers-want-15-of-profits"
+    },
+    {
+      "id": "news-0498",
+      "media": "TIKR",
+      "title": "Micron’s New Taiwan Plant Is Sold Out for 2027. Its Workers Want 15% of Profits",
+      "url": "https://www.tikr.com/blog/microns-new-taiwan-plant-is-sold-out-for-2027-its-workers-want-15-of-profits",
+      "published_date": "2026-10-15",
+      "published_at": "2026-10-15T17:17:45.000Z",
+      "listed_at": "2026-10-20T03:10:58+08:00",
+      "last_checked_at": "2026-10-20T03:10:58+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
       "duplicate_of": null
     },
     {
@@ -2481,6 +2515,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0497",
+      "media": "NNA／Yahoo!ニュース",
+      "title": "【台湾】マイクロンの労使調停不成立、スト投票へ",
+      "url": "https://news.yahoo.co.jp/articles/2327056a0de8272a4ef0e8b2687ae025c7856f5c",
+      "published_date": "2026-09-23",
+      "published_at": "2026-09-23T11:30:00+09:00",
+      "listed_at": "2026-10-20T03:10:58+08:00",
+      "last_checked_at": "2026-10-20T03:10:58+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "updated_date_note": "Yahoo!ニュース頁面另顯示最終更新 9/29(火) 18:15；未核實為實質內容更新。"
     },
     {
       "id": "news-0349",
