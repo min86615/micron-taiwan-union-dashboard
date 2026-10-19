@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-19T03:09:59.248068+08:00",
-    "record_count": 492,
+    "generated_at": "2026-10-19T09:20:49.089573+08:00",
+    "record_count": 494,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0493",
+      "media": "Economic Daily / UDN",
+      "title": "提高勞退新制提撥、明年要加薪！勞工遊行明凱道登場",
+      "url": "https://money.udn.com/money/story/7307/9821802",
+      "published_date": "2026-10-18",
+      "published_at": "2026-10-18T10:50:33+08:00",
+      "listed_at": "2026-10-19T09:09:40+08:00",
+      "last_checked_at": "2026-10-19T09:09:40+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0489",
       "media": "Zaikei",
@@ -8815,6 +8832,23 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0494",
+      "media": "China Times",
+      "title": "賴盼勞資協商 美光工會10／19上凱道不變",
+      "url": "https://www.chinatimes.com/newspapers/20261016000550-260121",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-19T09:16:25+08:00",
+      "last_checked_at": "2026-10-19T09:16:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
