@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-19T11:17:03.610031+08:00",
-    "record_count": 495,
+    "generated_at": "2026-10-19T17:06:34.187496+08:00",
+    "record_count": 496,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0496",
+      "media": "The Motley Fool",
+      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
+      "url": "https://www.fool.com/investing/2026/10/19/a-micron-union-in-taiwan-voted-99-to-authorize-a-strike-should-you-sell-the-stock/",
+      "published_date": "2026-10-19",
+      "published_at": "2026-10-19T07:26:01Z",
+      "listed_at": "2026-10-19T17:06:26.255604+08:00",
+      "last_checked_at": "2026-10-19T17:06:26.255604+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null
+    },
     {
       "id": "news-0493",
       "media": "Economic Daily / UDN",
