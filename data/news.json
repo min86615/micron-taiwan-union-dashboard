@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-20T03:11:56.137063+08:00",
-    "record_count": 499,
+    "generated_at": "2026-10-20T07:07:30.224370+08:00",
+    "record_count": 500,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -21,6 +21,25 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0500",
+      "media": "Newtalk新聞",
+      "title": "美光台中工會22日啟動二次調解 桃園美光將罷工聲援",
+      "url": "https://newtalk.tw/news/view/2026-10-19/1066478",
+      "published_date": "2026-10-19",
+      "published_at": null,
+      "listed_at": "2026-10-20T07:07:19.509106+08:00",
+      "last_checked_at": "2026-10-20T07:07:19.509106+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
