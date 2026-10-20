@@ -1,10 +1,296 @@
 {
   "summary": {
-    "generated_at": "2026-10-20T13:08:32.910299+08:00",
-    "record_count": 503,
+    "generated_at": "2026-10-20T19:22:19.499844+08:00",
+    "record_count": 520,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0520",
+      "media": "優分析／鉅亨網授權轉載",
+      "title": "台灣美光罷工危機升溫！台中桃園兩廠工會同步動員 22日迎關鍵調解",
+      "url": "https://uanalyze.com.tw/articles/4467657415",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T17:06:27+08:00",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://m.cnyes.com/news/id/6634036"
+    },
+    {
+      "id": "news-0517",
+      "media": "工商時報",
+      "title": "美光獲利爆發卻拒絕合理分紅！桃園工會22日聲援式罷工",
+      "url": "https://www.ctee.com.tw/news/20261020701185-431401",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T12:02:58+08:00",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261020002233-260405"
+    },
+    {
+      "id": "news-0519",
+      "media": "工商時報",
+      "title": "《國際產業》美光桃園廠欲罷工 台中廠尚在談判",
+      "url": "https://www.ctee.com.tw/news/20261020701093-430701",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T11:04:36+08:00",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
+    {
+      "id": "news-0516",
+      "media": "工商時報",
+      "title": "力挺台中！桃園美光工會敲定22日「聲援式罷工1天」",
+      "url": "https://www.ctee.com.tw/news/20261020701090-431401",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T11:03:21+08:00",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261020001955-260405"
+    },
+    {
+      "id": "news-0509",
+      "media": "Free Malaysia Today",
+      "title": "Micron workers in Taiwan to strike in push for bigger profit share",
+      "url": "https://freemalaysiatoday.com/category/business/2026/10/20/micron-workers-in-taiwan-to-strike-in-push-for-bigger-profit-share/",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T05:35:00Z",
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0515",
+      "media": "優分析／TradingKey",
+      "title": "美光台灣員工將於10月22日罷工，15%利潤分配爭議引關注",
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262224902-micron-taiwan-employees-strike-oct-22-15-percent-profit-sharing-dispute-tradingkey",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T03:31:48+00:00",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262224901-micron-taiwan-employees-strike-oct-22-15-percent-profit-sharing-dispute-tradingkey"
+    },
+    {
+      "id": "news-0514",
+      "media": "TradingKey",
+      "title": "美光台湾员工将于10月22日罢工，15%利润分配争议引关注",
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262224901-micron-taiwan-employees-strike-oct-22-15-percent-profit-sharing-dispute-tradingkey",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T03:31:48+00:00",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0513",
+      "media": "CNYES",
+      "title": "台灣美光罷工危機升溫！台中桃園兩廠工會同步動員 22日迎關鍵調解",
+      "url": "https://m.cnyes.com/news/id/6634036",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T03:14:48.000Z",
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0518",
+      "media": "China Times／時報資訊",
+      "title": "《國際產業》美光桃園廠欲罷工 台中廠尚在談判",
+      "url": "https://www.chinatimes.com/realtimenews/20261020002076-260410",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
+    {
+      "id": "news-0508",
+      "media": "聯合早報",
+      "title": "美光桃园工会周四罢工声援台中 要求15%营业利益分红",
+      "url": "https://www.zaobao.com.sg/news/china/story20261020-9863961",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0511",
+      "media": "民報",
+      "title": "美光罷工危機》全球DRAM市占23%　台灣罷工衝擊多大？ – 民報",
+      "url": "https://www.peoplenews.tw/articles/economic-news/62393",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0512",
+      "media": "民報",
+      "title": "美光罷工危機》2千人上凱道　勞團要求勞退提繳升至15% – 民報",
+      "url": "https://www.peoplenews.tw/articles/economic-news/62397",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0506",
+      "media": "旺得富理財網",
+      "title": "《國際產業》美光桃園廠欲罷工 台中廠尚在談判 - 國際 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261020900271-420201",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T17:29:49+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
+    {
+      "id": "news-0505",
+      "media": "Reuters Japan",
+      "title": "米マイクロンの台湾・桃園労組、22日にスト開始　賞与巡り対立 | ロイター",
+      "url": "https://www.reuters.com/jp/economy/B6XY3NH7GJL35FCFZ3DHKVFHXY-2026-10-20/",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
+    {
+      "id": "news-0504",
+      "media": "Reuters",
+      "title": "Micron union in Taiwan to launch strike as bonus dispute escalates | Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T17:29:49+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0510",
+      "media": "China Times",
+      "title": "美光獲利爆發卻拒絕合理分紅！桃園工會22日聲援式罷工",
+      "url": "https://www.chinatimes.com/realtimenews/20261020002233-260405",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0503",
       "media": "China Times",
@@ -13,7 +299,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T13:08:17+08:00",
-      "last_checked_at": "2026-10-20T13:08:17+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -31,16 +317,16 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T11:06:01+08:00",
-      "last_checked_at": "2026-10-20T11:06:01+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
         "獎金／分紅",
         "罷工"
       ],
-      "status": "reported",
+      "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
     },
     {
       "id": "news-0496",
@@ -58,6 +344,23 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0507",
+      "media": "台灣中評網",
+      "title": "台灣中評網：台美光將罷工？林哲瑞：海外員工聲援爭分潤",
+      "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=46&kindid=0&docid=160279738",
+      "published_date": "2026-10-19",
+      "published_at": null,
+      "listed_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-20T17:29:49+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -2242,7 +2545,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-19T11:16:57+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -3322,7 +3625,7 @@
       "published_date": "2026-09-19",
       "published_at": "2026-09-19T11:00:42+08:00",
       "listed_at": "2026-09-20T01:05:50.157759+08:00",
-      "last_checked_at": "2026-10-19T03:09:51+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -4025,7 +4328,7 @@
       "published_date": "2026-09-15",
       "published_at": "2026-09-15T12:09:44+08:00",
       "listed_at": "2026-09-16T21:00:39+08:00",
-      "last_checked_at": "2026-10-15T03:06:19+08:00",
+      "last_checked_at": "2026-10-20T19:22:04+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
