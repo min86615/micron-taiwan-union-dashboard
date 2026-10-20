@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-20T11:08:20.875760+08:00",
-    "record_count": 501,
+    "generated_at": "2026-10-20T13:08:32.910299+08:00",
+    "record_count": 503,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0503",
+      "media": "China Times",
+      "title": "力挺台中！桃園美光工會敲定22日「聲援式罷工1天」",
+      "url": "https://www.chinatimes.com/realtimenews/20261020001955-260405",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T13:08:17+08:00",
+      "last_checked_at": "2026-10-20T13:08:17+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0501",
       "media": "Reuters",
@@ -40,6 +58,24 @@
       ],
       "status": "reported",
       "source_type": "analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0502",
+      "media": "China Times",
+      "title": "支持台中美光工會 桃園工會22日聲援式罷工1天",
+      "url": "https://www.chinatimes.com/realtimenews/20261019004277-260405",
+      "published_date": "2026-10-19",
+      "published_at": null,
+      "listed_at": "2026-10-20T13:08:17+08:00",
+      "last_checked_at": "2026-10-20T13:08:17+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
