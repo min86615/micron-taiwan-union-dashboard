@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-20T21:07:26.628655+08:00",
-    "record_count": 525,
+    "generated_at": "2026-10-21T01:11:18.006805+08:00",
+    "record_count": 526,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0526",
+      "media": "Nikkei Asia / Reuters",
+      "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/micron-union-in-taiwan-to-launch-one-day-strike-as-bonus-dispute-escalates",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T23:05:00+09:00",
+      "listed_at": "2026-10-21T01:10:39+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
     {
       "id": "news-0521",
       "media": "三立新聞網",
@@ -173,7 +192,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T21:06:31+08:00",
-      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -192,7 +211,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T21:06:31+08:00",
-      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -211,7 +230,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T21:06:31+08:00",
-      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -281,7 +300,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T17:29:49+08:00",
-      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -315,7 +334,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T17:29:49+08:00",
-      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
@@ -334,7 +353,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T17:29:49+08:00",
-      "last_checked_at": "2026-10-20T17:29:49+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -2618,7 +2637,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-20T19:22:04+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -6278,7 +6297,7 @@
       "published_date": "2026-09-06",
       "published_at": "2026-09-06T13:04:51+08:00",
       "listed_at": "2026-09-07T03:02:16+08:00",
-      "last_checked_at": "2026-09-21T01:04:27.540127+08:00",
+      "last_checked_at": "2026-10-21T01:10:39+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
