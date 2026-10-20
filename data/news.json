@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-20T19:22:19.499844+08:00",
-    "record_count": 520,
+    "generated_at": "2026-10-20T21:07:26.628655+08:00",
+    "record_count": 525,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0521",
+      "media": "三立新聞網",
+      "title": "快訊／宣佈了！ 美光罷工就在這天",
+      "url": "https://www.setn.com/news/1925642",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T18:48:00+08:00",
+      "listed_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0520",
       "media": "優分析／鉅亨網授權轉載",
@@ -147,6 +164,62 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0525",
+      "media": "經濟日報／UDN（CNA syndicated copy）",
+      "title": "美光10/22與台中廠工會調解 桃園廠工會罷工聲援",
+      "url": "https://money.udn.com/money/story/5612/9826469",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0523",
+      "media": "中央社（CNA）",
+      "title": "美光10/22與台中廠工會調解 桃園廠工會罷工聲援",
+      "url": "https://www.cna.com.tw/news/afe/202610200191.aspx",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0524",
+      "media": "Focus Taiwan（CNA English）",
+      "title": "Micron Taoyuan union announces Oct. 22 solidarity strike",
+      "url": "https://focustaiwan.tw/business/202610200021",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "listed_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
     },
     {
       "id": "news-0518",
@@ -9302,6 +9375,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0522",
+      "media": "鏡週刊（SETN syndicated copy）",
+      "title": "新／宣佈了！ 美光罷工就在這天",
+      "url": "https://www.mirrormedia.mg/external/amp/setn_1925642",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-20T21:06:31+08:00",
+      "last_checked_at": "2026-10-20T21:06:31+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.setn.com/news/1925642"
     },
     {
       "id": "news-0494",
