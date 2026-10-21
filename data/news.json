@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-10-21T21:12:47.201976+08:00",
-    "record_count": 542,
+    "generated_at": "2026-10-21T23:19:03.988008+08:00",
+    "record_count": 547,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0546",
+      "media": "工商時報",
+      "title": "協商破局！台灣美光桃園工會明早啟動「24小時罷工」 - 生活 - 工商時報",
+      "url": "https://www.ctee.com.tw/news/20261021702099-431401",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T21:58:00+08:00",
+      "listed_at": "2026-10-21T23:13:00+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021004799-260405"
+    },
+    {
+      "id": "news-0547",
+      "media": "工商時報",
+      "title": "台中美光工會簽協議、桃園仍破局 工會：一定有具體行動 - 生活 - 工商時報",
+      "url": "https://www.ctee.com.tw/news/20261021701975-431401",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T19:10:00+08:00",
+      "listed_at": "2026-10-21T23:13:00+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021004325-260405"
+    },
     {
       "id": "news-0538",
       "media": "PeopleNews / Min Pao",
@@ -219,6 +254,59 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0544",
+      "media": "遠見雜誌",
+      "title": "獨家》美光桃園工會重啟協商，台中已簽協議、勞資談判全解析",
+      "url": "https://www.gvm.com.tw/article/133938",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "listed_at": "2026-10-21T23:13:00+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0545",
+      "media": "中時新聞網",
+      "title": "協商破局！台灣美光桃園工會明早啟動「24小時罷工」 - 生活 - 中時",
+      "url": "https://www.chinatimes.com/realtimenews/20261021004799-260405",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "listed_at": "2026-10-21T23:13:00+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0543",
+      "media": "Reuters",
+      "title": "Micron, Taiwan union sign deal, withdraw from mediation | Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "listed_at": "2026-10-21T23:13:00+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0539",
       "media": "China Times",
       "title": "台中美光工會簽協議、桃園仍破局 工會：一定有具體行動",
@@ -226,7 +314,7 @@
       "published_date": "2026-10-21",
       "published_at": null,
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -618,7 +706,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T17:29:49+08:00",
-      "last_checked_at": "2026-10-21T07:06:34+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
@@ -637,7 +725,7 @@
       "published_date": "2026-10-20",
       "published_at": null,
       "listed_at": "2026-10-20T17:29:49+08:00",
-      "last_checked_at": "2026-10-21T07:06:34+08:00",
+      "last_checked_at": "2026-10-21T23:13:00+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
