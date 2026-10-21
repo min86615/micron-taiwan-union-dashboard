@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T05:04:10.562940+08:00",
-    "record_count": 554,
+    "generated_at": "2026-10-22T07:09:00.643739+08:00",
+    "record_count": 555,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -22,6 +22,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "updated_date_note": "來源 metadata 顯示更新時間 2026-10-21 23:32:04 +08:00；原始發布時間仍為 23:25:49 +08:00。"
+    },
+    {
+      "id": "news-0555",
+      "media": "自由時報／自由財經",
+      "title": "協商無成果 台灣美光桃園工會：10/22罷工24小時",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5614317",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T23:14:00+08:00",
+      "listed_at": "2026-10-22T07:08:42+08:00",
+      "last_checked_at": "2026-10-22T07:08:42+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "updated_date_note": "來源標示首次上稿 2026-10-21 23:14；更新時間 2026-10-22 06:40（Asia/Taipei）。"
     },
     {
       "id": "news-0546",
@@ -155,7 +174,7 @@
       "published_date": "2026-10-21",
       "published_at": "2026-10-21T14:50:00+08:00",
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-22T07:08:42+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資"
@@ -3115,7 +3134,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-21T13:07:21+08:00",
+      "last_checked_at": "2026-10-22T07:08:42+08:00",
       "language": "EN",
       "topics": [
         "罷工"
