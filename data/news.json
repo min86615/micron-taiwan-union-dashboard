@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T03:09:24.323995+08:00",
-    "record_count": 551,
+    "generated_at": "2026-10-22T03:12:41.232909+08:00",
+    "record_count": 553,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -40,6 +40,40 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021004799-260405"
+    },
+    {
+      "id": "news-0553",
+      "media": "Yahoo Finance (24/7 Wall St.)",
+      "title": "Micron Is Making Record Profits. Its Taiwan Workers Are Walking Out",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-making-record-profits-taiwan-131357513.html",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T21:13:57+08:00",
+      "listed_at": "2026-10-22T03:12:32+08:00",
+      "last_checked_at": "2026-10-22T03:12:32+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://247wallst.com/investing/2026/10/21/micron-is-making-record-profits-its-taiwan-workers-are-walking-out/"
+    },
+    {
+      "id": "news-0552",
+      "media": "24/7 Wall St.",
+      "title": "Micron Is Making Record Profits. Its Taiwan Workers Are Walking Out",
+      "url": "https://247wallst.com/investing/2026/10/21/micron-is-making-record-profits-its-taiwan-workers-are-walking-out/",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T21:13:57+08:00",
+      "listed_at": "2026-10-22T03:12:32+08:00",
+      "last_checked_at": "2026-10-22T03:12:32+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0547",
