@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-21T17:12:19.665546+08:00",
-    "record_count": 537,
+    "generated_at": "2026-10-21T21:12:47.201976+08:00",
+    "record_count": 542,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0538",
+      "media": "PeopleNews / Min Pao",
+      "title": "【獨家】美光罷工倒數3》台中工會談好了　新分潤制度曝光",
+      "url": "https://www.peoplenews.tw/articles/hot-news/62921",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T18:35:11+08:00",
+      "listed_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0537",
       "media": "鏡週刊（Mirror Media）",
@@ -19,6 +37,23 @@
         "工會／勞資",
         "罷工",
         "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0540",
+      "media": "Focus Taiwan / CNA",
+      "title": "Micron, Taichung union reach deal in labor talks",
+      "url": "https://focustaiwan.tw/society/202610210014",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:50:00+08:00",
+      "listed_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -60,6 +95,23 @@
       "source_type": "media",
       "duplicate_of": null,
       "updated_date_note": "原文更新：2026-10-21 14:32 (Asia/Taipei)；首次發布時間為14:14。"
+    },
+    {
+      "id": "news-0541",
+      "media": "Liberty Times Finance",
+      "title": "台灣美光與台中工會達成共識 正式簽署勞資協議",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5613606",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:10:00+08:00",
+      "listed_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0533",
@@ -113,6 +165,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0542",
+      "media": "Taiwan News",
+      "title": "Micron Taoyuan union announces 1-day strike",
+      "url": "https://taiwannews.com.tw/news/6462147",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T10:33:00+08:00",
+      "listed_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0534",
       "media": "經濟日報（UDN）",
       "title": "美光工會「未收到資方對案」明將罷工 勞動部願協助溝通",
@@ -143,6 +213,23 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0539",
+      "media": "China Times",
+      "title": "台中美光工會簽協議、桃園仍破局 工會：一定有具體行動",
+      "url": "https://www.chinatimes.com/realtimenews/20261021004325-260405",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "listed_at": "2026-10-21T21:12:29+08:00",
+      "last_checked_at": "2026-10-21T21:12:29+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
