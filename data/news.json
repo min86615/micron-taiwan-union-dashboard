@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-21T13:07:31.399656+08:00",
-    "record_count": 529,
+    "generated_at": "2026-10-21T15:10:22.630421+08:00",
+    "record_count": 530,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0530",
+      "media": "聯合新聞／經濟日報 UDN",
+      "title": "美光勞資爭議終達共識 台中工會撤回調解程序",
+      "url": "https://udn.com/news/story/7240/9828609",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:14:02+08:00",
+      "listed_at": "2026-10-21T15:08:25+08:00",
+      "last_checked_at": "2026-10-21T15:08:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "updated_date_note": "原文更新：2026-10-21 14:32 (Asia/Taipei)；首次發布時間為14:14。"
+    },
     {
       "id": "news-0529",
       "media": "民報",
