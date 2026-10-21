@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T01:26:27.192130+08:00",
-    "record_count": 550,
+    "generated_at": "2026-10-22T03:09:24.323995+08:00",
+    "record_count": 551,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -75,6 +75,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0551",
+      "media": "Yahoo News (Reuters)",
+      "title": "Micron, Taiwan union sign deal, withdraw from mediation",
+      "url": "https://www.yahoo.com/news/articles/micron-says-reached-agreement-taiwan-062325698.html",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T15:38:32+08:00",
+      "listed_at": "2026-10-22T03:09:16+08:00",
+      "last_checked_at": "2026-10-22T03:09:16+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/"
     },
     {
       "id": "news-0537",
