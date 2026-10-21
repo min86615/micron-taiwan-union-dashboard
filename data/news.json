@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T03:12:41.232909+08:00",
-    "record_count": 553,
+    "generated_at": "2026-10-22T05:04:10.562940+08:00",
+    "record_count": 554,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -9865,6 +9865,23 @@
       "published_at": "2026-08-12T17:04:21+08:00",
       "listed_at": "2026-10-13T17:14:48+08:00",
       "last_checked_at": "2026-10-13T17:14:48+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0554",
+      "media": "Economic Daily / UDN",
+      "title": "美光桃園廠22日罷工24hr",
+      "url": "https://udn.com/news/story/7241/9829639",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-22T05:04:00+08:00",
+      "last_checked_at": "2026-10-22T05:04:00+08:00",
       "language": "TW",
       "topics": [
         "罷工"
