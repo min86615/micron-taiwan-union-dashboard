@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-10-21T15:10:22.630421+08:00",
-    "record_count": 530,
+    "generated_at": "2026-10-21T17:12:19.665546+08:00",
+    "record_count": 537,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0537",
+      "media": "鏡週刊（Mirror Media）",
+      "title": "美光台中工會簽署勞資協議撤調解　桃園罷工添變數",
+      "url": "https://www.mirrormedia.mg/story/20261021-180fin-151051",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T15:26:00+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0536",
+      "media": "經濟日報（UDN）",
+      "title": "美光與台中工會簽署勞資協議 撤回22日調解程序",
+      "url": "https://money.udn.com/money/story/5612/9828635",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:23:00+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0530",
       "media": "聯合新聞／經濟日報 UDN",
@@ -23,6 +60,93 @@
       "source_type": "media",
       "duplicate_of": null,
       "updated_date_note": "原文更新：2026-10-21 14:32 (Asia/Taipei)；首次發布時間為14:14。"
+    },
+    {
+      "id": "news-0533",
+      "media": "工商時報（Commercial Times）",
+      "title": "美光明天啟動罷工 勞長：將協助雙方多溝通",
+      "url": "https://www.ctee.com.tw/news/20261021701232-431401",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T13:09:52+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021002688-260405"
+    },
+    {
+      "id": "news-0532",
+      "media": "中時新聞網（China Times）",
+      "title": "美光明天啟動罷工 勞長：將協助雙方多溝通",
+      "url": "https://www.chinatimes.com/realtimenews/20261021002688-260405",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T13:09:52+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0535",
+      "media": "經濟日報（UDN）",
+      "title": "GDP 飆升勞動份額卻探底 美光代表喊話賴總統「分潤透明」",
+      "url": "https://money.udn.com/money/story/5612/9828214",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T11:48:00+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0534",
+      "media": "經濟日報（UDN）",
+      "title": "美光工會「未收到資方對案」明將罷工 勞動部願協助溝通",
+      "url": "https://money.udn.com/money/story/7307/9827829",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T09:59:00+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0531",
+      "media": "中央社（CNA）",
+      "title": "美光桃園工會：10/22罷工不是關協商大門　盼合理分潤",
+      "url": "https://www.cna.com.tw/news/afe/202610210036.aspx",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T09:42:00+08:00",
+      "listed_at": "2026-10-21T17:12:12+08:00",
+      "last_checked_at": "2026-10-21T17:12:12+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0529",
