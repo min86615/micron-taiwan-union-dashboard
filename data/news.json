@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-21T23:19:03.988008+08:00",
-    "record_count": 547,
+    "generated_at": "2026-10-22T01:26:27.192130+08:00",
+    "record_count": 550,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0548",
+      "media": "PeopleNews / Min Pao",
+      "title": "美光罷工倒數4》董事長出面仍破局 桃園罷工24小時、台中掀連署反彈",
+      "url": "https://www.peoplenews.tw/articles/economic-news/62940",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T23:25:49+08:00",
+      "listed_at": "2026-10-22T01:26:18+08:00",
+      "last_checked_at": "2026-10-22T01:26:18+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "updated_date_note": "來源 metadata 顯示更新時間 2026-10-21 23:32:04 +08:00；原始發布時間仍為 23:25:49 +08:00。"
+    },
     {
       "id": "news-0546",
       "media": "工商時報",
@@ -254,6 +272,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0549",
+      "media": "旺得富理財網",
+      "title": "等不到分潤 桃園美光明聲援式罷工 - 其他 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261021900049-420501",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T04:10:00+08:00",
+      "listed_at": "2026-10-22T01:26:18+08:00",
+      "last_checked_at": "2026-10-22T01:26:18+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0544",
       "media": "遠見雜誌",
       "title": "獨家》美光桃園工會重啟協商，台中已簽協議、勞資談判全解析",
@@ -450,6 +485,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261020002233-260405"
+    },
+    {
+      "id": "news-0550",
+      "media": "TVBS 新聞網（中央社稿）",
+      "title": "美光罷工2次調解！桃園廠工會聲援台中廠「宣告罷工1天」",
+      "url": "https://news.tvbs.com.tw/money/4038870",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T12:02:09+00:00",
+      "listed_at": "2026-10-22T01:26:18+08:00",
+      "last_checked_at": "2026-10-22T01:26:18+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
     },
     {
       "id": "news-0519",
