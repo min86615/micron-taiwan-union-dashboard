@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T15:15:56.861219+08:00",
-    "record_count": 564,
+    "generated_at": "2026-10-22T17:12:10.592197+08:00",
+    "record_count": 570,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0570",
+      "media": "工商時報",
+      "title": "美光推季度分紅 桃園工會籲公開公式",
+      "url": "https://www.ctee.com.tw/news/20261022701753-430502",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:48:00+08:00",
+      "listed_at": "2026-10-22T17:09:27+08:00",
+      "last_checked_at": "2026-10-22T17:09:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0569",
+      "media": "自由財經／自由時報",
+      "title": "台灣美光爆勞資爭議 桃園、台中不同調？",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5615038",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T14:36:00+08:00",
+      "listed_at": "2026-10-22T17:09:27+08:00",
+      "last_checked_at": "2026-10-22T17:09:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0563",
       "media": "The Straits Times (AFP)",
@@ -21,6 +56,41 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan"
+    },
+    {
+      "id": "news-0567",
+      "media": "工商時報",
+      "title": "台灣半導體業首場罷工！美光協商破局 11幹部廠前靜坐24小時",
+      "url": "https://www.ctee.com.tw/news/20261022701142-431401",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T12:14:00+08:00",
+      "listed_at": "2026-10-22T17:09:27+08:00",
+      "last_checked_at": "2026-10-22T17:09:27+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0566",
+      "media": "自由財經／自由時報",
+      "title": "美光桃園工會幹部罷工 美光公司重申秉持最大誠意進行誠信協商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5614735",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T11:51:00+08:00",
+      "listed_at": "2026-10-22T17:09:27+08:00",
+      "last_checked_at": "2026-10-22T17:09:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0559",
@@ -41,6 +111,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0565",
+      "media": "工商時報",
+      "title": "美光台中工會突襲 與資方達共識 引基層會員反彈",
+      "url": "https://www.ctee.com.tw/news/20261022700840-431401",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T09:49:00+08:00",
+      "listed_at": "2026-10-22T17:09:27+08:00",
+      "last_checked_at": "2026-10-22T17:09:27+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0558",
       "media": "TVBS新聞網",
       "title": "協商無果！美光桃園工會今啟動24小時罷工 公司回應：盼續溝通",
@@ -52,6 +139,23 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0568",
+      "media": "聯合新聞網",
+      "title": "美光桃園廠今早9點罷工！分潤協商破局 24小時行動登場",
+      "url": "https://udn.com/news/story/12806/9830065",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T08:20:00+08:00",
+      "listed_at": "2026-10-22T17:09:27+08:00",
+      "last_checked_at": "2026-10-22T17:09:27+08:00",
+      "language": "TW",
+      "topics": [
         "罷工"
       ],
       "status": "reported",
