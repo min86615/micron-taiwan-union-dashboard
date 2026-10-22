@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T01:12:54.309397+08:00",
-    "record_count": 591,
+    "generated_at": "2026-10-23T03:10:43.561236+08:00",
+    "record_count": 595,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -54,6 +54,23 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0593",
+      "media": "TechNews 科技新報",
+      "title": "美光勞資協議內容曝光！季度分潤、調薪、勞退10% 再加碼 3 天有薪假",
+      "url": "https://finance.technews.tw/2026/10/22/microns-labor-agreement-details-revealed/",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:30:00+08:00",
+      "listed_at": "2026-10-23T03:08:23+08:00",
+      "last_checked_at": "2026-10-23T03:08:23+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -390,6 +407,59 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0594",
+      "media": "數位時代",
+      "title": "美光桃園廠為何罷工？8大QA拆解爭議核心：勞資分潤計算、DRAM供應影響一次看",
+      "url": "https://www.bnext.com.tw/article/92757/micron-taiwan-strike-profit-sharing-20261022",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-23T03:08:23+08:00",
+      "last_checked_at": "2026-10-23T03:08:23+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0592",
+      "media": "商業周刊",
+      "title": "台灣半導體業首場合法罷工，11個人拉布條！美光罷工為何至今談不攏",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3023482",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-23T03:08:23+08:00",
+      "last_checked_at": "2026-10-23T03:08:23+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0595",
+      "media": "Yahoo News (Reuters)",
+      "title": "Micron introduces quarterly employee bonus tied to profits",
+      "url": "https://www.yahoo.com/news/articles/micron-introduces-quarterly-employee-bonus-081209997.html",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-23T03:08:23+08:00",
+      "last_checked_at": "2026-10-23T03:08:23+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/"
     },
     {
       "id": "news-0585",
