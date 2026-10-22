@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T23:08:55.817281+08:00",
-    "record_count": 580,
+    "generated_at": "2026-10-23T01:08:30.137337+08:00",
+    "record_count": 588,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0586",
+      "media": "民視新聞網",
+      "title": "美光勞資協商達共識！新增季度分潤獎金　現金.股票雙軌發放 - 民視新聞網",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026A22F07M1",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T00:05:00+08:00",
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0580",
+      "media": "Focus Taiwan (CNA)",
+      "title": "Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal",
+      "url": "https://focustaiwan.tw/business/202610220016",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T19:07:00+08:00",
+      "listed_at": "2026-10-22T23:08:23.691851+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0578",
       "media": "中央社（CNA）",
@@ -57,6 +93,58 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0583",
+      "media": "鏡報 (Mirror Daily)",
+      "title": "台灣美光2工會促成全球薪酬改革！季度分紅、IPP獎金新制一次看 - 鏡報",
+      "url": "https://www.mirrordaily.news/story/93206",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:44:00+08:00",
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0584",
+      "media": "鏡報 (Mirror Daily)",
+      "title": "美光台中工會簽協議爆內部異議！會員連署要求撤銷授權　公司：程序合法合規 - 鏡報",
+      "url": "https://www.mirrordaily.news/story/93198",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:24:00+08:00",
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0574",
+      "media": "工商時報",
+      "title": "勞退提撥衝10％加碼季分潤 美光祭全新獎酬制度盼罷工落幕",
+      "url": "https://www.ctee.com.tw/news/20261022701953-430503",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:23:00+08:00",
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261022003603-260410"
     },
     {
       "id": "news-0569",
@@ -121,6 +209,23 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0588",
+      "media": "動區動趨 (BlockTempo)",
+      "title": "美光桃園今日罷工 24 小時：分潤數字仍談不攏、基層不滿突襲簽約引發反彈 | 動區動趨",
+      "url": "https://www.blocktempo.com/micron-taoyuan-union-strike-24-hours-officials-profit-sharing-talks/",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T10:25:00+08:00",
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
         "罷工"
       ],
       "status": "reported",
@@ -215,18 +320,52 @@
       "duplicate_of": null
     },
     {
-      "id": "news-0580",
-      "media": "Focus Taiwan (CNA)",
-      "title": "Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal",
-      "url": "https://focustaiwan.tw/business/202610220016",
+      "id": "news-0585",
+      "media": "鏡週刊 (Mirror Media)",
+      "title": "美光台中工會簽協議爆內部異議！會員連署要求撤銷授權　公司：程序合法合規 - 鏡週刊 Mirror Media",
+      "url": "https://www.mirrormedia.mg/external/mirrordaily_93198/",
       "published_date": "2026-10-22",
       "published_at": null,
-      "listed_at": "2026-10-22T23:08:23.691851+08:00",
-      "last_checked_at": "2026-10-22T23:08:23.691851+08:00",
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/93198"
+    },
+    {
+      "id": "news-0582",
+      "media": "Reuters Japan",
+      "title": "米マイクロン、27年から全世界で業績連動報酬導入へ　台湾労組の圧力受け | ロイター",
+      "url": "https://www.reuters.com/jp/economy/NPXUW2MNQZIOTPQM6KUJ3PADO4-2026-10-22/",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/"
+    },
+    {
+      "id": "news-0581",
+      "media": "Reuters",
+      "title": "Micron unveils global profit-linked bonus plan after Taiwan union pressure | Reuters",
+      "url": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
-        "罷工"
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -249,23 +388,6 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
-    },
-    {
-      "id": "news-0574",
-      "media": "工商時報",
-      "title": "勞退提撥衝10％加碼季分潤 美光祭全新獎酬制度盼罷工落幕",
-      "url": "https://www.ctee.com.tw/news/20261022701953-430503",
-      "published_date": "2026-10-22",
-      "published_at": null,
-      "listed_at": "2026-10-22T19:11:28.623233+08:00",
-      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
-      "language": "TW",
-      "topics": [
-        "罷工"
-      ],
-      "status": "syndicated",
-      "source_type": "media",
-      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261022003603-260410"
     },
     {
       "id": "news-0573",
@@ -10305,6 +10427,23 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0587",
+      "media": "TVBS",
+      "title": "美光大改革！祭出全新獎金制度　現金＋股票並行、調高勞退提撥",
+      "url": "https://news.tvbs.com.tw/money/4039858",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
