@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T01:08:30.137337+08:00",
-    "record_count": 588,
+    "generated_at": "2026-10-23T01:12:54.309397+08:00",
+    "record_count": 591,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,24 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0591",
+      "media": "Newtalk新聞",
+      "title": "美光罷工5》現場直擊！桃園24小時罷工不畏風雨 非工會成員也簽名不滿新方案",
+      "url": "https://newtalk.tw/news/view/2026-10-22/1067124",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T21:48:00+08:00",
+      "listed_at": "2026-10-23T01:09:24+08:00",
+      "last_checked_at": "2026-10-23T01:09:24+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -147,6 +165,24 @@
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261022003603-260410"
     },
     {
+      "id": "news-0589",
+      "media": "Newtalk新聞",
+      "title": "美光罷工4》勞動部：應桃市府邀請參與美光勞資協商 將持續協助溝通",
+      "url": "https://newtalk.tw/news/view/2026-10-22/1067054",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T15:09:00+08:00",
+      "listed_at": "2026-10-23T01:09:24+08:00",
+      "last_checked_at": "2026-10-23T01:09:24+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0569",
       "media": "自由財經／自由時報",
       "title": "台灣美光爆勞資爭議 桃園、台中不同調？",
@@ -179,6 +215,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan"
+    },
+    {
+      "id": "news-0577",
+      "media": "Newtalk新聞",
+      "title": "美光罷工3》台中工會批桃園罷工「殺雞取卵」 桃園員工不滿情緒發言、新機制仍有黑箱空間",
+      "url": "https://newtalk.tw/news/view/2026-10-22/1067017",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T13:06:00+08:00",
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-23T01:09:24+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0567",
@@ -241,6 +295,24 @@
       "published_at": "2026-10-22T10:19:01+08:00",
       "listed_at": "2026-10-22T13:15:18+08:00",
       "last_checked_at": "2026-10-22T13:04:03+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0590",
+      "media": "Newtalk新聞",
+      "title": "美光罷工2》四大訴求遭台中先「偷跑」 桃園工會還原經過：聯繫不到台中幹部",
+      "url": "https://newtalk.tw/news/view/2026-10-22/1066940",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T10:13:00+08:00",
+      "listed_at": "2026-10-23T01:09:24+08:00",
+      "last_checked_at": "2026-10-23T01:09:24+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -400,24 +472,6 @@
       "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
       "language": "TW",
       "topics": [
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0577",
-      "media": "Newtalk 新頭殼",
-      "title": "美光罷工3》台中工會批桃園罷工「殺雞取卵」 桃園員工不滿情緒發言、新機制仍有黑箱空間",
-      "url": "https://newtalk.tw/news/view/2026-10-22/1067017",
-      "published_date": "2026-10-22",
-      "published_at": null,
-      "listed_at": "2026-10-22T19:11:28.623233+08:00",
-      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
