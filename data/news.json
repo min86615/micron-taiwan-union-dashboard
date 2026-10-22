@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T03:10:43.561236+08:00",
-    "record_count": 595,
+    "generated_at": "2026-10-23T05:06:32.038982+08:00",
+    "record_count": 597,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -106,6 +106,23 @@
       "language": "TW",
       "topics": [
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0596",
+      "media": "聯合新聞網 (UDN)",
+      "title": "美光與台中工會達成協議 新增季度獲利分潤、勞退提撥升至10%",
+      "url": "https://udn.com/news/story/7240/9831632",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:16:15+08:00",
+      "listed_at": "2026-10-23T05:04:37+08:00",
+      "last_checked_at": "2026-10-23T05:04:37+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -10555,6 +10572,23 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0597",
+      "media": "Yahoo News (AFP)",
+      "title": "Handful of Micron workers strike in Taiwan",
+      "url": "https://finance.yahoo.com/news/handful-micron-workers-strike-taiwan-094606238.html",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-23T05:04:37+08:00",
+      "last_checked_at": "2026-10-23T05:04:37+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan"
     },
     {
       "id": "news-0587",
