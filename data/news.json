@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T17:12:10.592197+08:00",
-    "record_count": 570,
+    "generated_at": "2026-10-22T19:11:57.142692+08:00",
+    "record_count": 577,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -156,6 +156,93 @@
       "last_checked_at": "2026-10-22T17:09:27+08:00",
       "language": "TW",
       "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0575",
+      "media": "自由時報／自由財經",
+      "title": "美光獎酬制度大改革！新增季度分潤獎金、IPP最高獎金倍率達500％",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5615330",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0576",
+      "media": "自由時報／自由財經",
+      "title": "美光桃園工會罷工 董事長盧東暉：尊重勞工權利、待遇全台一致",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5615263",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0574",
+      "media": "工商時報",
+      "title": "勞退提撥衝10％加碼季分潤 美光祭全新獎酬制度盼罷工落幕",
+      "url": "https://www.ctee.com.tw/news/20261022701953-430503",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261022003603-260410"
+    },
+    {
+      "id": "news-0573",
+      "media": "中國時報",
+      "title": "勞退提撥衝10％加碼季分潤 美光祭全新獎酬制度盼罷工落幕",
+      "url": "https://www.chinatimes.com/realtimenews/20261022003603-260410",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0577",
+      "media": "Newtalk 新頭殼",
+      "title": "美光罷工3》台中工會批桃園罷工「殺雞取卵」 桃園員工不滿情緒發言、新機制仍有黑箱空間",
+      "url": "https://newtalk.tw/news/view/2026-10-22/1067017",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
@@ -597,6 +684,23 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0572",
+      "media": "Taiwan News",
+      "title": "Micron and Taichung union reaches labor deal",
+      "url": "https://www.taiwannews.com.tw/news/6462506",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -10147,6 +10251,24 @@
       "last_checked_at": "2026-10-13T17:14:48+08:00",
       "language": "TW",
       "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0571",
+      "media": "鉅亨網",
+      "title": "美光桃園工會今起罷工24小時 公司：持續溝通並誠信協商",
+      "url": "https://news.cnyes.com/news/id/6635643",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
