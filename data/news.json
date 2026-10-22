@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T05:06:32.038982+08:00",
-    "record_count": 597,
+    "generated_at": "2026-10-23T07:05:24.554919+08:00",
+    "record_count": 598,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0598",
+      "media": "聯合新聞網（經濟日報）",
+      "title": "美光台中廠達成勞資協議 公司承諾產線人員年薪逾200萬",
+      "url": "https://udn.com/news/story/7240/9832482",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T02:54:08+08:00",
+      "listed_at": "2026-10-23T07:04:50+08:00",
+      "last_checked_at": "2026-10-23T07:04:50+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0586",
       "media": "民視新聞網",
