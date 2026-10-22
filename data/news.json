@@ -1,10 +1,45 @@
 {
   "summary": {
-    "generated_at": "2026-10-22T19:11:57.142692+08:00",
-    "record_count": 577,
+    "generated_at": "2026-10-22T23:08:55.817281+08:00",
+    "record_count": 580,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0578",
+      "media": "中央社（CNA）",
+      "title": "美光回應工會訴求獎酬升級 增季度分潤獎金結構調薪",
+      "url": "https://www.cna.com.tw/news/afe/202610220264.aspx",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:24:00+08:00",
+      "listed_at": "2026-10-22T21:12:21+08:00",
+      "last_checked_at": "2026-10-22T21:12:21+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0575",
+      "media": "自由時報／自由財經",
+      "title": "美光獎酬制度大改革！新增季度分潤獎金、IPP最高獎金倍率達500％",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5615330",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:20:03+08:00",
+      "listed_at": "2026-10-22T19:11:28.623233+08:00",
+      "last_checked_at": "2026-10-22T21:12:21+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0570",
       "media": "工商時報",
@@ -111,6 +146,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0579",
+      "media": "France 24（AFP）",
+      "title": "Handful of Micron workers strike in Taiwan",
+      "url": "https://www.france24.com/en/live-news/20261022-handful-of-micron-workers-strike-in-taiwan",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T09:49:20+00:00",
+      "listed_at": "2026-10-22T21:12:21+08:00",
+      "last_checked_at": "2026-10-22T21:12:21+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0565",
       "media": "工商時報",
       "title": "美光台中工會突襲 與資方達共識 引基層會員反彈",
@@ -163,17 +215,18 @@
       "duplicate_of": null
     },
     {
-      "id": "news-0575",
-      "media": "自由時報／自由財經",
-      "title": "美光獎酬制度大改革！新增季度分潤獎金、IPP最高獎金倍率達500％",
-      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5615330",
+      "id": "news-0580",
+      "media": "Focus Taiwan (CNA)",
+      "title": "Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal",
+      "url": "https://focustaiwan.tw/business/202610220016",
       "published_date": "2026-10-22",
       "published_at": null,
-      "listed_at": "2026-10-22T19:11:28.623233+08:00",
-      "last_checked_at": "2026-10-22T19:11:28.623233+08:00",
-      "language": "TW",
+      "listed_at": "2026-10-22T23:08:23.691851+08:00",
+      "last_checked_at": "2026-10-22T23:08:23.691851+08:00",
+      "language": "EN",
       "topics": [
-        "獎金／分紅"
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
