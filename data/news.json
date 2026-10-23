@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T23:14:37.940296+08:00",
-    "record_count": 608,
+    "generated_at": "2026-10-24T01:13:47.335637+08:00",
+    "record_count": 612,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -47,7 +47,7 @@
       "published_date": "2026-10-23",
       "published_at": "2026-10-23T11:54:42+08:00",
       "listed_at": "2026-10-23T23:14:28+08:00",
-      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -64,7 +64,7 @@
       "published_date": "2026-10-23",
       "published_at": "2026-10-23T09:44:26+08:00",
       "listed_at": "2026-10-23T13:10:03+08:00",
-      "last_checked_at": "2026-10-23T13:10:03+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -234,6 +234,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0612",
+      "media": "經濟日報（UDN／中央社）",
+      "title": "美光回應工會訴求獎酬升級 增季度分潤獎金結構調薪",
+      "url": "https://money.udn.com/money/story/5612/9831697",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:37:15+08:00",
+      "listed_at": "2026-10-24T01:13:23+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610220264.aspx"
+    },
+    {
       "id": "news-0593",
       "media": "TechNews 科技新報",
       "title": "美光勞資協議內容曝光！季度分潤、調薪、勞退10% 再加碼 3 天有薪假",
@@ -371,6 +389,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261022003603-260410"
+    },
+    {
+      "id": "news-0610",
+      "media": "日本経済新聞",
+      "title": "マイクロン台湾、報酬巡り綱引き　桃園で労組幹部スト・台中は労使合意",
+      "url": "https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T15:45:00",
+      "listed_at": "2026-10-24T01:13:23+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0589",
@@ -565,6 +601,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0609",
+      "media": "NOWnews",
+      "title": "協商無果！台灣美光桃園工會10/22罷工24小時",
+      "url": "https://www.nownews.com/news/6885479",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T09:15:49+08:00",
+      "listed_at": "2026-10-24T01:13:23+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0558",
       "media": "TVBS新聞網",
       "title": "協商無果！美光桃園工會今啟動24小時罷工 公司回應：盼續溝通",
@@ -594,6 +648,42 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0611",
+      "media": "Taipei Times (Reuters)",
+      "title": "Micron signs deal with union, both call off mediation",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/22/2003866387",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-24T01:13:23+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/"
+    },
+    {
+      "id": "news-0601",
+      "media": "民報",
+      "title": "台灣工會撼動美光全球獎酬制度 新增季分紅、IPP最高500%",
+      "url": "https://www.peoplenews.tw/articles/hot-news/63124",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "listed_at": "2026-10-23T13:10:03+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -677,7 +767,7 @@
       "published_date": "2026-10-22",
       "published_at": null,
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資"
@@ -694,7 +784,7 @@
       "published_date": "2026-10-22",
       "published_at": null,
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -921,7 +1011,7 @@
       "published_date": "2026-10-21",
       "published_at": "2026-10-21T18:35:11+08:00",
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-10-22T15:14:00+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -1257,7 +1347,7 @@
       "published_date": "2026-10-21",
       "published_at": null,
       "listed_at": "2026-10-21T23:13:00+08:00",
-      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -3989,7 +4079,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-24T01:13:23+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -10759,24 +10849,6 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0601",
-      "media": "民報",
-      "title": "台灣工會撼動美光全球獎酬制度 新增季分紅、IPP最高500%",
-      "url": "https://www.peoplenews.tw/articles/hot-news/63124",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-10-23T13:10:03+08:00",
-      "last_checked_at": "2026-10-23T13:10:03+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
