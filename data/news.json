@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T07:05:24.554919+08:00",
-    "record_count": 598,
+    "generated_at": "2026-10-23T09:07:45.806677+08:00",
+    "record_count": 599,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -41,6 +41,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0599",
+      "media": "中央社（CNA）",
+      "title": "經濟部樂見美光與台中工會達成協議 盼桃園廠續協商",
+      "url": "https://www.cna.com.tw/news/afe/202610220437.aspx",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T23:37:00+08:00",
+      "listed_at": "2026-10-23T09:07:26+08:00",
+      "last_checked_at": "2026-10-23T09:07:26+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0591",
       "media": "Newtalk新聞",
       "title": "美光罷工5》現場直擊！桃園24小時罷工不畏風雨 非工會成員也簽名不滿新方案",
@@ -71,6 +88,23 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0587",
+      "media": "TVBS",
+      "title": "美光大改革！祭出全新獎金制度　現金＋股票並行、調高勞退提撥",
+      "url": "https://news.tvbs.com.tw/money/4039858",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T18:02:24+08:00",
+      "listed_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T09:07:26+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -10606,23 +10640,6 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan"
-    },
-    {
-      "id": "news-0587",
-      "media": "TVBS",
-      "title": "美光大改革！祭出全新獎金制度　現金＋股票並行、調高勞退提撥",
-      "url": "https://news.tvbs.com.tw/money/4039858",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-23T01:05:25+08:00",
-      "language": "TW",
-      "topics": [
-        "獎金／分紅"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
     },
     {
       "id": "news-0571",
