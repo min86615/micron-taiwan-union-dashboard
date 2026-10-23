@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T17:10:05.923546+08:00",
-    "record_count": 603,
+    "generated_at": "2026-10-23T19:13:14.723978+08:00",
+    "record_count": 605,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -53,6 +53,40 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0605",
+      "media": "聯合新聞網（中央社稿）",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://money.udn.com/money/story/5612/9833624",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "listed_at": "2026-10-23T19:13:02.352853+08:00",
+      "last_checked_at": "2026-10-23T19:13:02.352853+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
+    },
+    {
+      "id": "news-0604",
+      "media": "中央社（CNA）",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://www.cna.com.tw/news/afe/202610230158.aspx",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "listed_at": "2026-10-23T19:13:02.352823+08:00",
+      "last_checked_at": "2026-10-23T19:13:02.352823+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
