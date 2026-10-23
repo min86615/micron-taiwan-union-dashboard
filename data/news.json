@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-24T03:09:14.243878+08:00",
-    "record_count": 617,
+    "generated_at": "2026-10-24T05:09:11.055010+08:00",
+    "record_count": 618,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0618",
+      "media": "The Manila Times / AFP",
+      "title": "Micron Taiwan workers reject bonus proposal",
+      "url": "https://www.manilatimes.net/2026/10/24/business/foreign-business/micron-taiwan-workers-reject-bonus-proposal/2452756",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T00:04:00+08:00",
+      "listed_at": "2026-10-24T05:06:03+08:00",
+      "last_checked_at": "2026-10-24T05:06:03+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal"
+    },
     {
       "id": "news-0614",
       "media": "鏡報 Mirror Daily",
@@ -222,7 +239,7 @@
       "published_date": "2026-10-23",
       "published_at": null,
       "listed_at": "2026-10-23T17:09:58.466600+08:00",
-      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-24T05:06:03+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -293,7 +310,7 @@
       "published_date": "2026-10-22",
       "published_at": "2026-10-22T18:02:24+08:00",
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-23T09:07:26+08:00",
+      "last_checked_at": "2026-10-24T05:06:03+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
