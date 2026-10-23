@@ -1,10 +1,61 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T19:13:14.723978+08:00",
-    "record_count": 605,
+    "generated_at": "2026-10-23T23:14:37.940296+08:00",
+    "record_count": 608,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0605",
+      "media": "聯合新聞網（中央社稿）",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://money.udn.com/money/story/5612/9833624",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T16:36:47+08:00",
+      "listed_at": "2026-10-23T19:13:02.352853+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
+    },
+    {
+      "id": "news-0604",
+      "media": "中央社（CNA）",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://www.cna.com.tw/news/afe/202610230158.aspx",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T16:28:00+08:00",
+      "listed_at": "2026-10-23T19:13:02.352823+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0606",
+      "media": "自由時報／自由財經",
+      "title": "桃園美光罷工未解 勞動部再次發聲",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5616157",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T11:54:42+08:00",
+      "listed_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0600",
       "media": "NOWnews 今日新聞",
@@ -41,6 +92,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0608",
+      "media": "鉅亨網",
+      "title": "美光台中工會協商成功！8成人員調薪近2.7倍 經部盼桃園廠跟進",
+      "url": "https://news.cnyes.com/news/id/6636455",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T02:15:06+00:00",
+      "listed_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0586",
       "media": "民視新聞網",
       "title": "美光勞資協商達共識！新增季度分潤獎金　現金.股票雙軌發放 - 民視新聞網",
@@ -59,34 +127,37 @@
       "duplicate_of": null
     },
     {
-      "id": "news-0605",
-      "media": "聯合新聞網（中央社稿）",
-      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
-      "url": "https://money.udn.com/money/story/5612/9833624",
+      "id": "news-0607",
+      "media": "Taiwan News",
+      "title": "Micron announces global profit-sharing plan as Taiwan union strikes",
+      "url": "https://www.taiwannews.com.tw/news/6464087",
       "published_date": "2026-10-23",
       "published_at": null,
-      "listed_at": "2026-10-23T19:13:02.352853+08:00",
-      "last_checked_at": "2026-10-23T19:13:02.352853+08:00",
-      "language": "TW",
+      "listed_at": "2026-10-23T23:14:28+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "language": "EN",
       "topics": [
-        "工會／勞資"
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
       ],
-      "status": "syndicated",
+      "status": "reported",
       "source_type": "media",
-      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
+      "duplicate_of": null
     },
     {
-      "id": "news-0604",
-      "media": "中央社（CNA）",
-      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
-      "url": "https://www.cna.com.tw/news/afe/202610230158.aspx",
+      "id": "news-0602",
+      "media": "The Straits Times / AFP",
+      "title": "Taiwan union says Micron workers reject bonus proposal",
+      "url": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal",
       "published_date": "2026-10-23",
       "published_at": null,
-      "listed_at": "2026-10-23T19:13:02.352823+08:00",
-      "last_checked_at": "2026-10-23T19:13:02.352823+08:00",
-      "language": "TW",
+      "listed_at": "2026-10-23T17:09:58.466600+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
+      "language": "EN",
       "topics": [
-        "工會／勞資"
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -623,7 +694,7 @@
       "published_date": "2026-10-22",
       "published_at": null,
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-23T01:05:25+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -1186,7 +1257,7 @@
       "published_date": "2026-10-21",
       "published_at": null,
       "listed_at": "2026-10-21T23:13:00+08:00",
-      "last_checked_at": "2026-10-21T23:13:00+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -3918,7 +3989,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-22T07:08:42+08:00",
+      "last_checked_at": "2026-10-23T23:14:28+08:00",
       "language": "EN",
       "topics": [
         "罷工"
@@ -10688,24 +10759,6 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0602",
-      "media": "The Straits Times / AFP",
-      "title": "Taiwan union says Micron workers reject bonus proposal",
-      "url": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal",
-      "published_date": null,
-      "published_at": null,
-      "listed_at": "2026-10-23T17:09:58.466600+08:00",
-      "last_checked_at": "2026-10-23T17:09:58.466600+08:00",
-      "language": "EN",
-      "topics": [
-        "工會／勞資",
-        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
