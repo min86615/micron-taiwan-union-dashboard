@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T09:07:45.806677+08:00",
-    "record_count": 599,
+    "generated_at": "2026-10-23T13:12:26.577905+08:00",
+    "record_count": 601,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0600",
+      "media": "NOWnews 今日新聞",
+      "title": "桃園美光罷工未解 經濟部、勞動部：盼勞資達成雙贏",
+      "url": "https://www.nownews.com/amp/news/6885848",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T09:44:26+08:00",
+      "listed_at": "2026-10-23T13:10:03+08:00",
+      "last_checked_at": "2026-10-23T13:10:03+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0598",
       "media": "聯合新聞網（經濟日報）",
@@ -10619,6 +10637,24 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0601",
+      "media": "民報",
+      "title": "台灣工會撼動美光全球獎酬制度 新增季分紅、IPP最高500%",
+      "url": "https://www.peoplenews.tw/articles/hot-news/63124",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-23T13:10:03+08:00",
+      "last_checked_at": "2026-10-23T13:10:03+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
