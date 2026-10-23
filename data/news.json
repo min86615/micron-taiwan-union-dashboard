@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-23T13:12:26.577905+08:00",
-    "record_count": 601,
+    "generated_at": "2026-10-23T17:10:05.923546+08:00",
+    "record_count": 603,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -10637,6 +10637,41 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0603",
+      "media": "經濟日報",
+      "title": "美光台中工會達成勞資協議 經濟部籲桃園廠持續協商",
+      "url": "https://money.udn.com/money/story/7307/9833460",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-23T17:09:58.466600+08:00",
+      "last_checked_at": "2026-10-23T17:09:58.466600+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0602",
+      "media": "The Straits Times / AFP",
+      "title": "Taiwan union says Micron workers reject bonus proposal",
+      "url": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-23T17:09:58.466600+08:00",
+      "last_checked_at": "2026-10-23T17:09:58.466600+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
