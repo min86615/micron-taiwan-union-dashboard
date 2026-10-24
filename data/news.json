@@ -1,10 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-25T01:07:41.142544+08:00",
-    "record_count": 622,
+    "generated_at": "2026-10-25T05:09:29.881585+08:00",
+    "record_count": 623,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0623",
+      "media": "联合早报",
+      "title": "美光桃园厂工会否决奖金方案 不排除进一步集体行动",
+      "url": "https://www.zaobao.com.sg/news/china/story20261024-9888890",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T18:27:00+08:00",
+      "listed_at": "2026-10-25T05:09:24+08:00",
+      "last_checked_at": "2026-10-25T05:09:24+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0618",
       "media": "The Manila Times / AFP",
