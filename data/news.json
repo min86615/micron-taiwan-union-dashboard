@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-24T05:09:11.055010+08:00",
-    "record_count": 618,
+    "generated_at": "2026-10-24T11:10:58.944558+08:00",
+    "record_count": 619,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -196,6 +196,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0619",
+      "media": "Reuters Japan (Infoseek)",
+      "title": "米マイクロン、27年から全世界で業績連動報酬導入へ　台湾労組の圧力受け",
+      "url": "https://news.infoseek.co.jp/article/22reutersJAPAN_KBN3W22G3/",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "listed_at": "2026-10-24T11:08:43+08:00",
+      "last_checked_at": "2026-10-24T11:08:43+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0615",
       "media": "大紀元時報",
       "title": "美光桃園工會堅持分潤制 協商延期",
@@ -310,7 +327,7 @@
       "published_date": "2026-10-22",
       "published_at": "2026-10-22T18:02:24+08:00",
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-24T05:06:03+08:00",
+      "last_checked_at": "2026-10-24T11:08:43+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -1097,7 +1114,7 @@
       "published_date": "2026-10-21",
       "published_at": "2026-10-21T18:35:11+08:00",
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "last_checked_at": "2026-10-24T11:08:43+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -4165,7 +4182,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-24T01:13:23+08:00",
+      "last_checked_at": "2026-10-24T11:08:43+08:00",
       "language": "EN",
       "topics": [
         "罷工"
