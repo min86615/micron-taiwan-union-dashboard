@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-26T03:06:29.455054+08:00",
-    "record_count": 633,
+    "generated_at": "2026-10-26T07:10:49.486924+08:00",
+    "record_count": 635,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -633,6 +633,23 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0637",
+      "media": "聯合報／經濟日報",
+      "title": "美光與台中工會達成協議 新增季度獲利分潤、勞退提撥升至10%",
+      "url": "https://money.udn.com/money/story/5612/9831632",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:16:24+08:00",
+      "listed_at": "2026-10-26T07:10:41.982010+08:00",
+      "last_checked_at": "2026-10-26T07:10:41.982010+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0596",
       "media": "聯合新聞網 (UDN)",
       "title": "美光與台中工會達成協議 新增季度獲利分潤、勞退提撥升至10%",
@@ -641,6 +658,23 @@
       "published_at": "2026-10-22T17:16:15+08:00",
       "listed_at": "2026-10-23T05:04:37+08:00",
       "last_checked_at": "2026-10-23T05:04:37+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0636",
+      "media": "經濟日報",
+      "title": "美光新增季度分潤、提高退休保障 盧東暉：與桃園工會持續協商",
+      "url": "https://money.udn.com/money/story/5612/9831590",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:00:13+08:00",
+      "listed_at": "2026-10-26T07:10:41.982010+08:00",
+      "last_checked_at": "2026-10-26T07:10:41.982010+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
