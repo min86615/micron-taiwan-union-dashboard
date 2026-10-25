@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-25T05:09:29.881585+08:00",
-    "record_count": 623,
+    "generated_at": "2026-10-25T09:10:10.822313+08:00",
+    "record_count": 624,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -11010,6 +11010,23 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0624",
+      "media": "CMoney 股市爆料同學會",
+      "title": "三星、SK 海力士績效獎金高達 7 億韓元，台灣美光僅 1.5 億韓元……差距為何如此巨大？【半導體 Plus】",
+      "url": "https://www.cmoney.tw/forum/article/186739290",
+      "published_date": null,
+      "published_at": null,
+      "listed_at": "2026-10-25T09:10:05+08:00",
+      "last_checked_at": "2026-10-25T09:10:05+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "community",
       "duplicate_of": null
     },
     {
