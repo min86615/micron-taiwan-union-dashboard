@@ -1,10 +1,44 @@
 {
   "summary": {
-    "generated_at": "2026-10-25T09:10:10.822313+08:00",
-    "record_count": 624,
+    "generated_at": "2026-10-25T11:25:22.253580+08:00",
+    "record_count": 626,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0625",
+      "media": "記者爆料網",
+      "title": "美光台中、桃園工會不同調！分潤協議惹議 27日勞資再協商",
+      "url": "https://new-reporter.com/news/282381/",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T21:40:00+08:00",
+      "listed_at": "2026-10-25T11:25:13+08:00",
+      "last_checked_at": "2026-10-25T11:25:13+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0626",
+      "media": "Life.tw",
+      "title": "美光台中、桃園工會不同調！分潤協議惹議 27日勞資再協商",
+      "url": "https://life.tw/article/%E7%BE%8E%E5%85%89%E5%8F%B0%E4%B8%AD-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E4%B8%8D%E5%90%8C%E8%AA%BF-%E5%88%86%E6%BD%A4%E5%8D%94%E8%AD%B0%E6%83%B9%E8%AD%B0-27%E6%97%A5%E5%8B%9E%E8%B3%87%E5%86%8D%E5%8D%94%E5%95%86-3192173",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T21:40:00+08:00",
+      "listed_at": "2026-10-25T11:25:13+08:00",
+      "last_checked_at": "2026-10-25T11:25:13+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://new-reporter.com/news/282381/"
+    },
     {
       "id": "news-0623",
       "media": "联合早报",
