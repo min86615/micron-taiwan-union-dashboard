@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-25T13:09:54.273157+08:00",
-    "record_count": 627,
+    "generated_at": "2026-10-25T15:10:26.970176+08:00",
+    "record_count": 628,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -68,6 +68,23 @@
       "language": "SC",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0628",
+      "media": "ETtoday財經雲",
+      "title": "美光工會爭勞權爆暴力威脅！號召戳輪胎 工會籲理性火速向警報案",
+      "url": "https://finance.ettoday.net/news/3260288",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T17:16:00+08:00",
+      "listed_at": "2026-10-25T15:10:05+08:00",
+      "last_checked_at": "2026-10-25T15:10:05+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
