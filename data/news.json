@@ -1,10 +1,44 @@
 {
   "summary": {
-    "generated_at": "2026-10-25T15:10:26.970176+08:00",
-    "record_count": 628,
+    "generated_at": "2026-10-25T19:11:31.817876+08:00",
+    "record_count": 630,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0630",
+      "media": "Storm Media",
+      "title": "美光協商後傳社群霸凌！警方獲報案啟動調查 網友力挺：爭勞權不能用暴力",
+      "url": "https://www.storm.mg/article/11175661",
+      "published_date": "2026-10-25",
+      "published_at": "2026-10-25T17:30:00+08:00",
+      "listed_at": "2026-10-25T19:06:55+08:00",
+      "last_checked_at": "2026-10-25T19:06:55+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0629",
+      "media": "SETN.com",
+      "title": "美光協商成功爆遭恐嚇暴力手段　台中警:已受理報請檢方指揮 | 三立iNEWS | 三立新聞網 SETN.COM",
+      "url": "https://inews.setn.com/news/1928172",
+      "published_date": "2026-10-25",
+      "published_at": "2026-10-25T16:09:00+08:00",
+      "listed_at": "2026-10-25T19:06:55+08:00",
+      "last_checked_at": "2026-10-25T19:06:55+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0627",
       "media": "MarketersGo／賴傳媒",
