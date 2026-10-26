@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-26T07:10:49.486924+08:00",
-    "record_count": 635,
+    "generated_at": "2026-10-26T09:14:26.037018+08:00",
+    "record_count": 636,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -714,6 +714,24 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0638",
+      "media": "知新聞（Knews）",
+      "title": "化解罷工危機！台灣美光董座揭與台中工會協商細節　勞退衝10%、結構性調薪再增3天假",
+      "url": "https://www.knews.com.tw/news/25864D4F77BDF44A0D56FA583977897B",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:34:00+08:00",
+      "listed_at": "2026-10-26T09:14:20+08:00",
+      "last_checked_at": "2026-10-26T09:14:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
