@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-26T09:14:26.037018+08:00",
-    "record_count": 636,
+    "generated_at": "2026-10-26T11:05:28.194156+08:00",
+    "record_count": 638,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -48,6 +48,23 @@
       "published_at": "2026-10-25T13:47:00+00:00",
       "listed_at": "2026-10-26T03:05:20+08:00",
       "last_checked_at": "2026-10-26T03:05:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/93739"
+    },
+    {
+      "id": "news-0640",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光勞資爭議未平！台中工會會員發起撤回授權連署 桃園工會籲公司勿分化勞工",
+      "url": "https://www.mirrormedia.mg/external/mirrordaily_93739/",
+      "published_date": "2026-10-25",
+      "published_at": null,
+      "listed_at": "2026-10-26T11:05:21+08:00",
+      "last_checked_at": "2026-10-26T11:05:21+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -398,6 +415,25 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0639",
+      "media": "經理人 ManagerToday",
+      "title": "台灣美光罷工│台中工會簽約拿下季度分潤、基層薪資跳 3 倍！產線總薪酬可望逾 200 萬元|經理人",
+      "url": "https://www.managertoday.com.tw/articles/view/73154",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "listed_at": "2026-10-26T09:17:00+08:00",
+      "last_checked_at": "2026-10-26T09:17:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
