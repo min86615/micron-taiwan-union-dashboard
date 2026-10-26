@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-26T13:09:07.239406+08:00",
-    "record_count": 639,
+    "generated_at": "2026-10-26T15:09:05.436104+08:00",
+    "record_count": 640,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -57,6 +57,23 @@
       "duplicate_of": "https://www.mirrordaily.news/story/93739"
     },
     {
+      "id": "news-0642",
+      "media": "Newtalk新聞",
+      "title": "美光桃園工會：近7成全體會員反對方案 勞資協商仍陷僵局",
+      "url": "https://newtalk.tw/news/view/2026-10-25/1067437",
+      "published_date": "2026-10-25",
+      "published_at": null,
+      "listed_at": "2026-10-26T15:08:42+08:00",
+      "last_checked_at": "2026-10-26T15:08:42+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0640",
       "media": "鏡週刊 Mirror Media",
       "title": "美光勞資爭議未平！台中工會會員發起撤回授權連署 桃園工會籲公司勿分化勞工",
@@ -81,7 +98,7 @@
       "published_date": "2026-10-25",
       "published_at": null,
       "listed_at": "2026-10-26T03:05:20+08:00",
-      "last_checked_at": "2026-10-26T03:05:20+08:00",
+      "last_checked_at": "2026-10-26T15:08:42+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
