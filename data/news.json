@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-26T15:09:05.436104+08:00",
-    "record_count": 640,
+    "generated_at": "2026-10-27T09:07:41.278685+08:00",
+    "record_count": 643,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -218,7 +218,24 @@
       "published_date": "2026-10-24",
       "published_at": "2026-10-24T00:04:00+08:00",
       "listed_at": "2026-10-24T05:06:03+08:00",
-      "last_checked_at": "2026-10-24T19:07:09+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal"
+    },
+    {
+      "id": "news-0645",
+      "media": "The Manila Times / Agence France-Presse",
+      "title": "Micron Taiwan workers reject bonus proposal",
+      "url": "https://www.manilatimes.net/2026/10/24/business/foreign-business/micron-taiwan-workers-reject-bonus-proposal/2452756/amp",
+      "published_date": "2026-10-24",
+      "published_at": null,
+      "listed_at": "2026-10-27T09:07:32+08:00",
+      "last_checked_at": "2026-10-27T09:07:32+08:00",
       "language": "EN",
       "topics": [
         "獎金／分紅"
@@ -323,7 +340,7 @@
       "published_date": "2026-10-23",
       "published_at": "2026-10-23T16:23:00+08:00",
       "listed_at": "2026-10-25T23:12:43.167206+08:00",
-      "last_checked_at": "2026-10-25T23:12:43.167206+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -351,6 +368,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0643",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光罷工藏變數2／成功分化台中、桃園工會　員工嘆：一手好牌被公司沒收",
+      "url": "https://www.mirrormedia.mg/story/20261023-180fin-151835",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T15:50:00+08:00",
+      "listed_at": "2026-10-27T05:12:53+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0620",
       "media": "The Edge Malaysia / AFP",
       "title": "Taiwan union says Micron workers reject bonus proposal",
@@ -358,7 +393,7 @@
       "published_date": "2026-10-23",
       "published_at": "2026-10-23T15:17:10+08:00",
       "listed_at": "2026-10-24T15:11:56+08:00",
-      "last_checked_at": "2026-10-25T23:12:43.167206+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -450,6 +485,23 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0644",
+      "media": "工商時報（中時新聞網）",
+      "title": "美光祭出四大奖酬福利改革",
+      "url": "https://www.chinatimes.com/cn/newspapers/20261023000324-260204?chdtv",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "listed_at": "2026-10-27T05:12:53+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -553,7 +605,7 @@
       "published_date": "2026-10-23",
       "published_at": null,
       "listed_at": "2026-10-23T17:09:58.466600+08:00",
-      "last_checked_at": "2026-10-24T19:07:09+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -624,7 +676,7 @@
       "published_date": "2026-10-22",
       "published_at": "2026-10-22T18:02:24+08:00",
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-24T19:07:09+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -676,7 +728,7 @@
       "published_date": "2026-10-22",
       "published_at": "2026-10-22T17:30:00+08:00",
       "listed_at": "2026-10-23T03:08:23+08:00",
-      "last_checked_at": "2026-10-23T03:08:23+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -762,7 +814,7 @@
       "published_date": "2026-10-22",
       "published_at": "2026-10-22T17:00:13+08:00",
       "listed_at": "2026-10-26T07:10:41.982010+08:00",
-      "last_checked_at": "2026-10-26T07:10:41.982010+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -1374,7 +1426,7 @@
       "published_date": "2026-10-21",
       "published_at": "2026-10-21T23:25:49+08:00",
       "listed_at": "2026-10-22T01:26:18+08:00",
-      "last_checked_at": "2026-10-22T15:14:00+08:00",
+      "last_checked_at": "2026-10-27T07:09:03+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -1675,7 +1727,7 @@
       "published_date": "2026-10-21",
       "published_at": "2026-10-21T10:33:00+08:00",
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-10-24T03:08:18+08:00",
+      "last_checked_at": "2026-10-27T05:12:53+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -4548,7 +4600,7 @@
       "published_date": "2026-10-02",
       "published_at": null,
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-26T13:06:39+08:00",
+      "last_checked_at": "2026-10-27T07:09:03+08:00",
       "language": "EN",
       "topics": [
         "罷工"
