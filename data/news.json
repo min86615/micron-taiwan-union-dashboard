@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-28T01:09:20.150175+08:00",
-    "record_count": 646,
+    "generated_at": "2026-10-28T03:06:02.047680+08:00",
+    "record_count": 647,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -14,6 +14,23 @@
       "published_at": "2026-10-27T19:04:02+08:00",
       "listed_at": "2026-10-27T21:13:38+08:00",
       "last_checked_at": "2026-10-27T21:13:38+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0649",
+      "media": "Liberty Times Finance",
+      "title": "美光桃園廠勞資爭議未解 工會與公司11/6再開第3次協商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5620640",
+      "published_date": "2026-10-27",
+      "published_at": "2026-10-27T18:31:00+08:00",
+      "listed_at": "2026-10-28T03:05:18+08:00",
+      "last_checked_at": "2026-10-28T03:05:18+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
