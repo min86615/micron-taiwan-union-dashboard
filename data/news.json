@@ -1,10 +1,44 @@
 {
   "summary": {
-    "generated_at": "2026-10-28T17:09:05.327060+08:00",
-    "record_count": 650,
+    "generated_at": "2026-10-28T19:09:54.582181+08:00",
+    "record_count": 652,
     "note": "Public metadata export only; published_at is the source publication time, listed_at is the first database-list time, last_checked_at is the latest verification time, and updated_date_note is a clearly labeled source update note that never substitutes for publication time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0653",
+      "media": "TVBS 財經",
+      "title": "美光台中工會達成勞資協議！桃園工會質疑護航、瀆職　勞動部回應",
+      "url": "https://news.tvbs.com.tw/money/4042514",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T16:13:00+08:00",
+      "listed_at": "2026-10-28T19:09:21+08:00",
+      "last_checked_at": "2026-10-28T19:09:21+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0654",
+      "media": "聯合報 / UDN",
+      "title": "美光工會質疑勞資和平協議合法性 勞動部：有疑慮可走民事訴訟",
+      "url": "https://udn.com/news/story/7269/9842427",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T15:50:00+08:00",
+      "listed_at": "2026-10-28T19:09:21+08:00",
+      "last_checked_at": "2026-10-28T19:09:21+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0647",
       "media": "NOWnews",
@@ -13,7 +47,7 @@
       "published_date": "2026-10-27",
       "published_at": "2026-10-27T19:04:02+08:00",
       "listed_at": "2026-10-27T21:13:38+08:00",
-      "last_checked_at": "2026-10-28T09:08:16+08:00",
+      "last_checked_at": "2026-10-28T19:09:21+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
