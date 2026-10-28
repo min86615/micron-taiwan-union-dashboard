@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T05:21:05.902849+08:00",
-    "record_count": 657,
+    "generated_at": "2026-10-29T07:29:04.598640+08:00",
+    "record_count": 664,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -15,7 +15,7 @@
       "display_at": "2026-10-29T12:00:00+08:00",
       "listed_at": "2026-10-29T03:10:33.032296+08:00",
       "last_checked_at": "2026-10-29T03:10:33.032296+08:00",
-      "language": "ZH-",
+      "language": "TW",
       "topics": [
         "美光產業"
       ],
@@ -723,6 +723,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0661",
+      "media": "聯合報 / United Daily News (via web_search watchlist #17)",
+      "title": "對於台中及桃園美光工會勞資爭議處理情形，本部說明如下",
+      "url": "https://www.mol.gov.tw/1607/1632/1633/99723/",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-10-29T07:35:00+08:00",
+      "last_checked_at": "2026-10-29T07:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "official_statement",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0644",
       "media": "工商時報（中時新聞網）",
       "title": "美光祭出四大奖酬福利改革",
@@ -1377,6 +1396,45 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0668",
+      "media": "PChome 新聞 / 愛傳媒",
+      "title": "美光勞資爭議全面升級 美光桃園工會啟動24小時罷工",
+      "url": "https://news.pchome.com.tw/living/imedia/20261022/index-79264928026019287009.html",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T07:35:30+08:00",
+      "last_checked_at": "2026-10-29T07:35:30+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0663",
+      "media": "联合早报 (Lianhe Zaobao)",
+      "title": "美光桃园厂员工发动24小时罢工 要求提高利润分红",
+      "url": "https://www.zaobao.com.sg/news/china/story20261022-9876814",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T07:33:00+08:00",
+      "last_checked_at": "2026-10-29T07:33:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0610",
       "media": "日本経済新聞",
       "title": "マイクロン台湾、報酬巡り綱引き　桃園で労組幹部スト・台中は労使合意",
@@ -1682,6 +1740,24 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0666",
+      "media": "Yahoo!ニュース / NNA",
+      "title": "【台湾】マイクロン台中労組、労使協定締結（NNA）",
+      "url": "https://news.yahoo.co.jp/articles/fd9ec50dd910a915f1b83ff088e3b7c617b9efd7",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T11:30:00+09:00",
+      "display_at": "2026-10-22T11:30:00+09:00",
+      "listed_at": "2026-10-29T07:34:30+08:00",
+      "last_checked_at": "2026-10-29T07:34:30+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -2171,6 +2247,45 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0670",
+      "media": "WHTC / 路透社（权威电讯重稿）",
+      "title": "Micron says it has reached agreement with Taiwan union",
+      "url": "https://whtc.com/2026-10-21/micron-says-it-has-reached-agreement-with-taiwan-union",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T07:36:00+08:00",
+      "last_checked_at": "2026-10-29T07:36:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0664",
+      "media": "Quartz (qz.com)",
+      "title": "Micron and Taichung union sign labor deal, cancel mediation",
+      "url": "https://qz.com/micron-taichung-union-labor-deal-mediation-102126",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T07:34:30+08:00",
+      "last_checked_at": "2026-10-29T07:34:30+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0572",
@@ -3887,6 +4002,26 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0665",
+      "media": "Newsweek 日本版 / ロイター",
+      "title": "米マイクロン、台湾で労使対立激化 賞与制度巡り労組スト承認",
+      "url": "https://www.newsweekjapan.jp/articles/-/336317",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T10:01:00+09:00",
+      "display_at": "2026-10-08T10:01:00+09:00",
+      "listed_at": "2026-10-29T07:34:00+08:00",
+      "last_checked_at": "2026-10-29T07:34:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/"
     },
     {
       "id": "news-0431",
