@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-28T21:20:39.019829+08:00",
-    "record_count": 653,
+    "generated_at": "2026-10-28T23:17:29.135539+08:00",
+    "record_count": 654,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0656",
+      "media": "自由財經 / Liberty Times Finance",
+      "title": "勞團質疑台中美光勞資協議合法性 勞動部認定屬一般性協議未違法",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5621910",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T20:26:09+08:00",
+      "display_at": "2026-10-28T20:26:09+08:00",
+      "listed_at": "2026-10-28T23:17:20+08:00",
+      "last_checked_at": "2026-10-28T23:17:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0655",
       "media": "中時新聞網 / China Times",
@@ -50,7 +68,7 @@
       "published_at": "2026-10-28T15:50:00+08:00",
       "display_at": "2026-10-28T15:50:00+08:00",
       "listed_at": "2026-10-28T19:09:21+08:00",
-      "last_checked_at": "2026-10-28T21:20:31.543829+08:00",
+      "last_checked_at": "2026-10-28T23:17:20+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
