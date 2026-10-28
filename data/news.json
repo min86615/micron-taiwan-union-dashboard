@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-28T23:17:29.135539+08:00",
-    "record_count": 654,
+    "generated_at": "2026-10-29T05:21:05.902849+08:00",
+    "record_count": 657,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0657",
+      "media": "Liberty Times Finance (ec.ltn.com.tw)",
+      "title": "美光作業員年薪上看200萬！網羨慕喊加入美光、人生發光",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5619258",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T03:10:33.032296+08:00",
+      "last_checked_at": "2026-10-29T03:10:33.032296+08:00",
+      "language": "ZH-",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0656",
       "media": "自由財經 / Liberty Times Finance",
@@ -60,6 +79,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0658",
+      "media": "CTS / CNA (華視轉播中央社)",
+      "title": "美光與台中工會協議受質疑 勞動部：可提民事訴訟",
+      "url": "https://news.cts.com.tw/cna/life/202610/202610283094778.html",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T16:03:59+08:00",
+      "display_at": "2026-10-28T16:03:59+08:00",
+      "listed_at": "2026-10-29T05:12:00+08:00",
+      "last_checked_at": "2026-10-29T05:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0654",
       "media": "聯合報 / UDN",
       "title": "美光工會質疑勞資和平協議合法性 勞動部：有疑慮可走民事訴訟",
@@ -76,6 +113,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0659",
+      "media": "Newtalk 新頭殼",
+      "title": "桃園美光二次協商再破局 要求資方實際試算分紅無果",
+      "url": "https://newtalk.tw/news/view/2026-10-28/1067880",
+      "published_date": "2026-10-28",
+      "published_at": null,
+      "display_at": "2026-10-28T12:00:00+08:00",
+      "listed_at": "2026-10-29T05:10:00+08:00",
+      "last_checked_at": "2026-10-29T05:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0647",
