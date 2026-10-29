@@ -1,10 +1,89 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T17:25:22.748776+08:00",
-    "record_count": 698,
+    "generated_at": "2026-10-29T19:44:57.945609+08:00",
+    "record_count": 717,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0724",
+      "media": "自由財經（Liberty Times Finance）",
+      "title": "200％獎金上限「相對剝奪感劇增」台灣美光工會醞釀罷工",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5525492",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0713",
+      "media": "finanztrends.de",
+      "title": "Micron Aktie: Neuer Bonusplan rechnet Investitionen raus",
+      "url": "https://finanztrends.de/news/micron-aktie-neuer-bonusplan-rechnet-investitionen-raus",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "DE",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0721",
+      "media": "Futu News（Southern East Asia AI 摘要，引 JPMorgan 報告）",
+      "title": "Memory Market Update: Analysis of Micron's Earnings and Outlook for 2031 Orders",
+      "url": "https://news.futunn.com/en/post/1000509960/memory-market-update-analysis-of-micron-s-earnings-and-outlook",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "EN",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "market_analysis",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0716",
+      "media": "ETtoday 財經雲",
+      "title": "台灣美光工會喊「不要一次性獎金、要15％營利分潤」 公司：持續傾聽",
+      "url": "https://finance.ettoday.net/news/3237805",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0662",
       "media": "Domino Theory",
@@ -42,6 +121,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0708",
+      "media": "記者爆料網 / 賴傳媒",
+      "title": "美光和平協議爆爭議！桃園工會質疑被排除 勞動部最新回應",
+      "url": "https://new-reporter.com/news/282648/",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T20:27:00+08:00",
+      "display_at": "2026-10-28T20:27:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0656",
       "media": "自由財經 / Liberty Times Finance",
       "title": "勞團質疑台中美光勞資協議合法性 勞動部認定屬一般性協議未違法",
@@ -51,6 +148,42 @@
       "display_at": "2026-10-28T20:26:09+08:00",
       "listed_at": "2026-10-28T23:17:20+08:00",
       "last_checked_at": "2026-10-28T23:17:20+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0707",
+      "media": "LIFE 生活網",
+      "title": "美光勞資談判兩地分歧 桃園工會赴勞動部抗議",
+      "url": "https://life.tw/article/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E8%AB%87%E5%88%A4%E5%85%A9%E5%9C%B0%E5%88%86%E6%AD%A7-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E8%B5%B4%E5%8B%9E%E5%8B%95%E9%83%A8%E6%8A%97%E8%AD%B0-3196001",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T17:30:00+08:00",
+      "display_at": "2026-10-28T17:30:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.i-meihua.com/Article/Detail/58346"
+    },
+    {
+      "id": "news-0706",
+      "media": "I-Media 愛傳媒（原站）",
+      "title": "美光勞資談判兩地分歧 桃園工會赴勞動部抗議",
+      "url": "https://www.i-meihua.com/Article/Detail/58346",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T17:30:00+08:00",
+      "display_at": "2026-10-28T17:30:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -349,6 +482,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0722",
+      "media": "ad-hoc-news.de（boerse-global editorial）",
+      "title": "Micron's Friday Gain Masks a Busy Week of Labor Unrest, Bonus Reform and a Materials Bet",
+      "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/micron-s-friday-gain-masks-a-busy-week-of-labor-unrest-bonus-reform-and-a/70409295",
+      "published_date": "2026-10-25",
+      "published_at": null,
+      "display_at": "2026-10-25T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "market_analysis",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0652",
       "media": "鏡報／LINE TODAY",
       "title": "美光勞資爭議未平！台中工會會員發起撤回授權連署　桃園工會籲公司勿分化勞工 | 鏡報 | LINE TODAY",
@@ -531,6 +684,24 @@
       "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.barchart.com/story/news/8406362/microns-taiwan-unit-reached-a-deal-with-the-taichung-union-heres-what-to-know"
+    },
+    {
+      "id": "news-0712",
+      "media": "Maeil Business Korea（.mk.co.kr，Semiconductor Plus，AI翻譯）",
+      "title": "Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge gap? [Semiconductor Plus]",
+      "url": "https://mk.co.kr/en/business/12184815",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T15:20:49+09:00",
+      "display_at": "2026-10-24T15:20:49+09:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "KR",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0645",
@@ -1653,6 +1824,44 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0709",
+      "media": "搜狐（編譯彙整）",
+      "title": "美光台湾工厂因利润分成争议将于10月22日罢工",
+      "url": "https://m.sohu.com/a/1091308981_506163",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0710",
+      "media": "RTL Luxembourg（AFP distribution）",
+      "title": "Handful of Micron workers strike in Taiwan",
+      "url": "https://today.rtl.lu/news/world/handful-of-micron-workers-strike-in-taiwan-553769768",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0705",
       "media": "KSL (Reuters wire reprint)",
       "title": "Micron introduces quarterly employee bonus tied to profits",
@@ -2677,6 +2886,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0714",
+      "media": "中央社記者",
+      "title": "美光與台中工會達成多項共識 簽署勞資協議",
+      "url": "https://www.cna.com.tw/news/afe/202610210155.aspx",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0702",
       "media": "CFM 闪存市场 (ChinaFlashMarket)",
       "title": "美光与台中工会签署协议撤回调解程序，桃园工会持续沟通",
@@ -3178,6 +3406,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0720",
+      "media": "NTT docomo news topics（ロイター转载）",
+      "title": "米マイクロンの台湾・桃園労組、22日にスト開始 賞与巡り対立",
+      "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261020039",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0704",
@@ -4471,6 +4720,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0723",
+      "media": "Capital Futures（capitalfutures.com.tw 美股投資戰報）",
+      "title": "美光台灣工會高票取得罷工權 股價盤中承壓後仍收漲逾4%【美股投資戰報】",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/research/reportsarticle?contentid=c26100800633",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T15:16:56+08:00",
+      "display_at": "2026-10-08T15:16:56+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "market_analysis",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0445",
       "media": "聯合報 UDN",
       "title": "台灣美光台中工會22日二次勞資調解 勞工局籲盡量協商力求共識",
@@ -5504,6 +5772,27 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0717",
+      "media": "ETtoday 財經雲",
+      "title": "快訊／美光台灣廠工會取得罷工權 公司：尊重員工權利、持續對話調解",
+      "url": "https://finance.ettoday.net/news/3250840",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0477",
       "media": "Yahoo News",
       "title": "美光工會罷工案壓倒性通過！取得罷工權",
@@ -6036,6 +6325,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://technews.tw/2026/09/29/memory-winbond/"
+    },
+    {
+      "id": "news-0711",
+      "media": "CHIPS Communities United（工會聯盟聲明）",
+      "title": "CHIPS Communities United Supports Micron Workers in Taiwan",
+      "url": "https://chipscommunitiesunited.org/news/chips-communities-united-supports-micron-workers-in-taiwan",
+      "published_date": "2026-10-02",
+      "published_at": null,
+      "display_at": "2026-10-02T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0370",
@@ -7224,6 +7532,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0715",
+      "media": "工商時報（時報資訊）",
+      "title": "《科技》美光首次勞資調解落幕 10月22日再協商",
+      "url": "https://www.ctee.com.tw/news/20260919700432-430503",
+      "published_date": "2026-09-19",
+      "published_at": null,
+      "display_at": "2026-09-19T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0302",
       "media": "Mothership.SG",
       "title": "Why are Micron's Taiwan workers rejecting up to 68 months bonuses and even threatening a strike?",
@@ -7560,6 +7888,25 @@
       "status": "syndicated",
       "source_type": "syndicated_copy",
       "duplicate_of": "https://www.straitstimes.com/asia/east-asia/microns-taiwan-workers-threaten-strike-say-up-to-68-months-bonus-not-enough"
+    },
+    {
+      "id": "news-0719",
+      "media": "JIJI（AFP＝時事轉載）",
+      "title": "月給６８か月のボーナスは不十分 マイクロン台湾工場の従業員、さらなる利益分配を要求",
+      "url": "https://www.jiji.com/jc/article?k=20260918049373a&g=afp",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-09-17T22:18:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/microns-taiwan-workers-threaten-strike-say-up-to-68-months-bonus-not-enough",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0293",
@@ -9393,6 +9740,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0718",
+      "media": "ETtoday 財經雲",
+      "title": "美光發史上最高獎酬！台灣員工領百萬獎金 產線整體薪酬最高68個月",
+      "url": "https://finance.ettoday.net/news/3235485",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:01:00+08:00",
+      "last_checked_at": "2026-10-29T19:01:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0219",
