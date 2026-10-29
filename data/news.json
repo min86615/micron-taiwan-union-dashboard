@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-30T05:43:54.640537+08:00",
-    "record_count": 758,
+    "generated_at": "2026-10-30T07:13:09.856727+08:00",
+    "record_count": 759,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4264,6 +4264,26 @@
       "display_at": "2026-10-20T11:56:14+09:00",
       "listed_at": "2026-10-30T05:38:44.916270+08:00",
       "last_checked_at": "2026-10-30T05:38:44.916270+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
+    {
+      "id": "news-0767",
+      "media": "Infoseek News (Reuters Japan)",
+      "title": "米マイクロンの台湾・桃園労組、22日にスト開始　賞与巡り対立",
+      "url": "https://news.infoseek.co.jp/article/20reutersJAPAN_KBN3W0074/",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T11:56:00+09:00",
+      "display_at": "2026-10-20T11:56:00+09:00",
+      "listed_at": "2026-10-30T07:15:00+08:00",
+      "last_checked_at": "2026-10-30T07:15:00+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
