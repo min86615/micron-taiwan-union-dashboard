@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T19:50:56.574200+08:00",
-    "record_count": 718,
+    "generated_at": "2026-10-29T21:22:55.857015+08:00",
+    "record_count": 723,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1074,6 +1074,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0730",
+      "media": "CLB.org.hk",
+      "title": "Micron workers in Taiwan reject profit-sharing proposal",
+      "url": "https://clb.org.hk/en/business/Micron-workers-in-Taiwan-reject-profit-sharing-proposal-85d1f6",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-10-29T21:26:00+08:00",
+      "last_checked_at": "2026-10-29T21:26:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_wire",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0703",
       "media": "HK CNS / 香港中通社",
       "title": "美光科技台湾桃园工会罢工 要求提高利润分红",
@@ -1748,6 +1767,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0729",
+      "media": "CFM 闪存市场",
+      "title": "因协商未果，美光桃园工会启动24小时罢工",
+      "url": "https://www.chinaflashmarket.com/a/184361",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T15:07:00+08:00",
+      "display_at": "2026-10-22T15:07:00+08:00",
+      "listed_at": "2026-10-29T21:26:00+08:00",
+      "last_checked_at": "2026-10-29T21:26:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "industry_aggregator",
       "duplicate_of": null
     },
     {
@@ -2549,6 +2586,25 @@
       "updated_date_note": "來源 metadata 顯示更新時間 2026-10-21 23:32:04 +08:00；原始發布時間仍為 23:25:49 +08:00。"
     },
     {
+      "id": "news-0727",
+      "media": "ETtoday 財經雲",
+      "title": "台灣美光桃園工會協商破局明罷工 公司喊話：盼與工會繼續協商",
+      "url": "https://finance.ettoday.net/news/3258769",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T23:18:00+08:00",
+      "display_at": "2026-10-21T23:18:00+08:00",
+      "listed_at": "2026-10-29T21:26:00+08:00",
+      "last_checked_at": "2026-10-29T21:26:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0555",
       "media": "自由時報／自由財經",
       "title": "協商無成果 台灣美光桃園工會：10/22罷工24小時",
@@ -2825,6 +2881,24 @@
       "topics": [
         "工會／勞資",
         "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0726",
+      "media": "ETtoday 財經雲",
+      "title": "美光台中勞資協商達共識簽署協議 桃園工會續談",
+      "url": "https://finance.ettoday.net/news/3258486",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:21:00+08:00",
+      "display_at": "2026-10-21T14:21:00+08:00",
+      "listed_at": "2026-10-29T21:26:00+08:00",
+      "last_checked_at": "2026-10-29T21:26:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -9759,6 +9833,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0728",
+      "media": "財訊",
+      "title": "美光獎酬創歷史新高！台灣員工每人100萬元感謝獎金 初階工程師平均薪酬340萬元",
+      "url": "https://www.wealth.com.tw/articles/f3e651e2-5eab-4112-aeb4-db90c2dc5cbc",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-10-29T21:26:00+08:00",
+      "last_checked_at": "2026-10-29T21:26:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0718",
