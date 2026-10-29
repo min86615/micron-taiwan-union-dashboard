@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T13:23:08.605007+08:00",
+    "generated_at": "2026-10-29T13:25:48.579895+08:00",
     "record_count": 691,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -2491,14 +2491,14 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null,
+      "duplicate_of": "https://news.cnyes.com/news/id/6634988",
       "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0694",
       "media": "Cnyes",
       "title": "勞資爭議現曙光！台灣美光與台中工會簽署協議 撤回10/22調解程序",
-      "url": "https://m.cnyes.com/news/id/6634988",
+      "url": "https://news.cnyes.com/news/id/6634988",
       "published_date": "2026-10-21",
       "published_at": "2026-10-21T15:19:00+08:00",
       "display_at": "2026-10-21T15:19:00+08:00",
