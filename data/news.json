@@ -1,28 +1,27 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T07:29:04.598640+08:00",
-    "record_count": 664,
+    "generated_at": "2026-10-29T09:33:46.862388+08:00",
+    "record_count": 675,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
     {
-      "id": "news-0657",
-      "media": "Liberty Times Finance (ec.ltn.com.tw)",
-      "title": "美光作業員年薪上看200萬！網羨慕喊加入美光、人生發光",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5619258",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-29T12:00:00+08:00",
-      "listed_at": "2026-10-29T03:10:33.032296+08:00",
-      "last_checked_at": "2026-10-29T03:10:33.032296+08:00",
-      "language": "TW",
+      "id": "news-0662",
+      "media": "Domino Theory",
+      "title": "Union Leaders Appeal to Taiwan Government for Help in Micron Dispute",
+      "url": "https://dominotheory.com/union-leaders-appeal-to-taiwan-government-for-help-in-micron-dispute",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T20:52:36+08:00",
+      "display_at": "2026-10-28T20:52:36+08:00",
+      "listed_at": "2026-10-29T07:34:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "EN",
       "topics": [
-        "美光產業"
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+      "duplicate_of": null
     },
     {
       "id": "news-0656",
@@ -52,6 +51,24 @@
       "display_at": "2026-10-28T17:01:23+08:00",
       "listed_at": "2026-10-28T21:15:19.021827+08:00",
       "last_checked_at": "2026-10-28T21:15:19.021827+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0674",
+      "media": "NOWnews",
+      "title": "美光工會質疑勞資協議效力！勞動部：可循司法民事訴訟途徑處理",
+      "url": "https://www.nownews.com/news/6887319",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T16:39:35+08:00",
+      "display_at": "2026-10-28T16:39:35+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -206,6 +223,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0657",
+      "media": "Liberty Times Finance (ec.ltn.com.tw)",
+      "title": "美光作業員年薪上看200萬！網羨慕喊加入美光、人生發光",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5619258",
+      "published_date": "2026-10-26",
+      "published_at": "2026-10-26T17:47:15+08:00",
+      "display_at": "2026-10-26T17:47:15+08:00",
+      "listed_at": "2026-10-29T03:10:33.032296+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0630",
       "media": "Storm Media",
       "title": "美光協商後傳社群霸凌！警方獲報案啟動調查 網友力挺：爭勞權不能用暴力",
@@ -258,6 +293,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.mirrordaily.news/story/93739"
+    },
+    {
+      "id": "news-0667",
+      "media": "vlsi.kr（独立产业分析）",
+      "title": "マイクロン台湾・桃園労組、利益分配案を否決 — 組合員の約70%が反対、10月27日に交渉再開",
+      "url": "https://www.vlsi.kr/ja/micron-taiwan-union-rejects-bonus-2026-ja/",
+      "published_date": "2026-10-25",
+      "published_at": "2026-10-25T13:46:32+00:00",
+      "display_at": "2026-10-25T13:46:32+00:00",
+      "listed_at": "2026-10-29T07:33:30+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0652",
@@ -576,6 +629,24 @@
       "duplicate_of": "https://news.tvbs.com.tw/money/4039858"
     },
     {
+      "id": "news-0675",
+      "media": "FinanceFeeds",
+      "title": "Micron Share Price Up 3.25% as Taoyuan Union Rejects Offer",
+      "url": "https://financefeeds.com/micron-share-price-taoyuan-union-rejects-offer/",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T17:30:20+03:00",
+      "display_at": "2026-10-23T17:30:20+03:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0605",
       "media": "聯合新聞網（中央社稿）",
       "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
@@ -721,6 +792,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0679",
+      "media": "Gate News JP（轉載 FinanceFeeds）",
+      "title": "マイクロン株が3.25％上昇して884.30ドルに、桃園の労働組合がボーナス案を拒否、協議は10月27日に延期",
+      "url": "https://www.gate.com/ja/news/detail/micron-stock-rises-325-to-88430-as-taoyuan-union-votes-down-bonus-offer-25156085",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://financefeeds.com/micron-share-price-taoyuan-union-rejects-offer/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0661",
@@ -2249,6 +2340,85 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0681",
+      "media": "WTAQ（Reuters 同稿）",
+      "title": "Micron, Taiwan union sign deal, withdraw from mediation",
+      "url": "https://wtaq.com/2026-10-21/micron-says-it-has-reached-agreement-with-taiwan-union/",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0677",
+      "media": "TradingKey JP（AI 翻譯版）",
+      "title": "台湾マイクロンのストライキに変化？マイクロンが台中労働組合と労働協約を締結、桃園工場のストライキ計画は確認待ち",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262228771-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262228642-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0676",
+      "media": "TradingKey",
+      "title": "美光台湾罢工有变化？美光跟台中工会签署劳资协议，桃园厂罢工计划仍待确认",
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262228642-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0678",
+      "media": "Taipei Times（Reuters 同稿）",
+      "title": "Micron, union withdraw from mediation after deal signed",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026-10-21/2003866378",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0670",
       "media": "WHTC / 路透社（权威电讯重稿）",
       "title": "Micron says it has reached agreement with Taiwan union",
@@ -2672,6 +2842,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0680",
+      "media": "Newsweek Japan（Reuters 同稿）",
+      "title": "米マイクロンの台湾・桃園労組、22日にスト開始 賞与巡り対立",
+      "url": "https://www.newsweekjapan.jp/articles/-/337411",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0525",
@@ -4149,6 +4340,26 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0683",
+      "media": "公視新聞網 PNN",
+      "title": "美光工會不滿獎金制度不透明 會員投票通過取得合法罷工權",
+      "url": "https://news.pts.org.tw/article/830380",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T19:39:37+08:00",
+      "display_at": "2026-10-07T19:39:37+08:00",
+      "listed_at": "2026-10-29T09:22:00+08:00",
+      "last_checked_at": "2026-10-29T09:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
         "罷工"
       ],
       "status": "reported",
