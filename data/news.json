@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T09:41:01.999693+08:00",
-    "record_count": 675,
+    "generated_at": "2026-10-29T11:27:28.097699+08:00",
+    "record_count": 682,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -55,6 +55,24 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0686",
+      "media": "中央社（CNA）",
+      "title": "台積電、美光加碼布局台中 市府：兩大巨頭投資破兆",
+      "url": "https://www.cna.com.tw/news/aloc/202610280235.aspx",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T17:07:00+08:00",
+      "display_at": "2026-10-28T17:07:00+08:00",
+      "listed_at": "2026-10-29T11:25:00+08:00",
+      "last_checked_at": "2026-10-29T11:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -536,6 +554,43 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
+      "id": "news-0688",
+      "media": "Yahoo Finance／Barchart",
+      "title": "Micron’s Taiwan Unit Reached a Deal With the Taichung Union. Here’s What to Know.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-taiwan-unit-reached-deal-114520440.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-24T06:45:00-05:00",
+      "listed_at": "2026-10-29T11:25:00+08:00",
+      "last_checked_at": "2026-10-29T11:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.barchart.com/story/news/8406362/microns-taiwan-unit-reached-a-deal-with-the-taichung-union-heres-what-to-know",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-0631",
+      "media": "Barchart",
+      "title": "Micron’s Taiwan Unit Reached a Deal With the Taichung Union. Here’s What to Know.",
+      "url": "https://www.barchart.com/story/news/8406362/microns-taiwan-unit-reached-a-deal-with-the-taichung-union-heres-what-to-know",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T06:45:00-05:00",
+      "display_at": "2026-10-24T06:45:00-05:00",
+      "listed_at": "2026-10-25T19:06:55+08:00",
+      "last_checked_at": "2026-10-26T09:17:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0641",
       "media": "EconoTimes",
       "title": "Micron Taoyuan Union Members Reject Profit-Sharing Proposal",
@@ -811,6 +866,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0684",
+      "media": "LINE TODAY（轉載 NOWnews）",
+      "title": "桃園美光罷工未解 經濟部、勞動部回應",
+      "url": "https://today.line.me/tw/v3/article/Vxp71Kl",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-10-29T09:22:00+08:00",
+      "last_checked_at": "2026-10-29T09:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.nownews.com/news/6885479",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0679",
@@ -1469,6 +1543,25 @@
       "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan"
     },
     {
+      "id": "news-0660",
+      "media": "PTS 公視新聞網",
+      "title": "美光勞資協商兩地不同調 台中簽協議、桃園發動罷工",
+      "url": "https://news.pts.org.tw/article/832461",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T13:39:05+08:00",
+      "display_at": "2026-10-22T13:39:05+08:00",
+      "listed_at": "2026-10-29T05:10:00+08:00",
+      "last_checked_at": "2026-10-29T05:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0577",
       "media": "Newtalk新聞",
       "title": "美光罷工3》台中工會批桃園罷工「殺雞取卵」 桃園員工不滿情緒發言、新機制仍有黑箱空間",
@@ -1868,6 +1961,25 @@
       "language": "JP",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0685",
+      "media": "經濟日報／聯合報（UDN）",
+      "title": "台灣美光桃園工會宣布幹部罷工24小時 不排除擴大行動",
+      "url": "https://money.udn.com/money/story/5612/9830529",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T11:28:51+08:00",
+      "display_at": "2026-10-22T11:28:51+08:00",
+      "listed_at": "2026-10-29T11:25:00+08:00",
+      "last_checked_at": "2026-10-29T11:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -7032,6 +7144,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://financefeeds.com/microns-taichung-union-went-into-mediation-today-demanding-15-of-operating-profit-with-a-strike-vote-behind-door-two/"
+    },
+    {
+      "id": "news-0687",
+      "media": "財報狗（StatementDog）",
+      "title": "美光台灣員工拒絕 68 個月獎金方案 工會喊 83 個月、要求 15％獲利分紅",
+      "url": "https://statementdog.com/news/17718",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T17:53:30+08:00",
+      "display_at": "2026-09-18T17:53:30+08:00",
+      "listed_at": "2026-10-29T11:25:00+08:00",
+      "last_checked_at": "2026-10-29T11:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0316",
