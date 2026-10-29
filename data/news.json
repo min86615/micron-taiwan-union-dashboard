@@ -1,89 +1,10 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T15:13:20.781239+08:00",
+    "generated_at": "2026-10-29T16:31:57.244080+08:00",
     "record_count": 692,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
-    {
-      "id": "news-0697",
-      "media": "Yahoo Finance / The Motley Fool",
-      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-union-taiwan-voted-99-074601054.html",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-29T12:00:00+08:00",
-      "listed_at": "2026-10-29T13:35:00+08:00",
-      "last_checked_at": "2026-10-29T13:35:00+08:00",
-      "language": "EN",
-      "topics": [
-        "工會／勞資",
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
-    {
-      "id": "news-0698",
-      "media": "Yahoo Finance / 24/7 Wall St.",
-      "title": "Micron Is Making Record Profits, But a Taiwan Union Just Voted 99% to Authorize a Strike",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-making-record-profits-taiwan-124558887.html",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-29T12:00:00+08:00",
-      "listed_at": "2026-10-29T13:35:00+08:00",
-      "last_checked_at": "2026-10-29T13:35:00+08:00",
-      "language": "EN",
-      "topics": [
-        "工會／勞資",
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
-    {
-      "id": "news-0693",
-      "media": "USTV (U-TV News)",
-      "title": "美光勞資協商達成共識！台中工會簽署協議、撤回明日調解程序",
-      "url": "http://news.ustv.com.tw/newsdetail/20261021A001018",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-29T12:00:00+08:00",
-      "listed_at": "2026-10-29T13:35:00+08:00",
-      "last_checked_at": "2026-10-29T13:35:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "勞資調解"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
-    {
-      "id": "news-0673",
-      "media": "Futu 牛牛圈新聞 (news.futunn.com)",
-      "title": "（標題未能取得：頁面回 403）",
-      "url": "https://news.futunn.com/post/1001781234/micron-s-labor-dispute-takes-a-turn-agreement-reached-with",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-29T12:00:00+08:00",
-      "listed_at": "2026-10-21",
-      "last_checked_at": "2026-10-29T09:25:00+08:00",
-      "language": "TW",
-      "topics": [
-        "美光產業"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
     {
       "id": "news-0662",
       "media": "Domino Theory",
@@ -504,25 +425,6 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-0624",
-      "media": "CMoney 股市爆料同學會",
-      "title": "三星、SK 海力士績效獎金高達 7 億韓元，台灣美光僅 1.5 億韓元……差距為何如此巨大？【半導體 Plus】",
-      "url": "https://www.cmoney.tw/forum/article/186739290",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-25T12:00:00+08:00",
-      "listed_at": "2026-10-25T09:10:05+08:00",
-      "last_checked_at": "2026-10-25T09:10:05+08:00",
-      "language": "TW",
-      "topics": [
-        "獎金／分紅"
-      ],
-      "status": "reported",
-      "source_type": "community",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-25 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
-    {
       "id": "news-0627",
       "media": "MarketersGo／賴傳媒",
       "title": "美光台中、桃園工會不同調！分潤協議惹議 27日勞資再協商",
@@ -613,6 +515,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0688",
+      "media": "Yahoo Finance／Barchart",
+      "title": "Micron’s Taiwan Unit Reached a Deal With the Taichung Union. Here’s What to Know.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-taiwan-unit-reached-deal-114520440.html",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T16:45:00+08:00",
+      "display_at": "2026-10-24T16:45:00+08:00",
+      "listed_at": "2026-10-29T11:25:00+08:00",
+      "last_checked_at": "2026-10-29T11:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.barchart.com/story/news/8406362/microns-taiwan-unit-reached-a-deal-with-the-taichung-union-heres-what-to-know"
+    },
+    {
       "id": "news-0645",
       "media": "The Manila Times / Agence France-Presse",
       "title": "Micron Taiwan workers reject bonus proposal",
@@ -632,23 +552,23 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-0688",
-      "media": "Yahoo Finance／Barchart",
-      "title": "Micron’s Taiwan Unit Reached a Deal With the Taichung Union. Here’s What to Know.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-taiwan-unit-reached-deal-114520440.html",
-      "published_date": null,
+      "id": "news-0624",
+      "media": "CMoney 股市爆料同學會",
+      "title": "三星、SK 海力士績效獎金高達 7 億韓元，台灣美光僅 1.5 億韓元……差距為何如此巨大？【半導體 Plus】",
+      "url": "https://www.cmoney.tw/forum/article/186739290",
+      "published_date": "2026-10-24",
       "published_at": null,
-      "display_at": "2026-10-24T06:45:00-05:00",
-      "listed_at": "2026-10-29T11:25:00+08:00",
-      "last_checked_at": "2026-10-29T11:25:00+08:00",
-      "language": "EN",
+      "display_at": "2026-10-24T12:00:00+08:00",
+      "listed_at": "2026-10-25T09:10:05+08:00",
+      "last_checked_at": "2026-10-25T09:10:05+08:00",
+      "language": "TW",
       "topics": [
-        "工會／勞資"
+        "獎金／分紅"
       ],
-      "status": "syndicated",
-      "source_type": "syndicated",
-      "duplicate_of": "https://www.barchart.com/story/news/8406362/microns-taiwan-unit-reached-a-deal-with-the-taichung-union-heres-what-to-know",
-      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+      "status": "reported",
+      "source_type": "community",
+      "duplicate_of": null,
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0631",
@@ -799,6 +719,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0690",
+      "media": "RTI",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=239464",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T17:05:00+08:00",
+      "display_at": "2026-10-23T17:05:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0605",
       "media": "聯合新聞網（中央社稿）",
       "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
@@ -815,25 +753,6 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
-    },
-    {
-      "id": "news-0690",
-      "media": "RTI",
-      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
-      "url": "https://www.rti.org.tw/news?uid=3&pid=239464",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-23T16:28:00+08:00",
-      "listed_at": "2026-10-29T13:35:00+08:00",
-      "last_checked_at": "2026-10-29T13:35:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "syndicated",
-      "source_type": "media",
-      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx",
-      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0604",
@@ -963,6 +882,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0696",
+      "media": "Gate News",
+      "title": "美光股價達 856 美元：桃園工會以 70% 的票數否決報價，談判延至 10 月 27 日",
+      "url": "https://gate.com/zh-tw/news/detail/MU/micron-stock-at-856-taoyuan-union-rejects-offer-by-70-talks-slip-to-27-25147948",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0684",
@@ -1211,24 +1149,6 @@
       "topics": [
         "工會／勞資",
         "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null
-    },
-    {
-      "id": "news-0696",
-      "media": "Gate News",
-      "title": "美光股價達 856 美元：桃園工會以 70% 的票數否決報價，談判延至 10 月 27 日",
-      "url": "https://gate.com/zh-tw/news/detail/MU/micron-stock-at-856-taoyuan-union-rejects-offer-by-70-talks-slip-to-27-25147948",
-      "published_date": "2026-10-23",
-      "published_at": "2026-10-23T07:03:08+00:00",
-      "display_at": "2026-10-23T07:03:08+00:00",
-      "listed_at": "2026-10-29T13:35:00+08:00",
-      "last_checked_at": "2026-10-29T13:35:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -2436,6 +2356,43 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0695",
+      "media": "U-Analyze",
+      "title": "勞資爭議現曙光！台灣美光與台中工會簽署協議 撤回10/22調解程序",
+      "url": "https://uanalyze.com.tw/articles/3651157515",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T17:06:00+08:00",
+      "display_at": "2026-10-21T17:06:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6634988"
+    },
+    {
+      "id": "news-0673",
+      "media": "Futu 牛牛圈新聞 (news.futunn.com)",
+      "title": "美光劳资纠纷峰回路转！称与台中工会已达成协议（财联社）",
+      "url": "https://news.futunn.com/post/1001781234/micron-s-labor-dispute-takes-a-turn-agreement-reached-with",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T16:27:00+08:00",
+      "display_at": "2026-10-21T16:27:00+08:00",
+      "listed_at": "2026-10-21",
+      "last_checked_at": "2026-10-29T09:25:00+08:00",
+      "language": "ZH",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0551",
       "media": "Yahoo News (Reuters)",
       "title": "Micron, Taiwan union sign deal, withdraw from mediation",
@@ -2453,6 +2410,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/"
+    },
+    {
+      "id": "news-0693",
+      "media": "USTV (U-TV News)",
+      "title": "美光勞資協商達成共識！台中工會簽署協議、撤回明日調解程序",
+      "url": "http://news.ustv.com.tw/newsdetail/20261021A001018",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T15:34:00+08:00",
+      "display_at": "2026-10-21T15:34:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0537",
@@ -2473,26 +2449,6 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
-    },
-    {
-      "id": "news-0695",
-      "media": "U-Analyze",
-      "title": "勞資爭議現曙光！台灣美光與台中工會簽署協議 撤回10/22調解程序",
-      "url": "https://uanalyze.com.tw/articles/3651157515",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-10-21T15:19:00+08:00",
-      "listed_at": "2026-10-29T13:35:00+08:00",
-      "last_checked_at": "2026-10-29T13:35:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資",
-        "勞資調解"
-      ],
-      "status": "syndicated",
-      "source_type": "media",
-      "duplicate_of": "https://news.cnyes.com/news/id/6634988",
-      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0694",
@@ -3542,6 +3498,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0697",
+      "media": "Yahoo Finance / The Motley Fool",
+      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-union-taiwan-voted-99-074601054.html",
+      "published_date": "2026-10-19",
+      "published_at": null,
+      "display_at": "2026-10-19T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0507",
       "media": "台灣中評網",
       "title": "台灣中評網：台美光將罷工？林哲瑞：海外員工聲援爭分潤",
@@ -4416,11 +4392,31 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0698",
+      "media": "Yahoo Finance / 24/7 Wall St.",
+      "title": "Micron Is Making Record Profits, But a Taiwan Union Just Voted 99% to Authorize a Strike",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-making-record-profits-taiwan-124558887.html",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0492",
       "media": "Pocket Securities / Pocket School",
       "title": "台灣美光工會99%投票支持罷工，記憶體供應怎麼看？",
       "url": "https://www.pocket.tw/school/articles/8091/",
-      "published_date": null,
+      "published_date": "2026-10-08",
       "published_at": null,
       "display_at": "2026-10-08T12:00:00+08:00",
       "listed_at": "2026-10-19T01:07:35+08:00",
@@ -4434,7 +4430,7 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null,
-      "display_time_note": "原始發布時間未標示；依來源頁面明示更新日 2026-10-08 作排序參考，12:00（台北時間）為估值，非原始發布時間。",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。",
       "updated_date_note": "原文頁面顯示更新於 2026-10-08；原始發布日期未標示。"
     },
     {
