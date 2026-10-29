@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T09:38:04.276029+08:00",
-    "record_count": 674,
+    "generated_at": "2026-10-29T09:41:01.999693+08:00",
+    "record_count": 675,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0673",
+      "media": "Futu 牛牛圈新聞 (news.futunn.com)",
+      "title": "（標題未能取得：頁面回 403）",
+      "url": "https://news.futunn.com/post/1001781234/micron-s-labor-dispute-takes-a-turn-agreement-reached-with",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-21",
+      "last_checked_at": "2026-10-29T09:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0662",
       "media": "Domino Theory",
