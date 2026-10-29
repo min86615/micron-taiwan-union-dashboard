@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T21:22:55.857015+08:00",
-    "record_count": 723,
+    "generated_at": "2026-10-29T23:32:44.737024+08:00",
+    "record_count": 733,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -120,6 +120,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0738",
+      "media": "TradingView 新聞（cnYES 鉅亨）",
+      "title": "美光勞資協議爆無效？勞部：一般契約不受3年限制 若不服可循司法途徑",
+      "url": "https://tw.tradingview.com/news/cnyes:e34a66e76acdf:0/",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T20:28:00+08:00",
+      "display_at": "2026-10-28T20:28:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6639817"
     },
     {
       "id": "news-0689",
@@ -1880,6 +1898,45 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0733",
+      "media": "工商時報",
+      "title": "美光桃園勞資協商未果 工會宣布今罷工24小時",
+      "url": "https://www.ctee.com.tw/news/20261022700504-430501",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0735",
+      "media": "中國時報／旺得富理財網",
+      "title": "《科技》桃園工會協商未達共識 美光盼續協商",
+      "url": "https://wantrich.chinatimes.com/news/20261022900060-420501",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0709",
       "media": "搜狐（編譯彙整）",
       "title": "美光台湾工厂因利润分成争议将于10月22日罢工",
@@ -2979,6 +3036,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0734",
+      "media": "中國時報／旺得富理財網",
+      "title": "《科技》台灣美光、台中工會簽勞資協議 續與桃園工會溝通",
+      "url": "https://wantrich.chinatimes.com/news/20261021900364-420101",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0714",
       "media": "中央社記者",
       "title": "美光與台中工會達成多項共識 簽署勞資協議",
@@ -3499,6 +3575,46 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0740",
+      "media": "鉅亨網 hao.cnyes（半導體芯聞，據路透社）",
+      "title": "美光台灣工廠宣佈罷工，HBM供應鏈再添變數",
+      "url": "https://hao.cnyes.com/post/273395",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0739",
+      "media": "Futu 新聞（Zhitong Finance／智通財經）",
+      "title": "As Micron's stock rebounds, the Taoyuan union is planning a strike! AI storage chip deliveries are now under scrutiny.",
+      "url": "https://news.futunn.com/en/post/1001638264/as-micron-s-stock-rebounds-the-taoyuan-union-is-planning",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0720",
@@ -6420,6 +6536,25 @@
       "duplicate_of": "https://technews.tw/2026/09/29/memory-winbond/"
     },
     {
+      "id": "news-0736",
+      "media": "中國時報／旺得富理財網",
+      "title": "華邦電豪發現金 美光罷工投票 拒百萬爭分潤",
+      "url": "https://wantrich.chinatimes.com/news/20261002900098-420101",
+      "published_date": "2026-10-02",
+      "published_at": null,
+      "display_at": "2026-10-02T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0711",
       "media": "CHIPS Communities United（工會聯盟聲明）",
       "title": "CHIPS Communities United Supports Micron Workers in Taiwan",
@@ -7623,6 +7758,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0732",
+      "media": "工商時報（转载自中央社）",
+      "title": "美光與工會首次調解談3議題 10月22日續會、公司承諾不秋後算帳",
+      "url": "https://www.ctee.com.tw/news/20260919700427-430502",
+      "published_date": "2026-09-19",
+      "published_at": null,
+      "display_at": "2026-09-19T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202609190065.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0715",
@@ -12658,6 +12813,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0731",
+      "media": "TechNews 科技新報",
+      "title": "工會醞釀罷工！台灣美光聲明 10 月公布歷年最高績效獎金",
+      "url": "https://finance.technews.tw/2026-09-01/micron-taiwan-announced-that-it-will-announce-its-highest-performance-bonus-in-history-this-october",
+      "published_date": "2026-09-01",
+      "published_at": "2026-09-01T17:15:00+08:00",
+      "display_at": "2026-09-01T17:15:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0002",
       "media": "自由財經",
       "title": "台灣廠區陷罷工危機 美光：今年績效獎金將創歷年最高",
@@ -13912,6 +14087,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0737",
+      "media": "NOWnews（中央社）",
+      "title": "美光聲請停止工會理事長復職 最高行政法院駁回",
+      "url": "https://www.nownews.com/news/3048678",
+      "published_date": "2018-11-03",
+      "published_at": null,
+      "display_at": "2018-11-03T12:00:00+08:00",
+      "listed_at": "2026-10-29T23:20:00+08:00",
+      "last_checked_at": "2026-10-29T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     }
   ]
 }
