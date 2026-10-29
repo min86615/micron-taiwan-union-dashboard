@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-30T01:09:31.122543+08:00",
-    "record_count": 739,
+    "generated_at": "2026-10-30T03:24:18.488212+08:00",
+    "record_count": 746,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,46 @@
       "language": "EN",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-30 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0753",
+      "media": "silicon.co.uk",
+      "title": "One Micron Taiwan Union To Stage Strike, As Another Signs Deal",
+      "url": "https://www.silicon.co.uk/cloud/ai/micron-union-631979",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-30 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0754",
+      "media": "TradingKey（日本語版）",
+      "title": "マイクロンが台中労組と合意も、桃園労組は予定通り24時間のストライキを実施",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262231170-micron-taichung-plant-union-agreement-taoyuan-union-24-hour-strike-tradingkey",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -1957,6 +1997,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0750",
+      "media": "NNA POWER ASIA（雇用・労務）",
+      "title": "マイクロン台中労組、労使協定締結",
+      "url": "https://www.nna.jp/news/2979870",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0743",
       "media": "經濟日報 / UDN",
       "title": "經濟部樂見美光與台中工會達成協議 盼桃園廠續協商",
@@ -3114,6 +3173,27 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0751",
+      "media": "MK 한국어->日本語판（매경／ロイター轉載）",
+      "title": "「三星、ハニックのように成果給を要求」マイクロン台湾労組もスト",
+      "url": "https://www.mk.co.kr/jp/world/12181509",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0734",
       "media": "中國時報／旺得富理財網",
       "title": "《科技》台灣美光、台中工會簽勞資協議 續與桃園工會溝通",
@@ -3653,6 +3733,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0749",
+      "media": "同花順 10jqka（zh-CN）",
+      "title": "美光(MU.US)股价反弹之际，桃园工会计划罢工! AI存储芯片交付迎来考验",
+      "url": "https://m.10jqka.com.cn/20261020/c680898709.shtml",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0740",
@@ -4528,6 +4627,26 @@
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
     },
     {
+      "id": "news-0752",
+      "media": "Newsweek Japan（ロイター轉載）",
+      "title": "台湾総統、マイクロン労使に誠実な交渉要請 スト実施の可能性で",
+      "url": "https://www.newsweekjapan.jp/articles/-/337026",
+      "published_date": "2026-10-15",
+      "published_at": null,
+      "display_at": "2026-10-15T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/15/taiwan-s-lai-calls-for-micron-workers-to-negotiate-sincerely-ahead-of-possible-strike",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0491",
       "media": "Reuters Japan",
       "title": "台湾総統、マイクロン労使に誠実な交渉要請　スト実施の可能性で",
@@ -5062,6 +5181,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0748",
+      "media": "IEK 產業情報網（產科國際所）",
+      "title": "近9成會員同意 美光桃園工會 取得罷工權",
+      "url": "https://ieknet.iek.org.tw/ieknews/news_more.aspx?actiontype=ieknews&indu_idno=1&nsl_id=9269cc8e21634df8b05be69c53125421",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-10-30T03:40:00+08:00",
+      "last_checked_at": "2026-10-30T03:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0746",
