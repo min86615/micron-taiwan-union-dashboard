@@ -1,10 +1,70 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T11:27:28.097699+08:00",
-    "record_count": 682,
+    "generated_at": "2026-10-29T13:23:08.605007+08:00",
+    "record_count": 691,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0697",
+      "media": "Yahoo Finance / The Motley Fool",
+      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-union-taiwan-voted-99-074601054.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0698",
+      "media": "Yahoo Finance / 24/7 Wall St.",
+      "title": "Micron Is Making Record Profits, But a Taiwan Union Just Voted 99% to Authorize a Strike",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-making-record-profits-taiwan-124558887.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0693",
+      "media": "USTV (U-TV News)",
+      "title": "美光勞資協商達成共識！台中工會簽署協議、撤回明日調解程序",
+      "url": "http://news.ustv.com.tw/newsdetail/20261021A001018",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0673",
       "media": "Futu 牛牛圈新聞 (news.futunn.com)",
@@ -37,6 +97,24 @@
       "language": "EN",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0689",
+      "media": "Cnyes (Cnaea)",
+      "title": "美光劳资协议爆无效？劳部：一般契约不受3年限制 若不服可循司法途径",
+      "url": "https://news.cnyes.com/news/id/6639817",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T20:28:00+08:00",
+      "display_at": "2026-10-28T20:28:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -739,6 +817,25 @@
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
     },
     {
+      "id": "news-0690",
+      "media": "RTI",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=239464",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-23T16:28:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
       "id": "news-0604",
       "media": "中央社（CNA）",
       "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
@@ -1114,6 +1211,24 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0696",
+      "media": "Gate News",
+      "title": "美光股價達 856 美元：桃園工會以 70% 的票數否決報價，談判延至 10 月 27 日",
+      "url": "https://gate.com/zh-tw/news/detail/MU/micron-stock-at-856-taoyuan-union-rejects-offer-by-70-talks-slip-to-27-25147948",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T07:03:08+00:00",
+      "display_at": "2026-10-23T07:03:08+00:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -1597,6 +1712,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0691",
+      "media": "Epoch Times (Taiwan)",
+      "title": "回应工会诉求 美光祭出新奖金制度",
+      "url": "https://www.epochtimes.com/gb/26/10/22/n14874804.htm",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0668",
@@ -2334,6 +2468,45 @@
       "topics": [
         "工會／勞資",
         "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0695",
+      "media": "U-Analyze",
+      "title": "勞資爭議現曙光！台灣美光與台中工會簽署協議 撤回10/22調解程序",
+      "url": "https://uanalyze.com.tw/articles/3651157515",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-21T15:19:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-0694",
+      "media": "Cnyes",
+      "title": "勞資爭議現曙光！台灣美光與台中工會簽署協議 撤回10/22調解程序",
+      "url": "https://m.cnyes.com/news/id/6634988",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T15:19:00+08:00",
+      "display_at": "2026-10-21T15:19:00+08:00",
+      "listed_at": "2026-10-29T13:35:00+08:00",
+      "last_checked_at": "2026-10-29T13:35:00+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
         "勞資調解"
       ],
       "status": "reported",
