@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T16:31:57.244080+08:00",
-    "record_count": 692,
+    "generated_at": "2026-10-29T17:25:22.748776+08:00",
+    "record_count": 698,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -884,6 +884,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0703",
+      "media": "HK CNS / 香港中通社",
+      "title": "美光科技台湾桃园工会罢工 要求提高利润分红",
+      "url": "https://www.hkcna.hk/cn/content/s6adac2b0e4b0e4e6f3d63b5a.html",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-10-29T17:01:06+08:00",
+      "last_checked_at": "2026-10-29T17:01:06+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0696",
       "media": "Gate News",
       "title": "美光股價達 856 美元：桃園工會以 70% 的票數否決報價，談判延至 10 月 27 日",
@@ -1632,6 +1651,64 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0705",
+      "media": "KSL (Reuters wire reprint)",
+      "title": "Micron introduces quarterly employee bonus tied to profits",
+      "url": "https://www.ksl.com/article/51639528/micron-introduces-quarterly-employee-bonus-tied-to-profits",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T17:01:06+08:00",
+      "last_checked_at": "2026-10-29T17:01:06+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0701",
+      "media": "HR Katha",
+      "title": "Micron introduces global profit-linked bonus plan after union pressure",
+      "url": "https://www.hrkatha.com/news/micron-introduces-global-profit-linked-bonus-plan-after-union-pressure/",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T17:01:06+08:00",
+      "last_checked_at": "2026-10-29T17:01:06+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0700",
+      "media": "ETtoday Finance",
+      "title": "美光桃園廠今早9點罷工！ 分潤協商破局",
+      "url": "https://finance.ettoday.net/news/3258863",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-29T17:01:06+08:00",
+      "last_checked_at": "2026-10-29T17:01:06+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0691",
@@ -2600,6 +2677,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0702",
+      "media": "CFM 闪存市场 (ChinaFlashMarket)",
+      "title": "美光与台中工会签署协议撤回调解程序，桃园工会持续沟通",
+      "url": "https://www.chinaflashmarket.com/newsflash/39127",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-29T17:01:06+08:00",
+      "last_checked_at": "2026-10-29T17:01:06+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0681",
       "media": "WTAQ（Reuters 同稿）",
       "title": "Micron, Taiwan union sign deal, withdraw from mediation",
@@ -3082,6 +3178,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0704",
+      "media": "Lufkin Daily News (Reuters wire reprint)",
+      "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+      "url": "https://lufkindailynews.com/news_reuters/business/micron-union-in-taiwan-to-launch-one-day-strike-as-bonus-dispute-escalates/article_27be6e0b-6b95-5cb5-8e30-fd6d86ba86e8.html",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-29T17:01:06+08:00",
+      "last_checked_at": "2026-10-29T17:01:06+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0699",
