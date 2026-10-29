@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T19:44:57.945609+08:00",
-    "record_count": 717,
+    "generated_at": "2026-10-29T19:50:56.574200+08:00",
+    "record_count": 718,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0725",
+      "media": "Futu News",
+      "title": "Micron's earnings report was a bombshell, yet its stock has been volatile: the memory supercycle is far from peaking",
+      "url": "https://news.futunn.com/en/post/1000481555/micron-s-earnings-report-was-a-bombshell-yet-its-stock",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-29T12:00:00+08:00",
+      "listed_at": "2026-10-29T19:38:00+08:00",
+      "last_checked_at": "2026-10-29T19:38:00+08:00",
+      "language": "EN",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "market_analysis",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-29 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0724",
       "media": "自由財經（Liberty Times Finance）",
