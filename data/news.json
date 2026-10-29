@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-29T13:25:48.579895+08:00",
-    "record_count": 691,
+    "generated_at": "2026-10-29T15:13:20.781239+08:00",
+    "record_count": 692,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3126,6 +3126,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0699",
+      "media": "ETtoday Finance",
+      "title": "記憶體美光桃園聲援罷工1天！ 勞資糾紛利空夜盤下挫",
+      "url": "https://finance.ettoday.net/news/3257778",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-29T15:20:00+08:00",
+      "last_checked_at": "2026-10-29T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0525",
