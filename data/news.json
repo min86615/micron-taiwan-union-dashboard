@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-31T05:12:00.828821+08:00",
-    "record_count": 787,
+    "generated_at": "2026-10-31T07:09:29.456462+08:00",
+    "record_count": 788,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -33,6 +33,24 @@
       "display_at": "2026-10-30T17:58:38+08:00",
       "listed_at": "2026-10-31T01:13:24.584693+08:00",
       "last_checked_at": "2026-10-31T01:13:24.584693+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0797",
+      "media": "Liberty Times Finance (自由財經)",
+      "title": "台灣美光員工獎酬入帳！逾700名產線員工全年薪酬達60個月以上",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5624144",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T17:38:37+08:00",
+      "display_at": "2026-10-30T17:38:37+08:00",
+      "listed_at": "2026-10-31T07:09:06.686777+08:00",
+      "last_checked_at": "2026-10-31T07:09:06.686777+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
