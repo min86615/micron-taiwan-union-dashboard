@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-31T01:13:44.474428+08:00",
-    "record_count": 785,
+    "generated_at": "2026-10-31T03:09:31.938695+08:00",
+    "record_count": 786,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0795",
+      "media": "Storm Media / 風傳媒",
+      "title": "台灣美光獎酬揭曉，百萬元感謝獎金今入帳！逾700線上員工全年薪酬超過60個月",
+      "url": "https://www.storm.mg/article/11177237",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T20:58:00+08:00",
+      "display_at": "2026-10-30T20:58:00+08:00",
+      "listed_at": "2026-10-31T03:07:53+08:00",
+      "last_checked_at": "2026-10-31T03:07:53+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0794",
       "media": "China Times (中時新聞網)",
@@ -381,7 +399,7 @@
       "published_at": "2026-10-28T20:26:09+08:00",
       "display_at": "2026-10-28T20:26:09+08:00",
       "listed_at": "2026-10-28T23:17:20+08:00",
-      "last_checked_at": "2026-10-28T23:17:20+08:00",
+      "last_checked_at": "2026-10-31T03:09:31+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
