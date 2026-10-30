@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-30T23:15:02.203415+08:00",
-    "record_count": 784,
+    "generated_at": "2026-10-31T01:13:44.474428+08:00",
+    "record_count": 785,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0794",
+      "media": "China Times (中時新聞網)",
+      "title": "羨慕嗎？台灣美光獎金入帳 700名產線員工薪酬破60個月",
+      "url": "https://www.chinatimes.com/realtimenews/20261030003611-260410",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T17:58:38+08:00",
+      "display_at": "2026-10-30T17:58:38+08:00",
+      "listed_at": "2026-10-31T01:13:24.584693+08:00",
+      "last_checked_at": "2026-10-31T01:13:24.584693+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0793",
       "media": "ad-hoc-news.de (boerse-global.de editorial)",
