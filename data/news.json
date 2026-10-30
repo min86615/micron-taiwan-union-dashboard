@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-30T09:26:52.274635+08:00",
-    "record_count": 765,
+    "generated_at": "2026-10-30T11:10:46.221555+08:00",
+    "record_count": 768,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3927,6 +3927,46 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0777",
+      "media": "Quartz (Reuters-sourced)",
+      "title": "Micron workers in Taiwan will strike Thursday over profit-sharing dispute",
+      "url": "https://qz.com/micron-taiwan-union-strike-profit-sharing-102026",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-30T11:45:00+08:00",
+      "last_checked_at": "2026-10-30T11:45:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0776",
+      "media": "Futu news flash (MT Newswires/Reuters wire)",
+      "title": "美光科技(MU.O)在中國臺灣桃園的工會表示，將於週四發起罷工。",
+      "url": "https://news.futunn.com/hk/flash/1001595112/the-labor-union-at-micron-technology-s-muo-facility-in",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-30T11:45:00+08:00",
+      "last_checked_at": "2026-10-30T11:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0772",
@@ -10164,6 +10204,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0775",
+      "media": "工商時報",
+      "title": "平息台灣罷工爭議？ 美光祭史上最高員工獎酬",
+      "url": "https://www.ctee.com.tw/news/20260912700074-439901",
+      "published_date": "2026-09-12",
+      "published_at": null,
+      "display_at": "2026-09-12T12:00:00+08:00",
+      "listed_at": "2026-10-30T11:45:00+08:00",
+      "last_checked_at": "2026-10-30T11:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0243",
