@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-30T07:13:09.856727+08:00",
-    "record_count": 759,
+    "generated_at": "2026-10-30T09:26:52.274635+08:00",
+    "record_count": 765,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,26 @@
       "language": "EN",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-30 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0773",
+      "media": "自由時報（紙本）",
+      "title": "美光史上最高獎酬》工會不買單喊罷工 業界憂衝擊供應鏈缺口",
+      "url": "https://ec.ltn.com.tw/article/paper/1770300",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-10-30T09:12:00+08:00",
+      "last_checked_at": "2026-10-30T09:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -2056,6 +2076,44 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0774",
+      "media": "自由時報／自由財經",
+      "title": "美光大調薪與台中工會達共識 經部肯定勞資雙贏",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5616001",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-30T09:12:00+08:00",
+      "last_checked_at": "2026-10-30T09:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0769",
+      "media": "联合早报网（ZaoChenBao mirror）",
+      "title": "美光桃园厂员工发动24小时罢工 要求提高利润分红",
+      "url": "https://www.zaochenbao.com/news/taiwan/202610/2283918.html",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-10-30T09:12:00+08:00",
+      "last_checked_at": "2026-10-30T09:12:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.zaobao.com.sg/news/china/story20261022-9876814",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0763",
       "media": "매일경제 MK JP",
       "title": "「サムスン電子とSKハイニックスが世界の労組に韓国式ボーナスを大盤振る舞い」…台湾のマイクロン・テクノロジーでもスト",
@@ -3869,6 +3927,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0772",
+      "media": "Yahoo Finance HK / cnyes reprint",
+      "title": "台灣美光罷工危機升溫！台中桃園兩廠工會同步動員 22日迎關鍵調解",
+      "url": "https://hk.finance.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%BE%8E%E5%85%89%E7%BD%B7%E5%B7%A5%E5%8D%B1%E6%A9%9F%E5%8D%87%E6%BA%AB-%E5%8F%B0%E4%B8%AD%E6%A1%83%E5%9C%92%E5%85%A9%E5%BB%A0%E5%B7%A5%E6%9C%83%E5%90%8C%E6%AD%A5%E5%8B%95%E5%93%A1-22%E6%97%A5%E8%BF%8E%E9%97%9C%E9%8D%B5%E8%AA%BF%E8%A7%A3-031448723.html",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-10-30T09:25:00+08:00",
+      "last_checked_at": "2026-10-30T09:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://m.cnyes.com/news/id/6634036",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0749",
@@ -6910,6 +6989,45 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0771",
+      "media": "BigGo Finance (JP)",
+      "title": "マイクロン台湾労組、ボーナス紛争でスト権確立",
+      "url": "https://finance.biggo.jp/news/408201ed-47f8-4d26-8860-354ec25e66f0",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T10:35:47+00:00",
+      "display_at": "2026-10-07T10:35:47+00:00",
+      "listed_at": "2026-10-30T09:12:00+08:00",
+      "last_checked_at": "2026-10-30T09:12:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://finance.biggo.com/news/408201ed-47f8-4d26-8860-354ec25e66f0"
+    },
+    {
+      "id": "news-0770",
+      "media": "BigGo Finance (EN)",
+      "title": "Micron's Taiwan Workforce Gains Strike Mandate Amid Bonus Dispute",
+      "url": "https://finance.biggo.com/news/408201ed-47f8-4d26-8860-354ec25e66f0",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T10:35:47+00:00",
+      "display_at": "2026-10-07T10:35:47+00:00",
+      "listed_at": "2026-10-30T09:12:00+08:00",
+      "last_checked_at": "2026-10-30T09:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0426",
