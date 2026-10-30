@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-30T11:10:46.221555+08:00",
-    "record_count": 768,
+    "generated_at": "2026-10-30T13:19:17.576583+08:00",
+    "record_count": 771,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3367,6 +3367,45 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0780",
+      "media": "Quartz (qz.com) Spanish",
+      "title": "Micron llegó a un acuerdo laboral con su sindicato de Taichung en Taiwán, cancelando la mediación.",
+      "url": "https://es.qz.com/micron-taichung-union-acuerdo-laboral-mediacin-102126",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-30T13:26:00+08:00",
+      "last_checked_at": "2026-10-30T13:26:00+08:00",
+      "language": "ES",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://qz.com/micron-taichung-union-labor-deal-mediation-102126",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0778",
+      "media": "KWSN / Reuters",
+      "title": "Micron, Taiwan union sign deal, withdraw from mediation",
+      "url": "https://kwsn.com/2026-10-21/micron-says-it-has-reached-agreement-with-taiwan-union",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-10-30T13:26:00+08:00",
+      "last_checked_at": "2026-10-30T13:26:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0751",
       "media": "MK 한국어->日本語판（매경／ロイター轉載）",
       "title": "「三星、ハニックのように成果給を要求」マイクロン台湾労組もスト",
@@ -6569,6 +6608,27 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0779",
+      "media": "Yahoo Finance Japan / Reuters",
+      "title": "米マイクロン、台湾で労使対立激化 賞与制度巡り労組スト承認",
+      "url": "https://finance.yahoo.co.jp/news/detail/67219c2e4e3e1976752e650ccfcbfef8ab08ef62",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-10-30T13:26:00+08:00",
+      "last_checked_at": "2026-10-30T13:26:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0717",
