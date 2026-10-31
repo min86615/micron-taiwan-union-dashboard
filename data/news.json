@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-10-31T17:14:25.778231+08:00",
-    "record_count": 790,
+    "generated_at": "2026-11-01T05:09:04.291672+08:00",
+    "record_count": 791,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0800",
+      "media": "工商時報 / China Times",
+      "title": "美光獎酬入袋 700人年薪逾60個月",
+      "url": "https://www.chinatimes.com/newspapers/20261031000281-260202",
+      "published_date": "2026-10-31",
+      "published_at": "2026-10-31T04:10:00+08:00",
+      "display_at": "2026-10-31T04:10:00+08:00",
+      "listed_at": "2026-11-01T03:10:57+08:00",
+      "last_checked_at": "2026-11-01T03:10:57+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0795",
       "media": "Storm Media / 風傳媒",
@@ -86,7 +104,7 @@
       "published_at": null,
       "display_at": "2026-10-30T12:00:00+08:00",
       "listed_at": "2026-10-31T15:12:50.287086+08:00",
-      "last_checked_at": "2026-10-31T15:12:50.287086+08:00",
+      "last_checked_at": "2026-11-01T05:08:53+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -454,7 +472,7 @@
       "published_at": "2026-10-28T20:26:09+08:00",
       "display_at": "2026-10-28T20:26:09+08:00",
       "listed_at": "2026-10-28T23:17:20+08:00",
-      "last_checked_at": "2026-10-31T03:09:31+08:00",
+      "last_checked_at": "2026-11-01T05:08:53+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -7651,7 +7669,7 @@
       "published_at": null,
       "display_at": "2026-10-02T12:00:00+08:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-10-31T13:11:33.392552+08:00",
+      "last_checked_at": "2026-11-01T05:08:53+08:00",
       "language": "EN",
       "topics": [
         "罷工"
