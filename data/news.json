@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-10-31T15:13:49.639220+08:00",
+    "generated_at": "2026-10-31T17:14:25.778231+08:00",
     "record_count": 790,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -50,7 +50,7 @@
       "published_at": "2026-10-30T17:38:37+08:00",
       "display_at": "2026-10-30T17:38:37+08:00",
       "listed_at": "2026-10-31T07:09:06.686777+08:00",
-      "last_checked_at": "2026-10-31T07:09:06.686777+08:00",
+      "last_checked_at": "2026-10-31T17:14:09.498743+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -1289,7 +1289,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
     },
     {
       "id": "news-0605",
@@ -1548,7 +1548,7 @@
       "topics": [
         "工會／勞資"
       ],
-      "status": "syndicated",
+      "status": "reported",
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
@@ -2550,7 +2550,7 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated",
-      "duplicate_of": null,
+      "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
@@ -4098,7 +4098,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262228642-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey"
     },
     {
       "id": "news-0534",
@@ -4980,7 +4980,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null,
+      "duplicate_of": "https://www.fool.com/investing/2026-10-19/a-micron-union-in-taiwan-voted-99-to-authorize-a-strike-should-you-sell-the-stock/",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
@@ -5973,7 +5973,7 @@
       ],
       "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null,
+      "duplicate_of": "https://247wallst.com/investing/2026-10-08/micron-is-making-record-profits-but-a-taiwan-union-just-voted-99-to-authorize-a-strike/",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
