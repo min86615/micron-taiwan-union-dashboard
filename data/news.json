@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-10-31T07:09:29.456462+08:00",
-    "record_count": 788,
+    "generated_at": "2026-10-31T11:10:14.176741+08:00",
+    "record_count": 789,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -52,6 +52,24 @@
       "listed_at": "2026-10-31T07:09:06.686777+08:00",
       "last_checked_at": "2026-10-31T07:09:06.686777+08:00",
       "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0798",
+      "media": "Chip Dispatch",
+      "title": "Micron Pays 700 Taiwan Workers Bonuses Worth Five Years of Salary",
+      "url": "https://chipdispatch.com/articles/micron-pays-700-taiwan-workers-bonuses-worth-five-years-of-salary",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T15:36:08.279337+00:00",
+      "display_at": "2026-10-30T15:36:08.279337+00:00",
+      "listed_at": "2026-10-31T11:10:10.866978+08:00",
+      "last_checked_at": "2026-10-31T11:10:10.866978+08:00",
+      "language": "EN",
       "topics": [
         "獎金／分紅"
       ],
