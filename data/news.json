@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-01T17:10:12.610221+08:00",
-    "record_count": 795,
+    "generated_at": "2026-11-01T21:26:33.088506+08:00",
+    "record_count": 796,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -311,6 +311,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-10-30 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0808",
+      "media": "Yahoo Finance / Tom's Hardware",
+      "title": "5 years’ worth of salary in bonuses given to 700 eligible Micron workers as company continues to battle union",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-years-worth-salary-bonuses-114403177.html",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T11:44:03+00:00",
+      "display_at": "2026-10-30T11:44:03+00:00",
+      "listed_at": "2026-11-01T21:26:12.075997+08:00",
+      "last_checked_at": "2026-11-01T21:26:12.075997+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tomshardware.com/tech-industry/semiconductors/5-years-worth-of-salary-in-bonuses-given-to-700-eligible-micron-workers-as-company-continues-to-battle-union-more-than-4-300-production-line-staff-to-receive-three-bonuses-of-more-than-usd31-000-plus-quarterly-profit-bonuses-starting-next-year"
     },
     {
       "id": "news-0796",
