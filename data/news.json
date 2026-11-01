@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-01T13:12:29.456610+08:00",
-    "record_count": 792,
+    "generated_at": "2026-11-01T15:11:59.603632+08:00",
+    "record_count": 794,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0804",
+      "media": "TechNews",
+      "title": "同公司兩樣情！台中簽密約、桃園拉布條，解析美光勞資角力的三方算計 | TechNews 科技新報",
+      "url": "https://finance.technews.tw/2026/11/01/taiwan-semiconductor-industry-first-legal-strike-11-protestors-micron-negotiations-stalled/",
+      "published_date": "2026-11-01",
+      "published_at": null,
+      "display_at": "2026-11-01T12:00:00+08:00",
+      "listed_at": "2026-11-01T15:11:22.171246+08:00",
+      "last_checked_at": "2026-11-01T15:11:22.171246+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.businessweekly.com.tw/focus/blog/3023482",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0800",
       "media": "工商時報 / China Times",
@@ -752,6 +771,25 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0805",
+      "media": "Domino Theory",
+      "title": "Micron Wage Negotiations in Taiwan Stall as U.S. Memory Chip Maker Fails to Address Union Demands - Domino Theory",
+      "url": "https://dominotheory.com/micron-wage-negotiations-in-taiwan-stall-as-u-s-memory-chip-maker-fails-to-address-union-demands/",
+      "published_date": "2026-10-27",
+      "published_at": "2026-10-27T12:54:45+00:00",
+      "display_at": "2026-10-27T12:54:45+00:00",
+      "listed_at": "2026-11-01T15:11:22.171246+08:00",
+      "last_checked_at": "2026-11-01T15:11:22.171246+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
@@ -7687,7 +7725,7 @@
       "published_at": null,
       "display_at": "2026-10-02T12:00:00+08:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-11-01T05:08:53+08:00",
+      "last_checked_at": "2026-11-01T15:11:22.171246+08:00",
       "language": "EN",
       "topics": [
         "罷工"
