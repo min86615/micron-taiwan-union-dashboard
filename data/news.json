@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-01T07:08:15.506262+08:00",
-    "record_count": 791,
+    "generated_at": "2026-11-01T13:12:29.456610+08:00",
+    "record_count": 792,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -50,7 +50,7 @@
       "published_at": "2026-10-30T17:58:38+08:00",
       "display_at": "2026-10-30T17:58:38+08:00",
       "listed_at": "2026-10-31T01:13:24.584693+08:00",
-      "last_checked_at": "2026-10-31T01:13:24.584693+08:00",
+      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -94,6 +94,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0801",
+      "media": "Commercial Times (CTEE) / China Times Group",
+      "title": "羨慕嗎？台灣美光獎金入帳 700名產線員工薪酬破60個月",
+      "url": "https://www.ctee.com.tw/news/20261030701801-430503",
+      "published_date": "2026-10-30",
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-11-01T13:12:09.748837+08:00",
+      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261030003611-260410",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0799",
@@ -711,7 +730,7 @@
       "published_at": "2026-10-27T18:31:00+08:00",
       "display_at": "2026-10-27T18:31:00+08:00",
       "listed_at": "2026-10-28T03:05:18+08:00",
-      "last_checked_at": "2026-10-31T13:11:33.392552+08:00",
+      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -4088,7 +4107,7 @@
       "published_at": "2026-10-21T10:33:00+08:00",
       "display_at": "2026-10-21T10:33:00+08:00",
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-11-01T07:08:15+08:00",
+      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -6940,7 +6959,7 @@
       "published_at": "2026-10-07T13:55:05+08:00",
       "display_at": "2026-10-07T13:55:05+08:00",
       "listed_at": "2026-10-07T17:16:15+08:00",
-      "last_checked_at": "2026-10-19T11:16:57+08:00",
+      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -7591,7 +7610,7 @@
       "published_at": "2026-10-02T15:06:14+08:00",
       "display_at": "2026-10-02T15:06:14+08:00",
       "listed_at": "2026-10-06T21:30:56+08:00",
-      "last_checked_at": "2026-10-06T21:30:56+08:00",
+      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
