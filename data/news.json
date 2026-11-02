@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-03T01:16:55.387456+08:00",
-    "record_count": 797,
+    "generated_at": "2026-11-03T05:07:14.391264+08:00",
+    "record_count": 798,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3460,6 +3460,25 @@
       "language": "EN",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0810",
+      "media": "公視新聞網 PNN",
+      "title": "未與資方達成協議 美光桃園工會明罷工一天",
+      "url": "https://news.pts.org.tw/article/832377",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T19:58:33+08:00",
+      "display_at": "2026-10-21T19:58:33+08:00",
+      "listed_at": "2026-11-03T05:07:11+08:00",
+      "last_checked_at": "2026-11-03T05:07:11+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
