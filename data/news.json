@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-03T17:14:00.448859+08:00",
-    "record_count": 806,
+    "generated_at": "2026-11-03T21:31:01.828526+08:00",
+    "record_count": 809,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0823",
+      "media": "Newtalk (新頭殼)",
+      "title": "美光員工遞陳情書、抗議協議程序瑕疵 中科管理局：於法有據、尊重內部民主",
+      "url": "https://newtalk.tw/news/view/2026-11-03/1069032",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T17:29:31+08:00",
+      "display_at": "2026-11-03T17:29:31+08:00",
+      "listed_at": "2026-11-03T21:28:05+08:00",
+      "last_checked_at": "2026-11-03T21:28:05+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0819",
       "media": "China Times (工商)",
@@ -54,6 +72,43 @@
       "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
       "language": "TW",
       "topics": [
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0824",
+      "media": "Commercial Times (CTEE)",
+      "title": "美光調解突撤案惹議！基層員工怒衝中科管理局討真相",
+      "url": "https://www.ctee.com.tw/news/20261103701448-431401",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T15:06:00+08:00",
+      "display_at": "2026-11-03T15:06:00+08:00",
+      "listed_at": "2026-11-03T21:28:05+08:00",
+      "last_checked_at": "2026-11-03T21:28:05+08:00",
+      "language": "TW",
+      "topics": [
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261103003125-260405"
+    },
+    {
+      "id": "news-0822",
+      "media": "TaiSounds (太報)",
+      "title": "桃市產總控美光台中工會調解未經程序撤案！中科管理局：已達成勞資協議、於法有據",
+      "url": "https://www.taisounds.com/news/content/76/297623",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T14:53:00+08:00",
+      "display_at": "2026-11-03T14:53:00+08:00",
+      "listed_at": "2026-11-03T21:28:05+08:00",
+      "last_checked_at": "2026-11-03T21:28:05+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "勞資調解"
       ],
       "status": "reported",
