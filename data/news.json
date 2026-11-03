@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T05:17:58.292341+08:00",
-    "record_count": 817,
+    "generated_at": "2026-11-04T07:20:13.107846+08:00",
+    "record_count": 825,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -227,6 +227,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0834",
+      "media": "CNA / Focus Taiwan",
+      "title": "美光與台中工會一般性協議遭反對 勞長：可循訴訟處理",
+      "url": "https://www.cna.com.tw/news/ahel/202611020148.aspx",
+      "published_date": "2026-11-02",
+      "published_at": "2026-11-02T15:18:00+08:00",
+      "display_at": "2026-11-02T15:18:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0815",
@@ -2731,6 +2749,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0840",
+      "media": "China Times / Want Rich (旺得富)",
+      "title": "桃園今罷工 台灣美光董事長出面協商",
+      "url": "https://wantrich.chinatimes.com/news/20261022900047-420201",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0788",
       "media": "CFM闪存市场 (ChinaFlashMarket)",
       "title": "因协商未果，美光桃园工会启动24小时罢工",
@@ -4080,6 +4117,66 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0839",
+      "media": "Next Apple 壹蘋新聞網",
+      "title": "美光勞資爭議新進展！台中工會與資方達成協議 明日調解取消",
+      "url": "https://news.nextapple.com/finance/20261021/7D4DBB1AD2F52DA07D1EB2C931336A68",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0841",
+      "media": "NOWnews 東風新聞",
+      "title": "美光台中工會與資方達成共識 撤回22日調解程序",
+      "url": "https://www.nownews.com/news/6885325",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0838",
+      "media": "Macon Telegraph (Reuters Connect copy)",
+      "title": "Micron faces strike from one Taiwan union after deal with another",
+      "url": "https://www.macon.com/news/business/article317711145.html",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0832",
       "media": "Storm Media (鏡新聞)",
       "title": "台灣美光勞資協商兩地不同調！台中工會簽協議撤調解，桃園工會擬明日罷工",
@@ -4756,6 +4853,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0835",
+      "media": "Lianhe Zaobao (新加坡)",
+      "title": "美光桃园工会周四罢工声援台中 要求15%营业利益分红",
+      "url": "https://www.zaochenbao.com/news/taiwan/202610/2083710.html",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0777",
@@ -7437,6 +7553,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0837",
+      "media": "RFI (AFP copy)",
+      "title": "Micron workers at Taiwan plant vote in favour of strike",
+      "url": "https://rfi.fr/en/international-news/20261007-micron-workers-at-taiwan-plant-vote-in-favour-of-strike",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://france24.com/en/live-news/20261007-micron-workers-at-taiwan-plant-vote-in-favour-of-strike",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0836",
+      "media": "France 24 (AFP)",
+      "title": "Micron workers at Taiwan plant vote in favour of strike",
+      "url": "https://france24.com/en/live-news/20261007-micron-workers-at-taiwan-plant-vote-in-favour-of-strike",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-04T07:30:00+08:00",
+      "last_checked_at": "2026-11-04T07:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0783",
