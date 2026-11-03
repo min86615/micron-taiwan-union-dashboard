@@ -1,10 +1,101 @@
 {
   "summary": {
-    "generated_at": "2026-11-03T09:11:05.229872+08:00",
-    "record_count": 800,
+    "generated_at": "2026-11-03T17:14:00.448859+08:00",
+    "record_count": 806,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0819",
+      "media": "China Times (工商)",
+      "title": "美光台中工會調解爭議 中科管理局：於法有據、尊重雙方決定",
+      "url": "https://www.chinatimes.com/realtimenews/20261103003402-260410",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T16:10:02+08:00",
+      "display_at": "2026-11-03T16:10:02+08:00",
+      "listed_at": "2026-11-03T17:13:48.808622+08:00",
+      "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261103701192-430501"
+    },
+    {
+      "id": "news-0818",
+      "media": "聯合報 (UDN)",
+      "title": "美光爭議延燒！桃園工會攜台中員工衝中科管理局抗議 爆警民對峙",
+      "url": "https://udn.com/vote2026/story/7324/9854647",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T15:44:00+08:00",
+      "display_at": "2026-11-03T15:44:00+08:00",
+      "listed_at": "2026-11-03T17:13:48.808622+08:00",
+      "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0817",
+      "media": "China Times (中時新聞網)",
+      "title": "美光調解突撤案惹議！基層員工怒衝中科管理局討真相",
+      "url": "https://www.chinatimes.com/realtimenews/20261103003125-260405",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T15:06:40+08:00",
+      "display_at": "2026-11-03T15:06:40+08:00",
+      "listed_at": "2026-11-03T17:13:48.808622+08:00",
+      "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
+      "language": "TW",
+      "topics": [
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0816",
+      "media": "Commercial Times (CTEE)",
+      "title": "美光台中廠勞資簽署協議 中科管理局：於法有據、尊重雙方決定",
+      "url": "https://www.ctee.com.tw/news/20261103701192-430501",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T14:28:00+08:00",
+      "display_at": "2026-11-03T14:28:00+08:00",
+      "listed_at": "2026-11-03T15:19:07.662800+08:00",
+      "last_checked_at": "2026-11-03T15:19:07.662800+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0815",
+      "media": "The Hub News",
+      "title": "美光勞資協商再破局 11月6日迎第三次協商",
+      "url": "https://www.thehubnews.net/archives/680103",
+      "published_date": "2026-11-02",
+      "published_at": "2026-11-02T12:33:30+08:00",
+      "display_at": "2026-11-02T12:33:30+08:00",
+      "listed_at": "2026-11-03T15:19:07.662800+08:00",
+      "last_checked_at": "2026-11-03T15:19:07.662800+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ntyc.kbro.com.tw/K09/about-news-detail_6_0_636_558227.html"
+    },
     {
       "id": "news-0812",
       "media": "LINE TODAY (Newtalk)",
@@ -98,6 +189,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0821",
+      "media": "鉅亨網",
+      "title": "台灣美光發放FY26獎酬 逾700名線上員工年薪超過60個月",
+      "url": "https://news.cnyes.com/news/id/6642085",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T18:06:00+08:00",
+      "display_at": "2026-10-30T18:06:00+08:00",
+      "listed_at": "2026-11-03T17:13:48.808622+08:00",
+      "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0794",
       "media": "China Times (中時新聞網)",
       "title": "羨慕嗎？台灣美光獎金入帳 700名產線員工薪酬破60個月",
@@ -179,7 +288,7 @@
       "published_at": null,
       "display_at": "2026-10-30T12:00:00+08:00",
       "listed_at": "2026-10-31T15:12:50.287086+08:00",
-      "last_checked_at": "2026-11-02T17:07:30.802101+08:00",
+      "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -7838,7 +7947,7 @@
       "published_at": null,
       "display_at": "2026-10-02T12:00:00+08:00",
       "listed_at": "2026-10-03T09:16:32+08:00",
-      "last_checked_at": "2026-11-03T01:16:25+08:00",
+      "last_checked_at": "2026-11-03T17:13:48.808622+08:00",
       "language": "EN",
       "topics": [
         "罷工"
