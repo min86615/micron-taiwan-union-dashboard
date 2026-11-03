@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-03T05:07:14.391264+08:00",
-    "record_count": 798,
+    "generated_at": "2026-11-03T09:11:05.229872+08:00",
+    "record_count": 800,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0812",
+      "media": "LINE TODAY (Newtalk)",
+      "title": "台中美光協議爆爭議 洪申翰強調「一般性契約」、避談授權瑕疵",
+      "url": "https://today.line.me/tw/v3/article/kEp5RmL",
+      "published_date": "2026-11-02",
+      "published_at": null,
+      "display_at": "2026-11-02T12:00:00+08:00",
+      "listed_at": "2026-11-03T09:10:55+08:00",
+      "last_checked_at": "2026-11-03T09:10:55+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-11-02/1068733",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0811",
+      "media": "Newtalk",
+      "title": "台中美光協議爆爭議 洪申翰強調「一般性契約」、避談授權瑕疵",
+      "url": "https://newtalk.tw/news/view/2026-11-02/1068733",
+      "published_date": "2026-11-02",
+      "published_at": "2026-11-02T05:32:26+00:00",
+      "display_at": "2026-11-02T05:32:26+00:00",
+      "listed_at": "2026-11-03T09:10:55+08:00",
+      "last_checked_at": "2026-11-03T09:10:55+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0804",
       "media": "TechNews",
