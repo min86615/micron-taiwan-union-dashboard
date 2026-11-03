@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-03T21:31:01.828526+08:00",
-    "record_count": 809,
+    "generated_at": "2026-11-04T03:29:20.502243+08:00",
+    "record_count": 816,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,44 @@
       "language": "TW",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0827",
+      "media": "LIFE.tw mirror of BCC News (Chinese Broadcasting Company)",
+      "title": "美光罷工演變為內鬨 桃園工會偕台中勞工抗議台中工會黑箱撤案",
+      "url": "https://life.tw/article/%E7%BE%8E%E5%85%89%E7%BD%B7%E5%B7%A5%E6%BC%94%E8%AE%8A%E7%82%BA%E5%85%A7%E9%AC%A8-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%81%95%E5%8F%B0%E4%B8%AD%E5%B8%B3%E5%B7%A5%E6%8A%97%E8%AD%B0%E5%8F%B0%E4%B8%AD%E5%B8%B3%E5%B7%A5%E6%9C%83%E9%BB%91%E7%AE%B1%E6%92%A4%E6%A1%88-3203286",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T16:30:00+08:00",
+      "display_at": "2026-11-03T16:30:00+08:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://bccnews.com.tw/archives/826013"
+    },
+    {
+      "id": "news-0826",
+      "media": "BCC News (Chinese Broadcasting Company / BCC News Network)",
+      "title": "美光罷工演變為內鬨 桃園工會偕台中勞工抗議台中工會黑箱撤案",
+      "url": "https://bccnews.com.tw/archives/826013",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T16:30:00+08:00",
+      "display_at": "2026-11-03T16:30:00+08:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
       ],
       "status": "reported",
       "source_type": "media",
@@ -97,6 +135,25 @@
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261103003125-260405"
     },
     {
+      "id": "news-0828",
+      "media": "LINE TODAY TW mirror of TaiSounds (author Dai Jia-fen)",
+      "title": "桃市產總控美光台中工會調解未經程序撤案！中科管理局：已達成勞資協議、於法有據 | 太報 | LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/QwWqyVg",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T14:53:00+08:00",
+      "display_at": "2026-11-03T14:53:00+08:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/297623"
+    },
+    {
       "id": "news-0822",
       "media": "TaiSounds (太報)",
       "title": "桃市產總控美光台中工會調解未經程序撤案！中科管理局：已達成勞資協議、於法有據",
@@ -132,6 +189,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0829",
+      "media": "Yahoo! News TW mirror of CNA (Central News Agency)",
+      "title": "美光桃園工會偕台中員工陳情 質疑中科未經協調撤案",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%81%95%E5%8F%B0%E4%B8%AD%E5%93%A1%E5%B7%A5%E9%99%B3%E6%83%85-%E8%B3%AA%E7%96%91%E4%B8%AD%E7%A7%91%E6%9C%AA%E7%B6%93%E5%8D%94%E8%AA%BF%E6%92%A4%E6%A1%88-080940582.html",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/aloc/202611030212.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0825",
+      "media": "CNA / Focus Taiwan (Central News Agency)",
+      "title": "美光桃園工會偕台中員工陳情 質疑中科未經協調撤案",
+      "url": "https://www.cna.com.tw/news/aloc/202611030212.aspx",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0815",
@@ -5295,6 +5390,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0831",
+      "media": "MarketScreener CA (Reuters redistribution)",
+      "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+      "url": "https://ca.marketscreener.com/news/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates-ce785cdbde8af522",
+      "published_date": "2026-10-19",
+      "published_at": "2026-10-19T22:00:00-04:00",
+      "display_at": "2026-10-19T22:00:00-04:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
+    },
+    {
       "id": "news-0757",
       "media": "MarketScreener (Reuters)",
       "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
@@ -8467,6 +8582,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0830",
+      "media": "NNA (Nikkei Nakayama Asia) original, article 2969565",
+      "title": "マイクロンの労使調停不成立、スト投票へ",
+      "url": "https://www.nna.jp/news/2969565",
+      "published_date": "2026-09-23",
+      "published_at": "2026-09-23T11:30:00+09:00",
+      "display_at": "2026-09-23T11:30:00+09:00",
+      "listed_at": "2026-11-04T03:28:27.360406+08:00",
+      "last_checked_at": "2026-11-04T03:28:27.360406+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.yahoo.co.jp/articles/2327056a0de8272a4ef0e8b2687ae025c7856f5c"
     },
     {
       "id": "news-0497",
