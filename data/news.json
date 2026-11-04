@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T11:24:47.329797+08:00",
-    "record_count": 833,
+    "generated_at": "2026-11-04T13:18:29.551015+08:00",
+    "record_count": 834,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -10113,6 +10113,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0850",
+      "media": "Aju News Japan (亜洲日報)",
+      "title": "マイクロン、台湾の労働組合が営業利益の15%を成果給として要求",
+      "url": "https://m.jp.ajunews.com/view/20260916160070887",
+      "published_date": "2026-09-16",
+      "published_at": null,
+      "display_at": "2026-09-16T12:00:00+08:00",
+      "listed_at": "2026-11-04T13:40:00+08:00",
+      "last_checked_at": "2026-11-04T13:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0258",
