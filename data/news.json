@@ -1,10 +1,67 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T15:16:54.568569+08:00",
-    "record_count": 840,
+    "generated_at": "2026-11-04T17:23:28.951228+08:00",
+    "record_count": 847,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0859",
+      "media": "China Times (中時新聞網)",
+      "title": "美光台中不是簽團協 如何撤銷？洪申翰：可循訴訟",
+      "url": "https://www.chinatimes.com/realtimenews/20261104001510-260405",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0857",
+      "media": "China Comment News / CRNTT (中評社)",
+      "title": "美光劳资争议搞不定 洪申翰说明",
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0858",
+      "media": "China Comment News / CRNTT (中評社)",
+      "title": "台湾美光罢工闹内哄 劳团批洪申翰应下台",
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=182&kindid=0&docid=160285072",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0852",
       "media": "聯合新聞網 (UDN)",
@@ -244,6 +301,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0863",
+      "media": "Liberty Times Finance / 財富自由 (LTN stock mirror)",
+      "title": "美光勞資調解撤案惹議 桃園工會與台中工會部分員工赴中科抗議",
+      "url": "https://stock.ltn.com.tw/article/tnsht3c4wwse",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5628050",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0829",
@@ -6074,6 +6151,26 @@
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike-2026-10-15/"
     },
     {
+      "id": "news-0860",
+      "media": "CNYES 鉅亨網",
+      "title": "美光工會恐釀罷工 賴清德：期盼勞資雙方以誠意協商",
+      "url": "https://news.cnyes.com/news/id/6631408",
+      "published_date": "2026-10-15",
+      "published_at": null,
+      "display_at": "2026-10-15T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0752",
       "media": "Newsweek Japan（ロイター轉載）",
       "title": "台湾総統、マイクロン労使に誠実な交渉要請 スト実施の可能性で",
@@ -6515,6 +6612,27 @@
       "duplicate_of": "https://www.wealth.com.tw/articles/561dcfe4-f5e5-4878-801e-79e230dca8a0"
     },
     {
+      "id": "news-0861",
+      "media": "Chosun Ilbo (English edition)",
+      "title": "Micron Taiwan Union Votes 99% for Profit-Sharing Strike",
+      "url": "https://www.chosun.com/english/industry-en/2026-10-09/C3LBGVWWFVDIJCF7O45QVPBC4E/",
+      "published_date": "2026-10-09",
+      "published_at": null,
+      "display_at": "2026-10-09T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0447",
       "media": "經濟日報 UDN",
       "title": "記憶體迎史上最好景氣 美光台灣員工為何反而醞釀罷工？關鍵卡在「分紅不透明」",
@@ -6666,6 +6784,27 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0862",
+      "media": "TTV Finance / MoneyDJ (台視財經)",
+      "title": "台灣美光桃園工會取得罷工權 業界關注牽動記憶體供給",
+      "url": "https://www.ttv.com.tw/finance/view/10202608085923717521D9174F12A5BEE3BA4069A2300B8A/587",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-04T17:22:51.900720+08:00",
+      "last_checked_at": "2026-11-04T17:22:51.900720+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0854",
