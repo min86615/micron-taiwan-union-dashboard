@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T05:30:18.995160+08:00",
-    "record_count": 875,
+    "generated_at": "2026-11-05T07:15:50.439234+08:00",
+    "record_count": 877,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4651,6 +4651,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0904",
+      "media": "TradingKey (zh-hant)",
+      "title": "美光台灣罷工有變化？美光跟台中工會簽署勞資協議，桃園廠罷工計劃仍待確認",
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262228768-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-05T07:10:00+08:00",
+      "last_checked_at": "2026-11-05T07:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262228642-micron-taichung-labor-agreement-taoyuan-strike-pending-mu-tradingkey",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0900",
@@ -9608,6 +9628,27 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0903",
+      "media": "財報狗 StatementDog",
+      "title": "美光台灣勞資分紅爭議未解 工會要求全球獲利 15％分紅未果 罷工風險升溫",
+      "url": "https://statementdog.com/news/17746",
+      "published_date": "2026-09-23",
+      "published_at": null,
+      "display_at": "2026-09-23T12:00:00+08:00",
+      "listed_at": "2026-11-05T07:10:00+08:00",
+      "last_checked_at": "2026-11-05T07:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0830",
