@@ -1,10 +1,49 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T19:50:46.124130+08:00",
-    "record_count": 848,
+    "generated_at": "2026-11-04T23:16:05.377384+08:00",
+    "record_count": 854,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0867",
+      "media": "聯合新聞網／經濟日報",
+      "title": "台灣美光罷工危機升高 業界：牽動記憶體供給…茲事體大",
+      "url": "https://udn.com/news/story/7240/9801569",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-04T23:15:35.580438+08:00",
+      "last_checked_at": "2026-11-04T23:15:35.580438+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-04 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0866",
+      "media": "焦點事件 Events in Focus",
+      "title": "美光勞資爭議》工會批資方擅自放話 破壞協商信任",
+      "url": "https://eventsinfocus.org/news/7148444",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-04T23:15:35.580438+08:00",
+      "last_checked_at": "2026-11-04T23:15:35.580438+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-04 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0864",
       "media": "PTS / 公共電視新聞",
@@ -1278,6 +1317,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0868",
+      "media": "PChome 新聞（NOWnews RSS 轉載）",
+      "title": "美光桃園廠勞資未解 工會與資方11月再協商",
+      "url": "https://news.pchome.com.tw/living/nownews/20261027/index-79309904213168207009.html",
+      "published_date": "2026-10-27",
+      "published_at": null,
+      "display_at": "2026-10-27T12:00:00+08:00",
+      "listed_at": "2026-11-04T23:15:35.580438+08:00",
+      "last_checked_at": "2026-11-04T23:15:35.580438+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.nownews.com/news/6887048",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0648",
@@ -2916,6 +2974,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0870",
+      "media": "中央社 CNA",
+      "title": "美光與桃園工會協商未達成共識 工會幹部罷工1天",
+      "url": "https://www.cna.com.tw/news/afe/202610220037.aspx",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-04T23:15:35.580438+08:00",
+      "last_checked_at": "2026-11-04T23:15:35.580438+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0840",
@@ -7770,6 +7848,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0865",
+      "media": "Mirror Daily 鏡報",
+      "title": "共體時艱但利潤不能共享？美光工會揚言突襲式停工 壓力給到董事會",
+      "url": "https://www.mirrordaily.news/story/90199",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T15:40:00+08:00",
+      "display_at": "2026-10-07T15:40:00+08:00",
+      "listed_at": "2026-11-04T23:15:35.580438+08:00",
+      "last_checked_at": "2026-11-04T23:15:35.580438+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0456",
       "media": "經濟日報",
       "title": "美光罷工投票88.3%通過 工會揭三項質疑",
@@ -12181,6 +12277,26 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0869",
+      "media": "TradingKey JP（AI 翻譯版）",
+      "title": "マイクロン台湾の従業員に最大68カ月分の給与：HBM供給に注目が集まる中、ストライキのリスクは緩和するか？",
+      "url": "https://www.tradingkey.com/jp/analysis/stocks/us-stock/262163347-micron-taiwan-employees-68-months-salary-strike-risk-hbm-supply-tradingkey",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-11-04T23:15:35.580438+08:00",
+      "last_checked_at": "2026-11-04T23:15:35.580438+08:00",
+      "language": "JP",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262163332-micron-taiwan-employees-68-months-salary-strike-risk-hbm-supply-tradingkey",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0758",
