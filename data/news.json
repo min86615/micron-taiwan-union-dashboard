@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T07:20:13.107846+08:00",
-    "record_count": 825,
+    "generated_at": "2026-11-04T09:30:32.680896+08:00",
+    "record_count": 832,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -56,6 +56,25 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0842",
+      "media": "Liberty Times Finance (自由時報)",
+      "title": "美光勞資調解撤案惹議 桃園工會與台中工會部分員工赴中科抗議",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5628050",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T16:23:42+08:00",
+      "display_at": "2026-11-03T16:23:42+08:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
@@ -2620,6 +2639,24 @@
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261022003603-260410"
     },
     {
+      "id": "news-0845",
+      "media": "Economic Daily / UDN (經濟日報)",
+      "title": "美光獎酬大改革 全球員工享季度分潤",
+      "url": "https://money.udn.com/money/story/5612/9831417",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T15:55:33+08:00",
+      "display_at": "2026-10-22T15:55:33+08:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0589",
       "media": "Newtalk新聞",
       "title": "美光罷工4》勞動部：應桃市府邀請參與美光勞資協商 將持續協助溝通",
@@ -4075,6 +4112,25 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0847",
+      "media": "TaiSounds 太報",
+      "title": "美光勞資協商有進展！台中工會達共識、撤回調解 桃園工會議題續談",
+      "url": "https://www.taisounds.com/news/content/76/295330",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:07:00+08:00",
+      "display_at": "2026-10-21T14:07:00+08:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
@@ -6405,6 +6461,25 @@
       "duplicate_of": "https://www.wealth.com.tw/articles/561dcfe4-f5e5-4878-801e-79e230dca8a0"
     },
     {
+      "id": "news-0844",
+      "media": "Economic Daily / UDN (聯合報 經濟日報)",
+      "title": "台灣美光桃園工會取得罷工權 桃市府：關注發展、適時協助",
+      "url": "https://money.udn.com/money/story/5612/9803120",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T15:26:21+08:00",
+      "display_at": "2026-10-08T15:26:21+08:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0457",
       "media": "聯合報／經濟日報",
       "title": "台灣美光桃園工會取得罷工權 桃市府：關注發展、適時協助",
@@ -6459,6 +6534,25 @@
       ],
       "status": "reported",
       "source_type": "market_analysis",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0843",
+      "media": "Economic Daily / UDN (聯合報 經濟日報)",
+      "title": "台灣美光台中工會22日二次勞資調解 勞工局籲盡量協商力求共識",
+      "url": "https://money.udn.com/money/story/5612/9802626",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T12:53:27+08:00",
+      "display_at": "2026-10-08T12:53:27+08:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -6661,6 +6755,26 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0846",
+      "media": "Storm Media 風傳媒",
+      "title": "圖解》美光發100萬獎金太少？工會要求「15%分潤制」否則罷工？專家曝勞資導火線是它",
+      "url": "https://www.storm.mg/article/11170829",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T11:58:01+08:00",
+      "display_at": "2026-10-08T11:58:01+08:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0665",
@@ -9814,6 +9928,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0848",
+      "media": "AFPBB News (AFP日文譯稿)",
+      "title": "月給68か月のボーナスは不十分 マイクロン台湾工場の従業員、さらなる利益分配を要求",
+      "url": "https://www.afpbb.com/articles/-/3653562",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T10:07:00+09:00",
+      "display_at": "2026-09-18T10:07:00+09:00",
+      "listed_at": "2026-11-04T09:45:00+08:00",
+      "last_checked_at": "2026-11-04T09:45:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.straitstimes.com/asia/east-asia/microns-taiwan-workers-threaten-strike-say-up-to-68-months-bonus-not-enough"
     },
     {
       "id": "news-0299",
