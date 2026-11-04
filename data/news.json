@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T09:33:41.166468+08:00",
-    "record_count": 832,
+    "generated_at": "2026-11-04T11:24:47.329797+08:00",
+    "record_count": 833,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -11418,6 +11418,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0849",
+      "media": "Taiwan News",
+      "title": "Micron to give Taiwan employees NT$1 million cash bonus",
+      "url": "https://taiwannews.com.tw/news/6438679",
+      "published_date": "2026-09-12",
+      "published_at": null,
+      "display_at": "2026-09-12T12:00:00+08:00",
+      "listed_at": "2026-11-04T11:45:00+08:00",
+      "last_checked_at": "2026-11-04T11:45:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0775",
