@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T17:23:28.951228+08:00",
-    "record_count": 847,
+    "generated_at": "2026-11-04T19:50:46.124130+08:00",
+    "record_count": 848,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0864",
+      "media": "PTS / 公共電視新聞",
+      "title": "美光桃園工會質疑台中協議效力 洪申翰：於法有據可循民事訴訟",
+      "url": "https://news.pts.org.tw/article/834198",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-04T19:07:00+08:00",
+      "last_checked_at": "2026-11-04T19:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0859",
       "media": "China Times (中時新聞網)",
