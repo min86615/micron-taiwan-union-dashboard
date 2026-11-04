@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T09:30:32.680896+08:00",
+    "generated_at": "2026-11-04T09:33:41.166468+08:00",
     "record_count": 832,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -6475,9 +6475,9 @@
         "工會／勞資",
         "罷工"
       ],
-      "status": "reported",
+      "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://money.udn.com/money/story/7307/9803120"
     },
     {
       "id": "news-0457",
@@ -6551,9 +6551,9 @@
         "工會／勞資",
         "勞資調解"
       ],
-      "status": "reported",
+      "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://udn.com/news/story/7240/9802626"
     },
     {
       "id": "news-0445",
