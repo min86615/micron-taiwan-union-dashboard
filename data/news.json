@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-11-04T13:18:29.551015+08:00",
-    "record_count": 834,
+    "generated_at": "2026-11-04T15:16:54.568569+08:00",
+    "record_count": 840,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0852",
+      "media": "聯合新聞網 (UDN)",
+      "title": "影／批美光台中工會與資方協議違背民主 桃園工會要洪申翰下台",
+      "url": "https://udn.com/news/story/7269/9856240",
+      "published_date": "2026-11-04",
+      "published_at": "2026-11-04T11:05:00+08:00",
+      "display_at": "2026-11-04T11:05:00+08:00",
+      "listed_at": "2026-11-04T15:20:00+08:00",
+      "last_checked_at": "2026-11-04T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0851",
+      "media": "聯合新聞網 (UDN)",
+      "title": "影／美光台中工會協議可撤銷？洪申翰：屬一般性契約依民事訴訟",
+      "url": "https://udn.com/news/story/7269/9856106",
+      "published_date": "2026-11-04",
+      "published_at": "2026-11-04T10:25:00+08:00",
+      "display_at": "2026-11-04T10:25:00+08:00",
+      "listed_at": "2026-11-04T15:20:00+08:00",
+      "last_checked_at": "2026-11-04T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0823",
       "media": "Newtalk (新頭殼)",
@@ -3686,6 +3722,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0855",
+      "media": "知新聞 (KN News)",
+      "title": "美光桃園工會今早9點罷工24小時！痛批資方未提分潤數字　公司喊話續溝通",
+      "url": "https://www.knews.com.tw/news/8210305584249DD5142438AEDEF09FDD",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T06:58:00+08:00",
+      "display_at": "2026-10-22T06:58:00+08:00",
+      "listed_at": "2026-11-04T15:22:00+08:00",
+      "last_checked_at": "2026-11-04T15:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0571",
       "media": "鉅亨網",
       "title": "美光桃園工會今起罷工24小時 公司：持續溝通並誠信協商",
@@ -4171,6 +4226,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0856",
+      "media": "同花順 (10jqka) citing 财闻, quoting Reuters",
+      "title": "美光科技称已与中国台湾台中工会达成劳资协议",
+      "url": "https://m.10jqka.com.cn/20261021/c680926560.shtml",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-04T15:24:00+08:00",
+      "last_checked_at": "2026-11-04T15:24:00+08:00",
+      "language": "ZH-",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "aggregator",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0839",
@@ -6594,6 +6668,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0854",
+      "media": "MemoryMarket (CFM 闪存市场 English newsflash)",
+      "title": "Micron Taoyuan Union Gains Strike Right as Nearly 90% of Members Approve Strike",
+      "url": "https://memorymarket.com/newsflash/1215",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-04T15:15:00+08:00",
+      "last_checked_at": "2026-11-04T15:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://udn.com/news/story/7269/9802070",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0748",
       "media": "IEK 產業情報網（產科國際所）",
       "title": "近9成會員同意 美光桃園工會 取得罷工權",
@@ -6770,6 +6864,25 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0853",
+      "media": "聯合新聞網 (UDN)／聯合報",
+      "title": "台灣美光桃園工會投票結果取得罷工權 台中廠員工今如常上班",
+      "url": "https://udn.com/news/story/7269/9802070",
+      "published_date": "2026-10-08",
+      "published_at": "2026-10-08T10:04:00+08:00",
+      "display_at": "2026-10-08T10:04:00+08:00",
+      "listed_at": "2026-11-04T15:15:00+08:00",
+      "last_checked_at": "2026-11-04T15:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工"
       ],
       "status": "reported",
