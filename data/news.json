@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T09:31:47.620836+08:00",
+    "generated_at": "2026-11-05T09:33:17.483355+08:00",
     "record_count": 882,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -1302,7 +1302,7 @@
     {
       "id": "news-0906",
       "media": "China Times (WantRich/Want Daily)",
-      "title": "美光台中工會協議未籭団體約 會员擅聯罰撤領 勞動部：可提告",
+      "title": "美光台中工會協議未簽團體協約 會員擬連署撤銷 勞動部：可提告",
       "url": "https://wantrich.chinatimes.com/news/20261028900531-420501",
       "published_date": "2026-10-28",
       "published_at": null,
