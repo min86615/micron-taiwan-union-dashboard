@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T09:33:17.483355+08:00",
-    "record_count": 882,
+    "generated_at": "2026-11-05T11:23:03.102327+08:00",
+    "record_count": 884,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -396,6 +396,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0912",
+      "media": "Want Rich 旺得富 / China Times",
+      "title": "美光調解突撤案惹議！基層員工怒衝中科管理局討真相",
+      "url": "https://wantrich.chinatimes.com/news/20261103900475-420501",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-05T11:25:00+08:00",
+      "last_checked_at": "2026-11-05T11:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261103701192-431401",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0885",
@@ -2852,6 +2871,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0911",
+      "media": "Liberty Times Finance (自由時報, print/paper page)",
+      "title": "美光勞資協議出爐 新增季度分紅 IPP最高5倍",
+      "url": "https://ec.ltn.com.tw/article/paper/1775667",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-22T17:20:03+08:00",
+      "listed_at": "2026-11-05T11:25:00+08:00",
+      "last_checked_at": "2026-11-05T11:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5615330",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0575",
