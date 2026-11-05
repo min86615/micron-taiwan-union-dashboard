@@ -1,10 +1,106 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T23:21:50.575342+08:00",
-    "record_count": 917,
+    "generated_at": "2026-11-06T01:37:35.662838+08:00",
+    "record_count": 925,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0954",
+      "media": "TradingKey",
+      "title": "美光暂停台湾45亿美元新厂建设，劳资纠纷给AI存储扩产带来变数，MU盘前跌近5%",
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262282511-micron-pauses-4-5b-taiwan-plant-construction-labor-disputes-mu-tradingkey",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0953",
+      "media": "Phoenix / ifeng original (凤凰AI研究院)",
+      "title": "工程师年薪翻三倍还不够？美光在台遭遇逼宫",
+      "url": "https://original.ifeng.com/c/8xoGezoiCuP",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0957",
+      "media": "Liberty Times Finance (自由時報)",
+      "title": "桃園擴廠沒了？傳美光因勞資糾紛喊停1480億投資計畫",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5630851",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0956",
+      "media": "Futu News (富途牛牛)",
+      "title": "美光300亿晶圆厂，停建！",
+      "url": "https://news.futunn.com/post/1003574380/micron-s-30-billion-fab-construction-halted",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0950",
+      "media": "Tom's Hardware",
+      "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute — company and union still haven't reached agreement as latter asks for clearer profit-sharing terms",
+      "url": "https://tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0948",
       "media": "Cnyes",
@@ -40,6 +136,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0951",
+      "media": "Economic Daily / UDN",
+      "title": "勞資協商致桃園新廠停工？美光：在台營運正常、期待達成協議",
+      "url": "https://money.udn.com/money/story/5612/9860460",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T21:12:34+08:00",
+      "display_at": "2026-11-05T21:12:34+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202611050327.aspx"
     },
     {
       "id": "news-0942",
@@ -130,6 +244,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0952",
+      "media": "World Journal 世界新聞網",
+      "title": "彭博：美光暫停45億美元桃園擴廠計畫 因勞資糾紛未解",
+      "url": "https://www.worldjournal.com/wj/story/121208/9860106",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-0955",
+      "media": "Sohu (搜狐)",
+      "title": "美光暂停桃园建厂计划：劳资纠纷波及AI存储关键产能，全球供应链再添变数",
+      "url": "https://m.sohu.com/a/1097704804_114984",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0949",
