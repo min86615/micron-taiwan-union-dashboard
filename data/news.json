@@ -1,10 +1,67 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T03:21:15.949941+08:00",
-    "record_count": 935,
+    "generated_at": "2026-11-06T05:32:03.601198+08:00",
+    "record_count": 941,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0969",
+      "media": "聯合報（新聞眼）",
+      "title": "新聞眼／桃園廠擴建喊停…美光重評全球投資順位",
+      "url": "https://udn.com/news/story/7240/9860806",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0970",
+      "media": "聯合報",
+      "title": "美光桃園新廠喊停 打亂在台投資布局",
+      "url": "https://udn.com/news/story/7240/9860807",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0968",
+      "media": "經濟日報（聯合報系）",
+      "title": "勞資紛擾 美光千億投資生變…經部：持續協調磋商",
+      "url": "https://www.money.udn.com/money/story/5612/9860684",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0967",
       "media": "經濟日報（UDN）",
@@ -356,6 +413,44 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0972",
+      "media": "聯合早報（zaobao）",
+      "title": "劳资纠纷旷日持久 美光暂停45亿美元台湾工厂建设",
+      "url": "https://www.zaobao.com.sg/finance/world/story20261105-9954696",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0971",
+      "media": "ETtoday新聞雲（財經）",
+      "title": "美光桃園45億美元新廠傳因勞資糾紛暫緩 公司：在台營運正常",
+      "url": "https://finance.ettoday.net/news/3267201",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0959",
       "media": "自由時報",
       "title": "美光傳暫緩2028年桃園擴廠 工會：有心人士藉此施壓",
@@ -392,44 +487,6 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
-    },
-    {
-      "id": "news-0952",
-      "media": "World Journal 世界新聞網",
-      "title": "彭博：美光暫停45億美元桃園擴廠計畫 因勞資糾紛未解",
-      "url": "https://www.worldjournal.com/wj/story/121208/9860106",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-11-05T12:00:00+08:00",
-      "listed_at": "2026-11-06T01:12:00+08:00",
-      "last_checked_at": "2026-11-06T01:20:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "syndicated",
-      "source_type": "media",
-      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
-      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
-    },
-    {
-      "id": "news-0955",
-      "media": "Sohu (搜狐)",
-      "title": "美光暂停桃园建厂计划：劳资纠纷波及AI存储关键产能，全球供应链再添变数",
-      "url": "https://m.sohu.com/a/1097704804_114984",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-11-05T12:00:00+08:00",
-      "listed_at": "2026-11-06T01:12:00+08:00",
-      "last_checked_at": "2026-11-06T01:20:00+08:00",
-      "language": "SC",
-      "topics": [
-        "美光產業"
-      ],
-      "status": "syndicated",
-      "source_type": "media",
-      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
-      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0949",
@@ -620,6 +677,62 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-05 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0952",
+      "media": "World Journal 世界新聞網",
+      "title": "彭博：美光暫停45億美元桃園擴廠計畫 因勞資糾紛未解",
+      "url": "https://www.worldjournal.com/wj/story/121208/9860106",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T08:54:28.932000+00:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-0955",
+      "media": "Sohu (搜狐)",
+      "title": "美光暂停桃园建厂计划：劳资纠纷波及AI存储关键产能，全球供应链再添变数",
+      "url": "https://m.sohu.com/a/1097704804_114984",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T08:54:28.932000+00:00",
+      "listed_at": "2026-11-06T01:12:00+08:00",
+      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-0934",
+      "media": "Bloomberg",
+      "title": "Micron Pauses Work on $4.5 Billion Taiwan Plant After Labor Spat",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T08:54:28.932000+00:00",
+      "display_at": "2026-11-05T08:54:28.932000+00:00",
+      "listed_at": "2026-11-05T19:12:00+08:00",
+      "last_checked_at": "2026-11-05T23:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0940",
