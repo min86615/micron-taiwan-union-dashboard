@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T07:15:50.439234+08:00",
-    "record_count": 877,
+    "generated_at": "2026-11-05T09:31:47.620836+08:00",
+    "record_count": 882,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0907",
+      "media": "NOWnews",
+      "title": "國科會看好科學園區全年營收上看7.56兆元 美光爭議全力協助",
+      "url": "https://nownews.com/news/6879068",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T09:25:21.880786+08:00",
+      "last_checked_at": "2026-11-05T09:25:21.880786+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-05 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0867",
       "media": "聯合新聞網／經濟日報",
@@ -473,6 +492,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0905",
+      "media": "Economic Daily / UDN",
+      "title": "美光與台中工會一般性協議遭反對 勞長：可循訴訟處理",
+      "url": "https://udn.com/news/story/7269/9852132",
+      "published_date": "2026-11-02",
+      "published_at": "2026-11-02T18:44:29+08:00",
+      "display_at": "2026-11-02T18:44:29+08:00",
+      "listed_at": "2026-11-05T09:25:21.880786+08:00",
+      "last_checked_at": "2026-11-05T09:25:21.880786+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0834",
@@ -1261,6 +1298,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0906",
+      "media": "China Times (WantRich/Want Daily)",
+      "title": "美光台中工會協議未籭団體約 會员擅聯罰撤領 勞動部：可提告",
+      "url": "https://wantrich.chinatimes.com/news/20261028900531-420501",
+      "published_date": "2026-10-28",
+      "published_at": null,
+      "display_at": "2026-10-28T12:00:00+08:00",
+      "listed_at": "2026-11-05T09:25:21.880786+08:00",
+      "last_checked_at": "2026-11-05T09:25:21.880786+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0892",
@@ -4653,6 +4709,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0908",
+      "media": "Yahoo Finance HK (Cnyes copy)",
+      "title": "勞资爭議現曙光！台灣美光與台中工會籭署協與 撤回10-22調解程序",
+      "url": "https://hk.finance.yahoo.com/news/%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0%E7%8F%BE%E6%9B%99%E5%85%89-%E5%8F%B0%E7%81%A3%E7%BE%8E%E5%85%89%E8%88%87%E5%8F%B0%E4%B8%AD%E5%B7%A5%E6%9C%83%E7%B0%BD%E7%BD%B2%E5%8D%94%E8%AD%B0-%E6%92%A4%E5%9B%9E10-22%E8%AA%BF%E8%A7%A3%E7%A8%8B%E5%BA%8F-071900273.html",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-05T09:25:21.880786+08:00",
+      "last_checked_at": "2026-11-05T09:25:21.880786+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6634988",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0904",
       "media": "TradingKey (zh-hant)",
       "title": "美光台灣罷工有變化？美光跟台中工會簽署勞資協議，桃園廠罷工計劃仍待確認",
@@ -5447,6 +5523,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0909",
+      "media": "ifeng / Phoenix AI Institute (AI rewrite of Reuters 10/19-20)",
+      "title": "HBM“心脏”地带对挥：美光台湾员工要罢工",
+      "url": "https://original.ifeng.com/c/8xNZKmD2pLK",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-05T09:25:21.880786+08:00",
+      "last_checked_at": "2026-11-05T09:25:21.880786+08:00",
+      "language": "SC",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0891",
