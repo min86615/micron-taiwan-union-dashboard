@@ -1,10 +1,100 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T21:18:52.603246+08:00",
-    "record_count": 909,
+    "generated_at": "2026-11-05T23:21:50.575342+08:00",
+    "record_count": 917,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0948",
+      "media": "Cnyes",
+      "title": "美光桃園新廠傳暫緩施工！最高45億美元投資遇變數 勞資爭議未解",
+      "url": "https://news.cnyes.com/news/id/6648995",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T21:30:00+08:00",
+      "display_at": "2026-11-05T21:30:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0946",
+      "media": "Economic Daily / UDN",
+      "title": "外媒稱美光勞資協商暫緩設廠 經部：協助雙方溝通",
+      "url": "https://money.udn.com/money/story/5612/9860478",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T21:22:05+08:00",
+      "display_at": "2026-11-05T21:22:05+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0942",
+      "media": "CNA / Focus Taiwan",
+      "title": "勞資協商致桃園新廠停工？美光：在台營運正常、期待達成協議",
+      "url": "https://www.cna.com.tw/news/afe/202611050327.aspx",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T21:04:00+08:00",
+      "display_at": "2026-11-05T21:04:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0945",
+      "media": "TaiSounds",
+      "title": "外媒曝美光因勞資糾紛未解暫停桃園擴廠 經濟部回應了",
+      "url": "https://www.taisounds.com/news/content/76/298198",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T21:01:00+08:00",
+      "display_at": "2026-11-05T21:01:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0944",
+      "media": "TaiSounds",
+      "title": "【更新】勞資糾紛未解！外媒爆美光「桃園新廠停工」 工會：從未做傷害公司行為",
+      "url": "https://www.taisounds.com/news/content/76/298188",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T19:59:00+08:00",
+      "display_at": "2026-11-05T19:59:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0933",
       "media": "Cnyes 鉅亨網（BlockBeats 律動財經）",
@@ -40,6 +130,63 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0949",
+      "media": "The Edge (Singapore)",
+      "title": "Micron said to pause work on US$4.5 bil Taiwan plant after labour spat",
+      "url": "https://www.theedgesingapore.com/news/artificial-intelligence/micron-said-pause-work-us45-bil-taiwan-plant-after-labour-spat",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0947",
+      "media": "Liberty Times Finance",
+      "title": "桃園廠擴建案傳停工 美光：有信心確保客戶需求不受影響",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5631031",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0943",
+      "media": "EBC News",
+      "title": "勞資協商致桃園擴廠計畫停工？美光回應了",
+      "url": "https://news.ebc.net.tw/news/business/579261",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202611050327.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0939",
