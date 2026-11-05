@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T01:37:35.662838+08:00",
+    "generated_at": "2026-11-06T01:39:35.430210+08:00",
     "record_count": 925,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -5075,7 +5075,7 @@
       "display_at": "2026-10-21T16:27:00+08:00",
       "listed_at": "2026-10-21",
       "last_checked_at": "2026-10-29T09:25:00+08:00",
-      "language": "ZH",
+      "language": "SC",
       "topics": [
         "美光產業"
       ],
@@ -5378,7 +5378,7 @@
       "display_at": "2026-10-21T12:00:00+08:00",
       "listed_at": "2026-11-04T15:24:00+08:00",
       "last_checked_at": "2026-11-04T15:24:00+08:00",
-      "language": "ZH-",
+      "language": "SC",
       "topics": [
         "美光產業"
       ],
