@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T13:59:05.399885+08:00",
-    "record_count": 893,
+    "generated_at": "2026-11-05T15:28:45.720666+08:00",
+    "record_count": 902,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0930",
+      "media": "茉莉花新聞網 Molihua News",
+      "title": "台湾美光桃园工会22日罢工一天 声援台中工会第二次调解",
+      "url": "https://molihua.org/zonghe-1358/",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-05 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0917",
       "media": "TradingKey（zh-hans 版）",
@@ -3277,6 +3296,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0925",
+      "media": "大紀元Epoch Times（b5 繁體版）",
+      "title": "回應工會訴求 美光祭出新獎金制度",
+      "url": "https://www.epochtimes.com/b5/26/10/22/n14874804.htm",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.epochtimes.com/gb/26/10/22/n14874804.htm",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0922",
@@ -9877,6 +9916,25 @@
       "duplicate_of": "https://www.cna.com.tw/news/ahel/202609240377.aspx"
     },
     {
+      "id": "news-0926",
+      "media": "中央社 CNA（afe 路徑显示）",
+      "title": "美光桃園廠工會9/29舉辦說明會 10/1起罷工投票",
+      "url": "https://www.cna.com.tw/news/afe/202609240377.aspx",
+      "published_date": "2026-09-24",
+      "published_at": "2026-09-24T22:08:00+08:00",
+      "display_at": "2026-09-24T22:08:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/ahel/202609240377.aspx"
+    },
+    {
       "id": "news-0358",
       "media": "中央社 CNA",
       "title": "美光桃園廠工會9/29舉辦說明會　10/1起罷工投票",
@@ -10033,6 +10091,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0927",
+      "media": "經濟日報/聯合報（UDN web 路徑）",
+      "title": "美光勞資爭議仍未達成共識 下月22日續進行第三次調解",
+      "url": "https://money.udn.com/money/story/5648/9769646",
+      "published_date": "2026-09-22",
+      "published_at": null,
+      "display_at": "2026-09-22T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7240/9769646",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0342",
@@ -11624,6 +11702,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0924",
+      "media": "公視新聞網 PNN",
+      "title": "美光公告發放百萬獎金 工會控片面塑造善待員工氛圍",
+      "url": "https://news.pts.org.tw/article/827116",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "display_at": "2026-09-15T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0913",
       "media": "Mirror Media / 鏡週刊",
       "title": "美光釀罷工／工會出面批公司沒有誠信 拆解「薪酬68個月」話術",
@@ -12269,6 +12367,48 @@
       "status": "syndicated",
       "source_type": "syndicated",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-0923",
+      "media": "Yahoo News TW (太報 TaiSounds distribution page)",
+      "title": "美光工會反擊獎酬方案：一次性獎金無法取代制度改革 將推動朝罷工前進",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E5%8F%8D%E6%93%8A%E7%8D%8E%E9%85%AC%E6%96%B9%E6%A1%88-%E6%AC%A1%E6%80%A7%E7%8D%8E%E9%87%91%E7%84%A1%E6%B3%95%E5%8F%96%E4%BB%A3%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9-%E5%B0%87%E6%8E%A8%E5%8B%95%E6%9C%9D%E7%BD%B7%E5%B7%A5%E5%89%8D%E9%80%B2-083527657.html",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "display_at": "2026-09-14T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/288535",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0931",
+      "media": "MK Look (매경, Korean, Japanese machine-translated edition)",
+      "title": "「4千万ウォン激励金」にもストライキは辞さない…マイクロン労組「K成果給を学べ」",
+      "url": "https://www.mk.co.kr/jp/world/12152121",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "display_at": "2026-09-14T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0236",
@@ -16015,6 +16155,27 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0928",
+      "media": "鉅亨網（Anue 新聞 print 頁，同一文章）",
+      "title": "AI賺翻獎金卻談不攏！美光台灣工會逾八成挺罷工 晶片供應鏈拉警報",
+      "url": "https://anuenews.cnyes.com/news/print/6594361",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "display_at": "2026-09-01T12:00:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6594361",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0281",
       "media": "TradingView／Reuters",
       "title": "マイクロンの台湾労組、賞与巡る争議でストを予告",
@@ -17169,6 +17330,24 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0929",
+      "media": "財訊（Wealth）專欄",
+      "title": "楊啟宏：美光超高毛利率的真相",
+      "url": "https://www.wealth.com.tw/articles/b54b3ef5-b731-4ac0-b6ae-ded5c5a4c3ca",
+      "published_date": "2026-03-30",
+      "published_at": "2026-03-30T17:15:00+08:00",
+      "display_at": "2026-03-30T17:15:00+08:00",
+      "listed_at": "2026-11-05T15:20:00+08:00",
+      "last_checked_at": "2026-11-05T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
