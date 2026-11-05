@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T15:28:45.720666+08:00",
-    "record_count": 902,
+    "generated_at": "2026-11-05T19:16:17.817484+08:00",
+    "record_count": 904,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0933",
+      "media": "Cnyes 鉅亨網（BlockBeats 律動財經）",
+      "title": "美光暫停桃園45億美元建廠計劃，勞資糾紛威脅AI存儲晶片擴產",
+      "url": "https://news.cnyes.com/news/id/6648387",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T18:05:00+08:00",
+      "display_at": "2026-11-05T18:05:00+08:00",
+      "listed_at": "2026-11-05T19:10:00+08:00",
+      "last_checked_at": "2026-11-05T19:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0935",
+      "media": "KWSN (Reuters wire)",
+      "title": "Micron pauses work on $4.5 billion Taiwan plant, Bloomberg News reports",
+      "url": "https://kwsn.com/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-bloomberg-news-reports",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T19:12:00+08:00",
+      "last_checked_at": "2026-11-05T19:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0930",
       "media": "茉莉花新聞網 Molihua News",
