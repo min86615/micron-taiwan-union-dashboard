@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-05T11:23:03.102327+08:00",
-    "record_count": 884,
+    "generated_at": "2026-11-05T13:59:05.399885+08:00",
+    "record_count": 893,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0917",
+      "media": "TradingKey（zh-hans 版）",
+      "title": "尽管美光与台中工会达成协议，桃园工会仍如期启动24小时罢工",
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262231113-micron-taichung-plant-union-agreement-taoyuan-union-24-hour-strike-tradingkey",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262231170-micron-taichung-plant-union-agreement-taoyuan-union-24-hour-strike-tradingkey",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-05 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0907",
       "media": "NOWnews",
@@ -286,6 +305,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0915",
+      "media": "Economic Daily / UDN（轉載路徑）",
+      "title": "美光爭議延燒！桃園工會攜台中員工衝中科管理局抗議 爆警民對峙",
+      "url": "https://udn.com/news/story/7324/9854647",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T15:44:00+08:00",
+      "display_at": "2026-11-03T15:44:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/vote2026/story/7324/9854647"
     },
     {
       "id": "news-0818",
@@ -2264,6 +2301,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0916",
+      "media": "香港中通社 / JP China Press",
+      "title": "美光科技台湾桃园工会罢工 要求提高利润分红",
+      "url": "https://www.jpchinapress.com/static/content/SS/2026-10-23/1563210339837946699.html",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0887",
       "media": "TradingKey Japan（AI翻訳）",
       "title": "台湾桃園労組の利益配分案拒否でマイクロンが時間外で1.2%上昇；労使交渉は11月27日に継続へ",
@@ -3022,6 +3078,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0919",
+      "media": "LINE TODAY（鏡報轉載頁）",
+      "title": "美光台中工會簽協議爆內部異議！會員連署要求撤銷授權 公司：程序合法合規",
+      "url": "https://today.line.me/tw/v3/article/rmpaMD8",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:24:00+08:00",
+      "display_at": "2026-10-22T16:24:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/93198"
+    },
+    {
       "id": "news-0584",
       "media": "鏡報 (Mirror Daily)",
       "title": "美光台中工會簽協議爆內部異議！會員連署要求撤銷授權　公司：程序合法合規 - 鏡報",
@@ -3203,6 +3277,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0922",
+      "media": "鏡報（Mirror Daily）",
+      "title": "美光勞資協商兩樣情 台中工會率先簽協議、桃園工會今正式罷工",
+      "url": "https://www.mirrordaily.news/story/93070",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0894",
@@ -5468,6 +5562,25 @@
       "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
     },
     {
+      "id": "news-0921",
+      "media": "鏡報（Mirror Daily）",
+      "title": "美光工會宣布22日罷工！怒批董事會開完仍等不到分潤方案",
+      "url": "https://www.mirrordaily.news/story/92801",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T18:52:00+08:00",
+      "display_at": "2026-10-20T18:52:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0522",
       "media": "鏡週刊（SETN syndicated copy）",
       "title": "新／宣佈了！ 美光罷工就在這天",
@@ -5562,6 +5675,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-0918",
+      "media": "東方財富網（轉載財聯社）",
+      "title": "美光桃园厂工人计划周四罢工 公司芯片生产计划或受严重影响",
+      "url": "https://finance.eastmoney.com/a/202610203901332820.html",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cls.cn/detail/2499332",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0909",
@@ -9156,6 +9288,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0920",
+      "media": "WHBL（MWA news desk，轉載 Reuters）",
+      "title": "Micron Tech chipmaker union in Taiwan gets OK to strike",
+      "url": "https://whbl.com/2026-10-07/microns-taoyuan-union-in-taiwan-secures-authorisation-to-strike",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T02:55:00-04:00",
+      "display_at": "2026-10-07T02:55:00-04:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/"
+    },
+    {
       "id": "news-0382",
       "media": "桃園市產業總工會（Threads）",
       "title": "台灣美光工會罷工投票結果公布國際記者會採訪通知",
@@ -11471,6 +11622,27 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0913",
+      "media": "Mirror Media / 鏡週刊",
+      "title": "美光釀罷工／工會出面批公司沒有誠信 拆解「薪酬68個月」話術",
+      "url": "https://www.mirrormedia.mg/story/20260915-180fin-191241",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "display_at": "2026-09-15T12:00:00+08:00",
+      "listed_at": "2026-11-05T13:20:00+08:00",
+      "last_checked_at": "2026-11-05T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0318",
