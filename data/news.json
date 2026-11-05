@@ -1,10 +1,50 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T05:32:03.601198+08:00",
-    "record_count": 941,
+    "generated_at": "2026-11-06T07:19:21.681197+08:00",
+    "record_count": 946,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0975",
+      "media": "Wealth / 財訊",
+      "title": "三星大罷工，是台灣的一面鏡子！記憶體獨強、手機家電成拖油瓶 謝金河：二次西進是自不量力",
+      "url": "https://www.wealth.com.tw/articles/2872537b-0681-44b0-8aff-60759ac00432",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T07:20:00+08:00",
+      "last_checked_at": "2026-11-06T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-0976",
+      "media": "NOWnews",
+      "title": "快訊／三星全面罷工急轉彎！工會宣布暫緩 薪資案交會員投票",
+      "url": "https://www.nownews.com/news/6838373",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T07:20:00+08:00",
+      "last_checked_at": "2026-11-06T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-0969",
       "media": "聯合報（新聞眼）",
@@ -341,6 +381,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-0977",
+      "media": "LINE TODAY (TaiSounds mirror)",
+      "title": "【更新】勞資糾紛未解！外媒爆美光「桃園新廠停工」 工會：從未做傷害公司行為",
+      "url": "https://today.line.me/tw/v3/article/EXwOg5n",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T19:59:00+08:00",
+      "listed_at": "2026-11-06T07:20:00+08:00",
+      "last_checked_at": "2026-11-06T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_mirror",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/298188",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
       "id": "news-0944",
       "media": "TaiSounds",
       "title": "【更新】勞資糾紛未解！外媒爆美光「桃園新廠停工」 工會：從未做傷害公司行為",
@@ -368,6 +427,24 @@
       "display_at": "2026-11-05T19:41:00+08:00",
       "listed_at": "2026-11-06T03:20:00+08:00",
       "last_checked_at": "2026-11-06T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0973",
+      "media": "CNA / Focus Taiwan",
+      "title": "彭博：美光科技因勞資糾紛未解 暫停桃園工廠計畫",
+      "url": "https://www.cna.com.tw/news/afe/202611053005.aspx",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T19:13:00+08:00",
+      "display_at": "2026-11-05T19:13:00+08:00",
+      "listed_at": "2026-11-06T07:20:00+08:00",
+      "last_checked_at": "2026-11-06T07:20:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -411,6 +488,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0974",
+      "media": "Liberty Times Finance",
+      "title": "美光桃園擴廠喊卡？ 經濟部回應了",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5630990",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T07:20:00+08:00",
+      "last_checked_at": "2026-11-06T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0972",
