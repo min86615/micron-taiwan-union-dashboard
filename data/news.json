@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T15:32:48.228364+08:00",
-    "record_count": 971,
+    "generated_at": "2026-11-06T17:41:13.257517+08:00",
+    "record_count": 976,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -40,6 +40,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1004",
+      "media": "Semiwebs / 芯通社 (xinliu observer, zh-Hans)",
+      "title": "美光科技已暂停桃园 Fab 11E 存储芯片工厂建设",
+      "url": "https://www.semiwebs.com/10919.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T17:30:00+08:00",
+      "last_checked_at": "2026-11-06T17:30:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1008",
+      "media": "China Worker / International Socialism (chinaworker.info, author Chen Yannian, ISA Taiwan)",
+      "title": "台湾：支持美光工人罢工（台美光晶圆科技企业工会桃园工会）",
+      "url": "https://chinaworker.info/zh-hans/2026-11-06/49619/",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T17:18:00+08:00",
+      "last_checked_at": "2026-11-06T17:18:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "activist_commentary",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0994",
@@ -216,44 +254,6 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
-      "id": "news-0969",
-      "media": "聯合報（新聞眼）",
-      "title": "新聞眼／桃園廠擴建喊停…美光重評全球投資順位",
-      "url": "https://udn.com/news/story/7240/9860806",
-      "published_date": "2026-11-06",
-      "published_at": null,
-      "display_at": "2026-11-06T12:00:00+08:00",
-      "listed_at": "2026-11-06T05:25:00+08:00",
-      "last_checked_at": "2026-11-06T05:25:00+08:00",
-      "language": "TW",
-      "topics": [
-        "美光產業"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
-    },
-    {
-      "id": "news-0970",
-      "media": "聯合報",
-      "title": "美光桃園新廠喊停 打亂在台投資布局",
-      "url": "https://udn.com/news/story/7240/9860807",
-      "published_date": "2026-11-06",
-      "published_at": null,
-      "display_at": "2026-11-06T12:00:00+08:00",
-      "listed_at": "2026-11-06T05:25:00+08:00",
-      "last_checked_at": "2026-11-06T05:25:00+08:00",
-      "language": "TW",
-      "topics": [
-        "美光產業"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
-    },
-    {
       "id": "news-0968",
       "media": "經濟日報（聯合報系）",
       "title": "勞資紛擾 美光千億投資生變…經部：持續協調磋商",
@@ -263,25 +263,6 @@
       "display_at": "2026-11-06T12:00:00+08:00",
       "listed_at": "2026-11-06T05:25:00+08:00",
       "last_checked_at": "2026-11-06T05:25:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
-    },
-    {
-      "id": "news-0967",
-      "media": "經濟日報（UDN）",
-      "title": "勞資糾紛 美光暫停建設桃園新廠",
-      "url": "https://udn.com/news/amp/story/7240/9860759",
-      "published_date": "2026-11-06",
-      "published_at": null,
-      "display_at": "2026-11-06T12:00:00+08:00",
-      "listed_at": "2026-11-06T03:20:00+08:00",
-      "last_checked_at": "2026-11-06T03:20:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -441,6 +422,60 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202611050327.aspx"
+    },
+    {
+      "id": "news-0970",
+      "media": "聯合報",
+      "title": "美光桃園新廠喊停 打亂在台投資布局",
+      "url": "https://udn.com/news/story/7240/9860807",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T01:26:00+08:00",
+      "display_at": "2026-11-06T01:26:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0969",
+      "media": "聯合報（新聞眼）",
+      "title": "新聞眼／桃園廠擴建喊停…美光重評全球投資順位",
+      "url": "https://udn.com/news/story/7240/9860806",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T01:18:00+08:00",
+      "display_at": "2026-11-06T01:18:00+08:00",
+      "listed_at": "2026-11-06T05:25:00+08:00",
+      "last_checked_at": "2026-11-06T05:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0967",
+      "media": "經濟日報（UDN）",
+      "title": "勞資糾紛 美光暫停建設桃園新廠",
+      "url": "https://udn.com/news/amp/story/7240/9860759",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T00:00:00+08:00",
+      "display_at": "2026-11-06T00:00:00+08:00",
+      "listed_at": "2026-11-06T03:20:00+08:00",
+      "last_checked_at": "2026-11-06T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0964",
@@ -694,6 +729,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1007",
+      "media": "Futu News (news.futunn.com), source: Zhitong Caijing",
+      "title": "美光(MU.US)暂停桃园建厂计画：劳资纠纷波及AI存储关键产能，全球供应链再添变数",
+      "url": "https://news.futunn.com/hk/post/1003549300/micron-muus-suspends-taoyuan-plant-construction-plans-labor-disputes-impact",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T17:24:00+08:00",
+      "last_checked_at": "2026-11-06T17:24:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1005",
+      "media": "Reuters",
+      "title": "Micron pauses work on $4.5 billion Taiwan plant, Bloomberg News reports",
+      "url": "https://www.reuters.com/world/asia-pacific/micron-pauses-work-45-billion-taiwan-plant-bloomberg-news-reports-2026-11-05",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T17:20:00+08:00",
+      "last_checked_at": "2026-11-06T17:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0993",
@@ -1144,6 +1217,25 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+    },
+    {
+      "id": "news-1006",
+      "media": "Bloomberg Japan (bloomberg.com/jp)",
+      "title": "マイクロン、台湾メモリー工場の建設を停止－労使対立の長期懸念で",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-11-05/TO0UB3KGZAJT00",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T04:28:00-05:00",
+      "display_at": "2026-11-05T04:28:00-05:00",
+      "listed_at": "2026-11-06T17:22:00+08:00",
+      "last_checked_at": "2026-11-06T17:22:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
       ],
       "status": "syndicated",
       "source_type": "media",
