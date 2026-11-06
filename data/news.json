@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T21:45:38.613385+08:00",
-    "record_count": 989,
+    "generated_at": "2026-11-06T23:19:12.895877+08:00",
+    "record_count": 992,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -33,6 +33,24 @@
       "display_at": "2026-11-06T19:39:00+08:00",
       "listed_at": "2026-11-06T21:12:00+08:00",
       "last_checked_at": "2026-11-06T21:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1022",
+      "media": "Mirror Media / Mirror News (mnews.tw)",
+      "title": "外媒曝美光桃園千億新廠因勞資問題恐停工 業內人士：一貫手法",
+      "url": "https://mnews.tw/story/mm-20261106-181fin-170311",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T17:40:00+08:00",
+      "display_at": "2026-11-06T17:40:00+08:00",
+      "listed_at": "2026-11-06T23:30:00+08:00",
+      "last_checked_at": "2026-11-06T23:30:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -149,6 +167,46 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1023",
+      "media": "joho-todai.com (JP)",
+      "title": "Micronの台湾新工場Fab 11E、労使対立で建設がほぼ停止。2028年のHBM・DRAM増産計画に不透明感",
+      "url": "https://joho-todai.com/micron-taiwan-fab-11e-construction-halted-hbm-dram",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T23:30:00+08:00",
+      "last_checked_at": "2026-11-06T23:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1024",
+      "media": "DataCenterDynamics",
+      "title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan - report",
+      "url": "https://datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T23:30:00+08:00",
+      "last_checked_at": "2026-11-06T23:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1016",
