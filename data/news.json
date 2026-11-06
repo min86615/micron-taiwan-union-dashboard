@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T01:17:55.783714+08:00",
-    "record_count": 996,
+    "generated_at": "2026-11-07T03:33:35.901426+08:00",
+    "record_count": 1005,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -40,6 +40,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1035",
+      "media": "Yahoo News（公視 PNN 轉載）",
+      "title": "美光允開發員工獎酬計算系統 擬11/17召開第4次勞資協商",
+      "url": "https://tw.news.yahoo.com/美光允開發員工獎酬計算系統-擬11-17召開第4次勞資協商-113939504.html",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T19:39:00+08:00",
+      "display_at": "2026-11-06T19:39:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.pts.org.tw/article/834680"
     },
     {
       "id": "news-1017",
@@ -163,6 +181,24 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1030",
+      "media": "工商時報 Commercial Times",
+      "title": "美光台灣45億美元新廠傳暫緩！海外擴產腳步不停，新加坡豪砸240億美元布局NAND、HBM雙廠",
+      "url": "https://www.ctee.com.tw/news/20261106701078-431202",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T13:51:00+08:00",
+      "display_at": "2026-11-06T13:51:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
@@ -1803,6 +1839,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1034",
+      "media": "Yahoo News（中廣 BCC 轉載）",
+      "title": "美光罷工演變為內鬨 桃園工會偕台中勞工抗議台中工會黑箱撤案",
+      "url": "https://tw.news.yahoo.com/美光罷工演變為內鬨-桃園工會偕台中勞工抗議台中工會黑箱撤案-083058733.html",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T16:30:00+08:00",
+      "display_at": "2026-11-03T16:30:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://bccnews.com.tw/archives/826013"
+    },
+    {
       "id": "news-0827",
       "media": "LIFE.tw mirror of BCC News (Chinese Broadcasting Company)",
       "title": "美光罷工演變為內鬨 桃園工會偕台中勞工抗議台中工會黑箱撤案",
@@ -2023,6 +2078,63 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1036",
+      "media": "經濟日報 UDN（money.udn 鏡像，CNA 稿）",
+      "title": "台灣美光盧東暉：新獎酬制度總體薪酬約成長2.7倍",
+      "url": "https://money.udn.com/money/story/5612/9854847",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202611030231.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1031",
+      "media": "boerse-express (DE)",
+      "title": "Micron Aktie: Taoyuan-Gewerkschaft bleibt ohne Einigung",
+      "url": "https://www.boerse-express.com/news/articles/micron-aktie-taoyuan-gewerkschaft-bleibt-ohne-einigung-958689",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "DE",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1029",
+      "media": "Events in Focus（獨立媒體）",
+      "title": "美光罷工》10/21黑箱爭議 中科：於法有據",
+      "url": "https://eventsinfocus.org/news/7148531",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0966",
@@ -2819,6 +2931,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1033",
+      "media": "PChome 新聞（愛傳媒 轉載）",
+      "title": "美光勞資談判兩地分歧 桃園工會赴勞動部抗議",
+      "url": "https://news.pchome.com.tw/living/imedia/20261028/index-79317980026631287009.html",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T17:30:00+08:00",
+      "display_at": "2026-10-28T17:30:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.i-meihua.com/Article/Detail/58346"
     },
     {
       "id": "news-0707",
@@ -4574,6 +4704,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1037",
+      "media": "經濟日報 UDN（amp 鏡像，CNA 稿）",
+      "title": "美光回應工會訴求獎酬升級 增季度分潤獎金結構調薪",
+      "url": "https://money.udn.com/money/amp/story/5612/9831697",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T17:24:00+08:00",
+      "display_at": "2026-10-22T17:24:00+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610220264.aspx"
+    },
+    {
       "id": "news-0578",
       "media": "中央社（CNA）",
       "title": "美光回應工會訴求獎酬升級 增季度分潤獎金結構調薪",
@@ -5962,6 +6111,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan"
+    },
+    {
+      "id": "news-1032",
+      "media": "PChome 股市（NOWnews 轉載）",
+      "title": "協商無果！台灣美光桃園工會今罷工24小時",
+      "url": "https://pchome.megatime.com.tw/news/cat1/20261022/79263174907282207003.html",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T09:15:49+08:00",
+      "display_at": "2026-10-22T09:15:49+08:00",
+      "listed_at": "2026-11-07T03:20:00+08:00",
+      "last_checked_at": "2026-11-07T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.nownews.com/news/6885479"
     },
     {
       "id": "news-0609",
