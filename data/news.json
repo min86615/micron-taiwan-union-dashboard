@@ -1,10 +1,49 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T07:19:21.681197+08:00",
-    "record_count": 946,
+    "generated_at": "2026-11-06T09:27:52.473177+08:00",
+    "record_count": 950,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0979",
+      "media": "工商時報（CTEE）",
+      "title": "美光桃園擴廠傳喊卡 勞資續協商",
+      "url": "https://ctee.com.tw/news/20261106700086-439901",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0981",
+      "media": "Yahoo Finance (Future syndication mirror)",
+      "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute — company and union still haven't reached agreement as latter asks for clearer profit-sharing terms",
+      "url": "https://finance.yahoo.com/technology/articles/microns-4-5-billion-taoyuan-142830543.html",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-0975",
       "media": "Wealth / 財訊",
@@ -488,6 +527,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0980",
+      "media": "自由時報（財經版 stock.ltn）",
+      "title": "美光傳暫緩2028年桃園擴廠 工會：有心人士藉此施壓",
+      "url": "https://stock.ltn.com.tw/article/3ff7ypxmly9v",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5630998",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0974",
@@ -3526,6 +3584,24 @@
       "language": "TW",
       "topics": [
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0982",
+      "media": "NNA／Yahoo!ニュース",
+      "title": "【台湾】マイクロン、四半期ごとに利益分配＝27年度から（NNA）",
+      "url": "https://news.yahoo.co.jp/articles/92506fe5f09c987bf2e27c505b007239efa0c254",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T11:30:00+09:00",
+      "display_at": "2026-10-23T11:30:00+09:00",
+      "listed_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
