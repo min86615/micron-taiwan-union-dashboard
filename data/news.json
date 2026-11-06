@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T03:33:35.901426+08:00",
-    "record_count": 1005,
+    "generated_at": "2026-11-07T07:18:43.619786+08:00",
+    "record_count": 1007,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1027,6 +1027,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1042",
+      "media": "China Times (中時新聞網)",
+      "title": "傳美光1480億元桃園擴廠計畫喊停！外媒曝：原因為勞資糾紛",
+      "url": "https://www.chinatimes.com/realtimenews/20261105004925-260410",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T19:33:00+08:00",
+      "display_at": "2026-11-05T19:33:00+08:00",
+      "listed_at": "2026-11-07T07:25:00+08:00",
+      "last_checked_at": "2026-11-07T07:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "independently authored China Times report",
       "duplicate_of": null
     },
     {
@@ -2323,6 +2341,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://ntyc.kbro.com.tw/K09/about-news-detail_6_0_636_558227.html"
+    },
+    {
+      "id": "news-1041",
+      "media": "SETN (SET newspaper / 三立)",
+      "title": "美光與台中工會一般性協議遭反對 勞長：可循訴訟處理",
+      "url": "https://sjtv.com.tw/articles/120288",
+      "published_date": "2026-11-02",
+      "published_at": null,
+      "display_at": "2026-11-02T12:00:00+08:00",
+      "listed_at": "2026-11-07T07:25:00+08:00",
+      "last_checked_at": "2026-11-07T07:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "watchlist-derived (SETN surfaced via CNA source query)",
+      "duplicate_of": "https://www.cna.com.tw/news/ahel/202611020148.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0812",
