@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T17:41:13.257517+08:00",
-    "record_count": 976,
+    "generated_at": "2026-11-06T19:48:09.879263+08:00",
+    "record_count": 982,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1009",
+      "media": "中國時報（中時新聞網）",
+      "title": "美光勞資3度協商仍無共識！獎酬系統下周上線 17日再戰",
+      "url": "https://www.chinatimes.com/realtimenews/20261106003875-260405",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T17:32:00+08:00",
+      "display_at": "2026-11-06T17:32:00+08:00",
+      "listed_at": "2026-11-06T19:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1012",
+      "media": "聯合報（UDN）",
+      "title": "美光桃園新廠傳暫緩 勞資協調下午登場 張善政將出席",
+      "url": "https://money.udn.com/money/story/7307/9861801",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T14:13:25+08:00",
+      "display_at": "2026-11-06T14:13:25+08:00",
+      "listed_at": "2026-11-06T19:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0996",
       "media": "PTS / 公視新聞 PNN",
@@ -14,7 +50,7 @@
       "published_at": "2026-11-06T14:13:00+08:00",
       "display_at": "2026-11-06T14:13:00+08:00",
       "listed_at": "2026-11-06T15:20:00+08:00",
-      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -32,7 +68,7 @@
       "published_at": "2026-11-06T13:21:00+08:00",
       "display_at": "2026-11-06T13:21:00+08:00",
       "listed_at": "2026-11-06T15:20:00+08:00",
-      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -40,6 +76,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1010",
+      "media": "自由時報 LTN",
+      "title": "美光勞資第三次協商仍無共識 訂17日再協商",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5631981",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T19:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1011",
+      "media": "聯合報（UDN）",
+      "title": "美光桃園廠勞資協商 張善政：盡力達成雙方滿意協議",
+      "url": "https://udn.com/news/story/6656/9862001",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-06T19:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-06 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1004",
@@ -145,7 +219,7 @@
       "published_at": null,
       "display_at": "2026-11-06T12:00:00+08:00",
       "listed_at": "2026-11-06T11:16:00+08:00",
-      "last_checked_at": "2026-11-06T11:16:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -164,7 +238,7 @@
       "published_at": null,
       "display_at": "2026-11-06T12:00:00+08:00",
       "listed_at": "2026-11-06T11:15:00+08:00",
-      "last_checked_at": "2026-11-06T11:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -202,7 +276,7 @@
       "published_at": null,
       "display_at": "2026-11-06T12:00:00+08:00",
       "listed_at": "2026-11-06T09:30:00+08:00",
-      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -357,7 +431,7 @@
       "published_at": null,
       "display_at": "2026-11-06T12:00:00+08:00",
       "listed_at": "2026-11-06T01:12:00+08:00",
-      "last_checked_at": "2026-11-06T01:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "SC",
       "topics": [
         "美光產業"
@@ -376,7 +450,7 @@
       "published_at": null,
       "display_at": "2026-11-06T12:00:00+08:00",
       "listed_at": "2026-11-05T23:10:00+08:00",
-      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -396,7 +470,7 @@
       "published_at": "2026-11-06T09:59:00+08:00",
       "display_at": "2026-11-06T09:59:00+08:00",
       "listed_at": "2026-11-06T15:20:00+08:00",
-      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -422,6 +496,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202611050327.aspx"
+    },
+    {
+      "id": "news-1014",
+      "media": "lavx.hu JP (copy of Tom's Hardware)",
+      "title": "マイクロンの45億ドル・桃園工場の建設が労働争議で中断 — 会社と労働組合は依然として合意に至らず、組合側はより明確な利益分配条件を要求",
+      "url": "https://news.lavx.hu/ja/article/maikuron-no-45-oku-doru-momozono-kojo-no-kensetsu-ga-rodo-sogi-de-chudan-kaisha-to-rodo-kumiai-wa-izentoshite-goi-ni-itara-zu-kumiai-gawa-wa-yori-meikaku-na-rieki-bumpai-joken-o-yokyu",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T08:20:00+00:00",
+      "display_at": "2026-11-06T08:20:00+00:00",
+      "listed_at": "2026-11-06T19:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_syndication",
+      "duplicate_of": "https://tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms"
     },
     {
       "id": "news-0970",
@@ -468,7 +560,7 @@
       "published_at": "2026-11-06T00:00:00+08:00",
       "display_at": "2026-11-06T00:00:00+08:00",
       "listed_at": "2026-11-06T03:20:00+08:00",
-      "last_checked_at": "2026-11-06T03:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -522,7 +614,7 @@
       "published_at": "2026-11-05T21:30:00+08:00",
       "display_at": "2026-11-05T21:30:00+08:00",
       "listed_at": "2026-11-05T23:10:00+08:00",
-      "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -731,6 +823,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1013",
+      "media": "Mezha JP (copy of Tom's Hardware)",
+      "title": "利益配分をめぐる対立で、Micronが桃園の建設を一時停止",
+      "url": "https://mezha.net/jp/news/mezha-b65b984a221323a09199dadc_micron-pauses-construction-at-taoyuan-site",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-06T19:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_syndication",
+      "duplicate_of": "https://tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1007",
       "media": "Futu News (news.futunn.com), source: Zhitong Caijing",
       "title": "美光(MU.US)暂停桃园建厂计画：劳资纠纷波及AI存储关键产能，全球供应链再添变数",
@@ -758,7 +869,7 @@
       "published_at": null,
       "display_at": "2026-11-05T12:00:00+08:00",
       "listed_at": "2026-11-06T17:20:00+08:00",
-      "last_checked_at": "2026-11-06T17:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "EN",
       "topics": [
         "美光產業"
@@ -853,7 +964,7 @@
       "published_at": null,
       "display_at": "2026-11-05T12:00:00+08:00",
       "listed_at": "2026-11-06T09:30:00+08:00",
-      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -1195,7 +1306,7 @@
       "published_at": "2026-11-05T08:54:28.932000+00:00",
       "display_at": "2026-11-05T08:54:28.932000+00:00",
       "listed_at": "2026-11-05T19:12:00+08:00",
-      "last_checked_at": "2026-11-05T23:15:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資"
@@ -2546,7 +2657,7 @@
       "published_at": "2026-10-28T16:39:35+08:00",
       "display_at": "2026-10-28T16:39:35+08:00",
       "listed_at": "2026-10-29T09:20:00+08:00",
-      "last_checked_at": "2026-10-29T09:20:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -2734,7 +2845,7 @@
       "published_at": "2026-10-27T19:04:02+08:00",
       "display_at": "2026-10-27T19:04:02+08:00",
       "listed_at": "2026-10-27T21:13:38+08:00",
-      "last_checked_at": "2026-10-28T21:20:31.543829+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -3970,7 +4081,7 @@
       "published_at": "2026-10-23T11:30:00+09:00",
       "display_at": "2026-10-23T11:30:00+09:00",
       "listed_at": "2026-11-06T09:30:00+08:00",
-      "last_checked_at": "2026-11-06T09:30:00+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "JP",
       "topics": [
         "美光產業"
@@ -4136,7 +4247,7 @@
       "published_at": "2026-10-22T18:02:24+08:00",
       "display_at": "2026-10-22T18:02:24+08:00",
       "listed_at": "2026-10-23T01:05:25+08:00",
-      "last_checked_at": "2026-10-27T15:18:59+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅"
@@ -5222,7 +5333,7 @@
       "published_at": null,
       "display_at": "2026-10-22T12:00:00+08:00",
       "listed_at": "2026-10-23T03:08:23+08:00",
-      "last_checked_at": "2026-10-23T03:08:23+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "罷工"
@@ -5452,7 +5563,7 @@
       "published_at": "2026-10-22T11:30:00+09:00",
       "display_at": "2026-10-22T11:30:00+09:00",
       "listed_at": "2026-10-29T07:34:30+08:00",
-      "last_checked_at": "2026-10-29T07:34:30+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資"
@@ -5861,7 +5972,7 @@
       "published_at": "2026-10-21T18:35:11+08:00",
       "display_at": "2026-10-21T18:35:11+08:00",
       "listed_at": "2026-10-21T21:12:29+08:00",
-      "last_checked_at": "2026-10-27T15:18:59+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -6554,7 +6665,7 @@
       "published_at": null,
       "display_at": "2026-10-21T12:00:00+08:00",
       "listed_at": "2026-10-29T07:34:30+08:00",
-      "last_checked_at": "2026-10-29T07:34:30+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -9214,7 +9325,7 @@
       "published_at": "2026-10-07T21:26:38+08:00",
       "display_at": "2026-10-07T21:26:38+08:00",
       "listed_at": "2026-10-08T19:13:46.390743+08:00",
-      "last_checked_at": "2026-10-27T15:18:59+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
@@ -9270,7 +9381,7 @@
       "published_at": "2026-10-07T20:43:23+08:00",
       "display_at": "2026-10-07T20:43:23+08:00",
       "listed_at": "2026-10-08T01:02:30.518522+08:00",
-      "last_checked_at": "2026-10-16T11:20:07+08:00",
+      "last_checked_at": "2026-11-06T19:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
