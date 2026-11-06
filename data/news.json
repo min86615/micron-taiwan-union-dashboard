@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-11-06T13:14:38.084151+08:00",
-    "record_count": 963,
+    "generated_at": "2026-11-06T15:32:48.228364+08:00",
+    "record_count": 971,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-0996",
+      "media": "PTS / 公視新聞 PNN",
+      "title": "彭博：美光勞資糾紛未解 擬暫緩桃園千億擴廠計畫",
+      "url": "https://news.pts.org.tw/article/834566",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T14:13:00+08:00",
+      "display_at": "2026-11-06T14:13:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-0997",
+      "media": "Focus Taiwan / CNA English edition",
+      "title": "Micron says Taiwan operations normal amid reported Taoyuan project halt",
+      "url": "https://focustaiwan.tw/business/202611060009",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T13:21:00+08:00",
+      "display_at": "2026-11-06T13:21:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-0994",
       "media": "news.china.com (reprint of Kuaikexi via Sina roll)",
@@ -369,6 +405,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-0998",
+      "media": "Cnyes / 鉅亨網",
+      "title": "美光傳因勞資爭議喊卡45億美元桃園擴廠計畫 勞動部今上火線協調",
+      "url": "https://m.cnyes.com/news/id/6649665",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T09:59:00+08:00",
+      "display_at": "2026-11-06T09:59:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0992",
@@ -1076,6 +1130,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1000",
+      "media": "Futu News (news.futunn.com) flash",
+      "title": "美光因勞資糾紛暫停中國臺灣桃園45億美元存儲芯片廠建設",
+      "url": "https://news.futunn.com/hk/flash/1003543544/micron-suspends-construction-of-4-5-billion-memory-chip-plant",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T04:57:00+08:00",
+      "display_at": "2026-11-05T04:57:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
     },
     {
       "id": "news-0940",
@@ -2444,6 +2516,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-0999",
+      "media": "Yahoo News TW (Newtalk distribution mirror)",
+      "title": "桃園美光二次協商再破局 要求資方實際試算分紅無果",
+      "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E7%BE%8E%E5%85%89%E4%BA%8C%E6%AC%A1%E5%8D%94%E5%95%86%E5%86%8D%E7%A0%B4%E5%B1%80-%E8%A6%81%E6%B1%82%E8%B3%87%E6%96%B9%E5%AF%A6%E9%9A%9B%E8%A9%A6%E7%AE%97%E5%88%86%E7%B4%85%E7%84%A1%E6%9E%9C-083337819.html",
+      "published_date": "2026-10-28",
+      "published_at": null,
+      "display_at": "2026-10-28T12:00:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-10-28/1067880",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0906",
@@ -7501,6 +7592,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1001",
+      "media": "Futu News (news.futunn.com) citing Cailianshe (cls.cn)",
+      "title": "美光桃園廠工人計劃週四罷工 公司芯片生產計劃或受嚴重影響",
+      "url": "https://news.futunn.com/hk/post/1001635360/micron-taoyuan-plant-workers-plan-thursday-strike-company-s-chip",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T04:27:00+08:00",
+      "display_at": "2026-10-20T04:27:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0759",
       "media": "TradingKey JP",
       "title": "15%の利益分配をめぐる対立が注目を集める中、マイクロン台湾の従業員が10月22日にストライキへ",
@@ -10493,6 +10602,25 @@
       "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/"
     },
     {
+      "id": "news-1003",
+      "media": "Futu News (news.futunn.com) flash",
+      "title": "美光桃園工會獲得罷工授權",
+      "url": "https://news.futunn.com/hk/flash/1000642871/micron-taoyuan-union-secures-strike-authorization",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T02:28:00+08:00",
+      "display_at": "2026-10-07T02:28:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0382",
       "media": "桃園市產業總工會（Threads）",
       "title": "台灣美光工會罷工投票結果公布國際記者會採訪通知",
@@ -11807,6 +11935,25 @@
       "display_at": "2026-09-21T09:00:00+08:00",
       "listed_at": "2026-09-21T17:07:55.526893+08:00",
       "last_checked_at": "2026-09-23T09:06:52.720168+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1002",
+      "media": "Futu News (news.futunn.com) flash",
+      "title": "美光科技(MU.O)：公司曾請求繼續與中國臺灣桃園工會進行調解，但該請求遭到拒絕。",
+      "url": "https://news.futunn.com/hk/flash/20762762/micron-technology-muo-the-company-had-requested-to-continue-mediation",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T08:37:00+08:00",
+      "display_at": "2026-09-21T08:37:00+08:00",
+      "listed_at": "2026-11-06T15:20:00+08:00",
+      "last_checked_at": "2026-11-06T15:20:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
