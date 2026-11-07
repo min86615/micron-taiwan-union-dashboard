@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T07:18:43.619786+08:00",
-    "record_count": 1007,
+    "generated_at": "2026-11-07T09:26:16.248779+08:00",
+    "record_count": 1010,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1044",
+      "media": "SETN Setn News (setn.com; source credit Mirrormedia)",
+      "title": "外媒曝美光桃園千億新廠因勞資問題恐停工 業內人士：一貫手法",
+      "url": "https://www.setn.com/news/1934764",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T23:20:00+08:00",
+      "display_at": "2026-11-06T23:20:00+08:00",
+      "listed_at": "2026-11-07T09:20:00+08:00",
+      "last_checked_at": "2026-11-07T09:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1027",
       "media": "經濟日報 UDN（money.udn 鏡像）",
@@ -22,6 +40,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://udn.com/news/story/7238/9862457"
+    },
+    {
+      "id": "news-1046",
+      "media": "Economic Daily / UDN",
+      "title": "3度勞資爭議協商 美光獎酬系統下周上線",
+      "url": "https://udn.com/news/story/7240/9862947",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T19:48:00+08:00",
+      "listed_at": "2026-11-07T09:25:00+08:00",
+      "last_checked_at": "2026-11-07T09:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7238/9862644",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1015",
@@ -19298,6 +19335,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1045",
+      "media": "The Japan Times",
+      "title": "Micron breaks ground on $9 billion western Japan plant expansion",
+      "url": "https://www.japantimes.co.jp/business/2026-07-04/tech/micron-hiroshima-chip-plant",
+      "published_date": "2026-07-04",
+      "published_at": null,
+      "display_at": "2026-07-04T12:00:00+08:00",
+      "listed_at": "2026-11-07T09:25:00+08:00",
+      "last_checked_at": "2026-11-07T09:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0929",
