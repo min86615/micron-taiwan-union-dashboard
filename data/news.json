@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T09:27:48.296712+08:00",
-    "record_count": 1010,
+    "generated_at": "2026-11-07T11:16:25.115020+08:00",
+    "record_count": 1014,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1050",
+      "media": "Futu News (news.futunn.com), source Tencent Tech",
+      "title": "数据中心风暴引发科技股暴跌！是AI交易结束还是市场反应过度？",
+      "url": "https://news.futunn.com/post/1003670167/a-data-center-storm-has-sent-tech-stocks-plummeting-is",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-07T12:00:00+08:00",
+      "listed_at": "2026-11-07T11:22:00+08:00",
+      "last_checked_at": "2026-11-07T11:22:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-07 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1048",
+      "media": "IEK Industry Info Network (reprint of United Daily News joint report)",
+      "title": "3度協商 美光獎酬系統下周上線",
+      "url": "https://ieknet.iek.org.tw/ieknews/news_more.aspx?actiontype=ieknews&indu_idno=1&nsl_id=6b38099ebed64253986821ab70e9796d",
+      "published_date": "2026-11-07",
+      "published_at": "2026-11-07T00:00:00+08:00",
+      "display_at": "2026-11-07T00:00:00+08:00",
+      "listed_at": "2026-11-07T11:20:00+08:00",
+      "last_checked_at": "2026-11-07T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://money.udn.com/money/story/5648/9862644"
+    },
     {
       "id": "news-1044",
       "media": "SETN Setn News (setn.com; source credit Mirrormedia)",
@@ -107,6 +144,24 @@
       "listed_at": "2026-11-06T21:12:00+08:00",
       "last_checked_at": "2026-11-06T21:12:00+08:00",
       "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1049",
+      "media": "Econotimes",
+      "title": "Micron Says Taiwan Operations Normal as Taoyuan Union Talks End Without Deal",
+      "url": "https://econotimes.com/Micron-Says-Taiwan-Operations-Normal-as-Taoyuan-Union-Talks-End-Without-Deal-1772184",
+      "published_date": "2026-11-07",
+      "published_at": "2026-11-06T17:45:00+00:00",
+      "display_at": "2026-11-06T17:45:00+00:00",
+      "listed_at": "2026-11-07T11:15:00+08:00",
+      "last_checked_at": "2026-11-07T11:15:00+08:00",
+      "language": "EN",
       "topics": [
         "工會／勞資"
       ],
@@ -19366,6 +19421,24 @@
       "listed_at": "2026-11-05T15:20:00+08:00",
       "last_checked_at": "2026-11-05T15:20:00+08:00",
       "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1051",
+      "media": "Futu News (news.futunn.com)",
+      "title": "Micron Technology Options Spot-On: On November 7th, 311.12K Contracts Were Traded, With 1.83 Million Open Interest",
+      "url": "https://news.futunn.com/en/post/64609862/micron-technology-options-spot-on-on-november-7th-311-12k",
+      "published_date": "2025-11-07",
+      "published_at": "2025-11-07T13:30:00+00:00",
+      "display_at": "2025-11-07T13:30:00+00:00",
+      "listed_at": "2026-11-07T11:25:00+08:00",
+      "last_checked_at": "2026-11-07T11:25:00+08:00",
+      "language": "EN",
       "topics": [
         "美光產業"
       ],
