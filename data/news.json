@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T15:23:36.012991+08:00",
-    "record_count": 1021,
+    "generated_at": "2026-11-07T17:19:45.944576+08:00",
+    "record_count": 1024,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4206,6 +4206,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1065",
+      "media": "LINE TODAY (Mirror Media syndication)",
+      "title": "美光罷工藏變數2／成功分化台中、桃園工會 員工嘆：一手好牌被公司沒收",
+      "url": "https://today.line.me/tw/v3/article/0MWn8GG",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T15:50:00+08:00",
+      "display_at": "2026-10-23T15:50:00+08:00",
+      "listed_at": "2026-11-07T17:20:00+08:00",
+      "last_checked_at": "2026-11-07T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261023-180fin-151835"
     },
     {
       "id": "news-0643",
@@ -14560,6 +14579,25 @@
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
+      "id": "news-1063",
+      "media": "国际电子商情 (International Electronic Business Monthly / eMedia)",
+      "title": "美光发68个月史上最高奖金，中国台湾工会仍不接受",
+      "url": "https://www.esmchina.com/news/14590.html",
+      "published_date": "2026-09-14",
+      "published_at": null,
+      "display_at": "2026-09-14T12:00:00+08:00",
+      "listed_at": "2026-11-07T17:20:00+08:00",
+      "last_checked_at": "2026-11-07T17:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0923",
       "media": "Yahoo News TW (太報 TaiSounds distribution page)",
       "title": "美光工會反擊獎酬方案：一次性獎金無法取代制度改革 將推動朝罷工前進",
@@ -19525,6 +19563,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1064",
+      "media": "富途资讯 / 芯智讯 (Futu News, SC)",
+      "title": "效仿三星！美光台湾工会计划罢工！",
+      "url": "https://news.futunn.com/post/76974495",
+      "published_date": "2026-08-02",
+      "published_at": null,
+      "display_at": "2026-08-02T12:00:00+08:00",
+      "listed_at": "2026-11-07T17:20:00+08:00",
+      "last_checked_at": "2026-11-07T17:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1045",
