@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T13:29:52.229517+08:00",
-    "record_count": 1017,
+    "generated_at": "2026-11-07T15:23:36.012991+08:00",
+    "record_count": 1021,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -77,6 +77,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://udn.com/news/story/7238/9862457"
+    },
+    {
+      "id": "news-1058",
+      "media": "World Journal 世界新聞網",
+      "title": "台勞資三度協商仍無共識 美光獎酬系統下周上線",
+      "url": "https://www.worldjournal.com/wj/story/121220/9863698",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T19:48:00+08:00",
+      "listed_at": "2026-11-07T15:20:00+08:00",
+      "last_checked_at": "2026-11-07T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7238/9862644",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1046",
@@ -1778,6 +1797,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100"
+    },
+    {
+      "id": "news-1061",
+      "media": "Liberty Times Finance (自由時報財富自由)",
+      "title": "美光勞資協商爆爭議 洪申翰：協議具法律效力 爭議須走民事訴訟",
+      "url": "https://stock.ltn.com.tw/article/5sf6jq2ypjeg",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-07T15:18:00+08:00",
+      "last_checked_at": "2026-11-07T15:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1055",
@@ -10766,6 +10804,27 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1059",
+      "media": "Stocktwits via Yahoo Finance",
+      "title": "MU Stock Slides For Fourth Day: Taiwan Union Reportedly Secures Strike Authorization Over Bonus Dispute",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-slides-fourth-day-114918967.html",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-07T15:15:00+08:00",
+      "last_checked_at": "2026-11-07T15:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0897",
       "media": "China Times 中国时报",
       "title": "美光桃園工會取得罷工權 揚言聯手台中廠突襲",
@@ -11739,6 +11798,25 @@
       "status": "reported",
       "source_type": "analysis",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1060",
+      "media": "財訊雙週刊 (Wealth Magazine)",
+      "title": "美光財報亮眼、台灣投資衝上1.6兆元！4大廠區同步擴建 台灣供應鏈名單出列",
+      "url": "https://www.wealth.com.tw/articles/a95fd91d-7fdb-4b17-8695-58313ef667b0",
+      "published_date": "2026-10-01",
+      "published_at": null,
+      "display_at": "2026-10-01T12:00:00+08:00",
+      "listed_at": "2026-11-07T15:18:00+08:00",
+      "last_checked_at": "2026-11-07T15:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0377",
