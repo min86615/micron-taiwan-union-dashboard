@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T23:17:40.202215+08:00",
-    "record_count": 1042,
+    "generated_at": "2026-11-08T01:16:36.546607+08:00",
+    "record_count": 1044,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -518,6 +518,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1086",
+      "media": "公視晚間新聞（PTS Evening News, official YouTube channel）",
+      "title": "美光允開發員工獎酬計算系統 擬11/17召開第4次勞資協商｜20261106 公視晚間新聞",
+      "url": "https://www.youtube.com/watch?v=takVmVbu8wg",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-08T01:24:00+08:00",
+      "last_checked_at": "2026-11-08T01:24:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "broadcast",
+      "duplicate_of": "https://news.pts.org.tw/article/834680",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1076",
@@ -7256,6 +7275,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1087",
+      "media": "Lufkin Daily News (Reuters wire republication)",
+      "title": "Micron, Taiwan union sign deal, withdraw from mediation",
+      "url": "https://lufkindailynews.com/news_reuters/business/micron-taiwan-union-sign-deal-withdraw-from-mediation/article_b12c0666-0ce7-5957-b23b-596bbac14c48.html",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-08T01:24:00+08:00",
+      "last_checked_at": "2026-11-08T01:24:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1073",
