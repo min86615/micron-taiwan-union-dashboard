@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T11:16:25.115020+08:00",
-    "record_count": 1014,
+    "generated_at": "2026-11-07T13:29:52.229517+08:00",
+    "record_count": 1017,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1194,6 +1194,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1052",
+      "media": "Liberty Times Finance (Liberty Times Financial, stock.ltn.com.tw)",
+      "title": "Micron Taoyuan expansion paused? MOEA responds",
+      "url": "https://stock.ltn.com.tw/article/4t4pufgt0nl3",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-07T13:22:00+08:00",
+      "last_checked_at": "2026-11-07T13:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1013",
       "media": "Mezha JP (copy of Tom's Hardware)",
       "title": "利益配分をめぐる対立で、Micronが桃園の建設を一時停止",
@@ -1631,6 +1650,25 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-05 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
+      "id": "news-1054",
+      "media": "BigGo Finance JP (translation of Bloomberg News)",
+      "title": "Micron halts $4.5B Taiwan memory plant construction, prolonged labor dispute cited as cause",
+      "url": "https://finance.biggo.jp/news/1aaaf8cd-26b9-4b3f-aaeb-7c38506e7fa5",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T10:26:08+00:00",
+      "display_at": "2026-11-05T10:26:08+00:00",
+      "listed_at": "2026-11-07T13:22:00+08:00",
+      "last_checked_at": "2026-11-07T13:22:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+    },
+    {
       "id": "news-0952",
       "media": "World Journal 世界新聞網",
       "title": "彭博：美光暫停45億美元桃園擴廠計畫 因勞資糾紛未解",
@@ -1740,6 +1778,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100"
+    },
+    {
+      "id": "news-1055",
+      "media": "Futu News technical-analysis column (news.futunn.com)",
+      "title": "Micron has pulled back to its 200-day moving average, can it gain effective support?",
+      "url": "https://news.futunn.com/post/1003526015/micron-has-pulled-back-to-its-200-day-moving-average",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-07T13:22:00+08:00",
+      "last_checked_at": "2026-11-07T13:22:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1021",
