@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T21:26:14.565835+08:00",
-    "record_count": 1040,
+    "generated_at": "2026-11-07T23:17:40.202215+08:00",
+    "record_count": 1042,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -22,6 +22,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1084",
+      "media": "TradingView / Seeking Alpha (news flash)",
+      "title": "Micron suspends work on $4.5B Taiwan plant amid labor dispute: Bloomberg",
+      "url": "https://tradingview.com/news/seekingalpha:781a1d2ab094b:0-micron-suspends-work-on-4-5b-taiwan-plant-amid-labor-dispute-bloomberg",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-07T12:00:00+08:00",
+      "listed_at": "2026-11-07T23:16:00+08:00",
+      "last_checked_at": "2026-11-07T23:16:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-07 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1075",
@@ -98,6 +117,24 @@
       ],
       "status": "reported",
       "source_type": "aggregator",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1085",
+      "media": "Cnyes / 鉅亨網",
+      "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑",
+      "url": "https://m.cnyes.com/news/id/6651785",
+      "published_date": "2026-11-07",
+      "published_at": "2026-11-07T05:52:00+08:00",
+      "display_at": "2026-11-07T05:52:00+08:00",
+      "listed_at": "2026-11-07T23:16:00+08:00",
+      "last_checked_at": "2026-11-07T23:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
