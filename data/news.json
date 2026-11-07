@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T03:18:55.248293+08:00",
-    "record_count": 1045,
+    "generated_at": "2026-11-08T05:21:13.091339+08:00",
+    "record_count": 1049,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1090",
+      "media": "Traders Union (translated copy)",
+      "title": "Micron、労組が賃上げ要求 台湾工場の建設を一時停止",
+      "url": "https://tradersunion.com/ja/news/companies/show/4109201-micron-pauses-taiwan-plant",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-08T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:30:00+08:00",
+      "last_checked_at": "2026-11-08T05:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_translation",
+      "duplicate_of": "https://tradersunion.com/it/news/companies/show/4109168-micron-pauses-taiwan-plant",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-08 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1071",
       "media": "China Times (中時新聞網)",
@@ -518,6 +537,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1092",
+      "media": "ABC Color (EFE copy)",
+      "title": "Micron paraliza construcción de una planta en Taiwán por disputa laboral, según Bloomberg",
+      "url": "https://www.abc.com.py/internacionales/2026-11-06/micron-paraliza-construccion-de-una-planta-en-taiwan-por-disputa-laboral-segun-bloomberg",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:30:00+08:00",
+      "last_checked_at": "2026-11-08T05:30:00+08:00",
+      "language": "ES",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_wire_copy",
+      "duplicate_of": "https://infobae.com/tecno/2026-11-05/micron-freno-una-planta-de-memorias-de-usd-4500-millones-en-taiwan-por-un-conflicto-laboral",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1088",
@@ -1493,6 +1531,25 @@
       "status": "reported",
       "source_type": "aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1091",
+      "media": "Mezha (EN copy of Tom's Hardware)",
+      "title": "Micron pauses construction at Taoyuan site amid profit-sharing dispute",
+      "url": "https://mezha.net/eng/news/mezha-b65b984a221323a09199dadc_micron_pauses_construction",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:30:00+08:00",
+      "last_checked_at": "2026-11-08T05:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_copy",
+      "duplicate_of": "https://tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1056",
@@ -5672,6 +5729,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1089",
+      "media": "NNA (Nikkei Nikkei Asian Review wire)",
+      "title": "マイクロン、四半期ごとに利益分配＝27年度から",
+      "url": "https://www.nna.jp/news/2980394",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:30:00+08:00",
+      "last_checked_at": "2026-11-08T05:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_wire",
+      "duplicate_of": "https://news.yahoo.co.jp/articles/92506fe5f09c987bf2e27c505b007239efa0c254",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1070",
