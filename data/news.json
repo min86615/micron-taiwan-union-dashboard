@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-07T19:29:45.178492+08:00",
-    "record_count": 1031,
+    "generated_at": "2026-11-07T21:26:14.565835+08:00",
+    "record_count": 1040,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -22,6 +22,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1075",
+      "media": "Seoul Economic Daily English (AI PRISM summary page)",
+      "title": "Micron Halts Taiwan HBM Plant Work Amid Bonus Dispute",
+      "url": "https://en.sedaily.com/finance/2026-11-07/micron-halts-taiwan-hbm-plant-work-amid-bonus-dispute",
+      "published_date": "2026-11-07",
+      "published_at": null,
+      "display_at": "2026-11-07T12:00:00+08:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.sedaily.com/article/20111335",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1072",
@@ -62,6 +82,25 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-07 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
+      "id": "news-1081",
+      "media": "AI123 newshub (Guandian-derived summary)",
+      "title": "Micron halts US$4.5 billion DRAM plant build in Taiwan as strike vote stands",
+      "url": "https://ai123.com/newshub/17595",
+      "published_date": "2026-11-07",
+      "published_at": "2026-11-07T09:10:00+00:00",
+      "display_at": "2026-11-07T09:10:00+00:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "aggregator",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1049",
       "media": "IEK Industry Info Network (reprint of United Daily News joint report)",
       "title": "3度協商 美光獎酬系統下周上線",
@@ -98,6 +137,25 @@
       "duplicate_of": "https://mnews.tw/story/mm-20261106-181fin-170311"
     },
     {
+      "id": "news-1078",
+      "media": "中央社 CNA (UDN money mirror)",
+      "title": "美光：已安排下次調解會議 與桃園工會繼續討論",
+      "url": "https://money.udn.com/money/story/5612/9862751",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T20:54:37+08:00",
+      "display_at": "2026-11-06T20:54:37+08:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202611060324.aspx"
+    },
+    {
       "id": "news-1025",
       "media": "經濟日報 UDN（money.udn 鏡像）",
       "title": "美光勞資協商新進展 獎酬計算系統下周上線 勞資協議17日再協商",
@@ -114,6 +172,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://udn.com/news/story/7238/9862457"
+    },
+    {
+      "id": "news-1077",
+      "media": "聯合報 UDN (money path copy)",
+      "title": "美光桃園廠勞資爭議第三次協商未果 雙方說法出爐",
+      "url": "https://money.udn.com/money/story/5648/9862644",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T20:12:30+08:00",
+      "display_at": "2026-11-06T20:12:30+08:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7238/9862644"
     },
     {
       "id": "news-1062",
@@ -202,6 +278,24 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1074",
+      "media": "Seoul Economic Daily (서울경제)",
+      "title": "'성과급 합의 실패' 마이크론, 대만 신공장 건설 중단",
+      "url": "https://www.sedaily.com/article/20111335",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T18:26:00+09:00",
+      "display_at": "2026-11-06T18:26:00+09:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "KR",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -387,6 +481,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1076",
+      "media": "自由時報 LTN (amp copy)",
+      "title": "美光勞資第三次協商仍無共識 訂17日再協商",
+      "url": "https://news.ltn.com.tw/amp/news/Taoyuan/breakingnews/5631981",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5631981",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1069",
@@ -1289,6 +1402,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1083",
+      "media": "BigGo Finance (JP)",
+      "title": "美光（Micron）桃園1,500億円新工場に停工報道 労使紛争で明日3回目協議",
+      "url": "https://finance.biggo.jp/news/50ef0adc-b0f0-4291-b884-5edeb880c983",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T12:26:08+00:00",
+      "display_at": "2026-11-05T12:26:08+00:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "aggregator",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1056",
       "media": "Liberty Times Finance (Liberty Times Financial, stock.ltn.com.tw)",
       "title": "Micron Taoyuan expansion paused? MOEA responds",
@@ -1873,6 +2004,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100"
+    },
+    {
+      "id": "news-1079",
+      "media": "中評社 CRNTT (Beijing server)",
+      "title": "美光劳资争议搞不定 洪申翰说明",
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&docid=160285100&kindid=0",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1060",
@@ -2679,6 +2829,25 @@
       "source_type": "media",
       "duplicate_of": "https://www.businessweekly.com.tw/focus/blog/3023482",
       "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1080",
+      "media": "网易号 / 快科技 (163 repost)",
+      "title": "AI造富神话：美光中国台湾700名员工喜提5年薪水！",
+      "url": "https://m.163.com/dy/article/LAJLGL6E0511CPVM.html",
+      "published_date": "2026-10-31",
+      "published_at": null,
+      "display_at": "2026-10-31T12:00:00+08:00",
+      "listed_at": "2026-11-07T21:25:00+08:00",
+      "last_checked_at": "2026-11-07T21:25:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0800",
