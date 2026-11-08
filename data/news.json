@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T09:22:32.855986+08:00",
-    "record_count": 1055,
+    "generated_at": "2026-11-08T11:15:22.515218+08:00",
+    "record_count": 1056,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1099",
+      "media": "Yahoo News TW (UDN feed mirror)",
+      "title": "3度勞資爭議協商 美光獎酬系統下周上線",
+      "url": "https://news.yahoo.com/3%E5%BA%A6%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0%E5%8D%94%E5%95%86-%E7%BE%8E%E5%85%89%E7%8D%8E%E9%85%AC%E7%B3%BB%E7%B5%B1%E4%B8%8B%E5%91%A8%E4%B8%8A%E7%B7%9A-223248782.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-08T12:00:00+08:00",
+      "listed_at": "2026-11-08T11:20:00+08:00",
+      "last_checked_at": "2026-11-08T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7240/9862947",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-08 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1090",
       "media": "Traders Union (translated copy)",
