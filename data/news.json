@@ -1,12 +1,12 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T15:28:57.177225+08:00",
-    "record_count": 1060,
+    "generated_at": "2026-11-08T17:22:20.955010+08:00",
+    "record_count": 1064,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
     {
-      "id": "news-1099",
+      "id": "news-1104",
       "media": "Yahoo News TW (UDN feed mirror)",
       "title": "3度勞資爭議協商 美光獎酬系統下周上線",
       "url": "https://news.yahoo.com/3%E5%BA%A6%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0%E5%8D%94%E5%95%86-%E7%BE%8E%E5%85%89%E7%8D%8E%E9%85%AC%E7%B3%BB%E7%B5%B1%E4%B8%8B%E5%91%A8%E4%B8%8A%E7%B7%9A-223248782.html",
@@ -62,7 +62,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1084",
+      "id": "news-1085",
       "media": "TradingView / Seeking Alpha (news flash)",
       "title": "Micron suspends work on $4.5B Taiwan plant amid labor dispute: Bloomberg",
       "url": "https://tradingview.com/news/seekingalpha:781a1d2ab094b:0-micron-suspends-work-on-4-5b-taiwan-plant-amid-labor-dispute-bloomberg",
@@ -81,7 +81,7 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-07 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
-      "id": "news-1075",
+      "id": "news-1076",
       "media": "Seoul Economic Daily English (AI PRISM summary page)",
       "title": "Micron Halts Taiwan HBM Plant Work Amid Bonus Dispute",
       "url": "https://en.sedaily.com/finance/2026-11-07/micron-halts-taiwan-hbm-plant-work-amid-bonus-dispute",
@@ -139,7 +139,7 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-07 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
-      "id": "news-1081",
+      "id": "news-1074",
       "media": "AI123 newshub (Guandian-derived summary)",
       "title": "Micron halts US$4.5 billion DRAM plant build in Taiwan as strike vote stands",
       "url": "https://ai123.com/newshub/17595",
@@ -158,7 +158,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1085",
+      "id": "news-1084",
       "media": "Cnyes / 鉅亨網",
       "title": "〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑",
       "url": "https://m.cnyes.com/news/id/6651785",
@@ -212,7 +212,7 @@
       "duplicate_of": "https://mnews.tw/story/mm-20261106-181fin-170311"
     },
     {
-      "id": "news-1078",
+      "id": "news-1079",
       "media": "中央社 CNA (UDN money mirror)",
       "title": "美光：已安排下次調解會議 與桃園工會繼續討論",
       "url": "https://money.udn.com/money/story/5612/9862751",
@@ -249,7 +249,7 @@
       "duplicate_of": "https://udn.com/news/story/7238/9862457"
     },
     {
-      "id": "news-1077",
+      "id": "news-1080",
       "media": "聯合報 UDN (money path copy)",
       "title": "美光桃園廠勞資爭議第三次協商未果 雙方說法出爐",
       "url": "https://money.udn.com/money/story/5648/9862644",
@@ -359,7 +359,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1074",
+      "id": "news-1083",
       "media": "Seoul Economic Daily (서울경제)",
       "title": "'성과급 합의 실패' 마이크론, 대만 신공장 건설 중단",
       "url": "https://www.sedaily.com/article/20111335",
@@ -468,7 +468,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1093",
+      "id": "news-1098",
       "media": "Mirror Weekly (鏡週刊)",
       "title": "美光暫停桃園新廠工程 供應鏈證實接獲通知曝下一步動向",
       "url": "https://mnews.tw/story/mm-20261106-180fin-145727",
@@ -576,7 +576,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1097",
+      "id": "news-1102",
       "media": "Yahoo News TW (Liberty Times feed mirror)",
       "title": "美光勞資第三次協商仍無共識 訂17日再協商",
       "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%8D%94%E5%95%86%E4%BB%8D%E7%84%A1%E5%85%B1%E8%AD%98-%E8%A8%8217%E6%97%A5%E5%86%8D%E5%8D%94%E5%95%86-100416897.html",
@@ -595,7 +595,7 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-1092",
+      "id": "news-1091",
       "media": "ABC Color (EFE copy)",
       "title": "Micron paraliza construcción de una planta en Taiwán por disputa laboral, según Bloomberg",
       "url": "https://www.abc.com.py/internacionales/2026-11-06/micron-paraliza-construccion-de-una-planta-en-taiwan-por-disputa-laboral-segun-bloomberg",
@@ -614,7 +614,7 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-1102",
+      "id": "news-1097",
       "media": "Xenospectrum (Japan)",
       "title": "Micronの台湾新工場Fab 11E、労使対立で建設がほぼ停止",
       "url": "https://xenospectrum.com/micron-taoyuan-construction-pause-labor",
@@ -652,7 +652,7 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-1086",
+      "id": "news-1087",
       "media": "公視晚間新聞（PTS Evening News, official YouTube channel）",
       "title": "美光允開發員工獎酬計算系統 擬11/17召開第4次勞資協商｜20261106 公視晚間新聞",
       "url": "https://www.youtube.com/watch?v=takVmVbu8wg",
@@ -671,7 +671,7 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-1076",
+      "id": "news-1081",
       "media": "自由時報 LTN (amp copy)",
       "title": "美光勞資第三次協商仍無共識 訂17日再協商",
       "url": "https://news.ltn.com.tw/amp/news/Taoyuan/breakingnews/5631981",
@@ -1265,6 +1265,24 @@
       "duplicate_of": "https://tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms"
     },
     {
+      "id": "news-1109",
+      "media": "Mirror Daily (鏡報)",
+      "title": "勞資爭議衝擊擴產？外媒爆美光暫停桃園新廠工程 工會：沒有理由放緩",
+      "url": "https://www.mirrordaily.news/story/96061",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T06:55:00+08:00",
+      "display_at": "2026-11-06T06:55:00+08:00",
+      "listed_at": "2026-11-08T17:15:00+08:00",
+      "last_checked_at": "2026-11-08T17:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0970",
       "media": "聯合報",
       "title": "美光桃園新廠喊停 打亂在台投資布局",
@@ -1590,7 +1608,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1083",
+      "id": "news-1077",
       "media": "BigGo Finance (JP)",
       "title": "美光（Micron）桃園1,500億円新工場に停工報道 労使紛争で明日3回目協議",
       "url": "https://finance.biggo.jp/news/50ef0adc-b0f0-4291-b884-5edeb880c983",
@@ -1608,7 +1626,26 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1091",
+      "id": "news-1106",
+      "media": "Yahoo Finance HK (Cnyes/鉅亨網 syndication feed)",
+      "title": "美光桃園新廠傳暫緩施工！最高45億美元投資遇變數 勞資爭議未解",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E6%96%B0%E5%BB%A0%E5%82%B3%E6%9A%AB%E7%B7%A9%E6%96%BD%E5%B7%A5-%E6%9C%80%E9%AB%9845%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87%E9%81%87%E8%AE%8A%E6%95%B8-%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0%E6%9C%AA%E8%A7%A3-133007694.html",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-08T17:15:00+08:00",
+      "last_checked_at": "2026-11-08T17:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6648995",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1089",
       "media": "Mezha (EN copy of Tom's Hardware)",
       "title": "Micron pauses construction at Taoyuan site amid profit-sharing dispute",
       "url": "https://mezha.net/eng/news/mezha-b65b984a221323a09199dadc_micron_pauses_construction",
@@ -2213,7 +2250,7 @@
       "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100"
     },
     {
-      "id": "news-1079",
+      "id": "news-1075",
       "media": "中評社 CRNTT (Beijing server)",
       "title": "美光劳资争议搞不定 洪申翰说明",
       "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&docid=160285100&kindid=0",
@@ -2718,7 +2755,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1096",
+      "id": "news-1099",
       "media": "PChome News (Jin Bao / 勁報)",
       "title": "美光公司台中廠勞資簽署協議 中科管理局：於法有據，尊重雙方協議",
       "url": "https://news.pchome.com.tw/living/twpowernews/20261103/index-17937099012237947009.html",
@@ -2982,7 +3019,7 @@
       "duplicate_of": "https://ntyc.kbro.com.tw/K09/about-news-detail_6_0_636_558227.html"
     },
     {
-      "id": "news-1104",
+      "id": "news-1093",
       "media": "FTV / 民視新聞網",
       "title": "美光發獎金！員工一覺醒來136萬入袋 嗨喊「改去冰島過耶誕」",
       "url": "https://news.ftv.com.tw/news/detail/2026B02F05M1",
@@ -3057,7 +3094,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1095",
+      "id": "news-1101",
       "media": "TechNews (via Business Weekly licensed reprint)",
       "title": "同公司兩樣情！台中簽密約、桃園拉布條，解析美光勞資角力的三方算計",
       "url": "https://finance.technews.tw/2026-11-01/taiwan-semiconductor-industry-first-legal-strike-11-protestors-micron-negotiations-stalled",
@@ -3095,7 +3132,7 @@
       "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-1080",
+      "id": "news-1078",
       "media": "网易号 / 快科技 (163 repost)",
       "title": "AI造富神话：美光中国台湾700名员工喜提5年薪水！",
       "url": "https://m.163.com/dy/article/LAJLGL6E0511CPVM.html",
@@ -3240,7 +3277,7 @@
       "duplicate_of": "https://news.cnyes.com/news/id/6642085"
     },
     {
-      "id": "news-1098",
+      "id": "news-1103",
       "media": "CNA / Focus Taiwan",
       "title": "台灣美光獎酬今入帳 逾700名員工年領超過60個月",
       "url": "https://www.cna.com.tw/news/afe/202610300264.aspx",
@@ -3865,7 +3902,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1103",
+      "id": "news-1096",
       "media": "Taiwan Post / Press Union (梅花新聞網)",
       "title": "美光勞資談判兩地分歧 桃園工會赴勞動部抗議",
       "url": "https://www.taiwanpost.net/2026/meihua/179160",
@@ -5919,7 +5956,7 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1094",
+      "id": "news-1100",
       "media": "Gate News (Japanese)",
       "title": "マイクロン桃園工場の労組、10月22日に台湾の半導体業界でストライキ開始へ",
       "url": "https://gate.com/ja/news/detail/MU/micron-taoyuan-union-launches-taiwan-semiconductor-strike-on-october-22-25130275",
@@ -5940,7 +5977,7 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
-      "id": "news-1089",
+      "id": "news-1092",
       "media": "NNA (Nikkei Nikkei Asian Review wire)",
       "title": "マイクロン、四半期ごとに利益分配＝27年度から",
       "url": "https://www.nna.jp/news/2980394",
@@ -7581,7 +7618,27 @@
       "duplicate_of": null
     },
     {
-      "id": "news-1087",
+      "id": "news-1107",
+      "media": "Central Oregon Daily News (BLOX/Reuters wire copy)",
+      "title": "Micron faces strike from one Taiwan union after deal with another",
+      "url": "https://www.centraloregondaily.com/news/consumer/micron-faces-strike-from-one-taiwan-union-after-deal-with-another/article_3654993d-0404-57bb-bcc2-ffefb2631695.html",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-08T17:15:00+08:00",
+      "last_checked_at": "2026-11-08T17:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1086",
       "media": "Lufkin Daily News (Reuters wire republication)",
       "title": "Micron, Taiwan union sign deal, withdraw from mediation",
       "url": "https://lufkindailynews.com/news_reuters/business/micron-taiwan-union-sign-deal-withdraw-from-mediation/article_b12c0666-0ce7-5957-b23b-596bbac14c48.html",
@@ -8493,6 +8550,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-1108",
+      "media": "HK CNS / 香港中國通訊社 (hkcna.hk)",
+      "title": "美光科技桃園工會擬發起罷工 要求改革分紅制度",
+      "url": "https://www.hkcna.hk/hk/content/s6ad73289e4b0e4e6f3d6337d.html",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-08T17:15:00+08:00",
+      "last_checked_at": "2026-11-08T17:15:00+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0913",
