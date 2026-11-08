@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T11:15:22.515218+08:00",
-    "record_count": 1056,
+    "generated_at": "2026-11-08T13:22:14.251285+08:00",
+    "record_count": 1059,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -611,6 +611,25 @@
       "status": "syndicated",
       "source_type": "syndicated_wire_copy",
       "duplicate_of": "https://infobae.com/tecno/2026-11-05/micron-freno-una-planta-de-memorias-de-usd-4500-millones-en-taiwan-por-un-conflicto-laboral",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1102",
+      "media": "Xenospectrum (Japan)",
+      "title": "Micronの台湾新工場Fab 11E、労使対立で建設がほぼ停止",
+      "url": "https://xenospectrum.com/micron-taoyuan-construction-pause-labor",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:20:57.229742+00:00",
+      "last_checked_at": "2026-11-08T05:20:57.229742+00:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
@@ -2963,6 +2982,25 @@
       "duplicate_of": "https://ntyc.kbro.com.tw/K09/about-news-detail_6_0_636_558227.html"
     },
     {
+      "id": "news-1104",
+      "media": "FTV / 民視新聞網",
+      "title": "美光發獎金！員工一覺醒來136萬入袋 嗨喊「改去冰島過耶誕」",
+      "url": "https://news.ftv.com.tw/news/detail/2026B02F05M1",
+      "published_date": "2026-11-02",
+      "published_at": null,
+      "display_at": "2026-11-02T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:20:57.229742+00:00",
+      "last_checked_at": "2026-11-08T05:20:57.229742+00:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1041",
       "media": "SETN (SET newspaper / 三立)",
       "title": "美光與台中工會一般性協議遭反對 勞長：可循訴訟處理",
@@ -3807,6 +3845,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1103",
+      "media": "Taiwan Post / Press Union (梅花新聞網)",
+      "title": "美光勞資談判兩地分歧 桃園工會赴勞動部抗議",
+      "url": "https://www.taiwanpost.net/2026/meihua/179160",
+      "published_date": "2026-10-28",
+      "published_at": null,
+      "display_at": "2026-10-28T12:00:00+08:00",
+      "listed_at": "2026-11-08T05:20:57.229742+00:00",
+      "last_checked_at": "2026-11-08T05:20:57.229742+00:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1003",
