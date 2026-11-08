@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T13:22:14.251285+08:00",
-    "record_count": 1059,
+    "generated_at": "2026-11-08T15:28:57.177225+08:00",
+    "record_count": 1060,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3220,6 +3220,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1105",
+      "media": "BigGo Finance JP",
+      "title": "Micron Taiwanの報酬支給、生産ライン従業員700人の年収が60カ月分超に",
+      "url": "https://finance.biggo.jp/news/131eec08-16ca-4d98-b059-076743c1f935",
+      "published_date": "2026-10-30",
+      "published_at": "2026-10-30T15:05:41+00:00",
+      "display_at": "2026-10-30T15:05:41+00:00",
+      "listed_at": "2026-11-08T15:28:44.100830+08:00",
+      "last_checked_at": "2026-11-08T15:28:44.100830+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6642085"
     },
     {
       "id": "news-1098",
