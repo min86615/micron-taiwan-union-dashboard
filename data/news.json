@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T23:21:47.940386+08:00",
-    "record_count": 1071,
+    "generated_at": "2026-11-09T01:20:46.826153+08:00",
+    "record_count": 1072,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -20474,6 +20474,25 @@
       "language": "SC",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1119",
+      "media": "47NEWS / China Newspaper",
+      "title": "半導体大手マイクロン、東広島の工場で新棟起工式 来日したCEOが語った「未来」",
+      "url": "https://47news.jp/14677833.html",
+      "published_date": "2026-07-24",
+      "published_at": null,
+      "display_at": "2026-07-24T12:00:00+08:00",
+      "listed_at": "2026-11-09T01:25:00+08:00",
+      "last_checked_at": "2026-11-09T01:25:00+08:00",
+      "language": "JP",
+      "topics": [
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
