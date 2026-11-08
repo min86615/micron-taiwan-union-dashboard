@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T01:20:46.826153+08:00",
-    "record_count": 1072,
+    "generated_at": "2026-11-09T03:28:36.967340+08:00",
+    "record_count": 1078,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1701,6 +1701,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1120",
+      "media": "Storm Media (風傳媒)",
+      "title": "美光在台「45億美元擴廠計畫」因罷工喊卡？桃園工會質疑：有心人士藉機施壓",
+      "url": "https://www.storm.mg/article/11178948",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-09T03:20:00+08:00",
+      "last_checked_at": "2026-11-09T03:28:32.267732+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1117",
       "media": "Gate News",
       "title": "Micron Halts Construction on $3-4.5B Taiwan Memory Plant Amid Labor Disputes",
@@ -2345,6 +2365,25 @@
       "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=160285100"
     },
     {
+      "id": "news-1124",
+      "media": "Taiwan News",
+      "title": "GlobalWafers board approves Micron convertible bond deal",
+      "url": "https://www.taiwannews.com.tw/news/6472022",
+      "published_date": "2026-11-04",
+      "published_at": null,
+      "display_at": "2026-11-04T12:00:00+08:00",
+      "listed_at": "2026-11-09T03:20:00+08:00",
+      "last_checked_at": "2026-11-09T03:28:32.267732+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1075",
       "media": "中評社 CRNTT (Beijing server)",
       "title": "美光劳资争议搞不定 洪申翰说明",
@@ -2848,6 +2887,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1125",
+      "media": "Taiwan News",
+      "title": "Lai unveils three-part plan to turn Taiwan into Asian financial hub",
+      "url": "https://www.taiwannews.com.tw/news/6471100",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-09T03:20:00+08:00",
+      "last_checked_at": "2026-11-09T03:28:32.267732+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1099",
@@ -6049,6 +6107,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1122",
+      "media": "經濟日報（UDN）",
+      "title": "美光與桃園工會協商未達成共識 工會幹部罷工1天",
+      "url": "https://money.udn.com/money/story/5612/9830192",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-09T03:20:00+08:00",
+      "last_checked_at": "2026-11-09T03:28:32.267732+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_wire_copy",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610220037.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1100",
@@ -13835,6 +13913,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1123",
+      "media": "旺得富理財網（中國時報系，時報記者葉時安）",
+      "title": "《科技》美光首次勞資調解落幕 10月22日再協商",
+      "url": "https://wantrich.chinatimes.com/news/20260919900108-420101",
+      "published_date": "2026-09-19",
+      "published_at": null,
+      "display_at": "2026-09-19T12:00:00+08:00",
+      "listed_at": "2026-11-09T03:20:00+08:00",
+      "last_checked_at": "2026-11-09T03:28:32.267732+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0739",
       "media": "工商時報（转载自中央社）",
       "title": "美光與工會首次調解談3議題 10月22日續會、公司承諾不秋後算帳",
@@ -16260,6 +16358,26 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-1121",
+      "media": "Yahoo Finance US (Investing.com copy)",
+      "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-offers-taiwan-workers-68-115655223.html",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-11-09T03:20:00+08:00",
+      "last_checked_at": "2026-11-09T03:28:32.267732+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_mirror",
+      "duplicate_of": "https://www.investing.com/news/stock-market-news/micron-offers-taiwan-workers-up-to-68month-bonuses-as-strike-threat-looms-4897688",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0895",
