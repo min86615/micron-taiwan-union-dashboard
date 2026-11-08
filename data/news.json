@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T21:26:08.987112+08:00",
-    "record_count": 1069,
+    "generated_at": "2026-11-08T23:21:47.940386+08:00",
+    "record_count": 1071,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1699,6 +1699,26 @@
       "status": "reported",
       "source_type": "aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1117",
+      "media": "Gate News",
+      "title": "Micron Halts Construction on $3-4.5B Taiwan Memory Plant Amid Labor Disputes",
+      "url": "https://www.gate.com/news/detail/micron-halts-construction-on-3-45b-taiwan-memory-plant-amid-labor-disputes-25431260",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-08T23:20:00+08:00",
+      "last_checked_at": "2026-11-08T23:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1106",
@@ -8625,6 +8645,27 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-1118",
+      "media": "Traders Union",
+      "title": "Micron Taiwan unions escalate bonus dispute with strike action",
+      "url": "https://tradersunion.com/news/companies/show/3883828-micron-taiwan-union-strike-bonus/",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-08T23:22:00+08:00",
+      "last_checked_at": "2026-11-08T23:22:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1108",
