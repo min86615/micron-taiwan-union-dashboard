@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-08T17:22:20.955010+08:00",
-    "record_count": 1064,
+    "generated_at": "2026-11-08T19:25:02.946232+08:00",
+    "record_count": 1067,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1110",
+      "media": "Liberty Times Finance (ec.ltn.com.tw)",
+      "title": "桃產總主導罷工遭質疑！美光工程師爆：恐非單純為員工福祉",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5633666",
+      "published_date": "2026-11-08",
+      "published_at": "2026-11-08T16:17:00+08:00",
+      "display_at": "2026-11-08T16:17:00+08:00",
+      "listed_at": "2026-11-08T19:20:00+08:00",
+      "last_checked_at": "2026-11-08T19:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1104",
       "media": "Yahoo News TW (UDN feed mirror)",
@@ -574,6 +592,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1111",
+      "media": "Eastmoney / Eastmoney Finance (source credited: Cailianshe)",
+      "title": "美光据悉将停止在台湾地区新建工厂！劳资纠纷成阻碍扩张关键原因",
+      "url": "https://finance.eastmoney.com/a/202611063924790423.html",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-08T19:15:00+08:00",
+      "last_checked_at": "2026-11-08T19:15:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1102",
@@ -14672,6 +14709,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1112",
+      "media": "Futu News flash (富途牛牛 快讯)",
+      "title": "中国台湾地区的美光工会拒绝美光科技上周公布的奖酬方案，并要求建立奖金基础提高至营业利润15%的长期机制",
+      "url": "https://news.futunn.com/flash/20744256/the-micron-technology-union-in-the-taiwan-region-of-china",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "display_at": "2026-09-15T12:00:00+08:00",
+      "listed_at": "2026-11-08T19:12:00+08:00",
+      "last_checked_at": "2026-11-08T19:12:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "aggregator",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0927",
