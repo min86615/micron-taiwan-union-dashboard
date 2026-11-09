@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T03:28:36.967340+08:00",
-    "record_count": 1078,
+    "generated_at": "2026-11-09T09:17:39.274854+08:00",
+    "record_count": 1080,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1126",
+      "media": "Gate News",
+      "title": "Micron Pauses Taiwan Factory After SK Hynix Bonus Policy Sparks Labor Demands",
+      "url": "https://gate.com/news/detail/MU/micron-pauses-taiwan-factory-after-sk-hynix-bonus-policy-sparks-labor-25497248",
+      "published_date": "2026-11-09",
+      "published_at": null,
+      "display_at": "2026-11-09T12:00:00+08:00",
+      "listed_at": "2026-11-09T09:35:00+08:00",
+      "last_checked_at": "2026-11-09T09:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "aggregator (AI key-takeaways summary; page disclaimer states content may come from third-party sources)",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1110",
       "media": "Liberty Times Finance (ec.ltn.com.tw)",
@@ -6107,6 +6127,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1127",
+      "media": "Epoch Times (Taiwan)",
+      "title": "回應工會訴求 美光祭出新獎金制度",
+      "url": "https://www.epochtimes.com.tw/n516541/%E5%9B%9E%E6%87%92%E5%B7%A5%E6%9C%83%E8%A8%B4%E6%B1%82-%E7%BE%8E%E5%85%89%E7%A5%AD%E5%87%BA%E6%96%B0%E7%8D%8E%E9%87%91%E5%88%B6%E5%BA%A6.html",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-09T09:35:00+08:00",
+      "last_checked_at": "2026-11-09T09:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "same-article URL variant of recorded master",
+      "duplicate_of": "https://www.epochtimes.com/gb/26/10/22/n14874804.htm",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1122",
