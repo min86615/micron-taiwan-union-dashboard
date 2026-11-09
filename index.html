@@ -167,9 +167,10 @@ function isoDate(date) { return date.toISOString().slice(0,10); }
 function temporalSeries(items, requestedMode='auto') {
   const days=Number($('trendWindow').value||0);
   const cutoff=days>0?trendCutoff(days):null;
-  const windowItems=days>0?items.filter(x=>{const d=parseDateOnly(displayDate(x));return d&&isoDate(d)>=cutoff;}):items;
-  const dates=windowItems.map(x=>parseDateOnly(displayDate(x))).filter(Boolean);
-  const noDate=items.filter(x=>!parseDateOnly(displayDate(x))).length;
+  const verifiedDate=x=>parseDateOnly((x.published_at||x.published_date||'').slice(0,10));
+  const windowItems=days>0?items.filter(x=>{const d=verifiedDate(x);return d&&isoDate(d)>=cutoff;}):items.filter(verifiedDate);
+  const dates=windowItems.map(verifiedDate).filter(Boolean);
+  const noDate=items.filter(x=>!verifiedDate(x)).length;
   const excluded=days>0?items.length-noDate-windowItems.length:0;
   const span=dates.length?Math.round((Math.max(...dates)-Math.min(...dates))/86400000)+1:0;
   const mode=requestedMode==='auto'?(days>0&&days<=31?'day':(span<=180?'week':'month')):requestedMode;
@@ -200,7 +201,8 @@ function renderCharts(items) {
   const media=topWithOther(countBy(items,x=>mediaFamily(x.media)),12);
   const language=countBy(items,x=>x.language);
   const topic={}; items.forEach(x=>(x.topics||[]).forEach(t=>topic[t]=(topic[t]||0)+1));
-  $('dailyTitle').textContent=`報導趨勢（${trend.windowText}｜${trend.granularity}）`+(Number($('trendWindow').value)>0?`｜視窗外 ${trend.excluded} 筆未畫`+(trend.noDate?`、無日期 ${trend.noDate} 筆不計`:''):'');
+  const w=Number($('trendWindow').value);
+  $('dailyTitle').textContent=`報導趨勢（${trend.windowText}｜${trend.granularity}）`+((w>0&&trend.excluded)?`｜視窗外 ${trend.excluded} 筆未畫`:'')+((trend.noDate)?`、未核實發布日期 ${trend.noDate} 筆不計`:'');
   [['dailyChart',{type:'bar',data:{labels:trend.labels,datasets:[{label:'篇數',data:trend.data,backgroundColor:'#2855d9',borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,scales:{x:{ticks:{maxRotation:0,autoSkip:true}},y:{beginAtZero:true,ticks:{precision:0}}},plugins:{legend:{display:false}}}}],
    ['languageChart',{type:'doughnut',data:{labels:Object.keys(language),datasets:[{data:Object.values(language),backgroundColor:colors}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}}}}],
    ['mediaChart',{type:'bar',data:{labels:media.map(x=>x[0]).reverse(),datasets:[{label:'篇數',data:media.map(x=>x[1]).reverse(),backgroundColor:'#e78435',borderRadius:4}]},options:horizontalOptions()}],
