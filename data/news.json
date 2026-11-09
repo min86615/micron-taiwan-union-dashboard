@@ -1,10 +1,64 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T21:26:52.243748+08:00",
-    "record_count": 1092,
+    "generated_at": "2026-11-09T23:22:56.783730+08:00",
+    "record_count": 1099,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1155",
+      "media": "每日经济新闻 nbd.com.cn",
+      "title": "美股集体高开，英伟达跌超7%…丨每经晚参",
+      "url": "https://www.nbd.com.cn/articles/2026-11-09/4643002.html",
+      "published_date": "2026-11-09",
+      "published_at": "2026-11-09T22:36:47+08:00",
+      "display_at": "2026-11-09T22:36:47+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1154",
+      "media": "每日经济新闻 nbd.com.cn",
+      "title": "美股存储板块盘初普涨，美光涨1.87%，闪迪涨1.68%",
+      "url": "https://www.nbd.com.cn/articles/2026-11-09/4642998.html",
+      "published_date": "2026-11-09",
+      "published_at": "2026-11-09T22:33:37+08:00",
+      "display_at": "2026-11-09T22:33:37+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "news_site (AI market flash)",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1148",
+      "media": "三立新聞網 SETN",
+      "title": "桃產總主導罷工 美光工程師質疑：背後出發點不單純",
+      "url": "https://www.setn.com/news/1936172",
+      "published_date": "2026-11-09",
+      "published_at": "2026-11-09T21:00:00+08:00",
+      "display_at": "2026-11-09T21:00:00+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null
+    },
     {
       "id": "news-1126",
       "media": "Gate News",
@@ -24,6 +78,24 @@
       "source_type": "aggregator (AI key-takeaways summary; page disclaimer states content may come from third-party sources)",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1156",
+      "media": "經濟日報（UDN）市場焦點",
+      "title": "11月9日盤前／國安基金＋限空令雙刀救市 台股力拼保衛4萬點",
+      "url": "https://money.udn.com/money/story/5607/9865999",
+      "published_date": "2026-11-09",
+      "published_at": "2026-11-09T08:33:27+08:00",
+      "display_at": "2026-11-09T08:33:27+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null
     },
     {
       "id": "news-1142",
@@ -630,6 +702,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1152",
+      "media": "鉅亨網 Cnyes（列印頁）",
+      "title": "美光傳因勞資爭議喊卡45億美元桃園擴廠計畫 勞動部今上火線協調（列印頁）",
+      "url": "https://m.cnyes.com/news/print/6649665",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "print-view URL variant of recorded master",
+      "duplicate_of": "https://news.cnyes.com/news/id/6649665",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1136",
@@ -1362,6 +1453,24 @@
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
+      "id": "news-1151",
+      "media": "鉅亨網 Cnyes",
+      "title": "美光傳因勞資爭議喊卡45億美元桃園擴廠計畫 勞動部今上火線協調",
+      "url": "https://news.cnyes.com/news/id/6649665",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T09:59:00+08:00",
+      "display_at": "2026-11-06T09:59:00+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "same-article URL variant of recorded master",
+      "duplicate_of": "https://m.cnyes.com/news/id/6649665"
+    },
+    {
       "id": "news-0997",
       "media": "Cnyes / 鉅亨網",
       "title": "美光傳因勞資爭議喊卡45億美元桃園擴廠計畫 勞動部今上火線協調",
@@ -1558,6 +1667,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5630998"
+    },
+    {
+      "id": "news-1150",
+      "media": "鉅亨網 Cnyes",
+      "title": "美光桃園新廠傳暫緩施工！最高45億美元投資遇變數 勞資爭議未解",
+      "url": "https://m.cnyes.com/news/id/6648995",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T21:30:00+08:00",
+      "display_at": "2026-11-05T21:30:00+08:00",
+      "listed_at": "2026-11-09T23:20:00+08:00",
+      "last_checked_at": "2026-11-09T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null
     },
     {
       "id": "news-0945",
