@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T17:15:58.922607+08:00",
-    "record_count": 1084,
+    "generated_at": "2026-11-09T19:20:27.671338+08:00",
+    "record_count": 1086,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1139",
+      "media": "Yahoo 股市 TW (Knews reporter content; original Knews article URL not recoverable)",
+      "title": "88.3%高票過關！台灣美光桃園工會取得罷工權　19日上凱道、不排除「突襲式罷工」",
+      "url": "https://tw.stock.yahoo.com/news/88-3-%E9%AB%98%E7%A5%A8%E9%81%8E%E9%97%9C-%E5%8F%B0%E7%81%A3%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E5%8F%96%E5%BE%97%E7%BD%B7%E5%B7%A5%E6%AC%8A-19%E6%97%A5%E4%B8%8A%E5%87%B1%E9%81%93-082300278.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-09T12:00:00+08:00",
+      "listed_at": "2026-11-09T19:30:00+08:00",
+      "last_checked_at": "2026-11-09T19:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "news_site",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-09 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1126",
       "media": "Gate News",
@@ -8839,6 +8859,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
+    },
+    {
+      "id": "news-1138",
+      "media": "LINE TODAY TW (SETN mirror)",
+      "title": "快訊／宣佈了！　美光罷工就在這天",
+      "url": "https://today.line.me/tw/v3/article/yzG3wjy",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-09T19:20:00+08:00",
+      "last_checked_at": "2026-11-09T19:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.setn.com/news/1925642",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1118",
