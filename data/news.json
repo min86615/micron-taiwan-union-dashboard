@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T15:18:51.143436+08:00",
-    "record_count": 1083,
+    "generated_at": "2026-11-09T17:15:58.922607+08:00",
+    "record_count": 1084,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -7885,6 +7885,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1137",
+      "media": "TradingKey（繁中版，AI 翻譯）",
+      "title": "儘管美光與台中工會達成協議，桃園工會仍如期啟動24小時罷工",
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262231151-micron-taichung-plant-union-agreement-taoyuan-union-24-hour-strike-tradingkey",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-09T17:25:00+08:00",
+      "last_checked_at": "2026-11-09T17:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262231170-micron-taichung-plant-union-agreement-taoyuan-union-24-hour-strike-tradingkey",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1107",
