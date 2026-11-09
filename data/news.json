@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T09:17:39.274854+08:00",
-    "record_count": 1080,
+    "generated_at": "2026-11-09T11:38:13.393961+08:00",
+    "record_count": 1082,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -612,6 +612,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1132",
+      "media": "聯合報（UDN）",
+      "title": "美光桃園廠勞資爭議第三次協商未果 雙方說法出爐",
+      "url": "https://udn.com/news/story/7240/9862644",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-09T11:50:00+08:00",
+      "last_checked_at": "2026-11-09T11:50:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7238/9862644",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1116",
@@ -1322,6 +1341,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1131",
+      "media": "TechNews 科技新報（財經新報）",
+      "title": "彭博：美光科技因勞資糾紛未解，暫停桃園工廠計畫",
+      "url": "https://finance.technews.tw/2026-11-06/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T08:40:00+08:00",
+      "display_at": "2026-11-06T08:40:00+08:00",
+      "listed_at": "2026-11-09T11:50:00+08:00",
+      "last_checked_at": "2026-11-09T11:50:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
     },
     {
       "id": "news-0992",
