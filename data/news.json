@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-09T11:38:13.393961+08:00",
-    "record_count": 1082,
+    "generated_at": "2026-11-09T15:18:51.143436+08:00",
+    "record_count": 1083,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -612,6 +612,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1136",
+      "media": "EMSOne (Logito) - Japanese industry news, citing Union Daily (聯合報)",
+      "title": "【産業動向】マイクロン、台湾新工場の建設一時停止の報道 労使対立原因？ 現地紙はインフラ問題指摘も",
+      "url": "https://emsodm.com/html/2026/11/06/1793938012178.html",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-09T15:22:00+08:00",
+      "last_checked_at": "2026-11-09T15:22:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media (independent commentary on an existing event; cites Union Daily/聯合報 and Bloomberg 11/05)",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1132",
