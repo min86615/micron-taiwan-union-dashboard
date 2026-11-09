@@ -112,11 +112,11 @@
 
   </div>
   <section class="charts charts-wide">
-    <div class="panel"><div class="panel-heading"><h2 id="dailyTitle">報導趨勢</h2><label class="chart-control" for="trendGranularity">聚合：<select id="trendGranularity" aria-label="報導趨勢聚合方式"><option value="auto" selected>自動</option><option value="day">每日</option><option value="week">每週</option><option value="month">每月</option></select></label></div><div class="chart-box"><canvas id="dailyChart"></canvas></div></div>
+    <div class="panel"><div class="panel-heading"><h2 id="dailyTitle">報導趨勢</h2><label class="chart-control" for="trendWindow">視窗：<select id="trendWindow" aria-label="報導趨勢時間視窗"><option value="7">最近 7 天</option><option value="14">最近 14 天</option><option value="30" selected>最近 30 天</option><option value="90">最近 90 天</option><option value="0">全部</option></select></label><label class="chart-control" for="trendGranularity">聚合：<select id="trendGranularity" aria-label="報導趨勢聚合方式"><option value="auto" selected>自動</option><option value="day">每日</option><option value="week">每週</option><option value="month">每月</option></select></label></div><div class="chart-box"><canvas id="dailyChart"></canvas></div></div>
   </section>
   <section class="charts">
     <div class="panel"><h2>語言分布</h2><div class="chart-box"><canvas id="languageChart"></canvas></div></div>
-    <div class="panel"><h2>媒體來源分布（Top 10）</h2><div class="chart-box"><canvas id="mediaChart"></canvas></div></div>
+    <div class="panel"><h2>媒體來源分布（Top 12，同媒體變體已合併）</h2><div class="chart-box"><canvas id="mediaChart"></canvas></div></div>
   </section>
   <section class="charts charts-wide">
     <div class="panel"><h2>主要主題分布（Top 8）</h2><div class="chart-box"><canvas id="topicChart"></canvas></div></div>
@@ -134,6 +134,30 @@ let all = [], charts = {}, currentPage = 1;
 const $ = id => document.getElementById(id);
 const colors = ['#2855d9','#e78435','#16a085','#8e5bd9','#d34c65','#1596b5','#73808f','#d1a21c'];
 const TREND_STORAGE_KEY = 'micron-dashboard-trend-granularity';
+const TREND_WINDOW_KEY = 'micron-dashboard-trend-window';
+const MEDIA_FAMILIES = [
+  [/工商時報|Commercial Times/i,'工商時報'],
+  [/中國時報|中時|China Times|旺得富/i,'中國時報／中時'],
+  [/經濟日報|UDN|聯合報|United Daily/i,'經濟日報／UDN（聯合報系）'],
+  [/中央社|CNA|Focus Taiwan/i,'中央社（CNA）'],
+  [/自由時報|自由財經|Liberty Times|LTN/i,'自由時報／自由財經'],
+  [/TVBS/i,'TVBS'],
+  [/NOWnews/i,'NOWnews'],
+  [/TechNews|科技新報/i,'TechNews 科技新報'],
+  [/鉅亨|Cnyes/i,'鉅亨網'],
+  [/Reuters/i,'Reuters'],
+  [/鏡報|鏡週刊|Mirror/i,'鏡週刊／鏡報'],
+  [/Newtalk/i,'Newtalk新聞'],
+  [/民報|PeopleNews|Min Pao/i,'民報'],
+  [/TradingKey/i,'TradingKey'],
+  [/Futu|富途/i,'富途（Futu）'],
+  [/ETtoday/i,'ETtoday'],
+  [/Yahoo/i,'Yahoo 新聞/股市'],
+  [/公視|PNN|PTS/i,'公視 PNN'],
+  [/三立|SETN/i,'三立／SETN'],
+];
+function mediaFamily(m){ for (const [rx,f] of MEDIA_FAMILIES) { if (rx.test(m||'')) return f; } return m||'未標示'; }
+function trendCutoff(days){ const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Taipei'}).format(new Date()); return isoDate(new Date(new Date(today+'T00:00:00Z').getTime()-(days-1)*86400000)); }
 function countBy(items, keyFn) { return items.reduce((m,x)=>{const k=keyFn(x)||'未標示';m[k]=(m[k]||0)+1;return m;},{}); }
 function values(obj) { return Object.entries(obj).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'zh-Hant')); }
 function destroy(name) { if (charts[name]) charts[name].destroy(); }
@@ -141,11 +165,16 @@ function parseDateOnly(value) { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(value||'
 function displayDate(x) { return (x.published_date||x.display_at||x.published_at||'').slice(0,10); }
 function isoDate(date) { return date.toISOString().slice(0,10); }
 function temporalSeries(items, requestedMode='auto') {
-  const dates=items.map(x=>parseDateOnly(displayDate(x))).filter(Boolean);
+  const days=Number($('trendWindow').value||0);
+  const cutoff=days>0?trendCutoff(days):null;
+  const windowItems=days>0?items.filter(x=>{const d=parseDateOnly(displayDate(x));return d&&isoDate(d)>=cutoff;}):items;
+  const dates=windowItems.map(x=>parseDateOnly(displayDate(x))).filter(Boolean);
+  const noDate=items.filter(x=>!parseDateOnly(displayDate(x))).length;
+  const excluded=days>0?items.length-noDate-windowItems.length:0;
   const span=dates.length?Math.round((Math.max(...dates)-Math.min(...dates))/86400000)+1:0;
-  const mode=requestedMode==='auto'?(span<=31?'day':(span<=180?'week':'month')):requestedMode;
+  const mode=requestedMode==='auto'?(days>0&&days<=31?'day':(span<=180?'week':'month')):requestedMode;
   const counts={};
-  items.forEach(x=>{
+  windowItems.forEach(x=>{
     const date=parseDateOnly(displayDate(x));
     if(!date){counts['—']=(counts['—']||0)+1;return;}
     let key=isoDate(date);
@@ -155,7 +184,9 @@ function temporalSeries(items, requestedMode='auto') {
   });
   const labels=Object.keys(counts).filter(x=>x!=='—').sort();
   if(counts['—']) labels.push('—');
-  return {labels,data:labels.map(x=>counts[x]),granularity:mode==='day'?'每日':(mode==='week'?'每週':'每月')};
+  const windowText=days>0?`最近 ${days} 天`:'全部';
+  return {labels,data:labels.map(x=>counts[x]),granularity:mode==='day'?'每日':(mode==='week'?'每週':'每月'),windowText,
+          excluded,noDate};
 }
 function topWithOther(obj, limit) {
   const ranked=values(obj);
@@ -166,10 +197,10 @@ function topWithOther(obj, limit) {
 function horizontalOptions() { return {indexAxis:'y',responsive:true,maintainAspectRatio:false,scales:{x:{beginAtZero:true,ticks:{precision:0}},y:{ticks:{autoSkip:false,font:{size:11}}}},plugins:{legend:{display:false}}}; }
 function renderCharts(items) {
   const trend=temporalSeries(items,$('trendGranularity').value);
-  const media=topWithOther(countBy(items,x=>x.media),10);
+  const media=topWithOther(countBy(items,x=>mediaFamily(x.media)),12);
   const language=countBy(items,x=>x.language);
   const topic={}; items.forEach(x=>(x.topics||[]).forEach(t=>topic[t]=(topic[t]||0)+1));
-  $('dailyTitle').textContent=`報導趨勢（${trend.granularity}）`;
+  $('dailyTitle').textContent=`報導趨勢（${trend.windowText}｜${trend.granularity}）`+(Number($('trendWindow').value)>0?`｜視窗外 ${trend.excluded} 筆未畫`+(trend.noDate?`、無日期 ${trend.noDate} 筆不計`:''):'');
   [['dailyChart',{type:'bar',data:{labels:trend.labels,datasets:[{label:'篇數',data:trend.data,backgroundColor:'#2855d9',borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,scales:{x:{ticks:{maxRotation:0,autoSkip:true}},y:{beginAtZero:true,ticks:{precision:0}}},plugins:{legend:{display:false}}}}],
    ['languageChart',{type:'doughnut',data:{labels:Object.keys(language),datasets:[{data:Object.values(language),backgroundColor:colors}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom'}}}}],
    ['mediaChart',{type:'bar',data:{labels:media.map(x=>x[0]).reverse(),datasets:[{label:'篇數',data:media.map(x=>x[1]).reverse(),backgroundColor:'#e78435',borderRadius:4}]},options:horizontalOptions()}],
@@ -185,7 +216,7 @@ function statusBadge(v) { return `<span class="status-badge ${statusClass(v)}">$
 function filtered() { const q=$('search').value.trim().toLowerCase(), d=$('dateFilter').value, l=$('languageFilter').value, s=$('statusFilter').value; return all.filter(x=>(!d||displayDate(x)===d)&&(!l||x.language===l)&&(!s||x.status===s)&&(!q||[x.title,x.media,x.language,x.status,...(x.topics||[]),x.updated_date_note||'',x.display_time_note||''].join(' ').toLowerCase().includes(q))); }
 function sortItems(items) { const mode=$('sortFilter').value; const val=(x,key)=>x[key]||'0000-00-00'; return [...items].sort((a,b)=>{ if(mode==='media_asc'||mode==='media_desc'){const c=(a.media||'').localeCompare(b.media||'','zh-Hant');return mode==='media_asc'?c:-c;} const av=mode.startsWith('listed')?val(a,'listed_at'):val(a,'display_at')||val(a,'published_at')||val(a,'published_date'); const bv=mode.startsWith('listed')?val(b,'listed_at'):val(b,'display_at')||val(b,'published_at')||val(b,'published_date'); const c=av.localeCompare(bv); return mode.endsWith('_asc')?c:-c; }); }
 function render() { const items=sortItems(filtered()); const pageSize=Number($('pageSize').value), totalPages=Math.max(1,Math.ceil(items.length/pageSize)); if(currentPage>totalPages) currentPage=totalPages; const start=(currentPage-1)*pageSize, pageItems=items.slice(start,start+pageSize); $('resultCount').textContent=`（${items.length} 筆）`; $('rows').innerHTML=''; $('empty').hidden=items.length!==0; pageItems.forEach(x=>{const tr=document.createElement('tr'); const cells=[publishedLabel(x),fmt(x.listed_at),fmt(x.last_checked_at),x.media,x.title,x.language,(x.topics||[]).map(t=>`<span class="tag">${t}</span>`).join(''),x.status]; cells.forEach((v,i)=>{const td=document.createElement('td'); if(i===0){td.className='time-cell';const primary=document.createElement('span');primary.textContent=v;td.append(primary);[x.display_time_note,x.updated_date_note].filter(Boolean).forEach(text=>{const note=document.createElement('small');note.className='date-note';note.textContent=text;td.append(note)})}else if(i===4){td.className='title-cell';const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=v;td.append(a)}else if(i===5){td.innerHTML=`<span class="lang-code">${v}</span>`}else if(i===7){td.innerHTML=statusBadge(v)}else td.innerHTML=v;tr.append(td)});$('rows').append(tr)}); const shownStart=items.length?start+1:0, shownEnd=Math.min(start+pageSize,items.length); $('pageInfo').textContent=`第 ${currentPage} / ${totalPages} 頁｜顯示 ${shownStart}–${shownEnd} 筆`; $('prevPage').disabled=currentPage<=1; $('nextPage').disabled=currentPage>=totalPages; renderCharts(items);}
-async function init(){ try {const r=await fetch('data/news.json?ts='+Date.now(),{cache:'no-store'}); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const savedTrend=localStorage.getItem(TREND_STORAGE_KEY); if(['auto','day','week','month'].includes(savedTrend)) $('trendGranularity').value=savedTrend; const dates=[...new Set(all.map(displayDate).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(statusLabel(x),x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='syndicated').length; const latest=all.map(x=>x.listed_at).filter(Boolean).sort().pop(); $('latest').textContent=latest?fmt(latest):'—'; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：列表依來源發布時間排序；來源未標明精確時間時，使用逐筆註明依據的台北時間估值。加入追蹤時間與最後確認時間分開顯示。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
-['search','dateFilter','languageFilter','statusFilter','sortFilter','pageSize'].forEach(id=>$(id).addEventListener(id==='search'?'input': 'change',()=>{currentPage=1;render();})); $('trendGranularity').addEventListener('change',()=>{localStorage.setItem(TREND_STORAGE_KEY,$('trendGranularity').value);render();}); $('prevPage').addEventListener('click',()=>{if(currentPage>1){currentPage--;render();}}); $('nextPage').addEventListener('click',()=>{const totalPages=Math.max(1,Math.ceil(filtered().length/Number($('pageSize').value)));if(currentPage<totalPages){currentPage++;render();}}); init();
+async function init(){ try {const r=await fetch('data/news.json?ts='+Date.now(),{cache:'no-store'}); if(!r.ok) throw new Error('data/news.json '+r.status); const data=await r.json(); all=data.articles||[]; const savedTrend=localStorage.getItem(TREND_STORAGE_KEY); if(['auto','day','week','month'].includes(savedTrend)) $('trendGranularity').value=savedTrend; const savedWindow=localStorage.getItem(TREND_WINDOW_KEY); if(['7','14','30','90','0'].includes(savedWindow)) $('trendWindow').value=savedWindow; const dates=[...new Set(all.map(displayDate).filter(Boolean))].sort().reverse(); const media=[...new Set(all.map(x=>x.media))].sort(); const langs=[...new Set(all.map(x=>x.language))].sort(); const statuses=[...new Set(all.map(x=>x.status))].sort(); dates.forEach(x=>$('dateFilter').add(new Option(x,x))); langs.forEach(x=>$('languageFilter').add(new Option(x,x))); statuses.forEach(x=>$('statusFilter').add(new Option(statusLabel(x),x))); $('total').textContent=all.length; $('days').textContent=dates.length; $('media').textContent=media.length; $('syndicated').textContent=all.filter(x=>x.status==='syndicated').length; const latest=all.map(x=>x.listed_at).filter(Boolean).sort().pop(); $('latest').textContent=latest?fmt(latest):'—'; $('generated').textContent=data.summary?.generated_at||'—'; $('notice').textContent='公開資料儀表板：列表依來源發布時間排序；來源未標明精確時間時，使用逐筆註明依據的台北時間估值。加入追蹤時間與最後確認時間分開顯示。'; render(); } catch(e) { $('notice').textContent='資料載入失敗：'+e.message; console.error(e); } }
+['search','dateFilter','languageFilter','statusFilter','sortFilter','pageSize'].forEach(id=>$(id).addEventListener(id==='search'?'input': 'change',()=>{currentPage=1;render();})); $('trendGranularity').addEventListener('change',()=>{localStorage.setItem(TREND_STORAGE_KEY,$('trendGranularity').value);render();}); $('trendWindow').addEventListener('change',()=>{localStorage.setItem(TREND_WINDOW_KEY,$('trendWindow').value);render();}); $('prevPage').addEventListener('click',()=>{if(currentPage>1){currentPage--;render();}}); $('nextPage').addEventListener('click',()=>{const totalPages=Math.max(1,Math.ceil(filtered().length/Number($('pageSize').value)));if(currentPage<totalPages){currentPage++;render();}}); init();
 </script>
 </body></html>
