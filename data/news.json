@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-10T13:20:36.918343+08:00",
-    "record_count": 953,
+    "generated_at": "2026-11-10T15:22:57.591931+08:00",
+    "record_count": 956,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1182",
+      "media": "三立新聞網 SETN",
+      "title": "「先搞掉台積電、再搞美光」 胡采蘋酸張善政：天才科技市長！",
+      "url": "https://setn.com/news/1936518",
+      "published_date": "2026-11-10",
+      "published_at": "2026-11-10T14:15:00+08:00",
+      "display_at": "2026-11-10T14:15:00+08:00",
+      "listed_at": "2026-11-10T15:20:00+08:00",
+      "last_checked_at": "2026-11-10T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1180",
       "media": "Startup Fortune",
@@ -60,6 +78,24 @@
       ],
       "status": "reported",
       "source_type": "news_site",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1181",
+      "media": "ETtoday 財經雲",
+      "title": "美光新加坡砸310億美元擴產 桃園新廠進度受矚、勞資11/17再協商",
+      "url": "https://finance.ettoday.net/news/3269186",
+      "published_date": "2026-11-09",
+      "published_at": "2026-11-09T20:15:00+08:00",
+      "display_at": "2026-11-09T20:15:00+08:00",
+      "listed_at": "2026-11-10T15:20:00+08:00",
+      "last_checked_at": "2026-11-10T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -628,6 +664,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1183",
+      "media": "天地人 TIANDIREN (TARAISG AI content)",
+      "title": "美光稱桃園勞資調解將續談：新廠工程傳暫緩，不等於台灣產線停工",
+      "url": "https://tiandiren.tw/insights/micron-taoyuan-fab-labor-negotiation-20261106",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-10T15:20:00+08:00",
+      "last_checked_at": "2026-11-10T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "analysis",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1179",
