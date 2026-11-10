@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-10T15:22:57.591931+08:00",
-    "record_count": 956,
+    "generated_at": "2026-11-10T17:38:30.682760+08:00",
+    "record_count": 959,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1900,6 +1900,44 @@
       "status": "reported",
       "source_type": "aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1186",
+      "media": "Gate News（聚合頁，明確標註來源為 BlockBeats/Bloomberg）",
+      "title": "美光因勞資爭議，於11月5日暫停在台灣桃園興建晶片廠的45億美元計畫",
+      "url": "https://gate.com/zh-tw/news/detail/micron-halts-45b-taiwan-taoyuan-chip-factory-plan-amid-labor-dispute-on-25426509",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-10T17:30:00+08:00",
+      "last_checked_at": "2026-11-10T17:30:00+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://sa.marketscreener.com/news/micron-pauses-work-on-4-5-billion-taiwan-plant-bloomberg-news-reports-ce785fdcdd88af021",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1185",
+      "media": "BlockBeats（聚合頁，明確轉載 Bloomberg）",
+      "title": "美光暂停桃园45亿美元建厂计划，劳资纠纷威胁AI存储芯片扩产",
+      "url": "https://www.theblockbeats.info/flash/375695",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-10T17:30:00+08:00",
+      "last_checked_at": "2026-11-10T17:30:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://sa.marketscreener.com/news/micron-pauses-work-on-4-5-billion-taiwan-plant-bloomberg-news-reports-ce785fdcdd88af021",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1175",
@@ -11120,6 +11158,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1184",
+      "media": "Investing.com Japan（JP版）",
+      "title": "マイクロンテクノロジー株が上昇、台湾のストライキ懸念を投資家が払拭",
+      "url": "https://jp.investing.com/news/stock-market-news/article-1704474",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-10T17:30:00+08:00",
+      "last_checked_at": "2026-11-10T17:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0900",
