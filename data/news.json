@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-10T09:26:08.399587+08:00",
-    "record_count": 945,
+    "generated_at": "2026-11-10T11:34:14.315693+08:00",
+    "record_count": 951,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1176",
+      "media": "商傳媒 Sun Media (enn.tw), 何映辰／台北報導",
+      "title": "美光科技勞資糾紛未解 暫停桃園45億美元記憶體廠計畫",
+      "url": "https://www.enn.tw/805061",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-10T12:00:00+08:00",
+      "listed_at": "2026-11-10T11:35:00+08:00",
+      "last_checked_at": "2026-11-10T11:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-10 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1148",
       "media": "三立新聞網 SETN",
@@ -22,6 +42,24 @@
       "status": "reported",
       "source_type": "news_site",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1178",
+      "media": "自由時報 Life (news.ltn.com.tw) mirror of ec.ltn master",
+      "title": "桃產總主導罷工遭質疑！美光工程師爆：恐非單純為員工福祉",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5633666",
+      "published_date": "2026-11-08",
+      "published_at": "2026-11-08T16:17:00+08:00",
+      "display_at": "2026-11-08T16:17:00+08:00",
+      "listed_at": "2026-11-10T11:35:00+08:00",
+      "last_checked_at": "2026-11-10T11:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media mirror",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5633666"
     },
     {
       "id": "news-1161",
@@ -571,6 +609,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1177",
+      "media": "UDN amp mirror (經濟日報)",
+      "title": "美光勞資協商新進展…獎酬計算系統下周上線 勞資協議17日再協商",
+      "url": "https://udn.com/news/amp/story/7314/9862457",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-10T11:35:00+08:00",
+      "last_checked_at": "2026-11-10T11:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "AMP mirror",
+      "duplicate_of": "https://udn.com/news/story/7238/9862457",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1152",
@@ -1749,6 +1806,25 @@
       "status": "reported",
       "source_type": "aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1175",
+      "media": "ChipDispatch (republication of Rest of World article, by Nathan Brooks)",
+      "title": "Micron Taiwan Workers Stage Sector's First Strike Amid AI Profit Dispute",
+      "url": "https://www.chipdispatch.com/articles/micron-taiwan-workers-stage-sector-s-first-strike-amid-ai-profit-dispute",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-10T11:35:00+08:00",
+      "last_checked_at": "2026-11-10T11:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "content republication site",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1144",
@@ -3310,6 +3386,44 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://news.cnyes.com/news/id/6642085"
+    },
+    {
+      "id": "news-1174",
+      "media": "知新聞 (KN News)",
+      "title": "百萬獎金加激勵分紅入袋！ 台灣美光逾700人今年爽領超過60個月",
+      "url": "https://www.knews.com.tw/news/C4F92A17773693BC1FF2B2BD7D6D86E3",
+      "published_date": "2026-10-30",
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-11-10T11:35:00+08:00",
+      "last_checked_at": "2026-11-10T11:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6642085",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1173",
+      "media": "TradingView 新聞（cnYES 鉅亨 syndication feed）",
+      "title": "台灣美光發放FY26獎酬 逾700名線上員工年薪超過60個月",
+      "url": "https://th.tradingview.com/news/cnyes:83f19fcf2acdf:0",
+      "published_date": "2026-10-30",
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-11-10T11:35:00+08:00",
+      "last_checked_at": "2026-11-10T11:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndication mirror",
+      "duplicate_of": "https://news.cnyes.com/news/id/6642085",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1166",
