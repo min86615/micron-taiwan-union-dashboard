@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-10T23:19:21.309440+08:00",
-    "record_count": 962,
+    "generated_at": "2026-11-11T07:18:14.006071+08:00",
+    "record_count": 965,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -6063,6 +6063,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1201",
+      "media": "United Daily News (經濟日報/UDN)",
+      "title": "美光獎酬升級 產線人員總薪酬估將逾200萬元",
+      "url": "https://money.udn.com/money/story/5612/9831985",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-11T07:20:00+08:00",
+      "last_checked_at": "2026-11-11T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610220437.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1160",
@@ -14072,6 +14091,46 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1199",
+      "media": "Liberty Times Finance (自由時報財經頻道, stock.ltn)",
+      "title": "台灣美光工會不滿獎金取代制度改革 要求營業利益15％分潤制",
+      "url": "https://stock.ltn.com.tw/article/uyykhmxje616",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "display_at": "2026-09-15T12:00:00+08:00",
+      "listed_at": "2026-11-11T07:20:00+08:00",
+      "last_checked_at": "2026-11-11T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1200",
+      "media": "China Times (中時新聞網)",
+      "title": "美光喊發68個月獎金！工會不買單籲建立15％分潤制度",
+      "url": "https://www.chinatimes.com/realtimenews/20260915002709-260405",
+      "published_date": "2026-09-15",
+      "published_at": null,
+      "display_at": "2026-09-15T12:00:00+08:00",
+      "listed_at": "2026-11-11T07:20:00+08:00",
+      "last_checked_at": "2026-11-11T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1112",
