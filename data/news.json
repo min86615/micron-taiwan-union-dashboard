@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T21:40:54.666438+08:00",
-    "record_count": 986,
+    "generated_at": "2026-11-11T23:23:04.210601+08:00",
+    "record_count": 988,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1225",
+      "media": "ETtoday Political / reporter Shen Jichang",
+      "title": "胡采蘋指「張善政搞掉美光」挨告！本人反嗆：拜託千萬別不告",
+      "url": "https://www.ettoday.net/news/20261111/3270529.htm",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T21:41:00+08:00",
+      "display_at": "2026-11-11T21:41:00+08:00",
+      "listed_at": "2026-11-11T23:20:00+08:00",
+      "last_checked_at": "2026-11-11T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent_media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1224",
+      "media": "ETtoday Political / reporter Shen Jichang",
+      "title": "選前最後一次主持市政會議 張善政明起請假衝選舉",
+      "url": "https://www.ettoday.net/news/20261111/3270430.htm",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T17:28:00+08:00",
+      "display_at": "2026-11-11T17:28:00+08:00",
+      "listed_at": "2026-11-11T23:20:00+08:00",
+      "last_checked_at": "2026-11-11T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent_media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1217",
       "media": "太報 TaiSounds",
