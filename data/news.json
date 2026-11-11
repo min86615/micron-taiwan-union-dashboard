@@ -1,49 +1,10 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T09:29:06.707712+08:00",
+    "generated_at": "2026-11-11T13:18:58.600462+08:00",
     "record_count": 972,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
-    {
-      "id": "news-1203",
-      "media": "Rest of World",
-      "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
-      "url": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-11-11T12:00:00+08:00",
-      "listed_at": "2026-11-11T09:12:00+08:00",
-      "last_checked_at": "2026-11-11T09:12:00+08:00",
-      "language": "EN",
-      "topics": [
-        "工會／勞資",
-        "罷工"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-11 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
-    {
-      "id": "news-1204",
-      "media": "Piqmarkets (AI summary page of the Rest of World report)",
-      "title": "Micron Taiwan chip workers strike over pay as AI profits rise",
-      "url": "https://piqmarkets.com/story/micron-taiwan-chip-workers-strike-over-pay-as-ai-profits-rise",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-11-11T12:00:00+08:00",
-      "listed_at": "2026-11-11T09:12:00+08:00",
-      "last_checked_at": "2026-11-11T09:12:00+08:00",
-      "language": "EN",
-      "topics": [
-        "罷工"
-      ],
-      "status": "syndicated",
-      "source_type": "aggregator",
-      "duplicate_of": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/",
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-11 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
     {
       "id": "news-1208",
       "media": "Liberty Times Finance (column)",
@@ -2567,6 +2528,43 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-05 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1203",
+      "media": "Rest of World",
+      "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+      "url": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T11:00:00+00:00",
+      "display_at": "2026-11-05T11:00:00+00:00",
+      "listed_at": "2026-11-11T09:12:00+08:00",
+      "last_checked_at": "2026-11-11T09:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1204",
+      "media": "Piqmarkets (AI summary page of the Rest of World report)",
+      "title": "Micron Taiwan chip workers strike over pay as AI profits rise",
+      "url": "https://piqmarkets.com/story/micron-taiwan-chip-workers-strike-over-pay-as-ai-profits-rise",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T11:00:00+00:00",
+      "display_at": "2026-11-05T11:00:00+00:00",
+      "listed_at": "2026-11-11T09:12:00+08:00",
+      "last_checked_at": "2026-11-11T09:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/"
     },
     {
       "id": "news-1053",
