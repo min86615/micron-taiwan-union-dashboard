@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T15:23:46.722860+08:00",
-    "record_count": 977,
+    "generated_at": "2026-11-11T17:08:51.384130+08:00",
+    "record_count": 978,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13644,6 +13644,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1214",
+      "media": "Futu News (news.futunn.com)",
+      "title": "employees of Micron in China have once again gathered: a 68-month bonus is still not enough! The union is demanding a bonus equivalent to 83 months' wages.",
+      "url": "https://news.futunn.com/post/79465626/employees-of-micron-in-china-have-once-again-gathered-a",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T16:31:00+08:00",
+      "display_at": "2026-09-18T16:31:00+08:00",
+      "listed_at": "2026-11-11T17:08:04.443836+08:00",
+      "last_checked_at": "2026-11-11T17:08:04.443836+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_copy",
+      "duplicate_of": "https://www.cls.cn/detail/2487113"
     },
     {
       "id": "news-0317",
