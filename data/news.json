@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T17:08:51.384130+08:00",
-    "record_count": 978,
+    "generated_at": "2026-11-11T20:47:00.822438+08:00",
+    "record_count": 983,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1217",
+      "media": "太報 TaiSounds",
+      "title": "美光桃園擴廠傳喊卡！張善政曝總裁承諾　勞資17日再協商",
+      "url": "https://www.taisounds.com/news/content/77/309192",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T16:04:00+08:00",
+      "display_at": "2026-11-11T16:04:00+08:00",
+      "listed_at": "2026-11-11T19:09:00+08:00",
+      "last_checked_at": "2026-11-11T19:09:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1215",
+      "media": "TaiwanHot (Taiwan News)",
+      "title": "美光勞資糾紛影響後績投資？ 張善政親上火線說明",
+      "url": "https://www.taiwanhot.net/news/1153736/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E7%B3%BE%E7%B4%9B%E5%BD%B1%E9%9F%BF%E5%BE%8C%E7%B8%BE%E6%8A%95%E8%B3%87%EF%BC%9F+%E5%BC%B5%E5%96%84%E6%94%BF%E8%A6%AA%E4%B8%8A%E7%81%AB%E7%B7%9A%E8%AA%AA%E6%98%8E",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T12:34:00+08:00",
+      "display_at": "2026-11-11T12:34:00+08:00",
+      "listed_at": "2026-11-11T19:05:00+08:00",
+      "last_checked_at": "2026-11-11T19:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1209",
       "media": "台灣好新聞（Taiwan News），記者報導原文，經 Yahoo!奇摩新聞（n.yam.com）鏡像全文核驗",
@@ -14,14 +50,33 @@
       "published_at": "2026-11-11T12:34:00+08:00",
       "display_at": "2026-11-11T12:34:00+08:00",
       "listed_at": "2026-11-11T13:32:00+08:00",
-      "last_checked_at": "2026-11-11T13:32:00+08:00",
+      "last_checked_at": "2026-11-11T19:26:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
       ],
-      "status": "reported",
+      "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://www.taiwanhot.net/news/1153736"
+    },
+    {
+      "id": "news-1216",
+      "media": "LINE TODAY mirror / TaiwanHot",
+      "title": "美光勞資糾紛影響後績投資？ 張善政親上火線說明",
+      "url": "https://today.line.me/tw/v3/article/XYpmxy9",
+      "published_date": "2026-11-11",
+      "published_at": null,
+      "display_at": "2026-11-11T12:00:00+08:00",
+      "listed_at": "2026-11-11T19:09:00+08:00",
+      "last_checked_at": "2026-11-11T19:09:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_mirror",
+      "duplicate_of": "https://www.taiwanhot.net/news/1153736",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1210",
@@ -4549,6 +4604,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1219",
+      "media": "Yahoo新聞／NOWnews",
+      "title": "美光桃園廠勞資未解 工會與資方11月再協商",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%BB%A0%E5%8B%9E%E8%B3%87%E6%9C%AA%E8%A7%A3-%E5%B7%A5%E6%89%95%E8%88%87%E8%B3%87%E6%96%B911%E6%9C%88%E5%86%8D%E5%8D%94%E5%95%86-110402330.html",
+      "published_date": "2026-10-27",
+      "published_at": null,
+      "display_at": "2026-10-27T12:00:00+08:00",
+      "listed_at": "2026-11-11T19:08:00+08:00",
+      "last_checked_at": "2026-11-11T19:08:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_mirror",
+      "duplicate_of": "https://www.nownews.com/news/6887048",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0868",
@@ -14943,6 +15017,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1218",
+      "media": "Reuters Japan",
+      "title": "マイクロン、台湾従業員に最大68カ月分の賞与　労組は報酬制度変更要求",
+      "url": "https://www.reuters.com/jp/economy/CCHB7GD455OPJE2MJQQTRSERVE-2026-09-14/",
+      "published_date": "2026-09-14",
+      "published_at": "2026-09-14T13:37:00+09:00",
+      "display_at": "2026-09-14T13:37:00+09:00",
+      "listed_at": "2026-11-11T19:08:00+08:00",
+      "last_checked_at": "2026-11-11T19:08:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
     },
     {
       "id": "news-0279",
