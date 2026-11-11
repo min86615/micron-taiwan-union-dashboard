@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T20:47:00.822438+08:00",
-    "record_count": 983,
+    "generated_at": "2026-11-11T21:40:54.666438+08:00",
+    "record_count": 986,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -21,6 +21,42 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1222",
+      "media": "蕃新聞 mirror；原始來源 桃園電子報（tyenews.com/2026/11/1428696），記者黃雅蘭",
+      "title": "駁斥漠視勞資爭議 桃園市府：張善政親自與美光高層溝通",
+      "url": "https://n.yam.com/Article/20261111268739",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T14:38:00+08:00",
+      "display_at": "2026-11-11T14:38:00+08:00",
+      "listed_at": "2026-11-11T21:35:00+08:00",
+      "last_checked_at": "2026-11-11T21:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "aggregator_mirror (page explicitly credits 桃園電子報)",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1221",
+      "media": "Newtalk新聞（政治）／記者詹家威",
+      "title": "傳美光因勞資爭議傳暫緩投資！ 張善政曝最新進度",
+      "url": "https://newtalk.tw/news/view/2026-11-11/1070523",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T14:34:00+08:00",
+      "display_at": "2026-11-11T14:34:00+08:00",
+      "listed_at": "2026-11-11T21:35:00+08:00",
+      "last_checked_at": "2026-11-11T21:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "independent_outlet",
       "duplicate_of": null
     },
     {
@@ -130,6 +166,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1223",
+      "media": "Yahoo Finance / TIKR (Rexielyn Diaz)",
+      "title": "Micron Lost 17% in a Day. Its $35 Billion Buyback Can Start December 9",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-lost-17-day-35-130635996.html",
+      "published_date": "2026-11-10",
+      "published_at": "2026-11-10T21:06:00+08:00",
+      "display_at": "2026-11-10T21:06:00+08:00",
+      "listed_at": "2026-11-11T21:35:00+08:00",
+      "last_checked_at": "2026-11-11T21:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent_analysis",
       "duplicate_of": null
     },
     {
