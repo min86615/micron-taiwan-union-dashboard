@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T13:29:19.331724+08:00",
-    "record_count": 973,
+    "generated_at": "2026-11-11T15:23:46.722860+08:00",
+    "record_count": 977,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -18,6 +18,42 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1210",
+      "media": "自由財經（Liberty Times Finance）",
+      "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5636730",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T11:40:26+08:00",
+      "display_at": "2026-11-11T11:40:26+08:00",
+      "listed_at": "2026-11-11T15:16:00+08:00",
+      "last_checked_at": "2026-11-11T15:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1211",
+      "media": "中國時報（中時新聞網 realtimenews）",
+      "title": "影》美元撤資桃園？張善政熱線CEO：總裁親口承諾續建",
+      "url": "https://www.chinatimes.com/realtimenews/20261111002070-260405",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T11:16:40+08:00",
+      "display_at": "2026-11-11T11:16:40+08:00",
+      "listed_at": "2026-11-11T15:16:00+08:00",
+      "last_checked_at": "2026-11-11T15:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -245,6 +281,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1213",
+      "media": "富途牛牛新聞（Futu, 成交額TOP20 市場回顧）",
+      "title": "成交額TOP20 | SpaceX大漲9%，馬斯克放話Q4營收大增70%、\"不靠政府\"；甲骨文連丟微軟、騰訊大合同；英偉達推台積電布局3D DRAM",
+      "url": "https://news.futunn.com/hk/post/1003763243/top-20-by-trading-volume-spacex-surges-9-as-musk",
+      "published_date": "2026-11-07",
+      "published_at": null,
+      "display_at": "2026-11-07T12:00:00+08:00",
+      "listed_at": "2026-11-11T15:18:00+08:00",
+      "last_checked_at": "2026-11-11T15:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1076",
       "media": "Seoul Economic Daily English (AI PRISM summary page)",
       "title": "Micron Halts Taiwan HBM Plant Work Amid Bonus Dispute",
@@ -356,6 +411,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202611060324.aspx"
+    },
+    {
+      "id": "news-1212",
+      "media": "經濟日報 UDN（AMP 行動版鏡像）",
+      "title": "美光勞資協商新進展 獎酬計算系統下周上線 勞資協議17日再協商",
+      "url": "https://money.udn.com/money/amp/story/5648/9862457",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T20:13:10+08:00",
+      "display_at": "2026-11-06T20:13:10+08:00",
+      "listed_at": "2026-11-11T15:16:00+08:00",
+      "last_checked_at": "2026-11-11T15:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7238/9862457"
     },
     {
       "id": "news-1025",
