@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T13:18:58.600462+08:00",
-    "record_count": 972,
+    "generated_at": "2026-11-11T13:24:20.749180+08:00",
+    "record_count": 973,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1209",
+      "media": "Taiwan News (Taiwan Hao Xinwen), reporter-attributed original text via Yam mirror",
+      "title": "Meiguang laoshi jiuufen yingxiang houji touzi? Zhang Shanzheng qin shang huoxian shuoming",
+      "url": "https://n.yam.com/Article/20261111461344",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T12:34:00+08:00",
+      "display_at": "2026-11-11T12:34:00+08:00",
+      "listed_at": "2026-11-11T13:32:00+08:00",
+      "last_checked_at": "2026-11-11T13:32:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1208",
       "media": "Liberty Times Finance (column)",
