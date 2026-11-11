@@ -1,10 +1,67 @@
 {
   "summary": {
-    "generated_at": "2026-11-11T07:18:14.006071+08:00",
-    "record_count": 965,
+    "generated_at": "2026-11-11T09:29:06.707712+08:00",
+    "record_count": 972,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1203",
+      "media": "Rest of World",
+      "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+      "url": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-11T12:00:00+08:00",
+      "listed_at": "2026-11-11T09:12:00+08:00",
+      "last_checked_at": "2026-11-11T09:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-11 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1204",
+      "media": "Piqmarkets (AI summary page of the Rest of World report)",
+      "title": "Micron Taiwan chip workers strike over pay as AI profits rise",
+      "url": "https://piqmarkets.com/story/micron-taiwan-chip-workers-strike-over-pay-as-ai-profits-rise",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-11T12:00:00+08:00",
+      "listed_at": "2026-11-11T09:12:00+08:00",
+      "last_checked_at": "2026-11-11T09:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-11 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1208",
+      "media": "Liberty Times Finance (column)",
+      "title": "財經青紅燈─不要台積電也不要美光？",
+      "url": "https://ec.ltn.com.tw/article/paper/1778093",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T05:30:00+08:00",
+      "display_at": "2026-11-11T05:30:00+08:00",
+      "listed_at": "2026-11-11T09:13:00+08:00",
+      "last_checked_at": "2026-11-11T09:13:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1182",
       "media": "三立新聞網 SETN",
@@ -3558,6 +3615,25 @@
       "duplicate_of": "https://news.cnyes.com/news/id/6642085"
     },
     {
+      "id": "news-1205",
+      "media": "TVBS Finance",
+      "title": "美光發錢了！逾700名員工「年薪衝破60個月」 百萬紅包今入帳",
+      "url": "https://news.tvbs.com.tw/money/4043597",
+      "published_date": "2026-10-30",
+      "published_at": null,
+      "display_at": "2026-10-30T12:00:00+08:00",
+      "listed_at": "2026-11-11T09:12:00+08:00",
+      "last_checked_at": "2026-11-11T09:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1174",
       "media": "知新聞 (KN News)",
       "title": "百萬獎金加激勵分紅入袋！ 台灣美光逾700人今年爽領超過60個月",
@@ -4070,6 +4146,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1206",
+      "media": "Commercial Times (CTEE)",
+      "title": "美光台中工會協議未簽團體約 會員擬連署撤銷 勞動部：可提告",
+      "url": "https://www.ctee.com.tw/news/20261028701869-431401",
+      "published_date": "2026-10-28",
+      "published_at": "2026-10-28T17:01:00+08:00",
+      "display_at": "2026-10-28T17:01:00+08:00",
+      "listed_at": "2026-11-11T09:12:00+08:00",
+      "last_checked_at": "2026-11-11T09:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-0678",
       "media": "NOWnews",
       "title": "美光工會質疑勞資協議效力！勞動部：可循司法民事訴訟途徑處理",
@@ -4439,6 +4533,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1202",
+      "media": "Liberty Times Finance (自由時報財經頻道, stock.ltn)",
+      "title": "美光作業員年薪上看200萬！網羨慕喊加入美光、人生發光",
+      "url": "https://stock.ltn.com.tw/article/s2jdhrvvpkh6",
+      "published_date": "2026-10-26",
+      "published_at": null,
+      "display_at": "2026-10-26T12:00:00+08:00",
+      "listed_at": "2026-11-11T07:20:00+08:00",
+      "last_checked_at": "2026-11-11T07:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0631",
@@ -18494,6 +18607,25 @@
       "language": "EN",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1207",
+      "media": "Reuters",
+      "title": "Micron to invest $9.6 billion in Japan to build AI memory chip plant, Nikkei reports",
+      "url": "https://www.reuters.com/world/asia-pacific/micron-invest-96-billion-japan-build-ai-memory-chip-plant-nikkei-reports-2025-11-29/",
+      "published_date": "2025-11-29",
+      "published_at": null,
+      "display_at": "2025-11-29T12:00:00+08:00",
+      "listed_at": "2026-11-11T09:13:00+08:00",
+      "last_checked_at": "2026-11-11T09:13:00+08:00",
+      "language": "EN",
+      "topics": [
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
