@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T13:11:18.499934+08:00",
-    "record_count": 996,
+    "generated_at": "2026-11-12T15:17:37.694851+08:00",
+    "record_count": 1000,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1242",
+      "media": "鏡報（Mirror Report，original outlet）",
+      "title": "「不簽就沒錢」？美光桃園工會控遭公司施壓 認分潤談判失利、宣布退出協商",
+      "url": "https://www.mirrordaily.news/story/97375",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T15:10:00+08:00",
+      "last_checked_at": "2026-11-12T15:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-12 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1243",
+      "media": "LINE TODAY (鏡報 mirror copy)",
+      "title": "「不簽就沒錢」？美光桃園工會控遭公司施壓 認分潤談判失利、宣布退出協商 | 鏡報 | LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/Vxp0JOR",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T15:10:00+08:00",
+      "last_checked_at": "2026-11-12T15:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_mirror",
+      "duplicate_of": "https://www.mirrordaily.news/story/97375",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-12 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1235",
       "media": "China Times",
@@ -52,6 +90,42 @@
       "display_at": "2026-11-12T11:45:17+08:00",
       "listed_at": "2026-11-12T13:20:00+08:00",
       "last_checked_at": "2026-11-12T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1241",
+      "media": "中國時報（工商/中時新聞網）",
+      "title": "拋震撼彈！美光桃園工會認爭分潤失利 曝未來3動向",
+      "url": "https://www.chinatimes.com/realtimenews/20261112002320-260405",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:24:39+08:00",
+      "display_at": "2026-11-12T11:24:39+08:00",
+      "listed_at": "2026-11-12T15:10:00+08:00",
+      "last_checked_at": "2026-11-12T15:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1240",
+      "media": "Newtalk新聞",
+      "title": "拒絕參加第四次協商 美光桃園工會給會員和社會一封公開信",
+      "url": "https://newtalk.tw/news/view/2026-11-12/1070694",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:24:10+08:00",
+      "display_at": "2026-11-12T11:24:10+08:00",
+      "listed_at": "2026-11-12T15:10:00+08:00",
+      "last_checked_at": "2026-11-12T15:10:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
