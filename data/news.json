@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T03:15:18.194333+08:00",
-    "record_count": 1030,
+    "generated_at": "2026-11-13T05:18:21.511791+08:00",
+    "record_count": 1032,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1277",
+      "media": "Taipei Times (AFP wire)",
+      "title": "Taoyuan union ends talks with Micron after 'defeat' (AFP)",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026-11-13/2003867635",
+      "published_date": "2026-11-13",
+      "published_at": null,
+      "display_at": "2026-11-13T12:00:00+08:00",
+      "listed_at": "2026-11-13T05:20:00+08:00",
+      "last_checked_at": "2026-11-13T05:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat",
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1276",
+      "media": "United Daily News (UDN)",
+      "title": "美光桃園工會拒出席協調會 稱改到民進黨中央黨部抗議",
+      "url": "https://udn.com/news/story/7240/9875603",
+      "published_date": "2026-11-13",
+      "published_at": "2026-11-13T00:10:35+08:00",
+      "display_at": "2026-11-13T00:10:35+08:00",
+      "listed_at": "2026-11-13T05:20:00+08:00",
+      "last_checked_at": "2026-11-13T05:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null
+    },
     {
       "id": "news-1255",
       "media": "經濟日報/UDN",
