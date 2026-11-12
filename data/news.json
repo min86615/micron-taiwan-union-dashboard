@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T15:17:37.694851+08:00",
-    "record_count": 1000,
+    "generated_at": "2026-11-12T17:15:44.379459+08:00",
+    "record_count": 1003,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1245",
+      "media": "聯合新聞網／聯合報",
+      "title": "美光桃園廠勞資爭議 市府：如工會拒絕協商將難以延續",
+      "url": "https://udn.com/news/story/7241/9874637",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T15:53:00+08:00",
+      "display_at": "2026-11-12T15:53:00+08:00",
+      "listed_at": "2026-11-12T17:20:00+08:00",
+      "last_checked_at": "2026-11-12T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1244",
+      "media": "FTNN 新聞網",
+      "title": "美光桃園工會勞資談判破局！爆員工領獎金恐須簽同意書 11／17赴民進黨中央抗議",
+      "url": "https://www.ftnn.com.tw/news/595201",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T13:54:00+08:00",
+      "display_at": "2026-11-12T13:54:00+08:00",
+      "listed_at": "2026-11-12T17:20:00+08:00",
+      "last_checked_at": "2026-11-12T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
+    },
     {
       "id": "news-1242",
       "media": "鏡報（Mirror Report，original outlet）",
@@ -132,6 +169,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1246",
+      "media": "RTI 中央廣播電臺",
+      "title": "美光桃園工會宣布爭取分潤失敗 壓力太大 不再讓會員承擔",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=1051038",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:21:00+08:00",
+      "display_at": "2026-11-12T11:21:00+08:00",
+      "listed_at": "2026-11-12T17:20:00+08:00",
+      "last_checked_at": "2026-11-12T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_broadcaster",
       "duplicate_of": null
     },
     {
