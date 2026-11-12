@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T01:48:51.895629+08:00",
-    "record_count": 991,
+    "generated_at": "2026-11-12T09:14:09.140409+08:00",
+    "record_count": 992,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -592,6 +592,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://udn.com/news/story/7238/9862457"
+    },
+    {
+      "id": "news-1236",
+      "media": "經濟日報（UDN）",
+      "title": "美光桃園廠勞資爭議第三次協商未果 雙方說法出爐",
+      "url": "https://money.udn.com/money/story/5612/9862644",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T20:12:30+08:00",
+      "display_at": "2026-11-06T20:12:30+08:00",
+      "listed_at": "2026-11-12T09:12:00+08:00",
+      "last_checked_at": "2026-11-12T09:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7238/9862644"
     },
     {
       "id": "news-1080",
