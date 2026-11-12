@@ -1,10 +1,84 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T19:19:16.893073+08:00",
-    "record_count": 1009,
+    "generated_at": "2026-11-12T21:23:57.229771+08:00",
+    "record_count": 1017,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1255",
+      "media": "經濟日報/UDN",
+      "title": "桃園工會退出勞資協商 美光回應：未要求員工放棄權利",
+      "url": "https://udn.com/news/story/7240/9875024",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T18:01:00+08:00",
+      "display_at": "2026-11-12T18:01:00+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1256",
+      "media": "中國時報（時報資訊）",
+      "title": "《科技》季度利潤獎金試算開放 美光強調持續與桃園工會協商",
+      "url": "https://www.chinatimes.com/realtimenews/20261112004457-260410",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:51:00+08:00",
+      "display_at": "2026-11-12T17:51:00+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1254",
+      "media": "經濟日報/UDN",
+      "title": "美光勞資協商破局 桃園工會稱資方施壓：「不簽就沒錢」公司嚴正否認",
+      "url": "https://udn.com/news/story/7240/9874909",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:18:00+08:00",
+      "display_at": "2026-11-12T17:18:00+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1261",
+      "media": "Free Malaysia Today (AFP copy)",
+      "title": "Taiwanese union ends bonus talks with Micron after 'defeat'",
+      "url": "https://freemalaysiatoday.com/category/business/2026-11-12/taiwanese-union-ends-bonus-talks-with-micron-after-defeat",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T16:58:09+08:00",
+      "display_at": "2026-11-12T16:58:09+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat"
+    },
     {
       "id": "news-1249",
       "media": "Taiwan News",
@@ -23,6 +97,25 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1260",
+      "media": "Yahoo News (AFP copy)",
+      "title": "Taiwan union ends bonus talks with Micron after 'defeat'",
+      "url": "https://www.yahoo.com/news/world/articles/taiwan-union-ends-bonus-talks-070844285.html",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T16:48:00+08:00",
+      "display_at": "2026-11-12T16:48:00+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat"
     },
     {
       "id": "news-1245",
@@ -60,6 +153,44 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1259",
+      "media": "中國時報",
+      "title": "網紅發文稱張善政「搞掉美光」！詹江村怒告違反選罷法",
+      "url": "https://www.chinatimes.com/realtimenews/20261112002036-260407",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1257",
+      "media": "中國時報",
+      "title": "張善政進軍Threads 曝與卓揆聯手拆彈美光勞資爭議促對話",
+      "url": "https://www.chinatimes.com/realtimenews/20261112004250-260407",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1247",
@@ -193,6 +324,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1258",
+      "media": "中國時報",
+      "title": "拋震撼彈！美光桃園工會認爭分潤失利 曝未來3動向",
+      "url": "https://www.chinatimes.com/realtimenews/20261112002320-260402",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:24:39+08:00",
+      "display_at": "2026-11-12T11:24:39+08:00",
+      "listed_at": "2026-11-12T21:30:00+08:00",
+      "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261112002320-260405"
     },
     {
       "id": "news-1241",
