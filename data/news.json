@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T09:14:09.140409+08:00",
-    "record_count": 992,
+    "generated_at": "2026-11-12T11:13:34.527736+08:00",
+    "record_count": 993,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1235",
+      "media": "China Times",
+      "title": "破撤資傳聞 張善政熱線美光CEO",
+      "url": "https://www.chinatimes.com/newspapers/20261112000665-260110",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T07:40:00+08:00",
+      "last_checked_at": "2026-11-12T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261111002070-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1225",
       "media": "ETtoday Political / reporter Shen Jichang",
