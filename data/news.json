@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T21:23:57.229771+08:00",
-    "record_count": 1017,
+    "generated_at": "2026-11-12T23:22:14.996389+08:00",
+    "record_count": 1024,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -37,6 +37,24 @@
       "topics": [
         "工會／勞資",
         "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1264",
+      "media": "中央社 CNA（UDN 財經版轉載頁；CNA 原始 URL 本輪未尋获）",
+      "title": "桃園工會退出17日協商 美光：未要求簽個別協議、持續溝通",
+      "url": "https://money.udn.com/money/story/5612/9874971",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:38:19+08:00",
+      "display_at": "2026-11-12T17:38:19+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -118,6 +136,24 @@
       "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat"
     },
     {
+      "id": "news-1268",
+      "media": "UDN 財經频道路径（同 story ID）",
+      "title": "美光桃園廠勞資爭議 市府：如工會拒絕協商將難以延續",
+      "url": "https://money.udn.com/money/story/5612/9874637",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T15:53:00+08:00",
+      "display_at": "2026-11-12T15:53:00+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7241/9874637"
+    },
+    {
       "id": "news-1245",
       "media": "聯合新聞網／聯合報",
       "title": "美光桃園廠勞資爭議 市府：如工會拒絕協商將難以延續",
@@ -153,6 +189,64 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1266",
+      "media": "鏡報 mirror path (mirrormedia.mg/external)",
+      "title": "「不簽就沒錢」？美光桃園工會控遭公司施壓 認分潤談判失利、宣布退出協商",
+      "url": "https://www.mirrormedia.mg/external/mirrordaily_97375",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/97375",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-12 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1263",
+      "media": "自由時報",
+      "title": "桃園工會退出第4次勞資協商 美光回應「持續尋求建設性對話」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5638655",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-12 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1265",
+      "media": "ETtoday新聞雲（財經雲）",
+      "title": "美光桃園工會退出協商！控領獎金恐須個別簽約 公司否認：未要求放棄權利",
+      "url": "https://finance.ettoday.net/news/3271126",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-12 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1259",
@@ -308,6 +402,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1267",
+      "media": "UDN 財經频道路径（同 story ID）",
+      "title": "美光桃園廠勞資爭議 工會宣布不參加17日協商",
+      "url": "https://money.udn.com/money/story/5612/9873823",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:45:17+08:00",
+      "display_at": "2026-11-12T11:45:17+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7240/9873823"
+    },
+    {
       "id": "news-1238",
       "media": "聯合新聞網（UDN）",
       "title": "美光桃園廠勞資爭議 工會宣布不參加17日協商",
@@ -324,6 +436,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1269",
+      "media": "中時新聞網",
+      "title": "拋震撼彈！美光桃園工會認爭分潤失利 曝未來3動向",
+      "url": "https://www.chinatimes.com/realtimenews/20261112002320-260407",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:24:39+08:00",
+      "display_at": "2026-11-12T11:24:39+08:00",
+      "listed_at": "2026-11-12T23:10:00+08:00",
+      "last_checked_at": "2026-11-12T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261112002320-260405"
     },
     {
       "id": "news-1258",
