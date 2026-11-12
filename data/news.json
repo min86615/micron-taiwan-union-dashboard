@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T23:22:14.996389+08:00",
-    "record_count": 1024,
+    "generated_at": "2026-11-13T01:17:06.318708+08:00",
+    "record_count": 1028,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -70,6 +70,24 @@
       "display_at": "2026-11-12T17:18:00+08:00",
       "listed_at": "2026-11-12T21:30:00+08:00",
       "last_checked_at": "2026-11-12T21:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1270",
+      "media": "聯合報/UDN",
+      "title": "勞資爭議延燒 美光強調未要求員工放棄任何權利",
+      "url": "https://money.udn.com/money/story/5612/9874851",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:01:12+08:00",
+      "display_at": "2026-11-12T17:01:12+08:00",
+      "listed_at": "2026-11-13T01:20:00+08:00",
+      "last_checked_at": "2026-11-13T01:20:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -189,6 +207,64 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1271",
+      "media": "萬得富Waner/時報（China Times）",
+      "title": "《科技》季度利潤獎金試算開放 美光強調持續與桃園工會協商",
+      "url": "https://wantrich.chinatimes.com/news/20261112900490-420101",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T01:20:00+08:00",
+      "last_checked_at": "2026-11-13T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1272",
+      "media": "中國時報/China Times",
+      "title": "「簽保密才給獎金？」 美光澄清：從未要求個別員工簽署",
+      "url": "https://www.chinatimes.com/realtimenews/20261112004802-260410",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T01:20:00+08:00",
+      "last_checked_at": "2026-11-13T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1273",
+      "media": "cnetworknews/Knews",
+      "title": "控資方施壓及檢調約談！美光桃園工會退出勞資協商 17日赴民進黨部「致歉」",
+      "url": "https://www.knews.com.tw/news/6AFFDE1F6913C84D21DC327869DF4F64",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T01:20:00+08:00",
+      "last_checked_at": "2026-11-13T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1266",
