@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T11:13:34.527736+08:00",
-    "record_count": 993,
+    "generated_at": "2026-11-12T13:11:18.499934+08:00",
+    "record_count": 996,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -23,6 +23,60 @@
       "source_type": "media",
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261111002070-260405",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1237",
+      "media": "自由財經（LTN）",
+      "title": "就是要分潤！美光桃園工會：退出17日第四次勞資協商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5638110",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:59:15+08:00",
+      "display_at": "2026-11-12T11:59:15+08:00",
+      "listed_at": "2026-11-12T13:20:00+08:00",
+      "last_checked_at": "2026-11-12T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1238",
+      "media": "聯合新聞網（UDN）",
+      "title": "美光桃園廠勞資爭議 工會宣布不參加17日協商",
+      "url": "https://udn.com/news/story/7240/9873823",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:45:17+08:00",
+      "display_at": "2026-11-12T11:45:17+08:00",
+      "listed_at": "2026-11-12T13:20:00+08:00",
+      "last_checked_at": "2026-11-12T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1239",
+      "media": "鏡新聞（Next Apple）",
+      "title": "美光桃園工會認分潤爭取失利！退出勞資協商 將赴民進黨中央抗議",
+      "url": "https://news.nextapple.com/finance/20261112/CCB3635F44CB88611FB00DBFCD59972F",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T11:19:00+08:00",
+      "display_at": "2026-11-12T11:19:00+08:00",
+      "listed_at": "2026-11-12T13:20:00+08:00",
+      "last_checked_at": "2026-11-12T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1225",
