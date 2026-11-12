@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-12T17:15:44.379459+08:00",
-    "record_count": 1003,
+    "generated_at": "2026-11-12T19:19:16.893073+08:00",
+    "record_count": 1009,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1249",
+      "media": "Taiwan News",
+      "title": "Micron Taoyuan union withdraws from profit-sharing talks",
+      "url": "https://www.taiwannews.com.tw/en/news/6475503",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T16:56:00+08:00",
+      "display_at": "2026-11-12T16:56:00+08:00",
+      "listed_at": "2026-11-12T19:15:00+08:00",
+      "last_checked_at": "2026-11-12T19:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
+    },
     {
       "id": "news-1245",
       "media": "聯合新聞網／聯合報",
@@ -41,6 +60,46 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1247",
+      "media": "France 24 (AFP wire, original)",
+      "title": "Taiwan union ends bonus talks with Micron after 'defeat' (AFP wire)",
+      "url": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T19:15:00+08:00",
+      "last_checked_at": "2026-11-12T19:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "original_wire_service",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1248",
+      "media": "FOX26 Marquee Broadcasting West (BLOX Digital Content Exchange copy of AFP wire)",
+      "title": "Taiwan union ends bonus talks with Micron after 'defeat'",
+      "url": "https://www.fox26medford.com/news/national/taiwan-union-ends-bonus-talks-with-micron-after-defeat/article_7fc57014-8fbc-5a20-9b05-9f11a18aa02a.html",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-12T19:15:00+08:00",
+      "last_checked_at": "2026-11-12T19:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_wire_copy",
+      "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1242",
@@ -2412,6 +2471,25 @@
       "status": "reported",
       "source_type": "aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1252",
+      "media": "都会证券 Doo Financial (market analysis)",
+      "title": "六成产能的两家厂：台中签了字，桃园照罢一天",
+      "url": "https://www.doofinancial.com.au/zh/media/micron-taiwan-taichung-taoyuan-union-strike-profit-sharing-ratio",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-12T19:15:00+08:00",
+      "last_checked_at": "2026-11-12T19:15:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent_analysis",
+      "duplicate_of": null,
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1192",
@@ -9964,6 +10042,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1251",
+      "media": "同花顺 (10jqka) - sourced from 凤凰网财经 (Phoenix Finance, original outlet)",
+      "title": "HBM心脏地带对峙：美光台湾员工要罢工",
+      "url": "http://stock.10jqka.com.cn/usstock/20261020/c680888270.shtml",
+      "published_date": "2026-10-20",
+      "published_at": "2026-10-20T04:50:59+08:00",
+      "display_at": "2026-10-20T04:50:59+08:00",
+      "listed_at": "2026-11-12T19:15:00+08:00",
+      "last_checked_at": "2026-11-12T19:15:00+08:00",
+      "language": "SC",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "original_outlet_ai_translation",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1001",
       "media": "Futu News (news.futunn.com) citing Cailianshe (cls.cn)",
       "title": "美光桃園廠工人計劃週四罷工 公司芯片生產計劃或受嚴重影響",
@@ -10823,6 +10919,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1250",
+      "media": "Commonwealth Magazine (English edition)",
+      "title": "A Strike Vote at Micron Taoyuan Could Be the First in Taiwan's Chip Industry",
+      "url": "https://english.cw.com.tw/article/article.action?id=5049",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-12T19:15:00+08:00",
+      "last_checked_at": "2026-11-12T19:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "original_analysis",
+      "duplicate_of": null,
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0986",
