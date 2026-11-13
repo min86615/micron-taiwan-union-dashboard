@@ -1,10 +1,46 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T19:57:27.663729+08:00",
-    "record_count": 1058,
+    "generated_at": "2026-11-13T21:28:15.015999+08:00",
+    "record_count": 1063,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1312",
+      "media": "三立新聞網 SETN 財經",
+      "title": "美光駁司法打壓：報案為護員工安全與保密 非針對工會",
+      "url": "https://www.setn.com/news/1938653",
+      "published_date": "2026-11-13",
+      "published_at": "2026-11-13T20:30:00+08:00",
+      "display_at": "2026-11-13T20:30:00+08:00",
+      "listed_at": "2026-11-13T21:10:00+08:00",
+      "last_checked_at": "2026-11-13T21:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1313",
+      "media": "ETtoday 財經雲",
+      "title": "「簽保密才給獎金？」美光澄清絕無此事：協商期間遭恐嚇、資料外流已交警方",
+      "url": "https://finance.ettoday.net/news/3271827",
+      "published_date": "2026-11-13",
+      "published_at": "2026-11-13T20:08:00+08:00",
+      "display_at": "2026-11-13T20:08:00+08:00",
+      "listed_at": "2026-11-13T21:12:00+08:00",
+      "last_checked_at": "2026-11-13T21:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
+    },
     {
       "id": "news-1309",
       "media": "Wikipedia (zh-hant variant)",
@@ -282,6 +318,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1314",
+      "media": "TechNews 科技新報 財經",
+      "title": "美光勞資爭議 》 桃園工會爭取分潤失利退出協商，美光聲明絕無打壓工會",
+      "url": "https://finance.technews.tw/2026-11-12/micron-labor-dispute",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:00:00+08:00",
+      "display_at": "2026-11-12T17:00:00+08:00",
+      "listed_at": "2026-11-13T21:14:00+08:00",
+      "last_checked_at": "2026-11-13T21:14:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
       "duplicate_of": null
     },
     {
@@ -1295,6 +1349,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1317",
+      "media": "BigGo Finance (jp) editorial summary",
+      "title": "米Micronの桃園拡張計画に一時停止の噂、張善政市長が総裁と直談判し投資継続の約束取り付ける",
+      "url": "https://finance.biggo.jp/news/75253c90-8d5c-4184-b2fe-b096f801707c",
+      "published_date": "2026-11-11",
+      "published_at": "2026-11-11T04:35:52+00:00",
+      "display_at": "2026-11-11T04:35:52+00:00",
+      "listed_at": "2026-11-13T21:24:00+08:00",
+      "last_checked_at": "2026-11-13T21:24:00+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "aggregator_summary_read_full",
       "duplicate_of": null
     },
     {
@@ -13631,6 +13703,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://technews.tw/2026/09/29/memory-winbond/"
+    },
+    {
+      "id": "news-1316",
+      "media": "財訊（授權轉載經濟日報/UDN）",
+      "title": "記憶體業在台大投資 美光台中、銅鑼等廠區動起來 南亞科進駐屏東",
+      "url": "https://wealth.com.tw/articles/ba5b8648-3e00-4d59-93b2-4208e88e591d",
+      "published_date": "2026-10-02",
+      "published_at": null,
+      "display_at": "2026-10-02T12:00:00+08:00",
+      "listed_at": "2026-11-13T21:18:00+08:00",
+      "last_checked_at": "2026-11-13T21:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "authorized_reprint_primary",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0736",
