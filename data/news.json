@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T15:15:19.417090+08:00",
-    "record_count": 1049,
+    "generated_at": "2026-11-13T17:17:49.041350+08:00",
+    "record_count": 1051,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -98,6 +98,25 @@
       ],
       "status": "reported",
       "source_type": "independent",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1302",
+      "media": "風傳媒 Storm Media",
+      "title": "美光桃園工會宣布不參加17日協商！公司發四點聲明，否認要求員工簽約領獎金",
+      "url": "https://www.storm.mg/article/11181085",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T21:25:00+08:00",
+      "display_at": "2026-11-12T21:25:00+08:00",
+      "listed_at": "2026-11-13T17:20:00+08:00",
+      "last_checked_at": "2026-11-13T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -265,6 +284,25 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1303",
+      "media": "AFP (wire) — syndicated copy of AFP report; private master is France 24 live-news record",
+      "title": "Taiwan union ends bonus talks with Micron after 'defeat'",
+      "url": "https://www.afp.com/en/taiwan-union-ends-bonus-talks-micron-after-defeat",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T16:48:00+08:00",
+      "display_at": "2026-11-12T16:48:00+08:00",
+      "listed_at": "2026-11-13T17:20:00+08:00",
+      "last_checked_at": "2026-11-13T17:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-micron-after-defeat"
     },
     {
       "id": "news-1260",
