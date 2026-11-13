@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T09:16:40.614055+08:00",
+    "generated_at": "2026-11-13T09:18:57.298012+08:00",
     "record_count": 1038,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -75,9 +75,9 @@
       "topics": [
         "工會／勞資"
       ],
-      "status": "reported",
+      "status": "syndicated",
       "source_type": "media",
-      "duplicate_of": null
+      "duplicate_of": "https://udn.com/news/story/7240/9875024"
     },
     {
       "id": "news-1255",
