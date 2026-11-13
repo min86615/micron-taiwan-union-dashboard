@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T07:13:27.202448+08:00",
-    "record_count": 1033,
+    "generated_at": "2026-11-13T09:16:40.614055+08:00",
+    "record_count": 1038,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -40,6 +40,43 @@
       ],
       "status": "reported",
       "source_type": "independent",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1281",
+      "media": "鏡報 Mirror Daily",
+      "title": "不簽協議就沒獎金？美光駁桃園工會指控 揭協商中止原因",
+      "url": "https://mirrordaily.news/story/97550",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T18:16:00+08:00",
+      "display_at": "2026-11-12T18:16:00+08:00",
+      "listed_at": "2026-11-13T09:15:00+08:00",
+      "last_checked_at": "2026-11-13T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1282",
+      "media": "經濟日報 UDN",
+      "title": "桃園工會退出勞資協商 美光回應：未要求員工放棄權利",
+      "url": "https://money.udn.com/money/story/5612/9875024",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T18:01:41+08:00",
+      "display_at": "2026-11-12T18:01:41+08:00",
+      "listed_at": "2026-11-13T09:15:00+08:00",
+      "last_checked_at": "2026-11-13T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -244,6 +281,64 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1283",
+      "media": "自由時報",
+      "title": "就是要分潤！美光桃園工會：退出17日第四次勞資協商",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5638110",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T09:15:00+08:00",
+      "last_checked_at": "2026-11-13T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5638110",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1284",
+      "media": "USA-Taiwan 聚合（AI 新聞，明確引用自由時報原文）",
+      "title": "桃園工會退出第 4 次協商 美光回應將續溝通",
+      "url": "https://usa-taiwan.org/paper/article/2890",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T09:15:00+08:00",
+      "last_checked_at": "2026-11-13T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator (same-copy rewrite, explicitly cites LTN original)",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5638655",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1280",
+      "media": "TradingKey",
+      "title": "Micron Falls Over 4% Pre-Market as Taiwan Taoyuan Plant Union Exits Profit-Sharing Talks, Labor Dispute Continues",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262302773-",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T09:15:00+08:00",
+      "last_checked_at": "2026-11-13T09:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源提供時間但未標示時區；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1279",
