@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-14T07:14:08.823200+08:00",
+    "generated_at": "2026-11-14T07:17:28.043577+08:00",
     "record_count": 1077,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
