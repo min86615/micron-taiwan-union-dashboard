@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-14T01:32:08.912815+08:00",
-    "record_count": 1070,
+    "generated_at": "2026-11-14T05:13:06.415114+08:00",
+    "record_count": 1071,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -266,6 +266,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1330",
+      "media": "UDN 財經（AMP 轉載頁，CNA 內容群組）",
+      "title": "桃園工會退出17日協商 美光：未要求簽個別協議、持續溝通",
+      "url": "https://money.udn.com/money/amp/story/5612/9874971",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:38:19+08:00",
+      "display_at": "2026-11-12T17:38:19+08:00",
+      "listed_at": "2026-11-14T05:20:00+08:00",
+      "last_checked_at": "2026-11-14T05:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9874971"
     },
     {
       "id": "news-1264",
