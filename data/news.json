@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T11:48:48.935545+08:00",
-    "record_count": 1045,
+    "generated_at": "2026-11-13T13:25:41.332952+08:00",
+    "record_count": 1048,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -320,6 +320,44 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1294",
+      "media": "NextApple News",
+      "title": "美光4點聲明反擊桃園工會！否認強迫簽約 揭協商中止內幕",
+      "url": "https://news.nextapple.com/finance/20261112/5EFC5B2C5ADBCF62C176883DBA31CD4C",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T13:25:00+08:00",
+      "last_checked_at": "2026-11-13T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://udn.com/news/story/7240/9874909",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1295",
+      "media": "LINE TODAY (Taibao/太報 copy)",
+      "title": "桃園工會稱不再參與勞資協商！ 美光回應：未要求員工簽署個別協議 將持續尋求對話",
+      "url": "https://today.line.me/tw/v3/article/8nMvLmE",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T13:25:00+08:00",
+      "last_checked_at": "2026-11-13T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.taisounds.com/news/content/76/309346",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1292",
@@ -3114,6 +3152,26 @@
       "status": "reported",
       "source_type": "aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1296",
+      "media": "Gate News (JP aggregator page, source cited as Bloomberg)",
+      "title": "11月5日、労働争議を受け、Micronは台湾・桃園での45億ドル規模の半導体工場計画を停止した",
+      "url": "https://www.gate.com/ja/news/detail/micron-halts-45b-taiwan-taoyuan-chip-factory-plan-amid-labor-dispute-on-25426509",
+      "published_date": "2026-11-05",
+      "published_at": null,
+      "display_at": "2026-11-05T12:00:00+08:00",
+      "listed_at": "2026-11-13T13:25:00+08:00",
+      "last_checked_at": "2026-11-13T13:25:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://gate.com/zh-tw/news/detail/micron-halts-45b-taiwan-taoyuan-chip-factory-plan-amid-labor-dispute-on-25426509",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1252",
