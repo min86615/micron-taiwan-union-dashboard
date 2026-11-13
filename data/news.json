@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T17:17:49.041350+08:00",
-    "record_count": 1051,
+    "generated_at": "2026-11-13T19:57:27.663729+08:00",
+    "record_count": 1058,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1309",
+      "media": "Wikipedia (zh-hant variant)",
+      "title": "2026年臺灣美光勞資爭議",
+      "url": "https://zh.wikipedia.org/zh-hant/2026%E5%B9%B4%E8%87%BA%E7%81%A3%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-13T12:00:00+08:00",
+      "listed_at": "2026-11-13T19:08:00+08:00",
+      "last_checked_at": "2026-11-13T19:08:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E8%87%BA%E7%81%A3%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-13 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1301",
       "media": "UA.News (translation copy citing Taipei Times)",
@@ -212,6 +231,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1306",
+      "media": "中央社 CNA",
+      "title": "桃園工會退出17日協商　美光：未要求簽個別協議、持續溝通",
+      "url": "https://www.cna.com.tw/news/afe/202611120289.aspx",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T17:30:00+08:00",
+      "display_at": "2026-11-12T17:30:00+08:00",
+      "listed_at": "2026-11-13T19:12:00+08:00",
+      "last_checked_at": "2026-11-13T19:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1254",
       "media": "經濟日報/UDN",
       "title": "美光勞資協商破局 桃園工會稱資方施壓：「不簽就沒錢」公司嚴正否認",
@@ -360,6 +397,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1305",
+      "media": "Yahoo 股市 mirror (FTNN新聞網)",
+      "title": "美光桃園工會勞資談判破局！爆員工領獎金恐須簽同意書　11／17赴民進黨中央抗議",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%8B%9E%E8%B3%87%E8%AB%87%E5%88%A4%E7%A0%B4%E5%B1%80-%E7%88%86%E5%93%A1%E5%B7%A5%E9%A0%98%E7%8D%8E%E9%87%91%E6%81%90%E9%A0%88%E7%B0%BD%E5%90%8C%E6%84%8F%E6%9B%B8-11-17%E8%B5%B4%E6%B0%91%E9%80%B2%E9%BB%A8%E4%B8%AD%E5%A4%AE%E6%8A%97%E8%AD%B0-055400245.html",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T13:54:00+08:00",
+      "display_at": "2026-11-12T13:54:00+08:00",
+      "listed_at": "2026-11-13T19:12:00+08:00",
+      "last_checked_at": "2026-11-13T19:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.ftnn.com.tw/news/595201"
+    },
+    {
       "id": "news-1244",
       "media": "FTNN 新聞網",
       "title": "美光桃園工會勞資談判破局！爆員工領獎金恐須簽同意書 11／17赴民進黨中央抗議",
@@ -377,6 +433,25 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1304",
+      "media": "LTN 財富自由 (stock.ltn.com.tw mirror)",
+      "title": "桃園工會退出第4次勞資協商 美光回應「持續尋求建設性對話」",
+      "url": "https://stock.ltn.com.tw/article/tekau1gy8dd3",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T19:20:00+08:00",
+      "last_checked_at": "2026-11-13T19:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5638655",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1294",
@@ -1003,6 +1078,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1307",
+      "media": "Barron's (AFP wire)",
+      "title": "Taiwan Union Ends Bonus Talks With Micron After 'Defeat'",
+      "url": "https://www.barrons.com/news/taiwan-union-ends-bonus-talks-with-micron-after-defeat-47df67c9",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T02:08:00-05:00",
+      "display_at": "2026-11-12T02:08:00-05:00",
+      "listed_at": "2026-11-13T19:16:00+08:00",
+      "last_checked_at": "2026-11-13T19:16:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat"
     },
     {
       "id": "news-1225",
@@ -11717,6 +11811,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1308",
+      "media": "TIKR.com (zh)",
+      "title": "美光台湾厂员工因奖金方案争议批准罢工行动",
+      "url": "https://www.tikr.com/zh/blog/micron-taiwan-workers-authorize-strike-bonus-dispute",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-13T19:16:00+08:00",
+      "last_checked_at": "2026-11-13T19:16:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.tikr.com/blog/micron-workers-in-taiwan-authorize-a-strike-and-wants-15-of-operating-profit-heres-what-that-would-cost",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1250",
       "media": "Commonwealth Magazine (English edition)",
       "title": "A Strike Vote at Micron Taoyuan Could Be the First in Taiwan's Chip Industry",
@@ -13404,6 +13517,25 @@
       "status": "reported",
       "source_type": "original_source",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1311",
+      "media": "元富證券豐雲學堂新聞快訊（經濟日報/UDN mirror）",
+      "title": "美光罷工投票88.3%通過 工會揭三項質疑",
+      "url": "https://www.sinotrade.com.tw/richclub/news/6ac6030d36ff4992b1a5a407",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T03:56:00+08:00",
+      "display_at": "2026-10-07T03:56:00+08:00",
+      "listed_at": "2026-11-13T19:47:00+08:00",
+      "last_checked_at": "2026-11-13T19:47:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_mirror",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9800596"
     },
     {
       "id": "news-0916",
