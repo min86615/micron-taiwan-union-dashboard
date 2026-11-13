@@ -1,10 +1,49 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T09:18:57.298012+08:00",
-    "record_count": 1038,
+    "generated_at": "2026-11-13T11:48:48.935545+08:00",
+    "record_count": 1045,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1290",
+      "media": "MoneyDJ FundDJ（轉載 商業周刊）",
+      "title": "台灣半導體業首場合法罷工，11個人拉布條！美光罷工為何至今談不攏",
+      "url": "https://moneydj.com/funddj/ya/yp052001.djhtm?a=BCC4950F-AE1B-49DE-9205-B8191DA925E9",
+      "published_date": "2026-11-13",
+      "published_at": null,
+      "display_at": "2026-11-13T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:13:06+08:00",
+      "last_checked_at": "2026-11-13T11:13:06+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.businessweekly.com.tw/focus/blog/3023482",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1287",
+      "media": "UA.News",
+      "title": "Micron union in Taiwan ends profit-sharing talks - Taipei Times",
+      "url": "https://ua.news/en/dovkolo-svitu/profspilka-micron-u-taivani-pripinila-peregovori-pro-rozpodil-pributku-taipei-times",
+      "published_date": "2026-11-13",
+      "published_at": null,
+      "display_at": "2026-11-13T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:06:10+08:00",
+      "last_checked_at": "2026-11-13T11:06:10+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.taipeitimes.com/News/biz/archives/2026-11-13/2003867635",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1277",
       "media": "Taipei Times (AFP wire)",
@@ -281,6 +320,84 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1292",
+      "media": "Taisounds（sounds好新聞）",
+      "title": "美光桃園工會發出公開信：不參加11/17勞資協商 將前往民進黨中央黨部陳抗",
+      "url": "https://www.taisounds.com/news/content/76/309346",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:14:19+08:00",
+      "last_checked_at": "2026-11-13T11:14:19+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1289",
+      "media": "自由時報（LTN stock channel mirror）",
+      "title": "就是要分潤！美光桃園工會：退出17日第四次勞資協商",
+      "url": "https://stock.ltn.com.tw/article/31yx0hjbbf0l",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:13:06+08:00",
+      "last_checked_at": "2026-11-13T11:13:06+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5638110",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1288",
+      "media": "Yahoo Finance (AFP wire)",
+      "title": "Taiwan union ends bonus talks with Micron after 'defeat'",
+      "url": "https://finance.yahoo.com/news/taiwan-union-ends-bonus-talks-070844866.html",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:08:11+08:00",
+      "last_checked_at": "2026-11-13T11:08:11+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1286",
+      "media": "Mitrade / TradingKey",
+      "title": "Micron Falls Over 4% Pre-Market as Taiwan Taoyuan Plant Union Exits Profit-Sharing Talks, Labor Dispute Continues",
+      "url": "https://mitrade.com/au/insights/news/live-news/article-8-2251153-20261112",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:06:10+08:00",
+      "last_checked_at": "2026-11-13T11:06:10+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.tradingkey.com/analysis/stocks/us-stocks/262302773-",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1283",
@@ -7291,6 +7408,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1291",
+      "media": "Mezha Japan",
+      "title": "Micron、従業員向けに四半期ごとの利益分配賞与を導入",
+      "url": "https://mezha.net/jp/news/mezha-202965014c2bdee8684c271a_micron-launches-quarterly-profit-sharing-bonuses",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-13T11:21:17+08:00",
+      "last_checked_at": "2026-11-13T11:21:17+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1201",
