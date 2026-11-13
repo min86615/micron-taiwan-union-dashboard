@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T21:28:15.015999+08:00",
-    "record_count": 1063,
+    "generated_at": "2026-11-13T21:31:25.272285+08:00",
+    "record_count": 1065,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4456,6 +4456,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.ctee.com.tw/news/20261103701192-430501"
+    },
+    {
+      "id": "news-1318",
+      "media": "TechNews 科技新報 財經",
+      "title": "中科管理局：美光公司台中廠勞資簽署協議於法有據，尊重雙方協議",
+      "url": "https://finance.technews.tw/2026-11-03/the-labor-management-agreement-signed-at-micron-technologys-taichung-plant-is-legally-sound",
+      "published_date": "2026-11-03",
+      "published_at": "2026-11-03T15:45:00+08:00",
+      "display_at": "2026-11-03T15:45:00+08:00",
+      "listed_at": "2026-11-13T21:31:00+08:00",
+      "last_checked_at": "2026-11-13T21:31:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
     },
     {
       "id": "news-0879",
@@ -9261,6 +9279,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021003045-260410"
+    },
+    {
+      "id": "news-1319",
+      "media": "TechNews 科技新報 財經",
+      "title": "台灣美光記憶體工會與台灣美光達成多項共識，並正式簽署勞資協議",
+      "url": "https://finance.technews.tw/2026-10-21/micron-taiwan-memory-industry-association-and-micron-taiwan-reach-several-consensuses",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:45:00+08:00",
+      "display_at": "2026-10-21T14:45:00+08:00",
+      "listed_at": "2026-11-13T21:31:00+08:00",
+      "last_checked_at": "2026-11-13T21:31:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null
     },
     {
       "id": "news-0532",
