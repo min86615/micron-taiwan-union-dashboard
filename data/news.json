@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-13T13:25:41.332952+08:00",
-    "record_count": 1048,
+    "generated_at": "2026-11-13T15:15:19.417090+08:00",
+    "record_count": 1049,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1301",
+      "media": "UA.News (translation copy citing Taipei Times)",
+      "title": "美光台湾工会终止利润分配谈判——《台北时报》",
+      "url": "https://ua.news/cn/dovkolo-svitu/profspilka-micron-u-taivani-pripinila-peregovori-pro-rozpodil-pributku-taipei-times",
+      "published_date": "2026-11-13",
+      "published_at": null,
+      "display_at": "2026-11-13T12:00:00+08:00",
+      "listed_at": "2026-11-13T15:10:00+08:00",
+      "last_checked_at": "2026-11-13T15:10:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.taipeitimes.com/News/biz/archives/2026-11-13/2003867635",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1290",
       "media": "MoneyDJ FundDJ（轉載 商業周刊）",
