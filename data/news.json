@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-14T17:25:45.451085+08:00",
-    "record_count": 1085,
+    "generated_at": "2026-11-14T19:22:55.462072+08:00",
+    "record_count": 1087,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -10702,6 +10702,26 @@
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610200191.aspx"
     },
     {
+      "id": "news-1348",
+      "media": "永豐金證券豐雲學堂 (republication of UDN 經濟日報)",
+      "title": "美光與台中工會簽署勞資協議 撤回22日調解程序",
+      "url": "https://www.sinotrade.com.tw/richclub/news/6ad869fc36ff4992b1e31d2e",
+      "published_date": "2026-10-20",
+      "published_at": null,
+      "display_at": "2026-10-20T12:00:00+08:00",
+      "listed_at": "2026-11-14T19:12:00+08:00",
+      "last_checked_at": "2026-11-14T19:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media republication",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9828635",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1138",
       "media": "LINE TODAY TW (SETN mirror)",
       "title": "快訊／宣佈了！　美光罷工就在這天",
@@ -12444,7 +12464,7 @@
       "published_at": null,
       "display_at": "2026-10-08T12:00:00+08:00",
       "listed_at": "2026-10-30T01:20:00+08:00",
-      "last_checked_at": "2026-10-30T01:20:00+08:00",
+      "last_checked_at": "2026-11-14T19:12:00+08:00",
       "language": "EN",
       "topics": [
         "工會／勞資",
@@ -13369,6 +13389,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1347",
+      "media": "The Sun Malaysia (AFP copy)",
+      "title": "Micron Taiwan workers vote to strike over bonus reforms",
+      "url": "https://thesun.my/news/micron-taiwan-workers-vote-to-strike-over-bonus-reforms/",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-14T19:12:00+08:00",
+      "last_checked_at": "2026-11-14T19:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://france24.com/en/live-news/20261007-micron-workers-at-taiwan-plant-vote-in-favour-of-strike",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1229",
