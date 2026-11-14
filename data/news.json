@@ -1,10 +1,31 @@
 {
   "summary": {
-    "generated_at": "2026-11-14T11:19:37.090394+08:00",
-    "record_count": 1080,
+    "generated_at": "2026-11-14T17:25:45.451085+08:00",
+    "record_count": 1085,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1340",
+      "media": "GMT EIGHT (Zhitong Finance App / 智通財經)",
+      "title": "Micron (MU.US) Taiwan Labor Dispute Sees a Turnaround: Taichung Union Signs Agreement to Withdraw from Mediation, AI Memory Supply Gets Temporary Relief",
+      "url": "https://gmteight.com/flash/detail/1566648",
+      "published_date": "2026-11-14",
+      "published_at": null,
+      "display_at": "2026-11-14T12:00:00+08:00",
+      "listed_at": "2026-11-14T17:10:00+08:00",
+      "last_checked_at": "2026-11-14T17:10:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1334",
       "media": "LINE TODAY（鏡週刊 Mirror Media）",
@@ -652,6 +673,84 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1343",
+      "media": "鏡新聞（Mirror Media / mnews.tw）",
+      "title": "桃園工會認爭取分潤未果將退出協商 美光回應了",
+      "url": "https://www.mnews.tw/story/mm-20261112-180fin-181533",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-14T17:10:00+08:00",
+      "last_checked_at": "2026-11-14T17:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1341",
+      "media": "自由時報（LTN，政治/地方報導）",
+      "title": "美光勞資糾紛 張善政：與卓榮泰密切討論 共同努力解決",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5638716",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-14T17:10:00+08:00",
+      "last_checked_at": "2026-11-14T17:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1344",
+      "media": "永豐金證券 豐雲學堂（美股觀察）",
+      "title": "美光罷工最新進度：桃園工會宣布退出11月17日協商，DRAM、HBM供應鏈風險怎麼看？｜美股觀察",
+      "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%BE%8E%E5%85%89%E7%BD%B7%E5%B7%A5%E6%9C%80%E6%96%B0%E9%80%B2%E5%BA%A6-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA11%E6%9C%8817%E6%97%A5%E5%8D%94%E5%95%86-DRAM-HBM%E4%BE%9B%E6%87%88%E9%8F%88%E9%A2%A8%E9%9A%AA%E6%80%8E%E9%BA%BC%E7%9C%8B--%E7%BE%8E%E8%82%A1%E8%A7%80%E5%AF%9F-6a9a83090c88fd3593a00aae",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-14T17:10:00+08:00",
+      "last_checked_at": "2026-11-14T17:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1342",
+      "media": "CNEWS 匯流新聞網",
+      "title": "美光勞資爭議與卓榮泰密切討論 張善政首發Threads：協商關鍵期勿急下定論",
+      "url": "https://cnews.com.tw/174261112a03/",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-14T17:10:00+08:00",
+      "last_checked_at": "2026-11-14T17:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1323",
