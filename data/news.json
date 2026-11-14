@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-14T19:22:55.462072+08:00",
-    "record_count": 1087,
+    "generated_at": "2026-11-14T21:31:48.082267+08:00",
+    "record_count": 1089,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13389,6 +13389,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1349",
+      "media": "The China Mail (AFP copy)",
+      "title": "Micron workers at Taiwan plant vote in favour of strike",
+      "url": "https://cnmail.cn/Economy/752851-micron-workers-at-taiwan-plant-vote-in-favour-of-strike.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-14T21:19:00+08:00",
+      "last_checked_at": "2026-11-14T21:19:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://france24.com/en/live-news/20261007-micron-workers-at-taiwan-plant-vote-in-favour-of-strike",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-1350",
+      "media": "Seoul Gazette (AFP copy)",
+      "title": "Micron workers at Taiwan plant vote in favour of strike",
+      "url": "https://seoulgazette.kr/Economy/882019-micron-workers-at-taiwan-plant-vote-in-favour-of-strike.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-14T21:19:00+08:00",
+      "last_checked_at": "2026-11-14T21:19:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://france24.com/en/live-news/20261007-micron-workers-at-taiwan-plant-vote-in-favour-of-strike",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1347",
