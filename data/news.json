@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T01:19:52.013124+08:00",
-    "record_count": 1093,
+    "generated_at": "2026-11-15T03:14:57.014292+08:00",
+    "record_count": 1094,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -20882,6 +20882,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1356",
+      "media": "Hiroshima Prefecture Labor Welfare Council (Kamo-Toyota district report)",
+      "title": "【地区総会】第17回賀茂豊田地区労福協定期総会（2026.06.23）",
+      "url": "https://hiroshima-rofuku.net/reports/2195",
+      "published_date": "2026-06-26",
+      "published_at": null,
+      "display_at": "2026-06-26T12:00:00+08:00",
+      "listed_at": "2026-11-15T03:00:00+08:00",
+      "last_checked_at": "2026-11-15T03:00:00+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "organization_report",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
