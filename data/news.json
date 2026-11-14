@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-14T07:17:28.043577+08:00",
-    "record_count": 1077,
+    "generated_at": "2026-11-14T11:19:37.090394+08:00",
+    "record_count": 1080,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -9670,6 +9670,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1337",
+      "media": "中評社（中國評論新聞）",
+      "title": "等不到分潤 桃園美光工会22日声援式罢工",
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&docid=160280376&kindid=0",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-14T11:20:00+08:00",
+      "last_checked_at": "2026-11-14T11:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1275",
       "media": "China Times (newspaper page)",
       "title": "等不到分潤 桃園美光明聲援式罷工",
@@ -11359,6 +11378,25 @@
       "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
     },
     {
+      "id": "news-1338",
+      "media": "中評社（中國評論新聞）",
+      "title": "台美光将罢工？林哲瑞：海外员工声援争分润",
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&docid=160279738&kindid=0",
+      "published_date": "2026-10-19",
+      "published_at": null,
+      "display_at": "2026-10-19T12:00:00+08:00",
+      "listed_at": "2026-11-14T11:20:00+08:00",
+      "last_checked_at": "2026-11-14T11:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.crntt.tw/doc/docDetail.jsp?coluid=46&kindid=0&docid=160279738",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0507",
       "media": "台灣中評網",
       "title": "台灣中評網：台美光將罷工？林哲瑞：海外員工聲援爭分潤",
@@ -11373,7 +11411,7 @@
         "罷工"
       ],
       "status": "reported",
-      "source_type": "media",
+      "source_type": "original",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
@@ -12140,6 +12178,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1339",
+      "media": "MT Newswires（via 富途牛牛新聞）",
+      "title": "Market Chatter: Micron Technology's Taiwan Union Gets Approval for Strike",
+      "url": "https://news.futunn.com/post/1000695894/market-chatter-micron-technology-s-taiwan-union-gets-approval-for",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-14T11:20:00+08:00",
+      "last_checked_at": "2026-11-14T11:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1308",
