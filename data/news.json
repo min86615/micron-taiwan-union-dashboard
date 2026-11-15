@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T21:12:54.145027+08:00",
-    "record_count": 1107,
+    "generated_at": "2026-11-15T23:19:07.289781+08:00",
+    "record_count": 1114,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1376",
+      "media": "Yahoo!新聞（轉載 台灣好新聞／黃駿騏）",
+      "title": "美光勞資爭議重大進展 張善政多日協調11/17重回談判桌進入調停程序",
+      "url": "https://n.yam.com/Article/20261115594541",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T17:47:00+08:00",
+      "display_at": "2026-11-15T17:47:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528"
+    },
+    {
+      "id": "news-1378",
+      "media": "Yahoo!新聞（轉載 Talknews說新聞／潘逸雲）",
+      "title": "桃園美光勞資協商重回談判桌",
+      "url": "https://n.yam.com/Article/20261115918966",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T15:57:00+08:00",
+      "display_at": "2026-11-15T15:57:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528"
+    },
     {
       "id": "news-1369",
       "media": "Liberty Times Finance (stock.ltn.com.tw)",
@@ -22,6 +59,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1377",
+      "media": "Yahoo!新聞（轉載 桃園電子報／陳儒賢）",
+      "title": "美光勞資協商破局有解？桃園市府出手11/17重啟談判",
+      "url": "https://n.yam.com/Article/20261115776832",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T14:47:00+08:00",
+      "display_at": "2026-11-15T14:47:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528"
     },
     {
       "id": "news-1363",
@@ -59,6 +114,82 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1375",
+      "media": "United Daily News (UDN watchlist)",
+      "title": "美光僵局露曙光！張善政出手協調 勞資雙方17日重回談判桌",
+      "url": "https://udn.com/news/story/7240/9879913",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1374",
+      "media": "Liberty Times (FreedomTimes watchlist)",
+      "title": "快評》美光案後桃產總全身而退 還能為自己增光添彩嗎？",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5641527",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1373",
+      "media": "Liberty Times (FreedomTimes watchlist)",
+      "title": "張善政糾結出席美光協商不只1次 與會人士：重點是要擺平爭議、留住美光吧？",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5641913",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1372",
+      "media": "China Times",
+      "title": "美光勞資爭議 張善政挨批僅現身一次？桃市府秀數據打臉",
+      "url": "https://www.chinatimes.com/realtimenews/20261115002117-260407",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T23:12:00+08:00",
+      "last_checked_at": "2026-11-15T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1371",
