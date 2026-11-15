@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T23:19:07.289781+08:00",
-    "record_count": 1114,
+    "generated_at": "2026-11-16T01:24:11.101729+08:00",
+    "record_count": 1117,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -114,6 +114,63 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1381",
+      "media": "自由時報 (ec.ltn.com.tw)",
+      "title": "美光勞資爭議延燒！桃園工會控公司「兩面手法」 人前尊重、人後分化",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5641509",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-16T01:20:00+08:00",
+      "last_checked_at": "2026-11-16T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://stock.ltn.com.tw/article/nqe7vw6qytws",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1380",
+      "media": "公民報導 / Civil Media (civilmedia.tw)",
+      "title": "【聲明】工會揭穿兩面手法！美光公司宣稱不要求個別員工簽署同意書，卻私下約談員工！誣陷工會幹部",
+      "url": "https://www.civilmedia.tw/archives/142143",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-16T01:20:00+08:00",
+      "last_checked_at": "2026-11-16T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1379",
+      "media": "ETtoday 財經新聞 (finance.ettoday.net)",
+      "title": "美光勞資爭議重大進展 張善政多日協調11/17日重返談判桌",
+      "url": "https://finance.ettoday.net/news/3272721",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-16T01:20:00+08:00",
+      "last_checked_at": "2026-11-16T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1375",
