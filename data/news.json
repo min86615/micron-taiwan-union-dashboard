@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T01:24:11.101729+08:00",
-    "record_count": 1117,
+    "generated_at": "2026-11-16T05:13:40.497941+08:00",
+    "record_count": 1118,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1382",
+      "media": "LINE TODAY / 台灣好新聞",
+      "title": "美光勞資爭議重大進展 張善政多日協調11/17重回談判桌進入調停程序",
+      "url": "https://today.line.me/tw/v3/article/0MWKVLL",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-16T05:12:00+08:00",
+      "last_checked_at": "2026-11-16T05:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1376",
       "media": "Yahoo!新聞（轉載 台灣好新聞／黃駿騏）",
