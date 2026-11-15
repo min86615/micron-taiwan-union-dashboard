@@ -1,10 +1,85 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T09:19:25.202169+08:00",
-    "record_count": 1095,
+    "generated_at": "2026-11-15T15:16:47.008050+08:00",
+    "record_count": 1099,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1363",
+      "media": "China Times",
+      "title": "網軍洗地「鄭文燦很幫勞工」昔工人市長候選人發文怒打臉",
+      "url": "https://www.chinatimes.com/realtimenews/20261115001813-260407",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T14:24:00+08:00",
+      "display_at": "2026-11-15T14:24:00+08:00",
+      "listed_at": "2026-11-15T15:20:00+08:00",
+      "last_checked_at": "2026-11-15T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1361",
+      "media": "Next Apple Media",
+      "title": "美光勞資爭議重大進展！張善政多日協調 11/17重回談判桌進入調停程序",
+      "url": "https://news.nextapple.com/politics/20261115/91D594E727F0CC2B3731DFFF74A13E9B",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T14:06:00+08:00",
+      "display_at": "2026-11-15T14:06:00+08:00",
+      "listed_at": "2026-11-15T15:20:00+08:00",
+      "last_checked_at": "2026-11-15T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1362",
+      "media": "Liberty Times",
+      "title": "快評》美光勞資協商僅現身一次 張善政在當新店市長嗎？",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5641467",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T15:20:00+08:00",
+      "last_checked_at": "2026-11-15T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1360",
+      "media": "China Times",
+      "title": "美光勞資協商破局危機解除 工會11／17重回談判桌",
+      "url": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T15:20:00+08:00",
+      "last_checked_at": "2026-11-15T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1340",
       "media": "GMT EIGHT (Zhitong Finance App / 智通財經)",
