@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T19:14:34.010413+08:00",
-    "record_count": 1106,
+    "generated_at": "2026-11-15T21:12:54.145027+08:00",
+    "record_count": 1107,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -59,6 +59,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1371",
+      "media": "Liberty Times (FreedomTimes watchlist)",
+      "title": "桃市府協調美光勞資雙方 11/17重回談判桌",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T21:25:00+08:00",
+      "last_checked_at": "2026-11-15T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "news",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1366",
