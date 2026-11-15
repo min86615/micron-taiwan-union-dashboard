@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T17:25:55.270924+08:00",
-    "record_count": 1103,
+    "generated_at": "2026-11-15T17:29:57.493077+08:00",
+    "record_count": 1104,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -2628,6 +2628,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1368",
+      "media": "Yahoo Finance TW (retitle of CNA original)",
+      "title": "美光：已安排下次調解會議 與桃園工會繼續討論",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89-%E5%B7%B2%E5%AE%89%E6%8E%92%E4%B8%8B%E6%AC%A1%E8%AA%BF%E8%A7%A3%E6%9C%83%E8%AD%B0-%E8%88%87%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E7%B9%BC%E7%BA%8C%E8%A8%8E%E8%AB%96-124723395.html",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-15T17:35:00+08:00",
+      "last_checked_at": "2026-11-15T17:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202611060324.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1227",
