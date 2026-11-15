@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T03:14:57.014292+08:00",
-    "record_count": 1094,
+    "generated_at": "2026-11-15T09:19:25.202169+08:00",
+    "record_count": 1095,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -691,6 +691,25 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1359",
+      "media": "United Daily News (UDN)",
+      "title": "選戰倒數張善政進軍Threads 首篇文談美光勞資爭議引熱議",
+      "url": "https://udn.com/news/story/124652/9874869",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-15T09:00:00+08:00",
+      "last_checked_at": "2026-11-15T09:00:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "independent",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1352",
