@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T17:29:57.493077+08:00",
-    "record_count": 1104,
+    "generated_at": "2026-11-15T19:14:34.010413+08:00",
+    "record_count": 1106,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1369",
+      "media": "Liberty Times Finance (stock.ltn.com.tw)",
+      "title": "美光勞資爭議延燒！桃園工會控公司「兩面手法」 人前尊重、人後分化",
+      "url": "https://stock.ltn.com.tw/article/nqe7vw6qytws",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T15:12:00+08:00",
+      "display_at": "2026-11-15T15:12:00+08:00",
+      "listed_at": "2026-11-15T19:20:00+08:00",
+      "last_checked_at": "2026-11-15T19:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1363",
       "media": "China Times",
@@ -21132,6 +21150,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1370",
+      "media": "Nikkei (日本経済新聞)",
+      "title": "歩けばボーナス2万円　マイクロンメモリ、距離に応じ家電や金券",
+      "url": "https://www.nikkei.com/article/DGKKZO02915710Y6A520C1MM0000/",
+      "published_date": "2016-05-28",
+      "published_at": "2016-05-28T15:30:00+09:00",
+      "display_at": "2016-05-28T15:30:00+09:00",
+      "listed_at": "2026-11-15T19:20:00+08:00",
+      "last_checked_at": "2026-11-15T19:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     }
   ]
 }
