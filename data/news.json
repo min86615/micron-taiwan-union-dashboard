@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-15T15:16:47.008050+08:00",
-    "record_count": 1099,
+    "generated_at": "2026-11-15T17:18:18.303398+08:00",
+    "record_count": 1103,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -41,6 +41,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1366",
+      "media": "工商時報（轉載來源標示：中時 蔡依珍）",
+      "title": "美光勞資協商破局危機解除 工會11／17重回談判桌",
+      "url": "https://www.ctee.com.tw/news/20261115700486-430104",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T17:20:00+08:00",
+      "last_checked_at": "2026-11-15T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1367",
+      "media": "工商時報 生活（中時即時 蔡依珍）",
+      "title": "美光勞資協商破局危機解除 工會11／17重回談判桌",
+      "url": "https://www.ctee.com.tw/news/20261115700507-431401",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-15T17:20:00+08:00",
+      "last_checked_at": "2026-11-15T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1362",
@@ -9935,6 +9973,45 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1365",
+      "media": "工商時報（轉載來源標示：中央社 CNA）",
+      "title": "台灣美光明罷工 工會：不是關協商大門 盼合理分潤",
+      "url": "https://www.ctee.com.tw/news/20261021700682-430502",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-15T17:20:00+08:00",
+      "last_checked_at": "2026-11-15T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media (CNA-sourced republication; CNA master absent from private DB, so this record is the master for its content group)",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1364",
+      "media": "工商時報 時報資訊",
+      "title": "《科技》台灣美光、台中工會簽勞資協議 續與桃園工會溝通",
+      "url": "https://www.ctee.com.tw/news/20261021701501-430503",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-15T17:20:00+08:00",
+      "last_checked_at": "2026-11-15T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original_reporter",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1337",
