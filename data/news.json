@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T09:09:55.519464+08:00",
-    "record_count": 1122,
+    "generated_at": "2026-11-16T11:13:21.907998+08:00",
+    "record_count": 1123,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4965,6 +4965,24 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+    },
+    {
+      "id": "news-1387",
+      "media": "工商時報 (Commercial Times)",
+      "title": "美光協議遭控違反民主 工會批勞部護航要洪申翰下台",
+      "url": "https://ctee.com.tw/news/20261104701736-431401",
+      "published_date": "2026-11-04",
+      "published_at": "2026-11-04T15:56:00+08:00",
+      "display_at": "2026-11-04T15:56:00+08:00",
+      "listed_at": "2026-11-16T11:32:00+08:00",
+      "last_checked_at": "2026-11-16T11:32:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1124",
