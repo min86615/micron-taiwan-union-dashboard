@@ -1,10 +1,64 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T19:15:09.309087+08:00",
-    "record_count": 1137,
+    "generated_at": "2026-11-16T21:20:14.548667+08:00",
+    "record_count": 1142,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1405",
+      "media": "Economic Daily News (money.udn.com)",
+      "title": "中科園區台灣美光發生重大職災 管理局勒令停工並強化工程安全管理",
+      "url": "https://money.udn.com/money/story/5612/9882316",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T18:40:00+08:00",
+      "display_at": "2026-11-16T18:40:00+08:00",
+      "listed_at": "2026-11-16T21:10:00+08:00",
+      "last_checked_at": "2026-11-16T21:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1403",
+      "media": "China Times (chinatimes.com)",
+      "title": "美光舊廠拆除爆「重大工安」 挖土機翻覆工人遭壓慘死",
+      "url": "https://www.chinatimes.com/realtimenews/20261116003471-260402",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T16:49:00+08:00",
+      "display_at": "2026-11-16T16:49:00+08:00",
+      "listed_at": "2026-11-16T21:08:00+08:00",
+      "last_checked_at": "2026-11-16T21:08:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1404",
+      "media": "United Daily News (udn.com; CNA wire article)",
+      "title": "台中廠區工安意外釀1死 美光：自主停工調查原因",
+      "url": "https://udn.com/news/story/7240/9881973",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T16:14:00+08:00",
+      "display_at": "2026-11-16T16:14:00+08:00",
+      "listed_at": "2026-11-16T21:09:00+08:00",
+      "last_checked_at": "2026-11-16T21:09:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1390",
       "media": "Taiwan News",
@@ -41,6 +95,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1402",
+      "media": "Taoyuan City Government Labor Bureau press release (tycg.gov.tw)",
+      "title": "美光勞資爭議重大進展 張市長多日協調 11/17重回談判桌進入調停程序",
+      "url": "https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1980241",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-16T21:05:00+08:00",
+      "last_checked_at": "2026-11-16T21:05:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "official_press_release",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-16 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1385",
@@ -2871,6 +2945,24 @@
       "display_at": "2026-11-06T17:40:00+08:00",
       "listed_at": "2026-11-06T23:30:00+08:00",
       "last_checked_at": "2026-11-06T23:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1406",
+      "media": "Commercial Times (ctee.com.tw)",
+      "title": "美光勞資3度協商仍無共識！獎酬系統下周上線 17日再戰",
+      "url": "https://ctee.com.tw/news/20261106701953-431401",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T17:32:00+08:00",
+      "display_at": "2026-11-06T17:32:00+08:00",
+      "listed_at": "2026-11-16T21:12:00+08:00",
+      "last_checked_at": "2026-11-16T21:12:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
