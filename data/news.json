@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T17:32:09.301988+08:00",
-    "record_count": 1135,
+    "generated_at": "2026-11-16T19:15:09.309087+08:00",
+    "record_count": 1137,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -131,6 +131,24 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1400",
+      "media": "自由时报财富自由（LTN stock）",
+      "title": "张善政纠结出席美光协商不只1次 与会人士：重点是要摆平争议、留住美光吧？",
+      "url": "https://stock.ltn.com.tw/article/xuq493v68qyq",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T22:12:00+08:00",
+      "display_at": "2026-11-15T22:12:00+08:00",
+      "listed_at": "2026-11-16T19:22:00+08:00",
+      "last_checked_at": "2026-11-16T19:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -11279,6 +11297,24 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1401",
+      "media": "鉅亨网 cnyes",
+      "title": "美光震荡收黑 AI投资疑虑升温、韩国新股惨跌与桃园罢工添压力",
+      "url": "https://news.cnyes.com/news/id/6634626",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T08:10:00+08:00",
+      "display_at": "2026-10-21T08:10:00+08:00",
+      "listed_at": "2026-11-16T19:25:00+08:00",
+      "last_checked_at": "2026-11-16T19:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
