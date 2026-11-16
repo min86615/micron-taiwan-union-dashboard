@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T11:13:21.907998+08:00",
-    "record_count": 1123,
+    "generated_at": "2026-11-16T15:13:23.350050+08:00",
+    "record_count": 1126,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1390",
+      "media": "Taiwan News",
+      "title": "Lai welcomes Idaho Governor Brad Little to Taiwan",
+      "url": "https://taiwannews.com.tw/en/news/6476813",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T12:41:00+08:00",
+      "display_at": "2026-11-16T12:41:00+08:00",
+      "listed_at": "2026-11-16T15:12:00+08:00",
+      "last_checked_at": "2026-11-16T15:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1388",
+      "media": "Ai Media (愛新聞), via n.yam",
+      "title": "美光勞資協商破局現轉機！張善政出手交付調解 11/17重返談判桌",
+      "url": "https://n.yam.com/Article/20261116501807",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T12:10:00+08:00",
+      "display_at": "2026-11-16T12:10:00+08:00",
+      "listed_at": "2026-11-16T15:12:00+08:00",
+      "last_checked_at": "2026-11-16T15:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1385",
       "media": "Liberty Times (print edition, LTN paper)",
@@ -44,6 +81,24 @@
       "source_type": "aggregator",
       "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1389",
+      "media": "CNEWS 匯流新聞網 (邱璽臣), via n.yam",
+      "title": "美光勞資爭議重大進展 張善政成功協調17日重回談判桌",
+      "url": "https://n.yam.com/Article/20261116497067",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T03:28:00+08:00",
+      "display_at": "2026-11-16T03:28:00+08:00",
+      "listed_at": "2026-11-16T15:12:00+08:00",
+      "last_checked_at": "2026-11-16T15:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1384",
