@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T15:13:23.350050+08:00",
-    "record_count": 1126,
+    "generated_at": "2026-11-16T17:32:09.301988+08:00",
+    "record_count": 1135,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -81,6 +81,24 @@
       "source_type": "aggregator",
       "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1391",
+      "media": "自由時報／自由財經(財富自由)",
+      "title": "美光工程師質疑 桃產總策動罷工誰得利？",
+      "url": "https://stock.ltn.com.tw/article/24pgppe2fvpg",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T05:30:00+08:00",
+      "display_at": "2026-11-16T05:30:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5633666"
     },
     {
       "id": "news-1389",
@@ -227,6 +245,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1394",
+      "media": "Yahoo新聞转载中時",
+      "title": "美光勞資協商破局危機解除 工會11/17重回談判桌",
+      "url": "https://tw.news.yahoo.com/美光勞資協商破局危機解除-工會11-17重回談判桌-060421498.html",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1395",
+      "media": "LINE TODAY转载自由時報",
+      "title": "桃市府協調美光勞資雙方 11/17重回談判桌",
+      "url": "https://today.line.me/tw/v3/article/peplrg7",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1381",
@@ -2548,6 +2604,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://mnews.tw/story/mm-20261106-181fin-170311"
+    },
+    {
+      "id": "news-1396",
+      "media": "RTI央廣(新聞引據:中央社)",
+      "title": "美光：已安排下次調解會議 與桃園工會繼續討論",
+      "url": "https://www.rti.org.tw/news?uid=3&pid=242378",
+      "published_date": "2026-11-06",
+      "published_at": "2026-11-06T21:19:00+08:00",
+      "display_at": "2026-11-06T21:19:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202611060324.aspx"
     },
     {
       "id": "news-1079",
@@ -8354,6 +8429,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1393",
+      "media": "自由時報／自由財經(財富自由)",
+      "title": "協商無成果 台灣美光桃園工會：10/22罷工24小時",
+      "url": "https://stock.ltn.com.tw/article/w6ngn03tkx38",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T16:46:00+08:00",
+      "display_at": "2026-10-22T16:46:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5614317"
+    },
+    {
       "id": "news-0588",
       "media": "鏡報 (Mirror Daily)",
       "title": "台灣美光2工會促成全球薪酬改革！季度分紅、IPP獎金新制一次看 - 鏡報",
@@ -8499,6 +8593,24 @@
       "status": "reported",
       "source_type": "industry_aggregator",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1392",
+      "media": "自由時報／自由財經(財富自由)",
+      "title": "台灣美光爆勞資爭議 桃園、台中不同調？",
+      "url": "https://stock.ltn.com.tw/article/gpxgwubz0dhr",
+      "published_date": "2026-10-22",
+      "published_at": "2026-10-22T14:36:00+08:00",
+      "display_at": "2026-10-22T14:36:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5615038"
     },
     {
       "id": "news-0566",
@@ -15576,6 +15688,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1397",
+      "media": "豐雲學堂(轉錄經濟日報)",
+      "title": "美光勞資二度調解破局 分潤案待美國董事會審議",
+      "url": "https://www.sinotrade.com.tw/richclub/news/6ab14674768afb87c6fcfe09",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T22:41:00+08:00",
+      "display_at": "2026-09-21T22:41:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/7240/9769090"
+    },
+    {
       "id": "news-0345",
       "media": "自由財經",
       "title": "美光與桃園工會罷工調解破局 10/22與台中工會協商",
@@ -20020,6 +20151,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1398",
+      "media": "芯智讯(Sohu)",
+      "title": "原创工会酝酿罢工！台湾美光回应：将发放史上最高绩效奖金！",
+      "url": "https://m.sohu.com/a/1070973818_128469",
+      "published_date": "2026-09-02",
+      "published_at": null,
+      "display_at": "2026-09-02T12:00:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1399",
+      "media": "IT之家",
+      "title": "美光将向中国台湾地区员工发放历年最高绩效奖金",
+      "url": "https://www.ithome.com/0/997/531.htm",
+      "published_date": "2026-09-02",
+      "published_at": null,
+      "display_at": "2026-09-02T12:00:00+08:00",
+      "listed_at": "2026-11-16T17:31:30.673544+08:00",
+      "last_checked_at": "2026-11-16T17:31:30.673544+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0081",
