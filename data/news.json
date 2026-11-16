@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T21:20:14.548667+08:00",
-    "record_count": 1142,
+    "generated_at": "2026-11-16T23:19:45.211297+08:00",
+    "record_count": 1145,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -95,6 +95,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1409",
+      "media": "Livemint (Mint) / AFP",
+      "title": "Micron workers demand 15% of operating profit as AI boom lifts chip earnings, point to Samsung, SK Hynix",
+      "url": "https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-16T23:16:00+08:00",
+      "last_checked_at": "2026-11-16T23:16:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-16 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1402",
@@ -193,6 +212,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1408",
+      "media": "CNEWS 匯流新聞網（n.yam 轉載頁）",
+      "title": "特定媒體稱張善政僅出席1次美光協商 桃園市府打臉：製造假新聞令人遺憾",
+      "url": "https://n.yam.com/Article/20261116174311",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T03:20:00+08:00",
+      "display_at": "2026-11-16T03:20:00+08:00",
+      "listed_at": "2026-11-16T23:13:00+08:00",
+      "last_checked_at": "2026-11-16T23:13:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1384",
       "media": "United Daily News (UDN)",
       "title": "美光勞資爭議 17日重回談判桌",
@@ -220,6 +257,24 @@
       "display_at": "2026-11-15T22:12:00+08:00",
       "listed_at": "2026-11-16T19:22:00+08:00",
       "last_checked_at": "2026-11-16T19:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1407",
+      "media": "United Daily News (UDN)",
+      "title": "張善政遭質疑美光協商僅出席一次 桃市府駁斥：三場出席兩場",
+      "url": "https://udn.com/news/story/7238/9880232",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T18:48:00+08:00",
+      "display_at": "2026-11-15T18:48:00+08:00",
+      "listed_at": "2026-11-16T23:12:00+08:00",
+      "last_checked_at": "2026-11-16T23:12:00+08:00",
       "language": "TW",
       "topics": [
         "美光產業"
