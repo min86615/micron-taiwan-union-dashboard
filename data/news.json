@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-16T07:12:44.308898+08:00",
-    "record_count": 1119,
+    "generated_at": "2026-11-16T09:09:55.519464+08:00",
+    "record_count": 1122,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1385",
+      "media": "Liberty Times (print edition, LTN paper)",
+      "title": "桃園美光勞資爭議 張善政協調17日調停",
+      "url": "https://news.ltn.com.tw/news/life/paper/1778677",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-16T09:16:00+08:00",
+      "last_checked_at": "2026-11-16T09:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1382",
       "media": "LINE TODAY / 台灣好新聞",
@@ -24,6 +44,24 @@
       "source_type": "aggregator",
       "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1384",
+      "media": "United Daily News (UDN)",
+      "title": "美光勞資爭議 17日重回談判桌",
+      "url": "https://udn.com/news/story/7240/9880491",
+      "published_date": "2026-11-16",
+      "published_at": "2026-11-16T00:13:00+08:00",
+      "display_at": "2026-11-16T00:13:00+08:00",
+      "listed_at": "2026-11-16T09:16:00+08:00",
+      "last_checked_at": "2026-11-16T09:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1376",
@@ -21360,6 +21398,24 @@
       "source_type": "organization_report",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1386",
+      "media": "Wealth Magazine (財訊)",
+      "title": "美光宣布將退出消費型記憶體市場 專注於滿足高效能AI晶片需求",
+      "url": "https://wealth.com.tw/articles/942d7bba-df5d-4cd9-b8a0-82f38f12e5a6",
+      "published_date": "2025-12-04",
+      "published_at": "2025-12-04T02:33:00+08:00",
+      "display_at": "2025-12-04T02:33:00+08:00",
+      "listed_at": "2026-11-16T09:16:00+08:00",
+      "last_checked_at": "2026-11-16T09:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1207",
