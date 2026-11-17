@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-17T23:18:40.227291+08:00",
-    "record_count": 1179,
+    "generated_at": "2026-11-18T01:27:21.487731+08:00",
+    "record_count": 1186,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1457",
+      "media": "聯合報 UDN",
+      "title": "調解4小時無共識 美光桃園廠勞資爭議26日再繼續",
+      "url": "https://money.udn.com/money/story/5648/9884886",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T22:12:57+08:00",
+      "display_at": "2026-11-17T22:12:57+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1442",
       "media": "PTS / 公視新聞 PNN",
@@ -79,6 +98,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1456",
+      "media": "鏡報 MNews (Mirror Media)",
+      "title": "美光工運變調／美光桃園勞資爭議露曙光！今下午開調解會 張善政：謹慎樂觀",
+      "url": "https://www.mnews.tw/story/mm-20261117edi035",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T15:00:00+08:00",
+      "display_at": "2026-11-17T15:00:00+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1434",
       "media": "China Times / 中國時報",
       "title": "美光勞資今重回談判桌 張善政曝缺席原因：尊重法定機制",
@@ -112,6 +150,24 @@
       ],
       "status": "reported",
       "source_type": "news",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1458",
+      "media": "中評社 CRNTT",
+      "title": "美光劳资争议影响对台投资？卓荣泰这样回应",
+      "url": "https://bj.crntt.com/doc/46_21991_160290021_1_1117131534.html",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T13:15:34+08:00",
+      "display_at": "2026-11-17T13:15:34+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -149,6 +205,85 @@
       "status": "reported",
       "source_type": "news",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1453",
+      "media": "風傳媒 Storm Media",
+      "title": "美光桃園勞資調解未達共識！和平協議、爭議處理限制存歧見，資方方案將交會員投票，11月26日再談",
+      "url": "https://www.storm.mg/article/11182501",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1455",
+      "media": "collector.com.tr (Newtalk 授權/轉貼聚合頁)",
+      "title": "美光桃園調解有進展？ 「新方案」供工會帶回投票下週四再議",
+      "url": "https://www.collector.com.tr/1028108466",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-11-17/1071693",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1452",
+      "media": "TYENews 桃園電子報",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://tyenews.com/2026-11-14/1431014/",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1454",
+      "media": "Newtalk新聞",
+      "title": "美光桃園調解有進展？ 「新方案」供工會帶回投票下週四再議",
+      "url": "https://newtalk.tw/news/view/2026-11-17/1071693",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T01:45:00+08:00",
+      "last_checked_at": "2026-11-18T01:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1441",
