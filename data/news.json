@@ -1,10 +1,66 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T01:27:21.487731+08:00",
-    "record_count": 1186,
+    "generated_at": "2026-11-18T03:36:49.388513+08:00",
+    "record_count": 1193,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1465",
+      "media": "Investing.com Japan (machine-translated market-analysis article citing Reuters and Focus Taiwan)",
+      "title": "マイクロンテクノロジー、台湾従業員に最大68カ月分のボーナスを提示――スト警告が高まる中で",
+      "url": "https://jp.investing.com/news/stock-market-news/article-1677637",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1462",
+      "media": "mnews (official syndication mirror of Tyenews 桃園電子報 article 1431014)",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://mnews.tw/external/tyenews_1431014",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T22:29:00+08:00",
+      "display_at": "2026-11-17T22:29:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_mirror",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1431014/"
+    },
+    {
+      "id": "news-1461",
+      "media": "ScoopTW (collector copy of Tyenews 桃園電子報)",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://www.scooptw.com/tyenews/555994",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T22:29:00+08:00",
+      "display_at": "2026-11-17T22:29:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "collector_copy",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1431014/"
+    },
     {
       "id": "news-1457",
       "media": "聯合報 UDN",
@@ -205,6 +261,66 @@
       "status": "reported",
       "source_type": "news",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1460",
+      "media": "Liberty Times Finance stock channel (same text as breakingnews 5644163)",
+      "title": "美光桃園工會與資方意見仍分歧 11/26再開調解會議",
+      "url": "https://stock.ltn.com.tw/article/vx3fmur2mtyb",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5644163",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1459",
+      "media": "Liberty Times Finance (Freedom Times, amp mirror of article 5644163)",
+      "title": "美光桃園工會與資方意見仍分歧 11/26再開調解會議",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5644163",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5644163",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1463",
+      "media": "Liberty Times Finance (Freedom Times, amp mirror of article 5643351)",
+      "title": "美光桃園勞資爭議今調解 張善政「謹慎樂觀」盼資方善意回應",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5643351",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5643351",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1453",
@@ -13986,6 +14102,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1464",
+      "media": "Sina Tech (republication of a 快科技 article)",
+      "title": "内存供应雪上加霜！美光中国台湾地区工会取得合法罢工权：88.3%会员投票同意",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-08/doc-iniuphpf7652624.shtml",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-18T03:40:00+08:00",
+      "last_checked_at": "2026-11-18T03:40:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1339",
