@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T03:36:49.388513+08:00",
-    "record_count": 1193,
+    "generated_at": "2026-11-18T05:12:33.163789+08:00",
+    "record_count": 1195,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -24,6 +24,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1467",
+      "media": "LINE TODAY (publisher: Tyenews 桃園電子報, 記者諶志明)",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://today.line.me/tw/v3/article/WBpDGRy",
+      "published_date": "2026-11-18",
+      "published_at": "2026-11-18T01:10:00+08:00",
+      "display_at": "2026-11-18T01:10:00+08:00",
+      "listed_at": "2026-11-18T05:12:00+08:00",
+      "last_checked_at": "2026-11-18T05:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy (platform copy of Tyenews master, same text)",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1431014/"
     },
     {
       "id": "news-1462",
@@ -78,6 +96,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1466",
+      "media": "Mirror Media / Mirror Media News (mirror master text identical)",
+      "title": "美光工運變調／美光桃園勞資調解沒共識！ 11月26日再開會",
+      "url": "https://mnews.tw/story/mm-20261117edi092",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T21:20:00+08:00",
+      "display_at": "2026-11-17T21:20:00+08:00",
+      "listed_at": "2026-11-18T05:12:00+08:00",
+      "last_checked_at": "2026-11-18T05:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media (own investigation, Mirror Weekly series cross-reference)",
       "duplicate_of": null
     },
     {
