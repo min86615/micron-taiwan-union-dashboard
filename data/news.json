@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-17T17:21:46.821764+08:00",
+    "generated_at": "2026-11-17T19:20:14.688841+08:00",
     "record_count": 1171,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1440",
+      "media": "mnews (official syndication mirror of Tyenews 桃園電子報 article 1430968)",
+      "title": "美光關係企業工會等嘸成立證書 桃園勞動局：依法審查中",
+      "url": "https://mnews.tw/external/tyenews_1430968",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T16:23:00+08:00",
+      "display_at": "2026-11-17T16:23:00+08:00",
+      "listed_at": "2026-11-17T19:12:00+08:00",
+      "last_checked_at": "2026-11-17T19:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_mirror",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1430968/"
+    },
     {
       "id": "news-1434",
       "media": "China Times / 中國時報",
@@ -768,25 +786,6 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
-    },
-    {
-      "id": "news-1438",
-      "media": "Commercial Times / 工商時報 (republished China Times text)",
-      "title": "美光勞資協商破局危機解除 工會11／17重回談判桌",
-      "url": "https://www.ctee.com.tw/news/20261115700486-430104",
-      "published_date": "2026-11-15",
-      "published_at": null,
-      "display_at": "2026-11-15T12:00:00+08:00",
-      "listed_at": "2026-11-17T17:40:00+08:00",
-      "last_checked_at": "2026-11-17T17:40:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "syndicated",
-      "source_type": "news",
-      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
-      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1413",
