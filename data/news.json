@@ -1,10 +1,69 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T05:12:33.163789+08:00",
-    "record_count": 1195,
+    "generated_at": "2026-11-18T07:26:37.456141+08:00",
+    "record_count": 1202,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1474",
+      "media": "gBizINFO（経済産業省オープンデータ）",
+      "title": "マイクロンメモリジャパンＦａｂ１５労働組合（gBizINFO 事業所情報：被保険者数1人）",
+      "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9240005012925",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "government open-data record (registry listing)",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1470",
+      "media": "Yahoo News TW (Yahoo TV byline on page, no outlet attribution)",
+      "title": "美光桃園勞資調解未達共識！和平協議、爭議處理限制存歧見，資方方案將交會員投票，11月26日再談",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%8B%9E%E8%B3%87%E8%AA%BF%E8%A7%A3%E6%9C%AA%E9%81%94%E5%85%B1%E8%AD%98-%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0-%E7%88%AD%E8%AD%B0%E8%99%95%E7%90%86%E9%99%90%E5%88%B6%E5%AD%98%E6%AD%A7%E8%A6%8B-%E8%B3%87%E6%96%B9%E6%96%B9%E6%A1%88%E5%B0%87%E4%BA%A4%E6%9C%83%E5%93%A1%E6%8A%95%E7%A5%A8-11%E6%9C%8826%E6%97%A5%E5%86%8D%E8%AB%97-155600862.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media (own-page article; no explicit reprint marker)",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1473",
+      "media": "J-Net21（中小企業ビジネス支援サイト, SMRJ）",
+      "title": "マイクロンメモリジャパンと商談「チャレンジマーケット2026」開催",
+      "url": "https://j-net21.smrj.go.jp/news/bt5puv000000p22o.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "JP",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "government site news (Kyushu METI consortium business matching)",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1465",
       "media": "Investing.com Japan (machine-translated market-analysis article citing Reuters and Focus Taiwan)",
@@ -298,6 +357,46 @@
       "status": "reported",
       "source_type": "news",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1472",
+      "media": "Yahoo News TW (Newtalk content copy)",
+      "title": "美光桃園調解有進展？ 「新方案」供工會帶回投票下週四再議",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E8%AA%BF%E8%A7%A3%E6%9C%89%E9%80%B2%E5%B1%95-%E6%96%B0%E6%96%B9%E6%A1%88-%E4%BE%9B%E5%B7%A5%E6%9C%83%E5%B8%B6%E5%9B%9E%E6%8A%95%E7%A5%A8%E4%B8%8B%E9%80%B1%E5%9B%9B%E5%86%8D%E8%AD%B0-155806962.html",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media (Yahoo copy of Newtalk master)",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-11-17/1071693",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1471",
+      "media": "Yahoo News TW (Mirror Media content copy)",
+      "title": "美光工運變調／美光桃園勞資調解沒共識！ 11月26日再開會",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%B7%A5%E9%81%8B%E8%AE%8A%E8%AA%BF-%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%8B%9E%E8%B3%87%E8%AA%BF%E8%A7%A3%E6%B2%92%E5%85%B1%E8%AD%98-11%E6%9C%8826%E6%97%A5%E5%86%8D%E9%96%8B%E6%9C%83-131200439.html",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media (Yahoo copy of Mirror Media master)",
+      "duplicate_of": "https://mnews.tw/story/mm-20261117edi092",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1460",
@@ -15250,6 +15349,46 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1469",
+      "media": "今周刊 Business Today (授權轉載自新頭殼 Newtalk)",
+      "title": "美光工會取得罷工權！88.3%同意「將採突襲式行動」，不滿CEO股票多拿400倍…四訴求曝光，勞動部發聲",
+      "url": "https://businesstoday.com.tw/article/category/183015/post/202610070065",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media (licensed syndication copy of Newtalk master)",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-10-07/1064227",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1468",
+      "media": "PChome News 新聞 (NOWNEWS content copy)",
+      "title": "美光工會罷工案壓倒性通過！取得罷工權",
+      "url": "https://news.pchome.com.tw/finance/nownews/20261007/index-79137700385762207003.html",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-18T07:40:00+08:00",
+      "last_checked_at": "2026-11-18T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media (PChome news-copy of NOWNEWS master)",
+      "duplicate_of": "https://www.nownews.com/news/6881518",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1349",
