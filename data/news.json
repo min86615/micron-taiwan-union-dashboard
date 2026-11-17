@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-17T03:20:58.733632+08:00",
-    "record_count": 1149,
+    "generated_at": "2026-11-17T09:28:52.363482+08:00",
+    "record_count": 1156,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -95,6 +95,140 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1416",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光工運變調／美光工運戰火延燒 桃產總另組跨廠「太上工會」搶主導權",
+      "url": "https://www.mirrormedia.mg/story/20261116inv007",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。",
+      "updated_date_note": "頁面時間元素顯示 2026-11-17 06:28（Chrome live page，可能為更新顯示時間）；依 slug 核為 2026-11-16，不視為原始發布時刻"
+    },
+    {
+      "id": "news-1418",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光工運變調2／簽了十年不罷工協議卻另闢戰場 桃產總再出招美光總公司傻眼",
+      "url": "https://www.mirrormedia.mg/story/20261116inv009",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1417",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光工運變調1／查工會理事長住家、車號嗆「送禮打球」 美光工會內鬥恐嚇對話曝光",
+      "url": "https://www.mirrormedia.mg/story/20261116inv008",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1422",
+      "media": "報報 mnews（Mirror AMP 副本）",
+      "title": "美光工運變調2／簽了十年不罷工協議卻另闢戰場 桃產總再出招美光總公司傻眼",
+      "url": "https://mnews.tw/story/amp/mm-20261116inv009",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv009",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1421",
+      "media": "報報 mnews（Mirror AMP 副本）",
+      "title": "美光工運變調1／查工會理事長住家、車號嗆「送禮打球」 美光工會內鬥恐嚇對話曝光",
+      "url": "https://mnews.tw/story/amp/mm-20261116inv008",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv008",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1420",
+      "media": "Yahoo!新聞（鏡週刊轉載）",
+      "title": "美光工運變調／美光工運戰火延燒 桃產總另組跨廠「太上工會」搶主導權",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E5%B7%A5%E9%81%8B%E8%AE%8A%E8%AA%BF-%E7%BE%8E%E5%85%89%E5%B7%A5%E9%81%8B%E6%88%B0%E7%81%AB%E5%BB%B6%E7%87%92-%E6%A1%83%E7%94%A2%E7%B8%BD%E5%8F%A6%E7%B5%84%E8%B7%A8%E5%BB%A0-%E5%A4%AA%E4%B8%8A%E5%B7%A5%E6%9C%83-%E6%90%B6%E4%B8%BB%E5%B0%8E%E6%AC%8A-222859811.html",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1419",
+      "media": "ETtoday 財經雲（鏡週刊授權轉載）",
+      "title": "美光工運變調！ 全台半導體恐被波及",
+      "url": "https://finance.ettoday.net/news/3273335",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T09:15:00+08:00",
+      "last_checked_at": "2026-11-17T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1409",
