@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-17T15:18:37.673728+08:00",
-    "record_count": 1168,
+    "generated_at": "2026-11-17T17:21:46.821764+08:00",
+    "record_count": 1171,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -36,6 +36,24 @@
       "language": "TW",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "news",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1436",
+      "media": "Central News Agency / 中央社 CNA",
+      "title": "美光桃園工會政院陳情　籲公開台中協議內容或作廢",
+      "url": "https://www.cna.com.tw/news/aipl/202611170103.aspx",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T12:44:00+08:00",
+      "display_at": "2026-11-17T12:44:00+08:00",
+      "listed_at": "2026-11-17T17:40:00+08:00",
+      "last_checked_at": "2026-11-17T17:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "news",
@@ -137,6 +155,25 @@
       "source_type": "union_primary",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-17 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1437",
+      "media": "LTN 財富自由 / 自由時報 (stock.ltn.com.tw section copy)",
+      "title": "美光桃園勞資爭議今調解 張善政「謹慎樂觀」盼資方善意回應",
+      "url": "https://stock.ltn.com.tw/article/tphafymjdmge",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T11:19:00+08:00",
+      "display_at": "2026-11-17T11:19:00+08:00",
+      "listed_at": "2026-11-17T17:40:00+08:00",
+      "last_checked_at": "2026-11-17T17:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "news",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5643351"
     },
     {
       "id": "news-1433",
@@ -731,6 +768,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1438",
+      "media": "Commercial Times / 工商時報 (republished China Times text)",
+      "title": "美光勞資協商破局危機解除 工會11／17重回談判桌",
+      "url": "https://www.ctee.com.tw/news/20261115700486-430104",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-17T17:40:00+08:00",
+      "last_checked_at": "2026-11-17T17:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "news",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1413",
