@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-17T09:28:52.363482+08:00",
-    "record_count": 1156,
+    "generated_at": "2026-11-17T11:23:42.495951+08:00",
+    "record_count": 1158,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1424",
+      "media": "Commercial Times (CTEE, 曾麗芳)",
+      "title": "爆工安事故 美光后里廠停工",
+      "url": "https://ctee.com.tw/news/20261117700117-439901",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T03:00:00+08:00",
+      "display_at": "2026-11-17T03:00:00+08:00",
+      "listed_at": "2026-11-17T11:20:00+08:00",
+      "last_checked_at": "2026-11-17T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1405",
       "media": "Economic Daily News (money.udn.com)",
@@ -10815,6 +10833,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1425",
+      "media": "Futu News (富途牛牛) flash",
+      "title": "Micron Technology's Taoyuan Union in Taiwan:",
+      "url": "https://news.futunn.com/en/post/1001830470",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-17T11:22:00+08:00",
+      "last_checked_at": "2026-11-17T11:22:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media_flash",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1383",
