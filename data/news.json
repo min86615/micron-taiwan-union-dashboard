@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-17T21:22:33.371042+08:00",
-    "record_count": 1175,
+    "generated_at": "2026-11-17T23:18:40.227291+08:00",
+    "record_count": 1179,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -22,6 +22,24 @@
       ],
       "status": "reported",
       "source_type": "news",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1448",
+      "media": "China Times / 中國時報",
+      "title": "美光勞資戰引外資疑慮？業界憂衝擊台灣1.6兆半導體投資",
+      "url": "https://www.chinatimes.com/realtimenews/20261117004529-260405",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T19:48:00+08:00",
+      "display_at": "2026-11-17T19:48:00+08:00",
+      "listed_at": "2026-11-17T23:25:00+08:00",
+      "last_checked_at": "2026-11-17T23:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -287,6 +305,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1451",
+      "media": "FTNN 新聞網（圖文／鏡週刊）",
+      "title": "美光工運變調2／簽了十年不罷工協議卻另闢戰場 桃產總再出招美光總公司傻眼",
+      "url": "https://ftnn.com.tw/news/596421",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T07:54:00+08:00",
+      "display_at": "2026-11-17T07:54:00+08:00",
+      "listed_at": "2026-11-17T23:25:00+08:00",
+      "last_checked_at": "2026-11-17T23:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv009"
+    },
+    {
       "id": "news-1424",
       "media": "Commercial Times (CTEE, 曾麗芳)",
       "title": "爆工安事故 美光后里廠停工",
@@ -394,6 +430,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1450",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光工運變調4／美光罷工如何收尾牽動外資布局 半導體產業神山埋未爆彈",
+      "url": "https://www.mirrormedia.mg/story/20261116inv011",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T23:25:00+08:00",
+      "last_checked_at": "2026-11-17T23:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1449",
+      "media": "鏡週刊 Mirror Media",
+      "title": "美光工運變調3／從航空、電信到半導體抗爭無役不與 協調人士批桃產總收割光環",
+      "url": "https://www.mirrormedia.mg/story/20261116inv010",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-17T23:25:00+08:00",
+      "last_checked_at": "2026-11-17T23:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1416",
