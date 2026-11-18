@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T05:14:52.366329+08:00",
-    "record_count": 1218,
+    "generated_at": "2026-11-19T07:21:22.580058+08:00",
+    "record_count": 1220,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -491,6 +491,25 @@
       "status": "reported",
       "source_type": "news",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1493",
+      "media": "Yahoo News (TW mirror)",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E8%AB%87%E5%88%A4%E5%8D%A1%E5%9C%A83%E5%A4%A7%E7%88%AD%E8%AD%B0-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%B0%87%E6%8A%95%E7%A5%A8%E8%A1%A8%E6%B1%BA%E8%B3%87%E6%96%B9%E6%96%B9%E6%A1%88-142903175.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-19T07:30:00+08:00",
+      "last_checked_at": "2026-11-19T07:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1431014/",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1485",
@@ -1029,6 +1048,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1492",
+      "media": "東森新聞 EBC News",
+      "title": "美光工會爆內鬥！員工嗆「分屍」理事長 驚人對話流出",
+      "url": "https://news.ebc.net.tw/news/society/581069",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-19T07:25:00+08:00",
+      "last_checked_at": "2026-11-19T07:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1490",
