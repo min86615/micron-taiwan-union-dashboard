@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T21:13:43.176781+08:00",
-    "record_count": 1213,
+    "generated_at": "2026-11-18T23:13:16.598224+08:00",
+    "record_count": 1215,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1495,6 +1495,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1487",
+      "media": "豐雲學堂（永豐金證券 SinoPac）新聞快訊 - 時報資訊 mirror",
+      "title": "《產業》美光勞資協商破局危機解除 工會11／17重回談判桌",
+      "url": "https://www.sinotrade.com.tw/richclub/news/6af9516e71992d57458509ea",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-18T23:20:00+08:00",
+      "last_checked_at": "2026-11-18T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261115001745-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1413",
@@ -9013,6 +9032,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1488",
+      "media": "LINE TODAY (鏡報 mirror)",
+      "title": "美光加薪、加碼福利仍難平勞資爭議！桃園工會逾99%投票會員反對方案",
+      "url": "https://today.line.me/tw/v3/article/mWpYBpe",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-18T23:35:00+08:00",
+      "last_checked_at": "2026-11-18T23:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_media",
+      "duplicate_of": "https://www.mirrordaily.news/story/93471",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0917",
