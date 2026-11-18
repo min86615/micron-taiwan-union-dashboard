@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T07:26:37.456141+08:00",
-    "record_count": 1202,
+    "generated_at": "2026-11-18T09:18:16.381146+08:00",
+    "record_count": 1206,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -100,6 +100,24 @@
       ],
       "status": "syndicated",
       "source_type": "syndicated_copy (platform copy of Tyenews master, same text)",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1431014/"
+    },
+    {
+      "id": "news-1475",
+      "media": "LIFE.tw mirror of TYENews Taoyuan ePaper",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://life.tw/article/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E8%AB%87%E5%88%A4%E5%8D%A1%E5%9C%A83%E5%A4%A7%E7%88%AD%E6%95%B8-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%B0%87%E6%8A%95%E7%A5%A8%E8%A1%A8%E6%B1%BA%E8%B3%87%E6%96%B9%E6%96%B9%E6%A1%88-3222940",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T22:29:00+08:00",
+      "display_at": "2026-11-17T22:29:00+08:00",
+      "listed_at": "2026-11-18T09:30:00+08:00",
+      "last_checked_at": "2026-11-18T09:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator-mirror",
       "duplicate_of": "https://tyenews.com/2026-11-14/1431014/"
     },
     {
@@ -212,6 +230,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1476",
+      "media": "Yahoo!新聞 mirror of TYENews Taoyuan ePaper",
+      "title": "美光關係企業工會等嘸成立證書 桃園勞動局：依法審查中",
+      "url": "https://n.yam.com/Article/20261117943857",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T16:23:00+08:00",
+      "display_at": "2026-11-17T16:23:00+08:00",
+      "listed_at": "2026-11-18T09:30:00+08:00",
+      "last_checked_at": "2026-11-18T09:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator-mirror",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1430968/"
     },
     {
       "id": "news-1440",
@@ -357,6 +393,44 @@
       "status": "reported",
       "source_type": "news",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1478",
+      "media": "鏡報 via LINE TODAY",
+      "title": "美光勞資糾紛燒進行政院！桃園工會陳情要求卓榮泰協助處理爭議",
+      "url": "https://today.line.me/tw/v3/article/pepR5G6",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T09:30:00+08:00",
+      "last_checked_at": "2026-11-18T09:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1477",
+      "media": "Newtalk 新聞",
+      "title": "美光員工赴桃市府前喊話「發牌」 桃市勞動局：等待經濟部回函",
+      "url": "https://newtalk.tw/news/view/2026-11-17/1071654",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T09:30:00+08:00",
+      "last_checked_at": "2026-11-18T09:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1472",
