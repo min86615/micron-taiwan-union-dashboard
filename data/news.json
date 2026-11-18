@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T03:29:39.017609+08:00",
-    "record_count": 1216,
+    "generated_at": "2026-11-19T05:14:52.366329+08:00",
+    "record_count": 1218,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1491",
+      "media": "Higashi Hiroshima Digital (東広島デジタル/プレスネット)",
+      "title": "東広島の未来が変わる 巨大半導体工場がもたらす「暮らしのこれから」 マイクロンフロンティア 第１弾",
+      "url": "https://www.higashihiroshima-digital.com/report/special-micron-2611",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-19T05:20:00+08:00",
+      "last_checked_at": "2026-11-19T05:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "local regional-background feature",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1489",
       "media": "Effect Story (effectstory.com)",
@@ -1010,6 +1029,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1490",
+      "media": "Yahoo News TW mirror of Mirror Media (鏡週刊)",
+      "title": "誰在決定美光工運進退？桃產總跨界主導抗爭惹議 恐牽動1.6兆外資布局",
+      "url": "https://news.yahoo.com/%E8%AA%B0%E5%9C%A8%E6%B1%BA%E5%AE%9A%E7%BE%8E%E5%85%89%E5%B7%A5%E9%81%8B%E9%80%B2%E9%80%80%EF%BC%9F%E6%A1%83%E7%94%A2%E7%B8%BD%E8%B7%A8%E7%95%8C%E4%B8%BB%E5%B0%8E%E6%8A%97%E7%88%AD%E6%83%B9%E8%AD%B0-%E6%81%90%E7%89%BD%E5%8B%9516%E5%85%86%E5%A4%96%E8%B3%87%E5%B8%83%E5%B1%80-111722914.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-19T05:20:00+08:00",
+      "last_checked_at": "2026-11-19T05:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated copy of Mirror Media investigative report",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1450",
