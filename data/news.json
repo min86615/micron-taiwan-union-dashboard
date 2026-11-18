@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T09:18:16.381146+08:00",
-    "record_count": 1206,
+    "generated_at": "2026-11-18T11:21:27.472309+08:00",
+    "record_count": 1209,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1480",
+      "media": "鏡週刊 via LINE TODAY",
+      "title": "美光工運變調／美光桃園勞資調解沒共識！ 11月26日再開會",
+      "url": "https://today.line.me/tw/v3/article/1DPawmm",
+      "published_date": "2026-11-18",
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-18T11:12:00+08:00",
+      "last_checked_at": "2026-11-18T11:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator-mirror",
+      "duplicate_of": "https://mnews.tw/story/mm-20261117edi092",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1474",
       "media": "gBizINFO（経済産業省オープンデータ）",
@@ -83,6 +103,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1479",
+      "media": "FTNN 新聞網（鏡週刊授權轉載）",
+      "title": "美光工運變調／美光桃園勞資調解沒共識！ 11月26日再開會",
+      "url": "https://www.ftnn.com.tw/news/596745",
+      "published_date": "2026-11-18",
+      "published_at": "2026-11-18T07:31:00+08:00",
+      "display_at": "2026-11-18T07:31:00+08:00",
+      "listed_at": "2026-11-18T11:06:00+08:00",
+      "last_checked_at": "2026-11-18T11:06:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://mnews.tw/story/mm-20261117edi092"
     },
     {
       "id": "news-1467",
@@ -393,6 +432,26 @@
       "status": "reported",
       "source_type": "news",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1481",
+      "media": "中天新聞網 CTI News",
+      "title": "美光發100萬獎金還不夠！工會串聯抗爭今赴政院",
+      "url": "https://ctinews.com/news/items/yDa2G9gKxK",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-18T11:06:00+08:00",
+      "last_checked_at": "2026-11-18T11:06:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1478",
