@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T11:21:27.472309+08:00",
-    "record_count": 1209,
+    "generated_at": "2026-11-18T17:16:04.813105+08:00",
+    "record_count": 1211,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1483",
+      "media": "Effect Story（effectstory.com，作者林紀旭）",
+      "title": "美光桃園工會赴政院陳情 勞資 11 月 17 日下午調解",
+      "url": "https://effectstory.com/zh-Hant/articles/micron-taoyuan-union-executive-yuan-petition-mediation-nov-17",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-18T17:40:00+08:00",
+      "last_checked_at": "2026-11-18T17:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media_site_summary_analysis",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-18 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1480",
       "media": "鏡週刊 via LINE TODAY",
@@ -17359,6 +17379,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1484",
+      "media": "Futu News（富途牛牛）flash",
+      "title": "美光位於臺灣桃園的工會表示，計劃在調解未達成協議後舉行罷工投票。",
+      "url": "https://news.futunn.com/hk/flash/1000008477/micron-s-taoyuan-union-in-taiwan-says-it-plans-to",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T18:37:12+08:00",
+      "display_at": "2026-09-21T18:37:12+08:00",
+      "listed_at": "2026-11-18T17:40:00+08:00",
+      "last_checked_at": "2026-11-18T17:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media_flash",
+      "duplicate_of": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44P08V:0-micron-s-taoyuan-union-in-taiwan-says-it-plans-to-hold-strike-vote-after-mediation-ended-without-agreement/"
     },
     {
       "id": "news-0331",
