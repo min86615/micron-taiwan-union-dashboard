@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-18T23:13:16.598224+08:00",
-    "record_count": 1215,
+    "generated_at": "2026-11-19T03:29:39.017609+08:00",
+    "record_count": 1216,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1489",
+      "media": "Effect Story (effectstory.com)",
+      "title": "Micron Taoyuan Union Goes to Executive Yuan Before Nov. 17 Mediation",
+      "url": "https://effectstory.com/en/articles/micron-taoyuan-union-executive-yuan-petition-mediation",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-19T03:12:00+08:00",
+      "last_checked_at": "2026-11-19T03:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "translation copy of already-recorded zh-Hant article",
+      "duplicate_of": "https://effectstory.com/zh-Hant/articles/micron-taoyuan-union-executive-yuan-petition-mediation-nov-17",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1483",
       "media": "Effect Story（effectstory.com，作者林紀旭）",
