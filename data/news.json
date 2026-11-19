@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T15:14:06.487256+08:00",
+    "generated_at": "2026-11-19T15:19:55.704909+08:00",
     "record_count": 1228,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -21785,14 +21785,14 @@
     },
     {
       "id": "news-0107",
-      "media": "財経新聞",
+      "media": "財経新聞 Zaikei (Japan; article credits TechTimes original)",
       "title": "マイクロン台湾労組が利益連動賞与を要求、ストライキの可能性も―HBM供給への影響焦点",
-      "url": "https://zaikei.co.jp/article/20260903/868491.html",
+      "url": "https://www.zaikei.co.jp/article/20260903/868491.html",
       "published_date": "2026-09-03",
       "published_at": "2026-09-03T11:35:45+09:00",
       "display_at": "2026-09-03T11:35:45+09:00",
       "listed_at": "2026-09-03T17:22:09+08:00",
-      "last_checked_at": "2026-09-10T01:03:54.245111+08:00",
+      "last_checked_at": "2026-11-19T15:35:00+08:00",
       "language": "JP",
       "topics": [
         "工會／勞資",
