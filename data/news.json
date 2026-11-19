@@ -1,10 +1,49 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T07:21:22.580058+08:00",
-    "record_count": 1220,
+    "generated_at": "2026-11-19T13:32:09.088564+08:00",
+    "record_count": 1225,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1500",
+      "media": "Taiwan Inside",
+      "title": "美光發布史上最大獎酬，台灣工會訴求凸顯制度之爭！在台最大外商醞釀罷工，三大面向一次解讀",
+      "url": "https://www.taiwaninside.com/tw/143/micron-taiwan-union-record-bonus",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-19T13:25:00+08:00",
+      "last_checked_at": "2026-11-19T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "analysis_blog",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1499",
+      "media": "Aheadmaster（永續/供應鏈風險分析，非新聞媒體）",
+      "title": "美光勞資爭議為何仍受關注？從「人力依賴」看半導體供應鏈風險",
+      "url": "https://aheadmaster.com/micron-technology-inc-labor-relations",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-19T13:25:00+08:00",
+      "last_checked_at": "2026-11-19T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "analysis_blog",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1491",
       "media": "Higashi Hiroshima Digital (東広島デジタル/プレスネット)",
@@ -43,6 +82,25 @@
       "source_type": "translation copy of already-recorded zh-Hant article",
       "duplicate_of": "https://effectstory.com/zh-Hant/articles/micron-taoyuan-union-executive-yuan-petition-mediation-nov-17",
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1498",
+      "media": "華盛通 Hstong（港美股資訊）",
+      "title": "存储三巨头单季狂赚1600亿美元，劳资博弈改写利润分配规则",
+      "url": "https://www.hstong.com/news/detail/26111817360369912",
+      "published_date": "2026-11-18",
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-19T13:15:00+08:00",
+      "last_checked_at": "2026-11-19T13:15:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1483",
@@ -1593,6 +1651,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1504",
+      "media": "自由時報（AMP mirror）",
+      "title": "桃市府協調美光勞資雙方 11/17重回談判桌（AMP mirror）",
+      "url": "https://news.ltn.com.tw/amp/news/Taoyuan/breakingnews/5641528",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-19T13:25:00+08:00",
+      "last_checked_at": "2026-11-19T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
       "id": "news-1487",
       "media": "豐雲學堂（永豐金證券 SinoPac）新聞快訊 - 時報資訊 mirror",
       "title": "《產業》美光勞資協商破局危機解除 工會11／17重回談判桌",
@@ -2214,6 +2291,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1505",
+      "media": "經濟日報（AMP mirror）",
+      "title": "桃園工會退出勞資協商 美光回應：未要求員工放棄權利（AMP mirror）",
+      "url": "https://money.udn.com/money/amp/story/5612/9875024",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T18:01:41+08:00",
+      "display_at": "2026-11-12T18:01:41+08:00",
+      "listed_at": "2026-11-19T13:25:00+08:00",
+      "last_checked_at": "2026-11-19T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated",
+      "duplicate_of": "https://udn.com/news/story/7240/9875024"
     },
     {
       "id": "news-1282",
@@ -16513,7 +16608,7 @@
       "published_at": "2026-10-02T15:06:14+08:00",
       "display_at": "2026-10-02T15:06:14+08:00",
       "listed_at": "2026-10-06T21:30:56+08:00",
-      "last_checked_at": "2026-11-01T13:12:09.748837+08:00",
+      "last_checked_at": "2026-11-19T13:25:00+08:00",
       "language": "TW",
       "topics": [
         "獎金／分紅",
