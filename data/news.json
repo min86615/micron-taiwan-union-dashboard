@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T17:43:42.900684+08:00",
-    "record_count": 1229,
+    "generated_at": "2026-11-19T19:30:18.965434+08:00",
+    "record_count": 1232,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1518",
+      "media": "Liberty Times Finance (stock.ltn mirror page of LTN master)",
+      "title": "跨過地方勞動局？質疑美光公司介入工會活動 美光桃園工會明赴勞動部",
+      "url": "https://stock.ltn.com.tw/article/9bbc9datgddv",
+      "published_date": "2026-11-19",
+      "published_at": "2026-11-19T15:52:00+08:00",
+      "display_at": "2026-11-19T15:52:00+08:00",
+      "listed_at": "2026-11-19T19:12:00+08:00",
+      "last_checked_at": "2026-11-19T19:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5646454"
+    },
     {
       "id": "news-1516",
       "media": "Liberty Times Finance",
@@ -566,6 +584,24 @@
       ],
       "status": "reported",
       "source_type": "news",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1519",
+      "media": "工商時報 (CTEE)",
+      "title": "美光勞資今重回談判桌 張善政曝缺席原因：尊重法定機制",
+      "url": "https://www.ctee.com.tw/news/20261117701138-431401",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T12:21:00+08:00",
+      "display_at": "2026-11-17T12:21:00+08:00",
+      "listed_at": "2026-11-19T19:16:00+08:00",
+      "last_checked_at": "2026-11-19T19:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
       "duplicate_of": null
     },
     {
@@ -23167,6 +23203,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1520",
+      "media": "富途新聞（Futu）reprint of TechWeb",
+      "title": "獎金\"不及三星零頭\"，美光員工醞釀罷工",
+      "url": "https://news.futunn.com/hk/post/78504214",
+      "published_date": "2026-08-29",
+      "published_at": "2026-08-29T22:38:00+08:00",
+      "display_at": "2026-08-29T22:38:00+08:00",
+      "listed_at": "2026-11-19T19:16:00+08:00",
+      "last_checked_at": "2026-11-19T19:16:00+08:00",
+      "language": "SC",
+      "topics": [
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0031",
