@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T03:23:53.672766+08:00",
+    "generated_at": "2026-11-20T03:25:22.464158+08:00",
     "record_count": 1246,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -15,7 +15,7 @@
       "display_at": "2026-11-20T12:00:00+08:00",
       "listed_at": "2026-11-20T03:25:00+08:00",
       "last_checked_at": "2026-11-20T03:25:00+08:00",
-      "language": "ZH-",
+      "language": "TW",
       "topics": [
         "工會／勞資",
         "獎金／分紅"
@@ -35,7 +35,7 @@
       "display_at": "2026-11-20T12:00:00+08:00",
       "listed_at": "2026-11-20T03:25:00+08:00",
       "last_checked_at": "2026-11-20T03:25:00+08:00",
-      "language": "ZH-",
+      "language": "TW",
       "topics": [
         "工會／勞資"
       ],
@@ -54,7 +54,7 @@
       "display_at": "2026-11-20T12:00:00+08:00",
       "listed_at": "2026-11-20T03:25:00+08:00",
       "last_checked_at": "2026-11-20T03:25:00+08:00",
-      "language": "ZH-",
+      "language": "TW",
       "topics": [
         "記憶體／HBM"
       ],
