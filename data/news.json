@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T21:17:36.835219+08:00",
-    "record_count": 1233,
+    "generated_at": "2026-11-20T01:20:43.534579+08:00",
+    "record_count": 1243,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1529",
+      "media": "公民行動影音紀錄資料庫 (Civilmedia)",
+      "title": "【採訪通知】請美光公司不要打臉自己的新聞稿，支配介入工會活動，施壓個別員工",
+      "url": "https://www.civilmedia.tw/event/【採訪通知】請美光公司不要打臉自己的新聞稿，支配介入工會活動，施壓個別員工",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T01:12:00+08:00",
+      "last_checked_at": "2026-11-20T01:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "union_statement",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1518",
       "media": "Liberty Times Finance (stock.ltn mirror page of LTN master)",
@@ -40,6 +59,62 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1530",
+      "media": "太報 TaiSounds",
+      "title": "勞資協商未達共識！美光桃園工會將啟動「方案投票」 籲公司勿施壓個別員工",
+      "url": "https://taisounds.com/news/content/76/310687",
+      "published_date": "2026-11-19",
+      "published_at": "2026-11-19T15:01:00+08:00",
+      "display_at": "2026-11-19T15:01:00+08:00",
+      "listed_at": "2026-11-20T01:12:00+08:00",
+      "last_checked_at": "2026-11-20T01:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1522",
+      "media": "集微网 / 爱集微 JW Insights (SC)",
+      "title": "美光台湾工会不满奖金上限200%，计划效仿三星发起罢工",
+      "url": "https://www.laoyaoba.com/n/1074917",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-19T23:45:00+08:00",
+      "last_checked_at": "2026-11-19T23:45:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1525",
+      "media": "Taiwan Political Economy Collaborative 共力研究社 (t-pec.org)",
+      "title": "Micron Strike Dispute Enters a Protracted Battle",
+      "url": "https://t-pec.org/micron-strike-dispute-enters-a-protracted-battle",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-19T23:45:00+08:00",
+      "last_checked_at": "2026-11-19T23:45:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1500",
@@ -118,6 +193,24 @@
       "source_type": "translation copy of already-recorded zh-Hant article",
       "duplicate_of": "https://effectstory.com/zh-Hant/articles/micron-taoyuan-union-executive-yuan-petition-mediation-nov-17",
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-19 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1532",
+      "media": "鉅亨網 (cnyes)",
+      "title": "美光跌逾20%後能反攻？分析師點名3大催化劑",
+      "url": "https://news.cnyes.com/news/id/6666682",
+      "published_date": "2026-11-19",
+      "published_at": "2026-11-19T02:00:00+08:00",
+      "display_at": "2026-11-19T02:00:00+08:00",
+      "listed_at": "2026-11-20T01:14:00+08:00",
+      "last_checked_at": "2026-11-20T01:14:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1498",
@@ -603,6 +696,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1527",
+      "media": "三立新聞網 setn（財經；基於《鏡周刊》報導的獨立整理）",
+      "title": "美光工會遭外部勢力「借殼」主導？桃產總把罷工當目的 恐嚇跑1.6兆外資",
+      "url": "https://setn.com/news/1940483",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-19T23:45:00+08:00",
+      "last_checked_at": "2026-11-19T23:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1493",
@@ -5807,6 +5920,24 @@
       "display_at": "2026-11-05T19:59:00+08:00",
       "listed_at": "2026-11-05T23:10:00+08:00",
       "last_checked_at": "2026-11-05T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1531",
+      "media": "工商時報 (CTEE)",
+      "title": "美光傳因勞資爭議暫停桃園擴廠 市府11／6進行第3次協商",
+      "url": "https://ctee.com.tw/news/20261105702184-431401",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T19:41:00+08:00",
+      "display_at": "2026-11-05T19:41:00+08:00",
+      "listed_at": "2026-11-20T01:15:00+08:00",
+      "last_checked_at": "2026-11-20T01:15:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
@@ -12106,6 +12237,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1523",
+      "media": "工商時報 CTEE",
+      "title": "美光勞資達共識簽署協議成功拆彈 罷工危機解除",
+      "url": "https://www.ctee.com.tw/news/20261021701556-430503",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-19T23:45:00+08:00",
+      "last_checked_at": "2026-11-19T23:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021003045-260410",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1425",
@@ -19923,6 +20074,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1524",
+      "media": "中國時報（print edition page）",
+      "title": "美光豪發68月薪 工會喊要分潤",
+      "url": "https://www.chinatimes.com/newspapers/20260912000456-260110",
+      "published_date": "2026-09-12",
+      "published_at": null,
+      "display_at": "2026-09-12T12:00:00+08:00",
+      "listed_at": "2026-11-19T23:45:00+08:00",
+      "last_checked_at": "2026-11-19T23:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0849",
       "media": "Taiwan News",
       "title": "Micron to give Taiwan employees NT$1 million cash bonus",
@@ -23442,6 +23612,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1528",
+      "media": "富途资讯（芯智讯，HK 頁）",
+      "title": "效仿三星！美光台湾工会计划罢工！",
+      "url": "https://news.futunn.com/hk/post/1000750972",
+      "published_date": "2026-08-02",
+      "published_at": null,
+      "display_at": "2026-08-02T12:00:00+08:00",
+      "listed_at": "2026-11-19T23:45:00+08:00",
+      "last_checked_at": "2026-11-19T23:45:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.futunn.com/post/76974495",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1119",
