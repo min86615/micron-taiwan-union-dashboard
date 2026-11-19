@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T13:32:09.088564+08:00",
-    "record_count": 1225,
+    "generated_at": "2026-11-19T15:14:06.487256+08:00",
+    "record_count": 1228,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4574,6 +4574,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1512",
+      "media": "21經濟網 21jingji（中國財經媒體）",
+      "title": "美光，将停建台湾地区新工厂",
+      "url": "https://www.21jingji.com/article/20261106/herald/001e506300b957a9ae9646282f63d62a.html",
+      "published_date": "2026-11-06",
+      "published_at": null,
+      "display_at": "2026-11-06T12:00:00+08:00",
+      "listed_at": "2026-11-19T15:25:00+08:00",
+      "last_checked_at": "2026-11-19T15:25:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1368",
@@ -9223,6 +9242,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1510",
+      "media": "太報 TaiSounds",
+      "title": "台灣半導體業首度罷工落幕！美光桃園工會99%投票會員說不 堅持爭取分潤制",
+      "url": "https://www.taisounds.com/news/content/76/295749",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-19T15:25:00+08:00",
+      "last_checked_at": "2026-11-19T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1488",
@@ -17583,6 +17622,26 @@
       "last_checked_at": "2026-09-22T19:05:45.692328+08:00",
       "language": "TW",
       "topics": [
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1511",
+      "media": "工商時報（中時媒體集團）",
+      "title": "美光勞資調解觸礁！工會宣布推動罷工投票",
+      "url": "https://www.ctee.com.tw/news/20260921701861-431401",
+      "published_date": "2026-09-21",
+      "published_at": "2026-09-21T19:02:00+08:00",
+      "display_at": "2026-09-21T19:02:00+08:00",
+      "listed_at": "2026-11-19T15:25:00+08:00",
+      "last_checked_at": "2026-11-19T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
         "罷工",
         "勞資調解"
       ],
