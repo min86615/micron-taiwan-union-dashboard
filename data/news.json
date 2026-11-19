@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-19T15:19:55.704909+08:00",
-    "record_count": 1228,
+    "generated_at": "2026-11-19T17:43:42.900684+08:00",
+    "record_count": 1229,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1516",
+      "media": "Liberty Times Finance",
+      "title": "跨過地方勞動局？贵疑美光公司介入工會活動 美光桃園工會明赴勞動部",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5646454",
+      "published_date": "2026-11-19",
+      "published_at": "2026-11-19T15:52:00+08:00",
+      "display_at": "2026-11-19T15:52:00+08:00",
+      "listed_at": "2026-11-19T17:30:00+08:00",
+      "last_checked_at": "2026-11-19T17:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1500",
       "media": "Taiwan Inside",
