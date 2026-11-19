@@ -1,10 +1,68 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T01:20:43.534579+08:00",
-    "record_count": 1243,
+    "generated_at": "2026-11-20T03:23:53.672766+08:00",
+    "record_count": 1246,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1536",
+      "media": "Life.tw (Sunmedia, based on Radio Taiwan International report)",
+      "title": "Micron union petitions the Executive Yuan for profit sharing; Premier Cho Jung-tai expresses stance to coordinate the labor dispute",
+      "url": "https://life.tw/article/%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E9%99%B3%E6%83%85%E7%88%AD%E5%8F%96%E5%88%86%E7%B4%85-%E5%8D%93%E6%A6%AE%E6%B3%B0%E8%A1%A8%E6%85%8B%E5%8D%94%E8%AA%BF%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0-3223460",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T03:25:00+08:00",
+      "last_checked_at": "2026-11-20T03:25:00+08:00",
+      "language": "ZH-",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1534",
+      "media": "Economic Daily / UDN (United Daily News)",
+      "title": "Micron labor dispute effect: Linkou cancels Taoyuan site",
+      "url": "https://udn.com/news/story/7240/9890199",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T03:25:00+08:00",
+      "last_checked_at": "2026-11-20T03:25:00+08:00",
+      "language": "ZH-",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1535",
+      "media": "Economic Daily / UDN (United Daily News)",
+      "title": "Micron Singapore HBM packaging plant: first equipment move-in",
+      "url": "https://udn.com/news/story/7240/9890200",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T03:25:00+08:00",
+      "last_checked_at": "2026-11-20T03:25:00+08:00",
+      "language": "ZH-",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1529",
       "media": "公民行動影音紀錄資料庫 (Civilmedia)",
