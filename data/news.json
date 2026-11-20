@@ -1,10 +1,67 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T15:23:09.038188+08:00",
-    "record_count": 1256,
+    "generated_at": "2026-11-20T17:17:22.661894+08:00",
+    "record_count": 1261,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1553",
+      "media": "聯合報 udn (breaking news)",
+      "title": "美光桃園工會啟動方案投票 籲資方勿介入會員表決",
+      "url": "https://udn.com/news/story/7238/9890922",
+      "published_date": "2026-11-20",
+      "published_at": "2026-11-20T12:44:00+08:00",
+      "display_at": "2026-11-20T12:44:00+08:00",
+      "listed_at": "2026-11-20T17:20:00+08:00",
+      "last_checked_at": "2026-11-20T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1556",
+      "media": "新浪科技 / 快科技 (Kuai Technology content re-run)",
+      "title": "雪上加霜！劳资争议拖累美光扩产：内存涨价周期面临拉长",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-20/doc-inizkctp0411598.shtml",
+      "published_date": "2026-11-20",
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T17:20:00+08:00",
+      "last_checked_at": "2026-11-20T17:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1555",
+      "media": "TrendForce",
+      "title": "[News] Micron Singapore HBM Plant Receives First Equipment Ahead of 2027 Output as Taoyuan Labor Dispute Persists",
+      "url": "https://trendforce.com/news/2026-11-20/news-micron-singapore-hbm-plant-receives-first-equipment-ahead-of-2027-output-as-taoyuan-labor-dispute-persists",
+      "published_date": "2026-11-20",
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T17:20:00+08:00",
+      "last_checked_at": "2026-11-20T17:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1550",
       "media": "TechNews 科技新報（finance）",
@@ -102,6 +159,24 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
+      "id": "news-1554",
+      "media": "經濟日報 (UDN money)",
+      "title": "桃園廠勞資爭議延燒 美光台灣布局添變數",
+      "url": "https://money.udn.com/money/story/5612/9890054",
+      "published_date": "2026-11-20",
+      "published_at": "2026-11-20T03:08:23+08:00",
+      "display_at": "2026-11-20T03:08:23+08:00",
+      "listed_at": "2026-11-20T17:20:00+08:00",
+      "last_checked_at": "2026-11-20T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1537",
       "media": "財訊 (Wealth Magazine, TW)",
       "title": "美光桃園勞資爭議難解 群聯潘健成「怕了！」不去桃園設研發據點了",
@@ -154,6 +229,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1557",
+      "media": "Yahoo News (mirror of TaiSounds 310687)",
+      "title": "勞資協商未達共識！美光桃園工會將啟動「方案投票」 籲公司勿施壓個別員工",
+      "url": "https://news.yahoo.com/%E5%8B%9E%E8%B3%87%E5%8D%94%E5%95%86%E6%9C%AA%E9%81%94%E5%85%B1%E8%AD%98-%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E5%B0%87%E5%95%9F%E5%8B%95-%E6%96%B9%E6%A1%88%E6%8A%95%E7%A5%A8-%E7%B1%B2%E5%85%AC%E5%8F%B8%E5%8B%BF%E6%96%BD%E5%A3%93%E5%80%8B%E5%88%A5%E5%93%A1%E5%B7%A5-070135279.html",
+      "published_date": "2026-11-19",
+      "published_at": "2026-11-19T15:01:00+08:00",
+      "display_at": "2026-11-19T15:01:00+08:00",
+      "listed_at": "2026-11-20T17:20:00+08:00",
+      "last_checked_at": "2026-11-20T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://taisounds.com/news/content/76/310687"
     },
     {
       "id": "news-1530",
