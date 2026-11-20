@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T19:14:34.748350+08:00",
-    "record_count": 1263,
+    "generated_at": "2026-11-20T21:27:10.707330+08:00",
+    "record_count": 1268,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -175,6 +175,24 @@
       "source_type": "union_statement",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1560",
+      "media": "中央社 CNA",
+      "title": "美光桃園工會啟動方案投票 籲資方勿介入會員表決",
+      "url": "https://www.cna.com.tw/news/ahel/202611200079.aspx",
+      "published_date": "2026-11-20",
+      "published_at": "2026-11-20T11:32:00+08:00",
+      "display_at": "2026-11-20T11:32:00+08:00",
+      "listed_at": "2026-11-20T21:20:00+08:00",
+      "last_checked_at": "2026-11-20T21:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1554",
@@ -941,6 +959,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1562",
+      "media": "中評社 CRNTT",
+      "title": "美光員工赴“政院”陳情哽咽 控遭自己人背叛",
+      "url": "http://www.crntt.com/doc/46_21997_160290103_1_1117155007.html",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-20T21:19:00+08:00",
+      "last_checked_at": "2026-11-20T21:19:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1561",
+      "media": "財團法人公共政策數據庫媒體 公民媒體（Public Policy Media）",
+      "title": "美光勞資爭議未解、反黑箱一般協議 另組關係企業工會爭對等協商",
+      "url": "https://www.civilmedia.tw/archives/142206",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-20T21:16:00+08:00",
+      "last_checked_at": "2026-11-20T21:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1527",
@@ -9434,6 +9490,24 @@
       "source_type": "media",
       "duplicate_of": "https://www.straitstimes.com/asia/east-asia/taiwan-union-says-micron-workers-reject-bonus-proposal",
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1563",
+      "media": "鉅亨網 cnyes",
+      "title": "美光罷工危機解除、外銷訂單連20紅、公股投信四合一拍板 本周大事回顧",
+      "url": "https://news.cnyes.com/news/id/6636820",
+      "published_date": "2026-10-24",
+      "published_at": "2026-10-24T08:10:00+08:00",
+      "display_at": "2026-10-24T08:10:00+08:00",
+      "listed_at": "2026-11-20T21:20:00+08:00",
+      "last_checked_at": "2026-11-20T21:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-0641",
@@ -20793,6 +20867,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-1564",
+      "media": "Investing.com zh-CN（AI翻譯副本）",
+      "title": "美光科技向中国台湾员工提供最高68个月奖金，罢工威胁阴云未散",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3562774",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-11-20T21:21:00+08:00",
+      "last_checked_at": "2026-11-20T21:21:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.investing.com/news/stock-market-news/micron-offers-taiwan-workers-up-to-68month-bonuses-as-strike-threat-looms-4897688",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1544",
