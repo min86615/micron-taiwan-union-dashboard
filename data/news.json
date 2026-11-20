@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T13:18:48.706244+08:00",
-    "record_count": 1253,
+    "generated_at": "2026-11-20T15:23:09.038188+08:00",
+    "record_count": 1256,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1550",
+      "media": "TechNews 科技新報（finance）",
+      "title": "美光桃園勞資爭議影響企業全球產能布局，台廠亦重新思考當地設點決策",
+      "url": "https://finance.technews.tw/2026-11-20/labor-dispute-at-microns-taoyuan-facility-impacts-companys-global-production-footprint",
+      "published_date": "2026-11-20",
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-20T15:20:00+08:00",
+      "last_checked_at": "2026-11-20T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1536",
       "media": "Life.tw (Sunmedia, based on Radio Taiwan International report)",
@@ -1931,6 +1950,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1551",
+      "media": "Liberty Times LTN (news.ltn.com.tw, Taoyuan)",
+      "title": "桃市府協調美光勞資雙方 11/17重回談判桌",
+      "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5641528",
+      "published_date": "2026-11-15",
+      "published_at": null,
+      "display_at": "2026-11-15T12:00:00+08:00",
+      "listed_at": "2026-11-20T15:20:00+08:00",
+      "last_checked_at": "2026-11-20T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1504",
@@ -23932,6 +23970,25 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1552",
+      "media": "NOWnews 今日新聞 (via 中央社 CNA archive)",
+      "title": "269小時絕食行動結束 勞團將繼續抗爭",
+      "url": "https://nownews.com/news/2654799",
+      "published_date": "2017-12-01",
+      "published_at": null,
+      "display_at": "2017-12-01T12:00:00+08:00",
+      "listed_at": "2026-11-20T15:20:00+08:00",
+      "last_checked_at": "2026-11-20T15:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
