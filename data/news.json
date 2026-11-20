@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T03:17:29.468883+08:00",
-    "record_count": 1272,
+    "generated_at": "2026-11-21T05:11:06.136667+08:00",
+    "record_count": 1273,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -24249,6 +24249,25 @@
       "listed_at": "2026-11-11T09:13:00+08:00",
       "last_checked_at": "2026-11-11T09:13:00+08:00",
       "language": "EN",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1569",
+      "media": "Chei-Feng / wealth.com.tw",
+      "title": "記憶體大時代來了！南韓股市狂漲64%、鎧俠飆5倍 謝金河點名2台廠大贏家",
+      "url": "https://www.wealth.com.tw/articles/d34fbf12-ece9-4c24-8e9e-e0ee9f997112",
+      "published_date": "2025-10-27",
+      "published_at": null,
+      "display_at": "2025-10-27T12:00:00+08:00",
+      "listed_at": "2026-11-21T03:25:00+08:00",
+      "last_checked_at": "2026-11-21T05:20:00+08:00",
+      "language": "TW",
       "topics": [
         "記憶體／HBM"
       ],
