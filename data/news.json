@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T21:27:10.707330+08:00",
-    "record_count": 1268,
+    "generated_at": "2026-11-21T01:18:25.046509+08:00",
+    "record_count": 1271,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -40,6 +40,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1566",
+      "media": "The Motley Fool（經 Yahoo Finance 轉載頁）",
+      "title": "Prediction: Micron Stock Is Going to Soar After Its December Earnings Report",
+      "url": "https://finance.yahoo.com/news/prediction-micron-stock-going-soar-122002867.html",
+      "published_date": "2026-11-20",
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-21T01:20:00+08:00",
+      "last_checked_at": "2026-11-21T01:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1565",
+      "media": "RTHK 中央廣播電臺（經 LINE TODAY 分發，原文作者楊文君）",
+      "title": "美光桃園工會明起表決資方方案 籲資方勿施壓會員",
+      "url": "https://today.line.me/tw/v3/article/9m3JxER",
+      "published_date": "2026-11-20",
+      "published_at": null,
+      "display_at": "2026-11-20T12:00:00+08:00",
+      "listed_at": "2026-11-21T01:15:00+08:00",
+      "last_checked_at": "2026-11-21T01:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1556",
@@ -7656,6 +7694,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1567",
+      "media": "聯合報影音 udn video",
+      "title": "美光爭議延燒！桃園工會攜台中員工衝中科管理局抗議 爆警民對峙",
+      "url": "https://video.udn.com/news/1331511",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-21T01:22:00+08:00",
+      "last_checked_at": "2026-11-21T01:22:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1125",
