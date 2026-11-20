@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T09:15:23.674808+08:00",
-    "record_count": 1250,
+    "generated_at": "2026-11-20T11:19:46.011584+08:00",
+    "record_count": 1252,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -307,6 +307,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1543",
+      "media": "NetEase Hao (网易号 self-media platform, user upload; content identical to hstong master)",
+      "title": "存储三巨头单季狂赚1600亿美元，劳资博弈改写利润分配规则",
+      "url": "https://www.163.com/dy/article/LBFA0H4J0511RIVP.html",
+      "published_date": "2026-11-18",
+      "published_at": null,
+      "display_at": "2026-11-18T12:00:00+08:00",
+      "listed_at": "2026-11-20T11:30:00+08:00",
+      "last_checked_at": "2026-11-20T11:30:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator/platform",
+      "duplicate_of": "https://www.hstong.com/news/detail/26111817360369912",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1498",
@@ -20584,6 +20603,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-1544",
+      "media": "ET ElectronicsWorld (Economictimes, Reuters wire copy)",
+      "title": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+      "url": "https://electronics.economictimes.indiatimes.com/amp/news/semiconductors/microns-taiwan-workers-to-get-rewards-worth-up-to-68-months-of-pay/134047207",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-11-20T11:35:00+08:00",
+      "last_checked_at": "2026-11-20T11:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0895",
