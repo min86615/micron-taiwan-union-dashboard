@@ -1,29 +1,10 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T05:39:09.392753+08:00",
-    "record_count": 1249,
+    "generated_at": "2026-11-20T09:15:23.674808+08:00",
+    "record_count": 1250,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
-    {
-      "id": "news-1537",
-      "media": "財訊 (Wealth Magazine, TW)",
-      "title": "美光桃園勞資爭議難解 群聯潘健成「怕了！」不去桃園設研發據點了",
-      "url": "https://www.wealth.com.tw/articles/68b7da6e-32af-49cf-9d6e-1dd800a3d155",
-      "published_date": "2026-11-20",
-      "published_at": null,
-      "display_at": "2026-11-20T12:00:00+08:00",
-      "listed_at": "2026-11-20T05:15:00+08:00",
-      "last_checked_at": "2026-11-20T05:15:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
-    },
     {
       "id": "news-1536",
       "media": "Life.tw (Sunmedia, based on Radio Taiwan International report)",
@@ -102,6 +83,24 @@
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-20 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
+      "id": "news-1537",
+      "media": "財訊 (Wealth Magazine, TW)",
+      "title": "美光桃園勞資爭議難解 群聯潘健成「怕了！」不去桃園設研發據點了",
+      "url": "https://www.wealth.com.tw/articles/68b7da6e-32af-49cf-9d6e-1dd800a3d155",
+      "published_date": "2026-11-20",
+      "published_at": "2026-11-19T19:17:00+08:00",
+      "display_at": "2026-11-19T19:17:00+08:00",
+      "listed_at": "2026-11-20T05:15:00+08:00",
+      "last_checked_at": "2026-11-20T05:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1518",
       "media": "Liberty Times Finance (stock.ltn mirror page of LTN master)",
       "title": "跨過地方勞動局？質疑美光公司介入工會活動 美光桃園工會明赴勞動部",
@@ -154,6 +153,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1542",
+      "media": "焦點事件 / Events In Focus (eventsinfocus.org)",
+      "title": "美光罷工》疑含禁罷工、冷卻期 公司要桃園工會票決舊方案",
+      "url": "https://eventsinfocus.org/news/7148554",
+      "published_date": "2026-11-19",
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-20T09:05:00+08:00",
+      "last_checked_at": "2026-11-20T09:05:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1522",
