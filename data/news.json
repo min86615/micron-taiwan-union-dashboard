@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T01:18:25.046509+08:00",
-    "record_count": 1271,
+    "generated_at": "2026-11-21T03:17:29.468883+08:00",
+    "record_count": 1272,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -4437,6 +4437,25 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1568",
+      "media": "AAIT (Japan)",
+      "title": "米マイクロン、台湾メモリー工場建設を一時停止 労使紛争で",
+      "url": "https://aait.co.jp/archives/85651",
+      "published_date": "2026-11-08",
+      "published_at": "2026-11-08T23:40:00+09:00",
+      "display_at": "2026-11-08T23:40:00+09:00",
+      "listed_at": "2026-11-21T03:20:00+08:00",
+      "last_checked_at": "2026-11-21T03:20:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
       ],
       "status": "reported",
       "source_type": "media",
