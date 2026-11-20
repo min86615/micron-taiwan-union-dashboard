@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-20T11:19:46.011584+08:00",
-    "record_count": 1252,
+    "generated_at": "2026-11-20T13:18:48.706244+08:00",
+    "record_count": 1253,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -15056,6 +15056,27 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1547",
+      "media": "Yahoo!ニュース（ロイター転載）",
+      "title": "米マイクロン、台湾で労使対立激化 賞与制度巡り労組スト承認（ロイター）",
+      "url": "https://news.yahoo.co.jp/articles/67219c2e4e3e1976752e650ccfcbfef8ab08ef62",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-20T13:35:00+08:00",
+      "last_checked_at": "2026-11-20T13:35:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_mirror",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1464",
