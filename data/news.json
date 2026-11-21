@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T05:31:45.423189+08:00",
-    "record_count": 1302,
+    "generated_at": "2026-11-22T07:48:15.720681+08:00",
+    "record_count": 1308,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1802,6 +1802,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1604",
+      "media": "Mirror Media 鏡周刊 (AMP copy)",
+      "title": "美光工運變調／美光工運戰火延燒 桃產總另組跨廠「太上工會」搶主導權",
+      "url": "https://mnews.tw/story/amp/mm-20261116inv007",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-22T07:35:00+08:00",
+      "last_checked_at": "2026-11-22T07:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1492",
@@ -10128,6 +10147,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1608",
+      "media": "Cnyes (AMP/mobile copy)",
+      "title": "美光台中工會協商成功！8成人員調薪近2.7倍 經部盼桃園廠跟進",
+      "url": "https://m.cnyes.com/news/id/6636455",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-22T07:40:00+08:00",
+      "last_checked_at": "2026-11-22T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6636455",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1510",
       "media": "太報 TaiSounds",
       "title": "台灣半導體業首度罷工落幕！美光桃園工會99%投票會員說不 堅持爭取分潤制",
@@ -11178,6 +11216,64 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1607",
+      "media": "Cnyes (AMP/mobile copy)",
+      "title": "美光桃園工會今起罷工24小時 公司：持續溝通並誠信協商",
+      "url": "https://m.cnyes.com/news/id/6635643",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T07:40:00+08:00",
+      "last_checked_at": "2026-11-22T07:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.cnyes.com/news/id/6635643",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1600",
+      "media": "Liberty Times LTN (stock.ltn web, Taipei)",
+      "title": "美光台中勞資達協議 桃園協商待續｜財富自由",
+      "url": "https://stock.ltn.com.tw/article/wcjwx9xpn6qp",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T07:35:00+08:00",
+      "last_checked_at": "2026-11-22T07:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1602",
+      "media": "Liberty Times LTN (print page archive)",
+      "title": "美光台中勞資達協議 桃園協商待續",
+      "url": "https://ec.ltn.com.tw/article/paper/1775526",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T07:35:00+08:00",
+      "last_checked_at": "2026-11-22T07:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://stock.ltn.com.tw/article/wcjwx9xpn6qp",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1291",
@@ -16892,6 +16988,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1601",
+      "media": "Liberty Times LTN (stock.ltn copy)",
+      "title": "美光通過罷工 勞動部籲資方協商、提出具體可行方案",
+      "url": "https://stock.ltn.com.tw/article/6tqdvls5sbdp",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T07:35:00+08:00",
+      "last_checked_at": "2026-11-22T07:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5599067",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1599",
