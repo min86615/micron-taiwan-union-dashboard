@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T23:16:37.437433+08:00",
-    "record_count": 1296,
+    "generated_at": "2026-11-22T01:16:13.241298+08:00",
+    "record_count": 1298,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1595",
+      "media": "DNYUZ (aggregator copy of Futurism master)",
+      "title": "You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They're Being Paid Peanuts, and Now They're Realizing They Have Leverage",
+      "url": "https://dnyuz.com/2026/11/21/you-know-these-ai-chips-that-are-making-billions-of-dollars-the-workers-building-them-say-theyre-being-paid-peanuts-and-now-theyre-realizing-they-have-leverage",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T01:20:00+08:00",
+      "last_checked_at": "2026-11-22T01:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_copy",
+      "duplicate_of": "https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor",
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-22 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1589",
       "media": "UDN 經濟日報",
@@ -10069,6 +10088,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1594",
+      "media": "自由時報／自由財經",
+      "title": "薔琵打亂步調！美光桃園工會罷工結束 勞資協商順延至27日",
+      "url": "https://stock.ltn.com.tw/article/p6a27zz8rtcb",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T14:22:00+08:00",
+      "display_at": "2026-10-23T14:22:00+08:00",
+      "listed_at": "2026-11-22T01:20:00+08:00",
+      "last_checked_at": "2026-11-22T01:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5616347"
     },
     {
       "id": "news-0807",
