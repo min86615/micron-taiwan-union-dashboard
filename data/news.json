@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T17:15:08.297085+08:00",
-    "record_count": 1286,
+    "generated_at": "2026-11-21T19:20:58.334319+08:00",
+    "record_count": 1288,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -16718,6 +16718,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1585",
+      "media": "TIKR zh-hans variant (tikr.com/zh, translation of recorded EN master)",
+      "title": "美光台湾员工授权罢工并要求15%营业利润分成。以下是其潜在成本",
+      "url": "https://www.tikr.com/zh/blog/micron-workers-in-taiwan-authorize-a-strike-and-wants-15-of-operating-profit-heres-what-that-would-cost",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-21T19:40:00+08:00",
+      "last_checked_at": "2026-11-21T19:40:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "zh-hans translation copy of recorded EN master (syndicated, same author, same figures, paragraph-equivalent)",
+      "duplicate_of": "https://www.tikr.com/blog/micron-workers-in-taiwan-authorize-a-strike-and-wants-15-of-operating-profit-heres-what-that-would-cost",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1521",
       "media": "遠見雜誌",
       "title": "美光工會取得罷工權，擬規劃19日上凱道！勞動部回應了",
@@ -18160,6 +18179,28 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1584",
+      "media": "鏈新聞/CRYPTO CITY mirror (cryptocity.tw, syndicated copy of abmedia master)",
+      "title": "美光台灣百萬獎金也難滅火！工會勞資調解再破局，啟動罷工投票",
+      "url": "https://www.cryptocity.tw/news/micron-taiwan-union-initiates-strike-vote",
+      "published_date": "2026-09-22",
+      "published_at": null,
+      "display_at": "2026-09-22T12:00:00+08:00",
+      "listed_at": "2026-11-21T19:40:00+08:00",
+      "last_checked_at": "2026-11-21T19:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "authorized reprint mirror of recorded abmedia master (syndicated, content identical to master)",
+      "duplicate_of": "https://abmedia.io/micron-labor-management-dispute-still-no-consensus",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0925",
