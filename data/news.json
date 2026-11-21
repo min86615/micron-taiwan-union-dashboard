@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T21:21:25.426866+08:00",
-    "record_count": 1291,
+    "generated_at": "2026-11-21T23:16:37.437433+08:00",
+    "record_count": 1296,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1589",
+      "media": "UDN 經濟日報",
+      "title": "台灣美光取得罷工權 資方持續溝通",
+      "url": "https://udn.com/news/story/7240/9801632",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-21T12:00:00+08:00",
+      "listed_at": "2026-11-21T23:30:00+08:00",
+      "last_checked_at": "2026-11-21T23:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "news_article",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-21 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1592",
+      "media": "Futurism",
+      "title": "You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They're Being Paid Peanuts, and Now They're Realizing They Have Leverage",
+      "url": "https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-21T12:00:00+08:00",
+      "listed_at": "2026-11-21T23:30:00+08:00",
+      "last_checked_at": "2026-11-21T23:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "news_article",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-21 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1587",
       "media": "Cleanroom Technology",
@@ -12880,6 +12918,27 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1591",
+      "media": "ET ElectronicsWorld (Economictimes India)",
+      "title": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+      "url": "https://electronics.economictimes.indiatimes.com/news/semiconductors/micron-union-in-taiwan-to-launch-one-day-strike-as-bonus-dispute-escalates/135079529",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-21T23:30:00+08:00",
+      "last_checked_at": "2026-11-21T23:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "news_article",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1575",
       "media": "CTS (华视新闻网)",
       "title": "美光与台中工会达成多项共识 签署劳资协议",
@@ -16755,6 +16814,47 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1593",
+      "media": "EpochTimes 大紀元 (CNA wire copy)",
+      "title": "桃園廠工會取得罷工權 美光：持續溝通",
+      "url": "https://www.epochtimes.com/b5/26/10/7/n14865444.htm",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-21T23:36:00+08:00",
+      "last_checked_at": "2026-11-21T23:36:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "news_article",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070247.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1590",
+      "media": "UDN 經濟日報 (CNA wire copy)",
+      "title": "美光桃園廠工會取得罷工權 市調：晶圓廠良率下降影響DRAM產出",
+      "url": "https://udn.com/news/story/7240/9800971",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-21T23:30:00+08:00",
+      "last_checked_at": "2026-11-21T23:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "news_article",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070268.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1585",
