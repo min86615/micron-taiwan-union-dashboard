@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T13:16:30.212010+08:00",
-    "record_count": 1280,
+    "generated_at": "2026-11-21T15:17:28.869124+08:00",
+    "record_count": 1283,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1578",
+      "media": "TVBS money (news.tvbs.com.tw/money)",
+      "title": "群聯原定桃園設研發據點！潘健成坦言怕美光勞資爭議：決定不去了",
+      "url": "https://news.tvbs.com.tw/money/4053871",
+      "published_date": "2026-11-21",
+      "published_at": "2026-11-21T11:33:00+08:00",
+      "display_at": "2026-11-21T11:33:00+08:00",
+      "listed_at": "2026-11-21T15:30:00+08:00",
+      "last_checked_at": "2026-11-21T15:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1558",
       "media": "Liberty Times Finance LTN (ec.ltn.com.tw)",
@@ -19089,6 +19107,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1579",
+      "media": "JIJI AMP mirror (sp.m.jiji.com)",
+      "title": "月給６８か月のボーナスは不十分 マイクロン台湾工場の従業員、さらなる利益分配を要求",
+      "url": "https://sp.m.jiji.com/amp/article/show/3870083",
+      "published_date": "2026-09-18",
+      "published_at": "2026-09-18T16:54:00+09:00",
+      "display_at": "2026-09-18T16:54:00+09:00",
+      "listed_at": "2026-11-21T15:30:00+08:00",
+      "last_checked_at": "2026-11-21T15:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "AMP mirror copy of recorded JJI master (syndicated, paragraph-identical)",
+      "duplicate_of": "https://jiji.com/jc/article?g=afp&k=20260918049373a"
+    },
+    {
       "id": "news-1214",
       "media": "Futu News (news.futunn.com)",
       "title": "employees of Micron in China have once again gathered: a 68-month bonus is still not enough! The union is demanding a bonus equivalent to 83 months' wages.",
@@ -19142,6 +19178,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1580",
+      "media": "Yahoo! Japan news mirror (news.yahoo.co.jp)",
+      "title": "月給68か月のボーナスは不十分 マイクロン台湾工場の従業員、さらなる利益分配を要求（ＡＦＰ＝時事）",
+      "url": "https://news.yahoo.co.jp/articles/33e908acd980c385b8ea2eecd528e8e5eb689f20",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-09-18T10:07:00+09:00",
+      "listed_at": "2026-11-21T15:30:00+08:00",
+      "last_checked_at": "2026-11-21T15:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "Yahoo mirror copy of recorded AFP master (syndicated, paragraph-identical)",
+      "duplicate_of": "https://www.afpbb.com/articles/-/3653562",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-0846",
