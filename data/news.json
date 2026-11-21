@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T15:17:28.869124+08:00",
-    "record_count": 1283,
+    "generated_at": "2026-11-21T17:15:08.297085+08:00",
+    "record_count": 1286,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1583",
+      "media": "note.com (tek_teck, independent JP analyst blog)",
+      "title": "【覚書】台湾マイクロン労組が\"敗北\"宣言 ― 営業利益\"15%\"の分配要求は通らず、工場\"最大45億ドル\"の建設は止まったまま、\"1.5兆円\"広島工場は他人事か",
+      "url": "https://note.com/tek_teck/n/n8e34e6a49d41",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-21T12:00:00+08:00",
+      "listed_at": "2026-11-21T17:00:00+08:00",
+      "last_checked_at": "2026-11-21T17:00:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "independent opinion/analysis piece, full body verified via direct extract this round",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-21 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1578",
       "media": "TVBS money (news.tvbs.com.tw/money)",
@@ -286,6 +305,25 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1581",
+      "media": "BigGo Finance JP (finance.biggo.jp)",
+      "title": "MicronのシンガポールHBM工場に初の装置搬入、桃園の労使対立が増産の最大の変数に",
+      "url": "https://finance.biggo.jp/news/8d5cb685-fa77-4a92-b037-fb80c2513aba",
+      "published_date": "2026-11-20",
+      "published_at": "2026-11-20T07:25:47+00:00",
+      "display_at": "2026-11-20T07:25:47+00:00",
+      "listed_at": "2026-11-21T17:00:00+08:00",
+      "last_checked_at": "2026-11-21T17:00:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "independent new article, full body verified via direct extract this round",
       "duplicate_of": null
     },
     {
@@ -7456,6 +7494,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1582",
+      "media": "cnRtT / 中評社 台灣中評網 (TW page; master recorded as bj.crntt copy of same reporter article)",
+      "title": "台灣美光罷工鬧內鬨 勞團批洪申翰應下台",
+      "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=46&docid=160285072",
+      "published_date": "2026-11-04",
+      "published_at": "2026-11-04T11:55:40+08:00",
+      "display_at": "2026-11-04T11:55:40+08:00",
+      "listed_at": "2026-11-21T17:00:00+08:00",
+      "last_checked_at": "2026-11-21T17:00:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "TW-domain page of already-recorded article (same title/lead/author/docid 160285072); paragraph-identical copy, verified by full body read this round",
+      "duplicate_of": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=182&kindid=0&docid=160285072"
     },
     {
       "id": "news-0854",
