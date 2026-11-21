@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-21T11:13:05.120677+08:00",
-    "record_count": 1276,
+    "generated_at": "2026-11-21T13:16:30.212010+08:00",
+    "record_count": 1280,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -12563,6 +12563,24 @@
       "duplicate_of": "https://www.chinatimes.com/realtimenews/20261021003045-260410"
     },
     {
+      "id": "news-1574",
+      "media": "UDN Business (经济日报)",
+      "title": "美光与台中工会达成多项共识 签署劳资协议",
+      "url": "https://money.udn.com/money/story/5612/9828741",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T15:01:33+08:00",
+      "display_at": "2026-10-21T15:01:33+08:00",
+      "listed_at": "2026-11-21T13:20:00+08:00",
+      "last_checked_at": "2026-11-21T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "newspaper reprint of CNA wire",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610210155.aspx"
+    },
+    {
       "id": "news-1319",
       "media": "TechNews 科技新報 財經",
       "title": "台灣美光記憶體工會與台灣美光達成多項共識，並正式簽署勞資協議",
@@ -12747,6 +12765,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1575",
+      "media": "CTS (华视新闻网)",
+      "title": "美光与台中工会达成多项共识 签署劳资协议",
+      "url": "https://news.cts.com.tw/cna/money/202610/202610213092252.html",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-21T13:20:00+08:00",
+      "last_checked_at": "2026-11-21T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "TV/portal reprint of CNA wire",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610210155.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1572",
@@ -15242,6 +15279,27 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1577",
+      "media": "asiadaily (Japanese mirror)",
+      "title": "マイクロン桃園工場の労組、ストライキを承認 恒久的な利益配分を要求",
+      "url": "https://jp.asiadaily.org/news/14767/",
+      "published_date": "2026-10-11",
+      "published_at": null,
+      "display_at": "2026-10-11T12:00:00+08:00",
+      "listed_at": "2026-11-21T13:25:00+08:00",
+      "last_checked_at": "2026-11-21T13:25:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "Japanese translation copy of recorded asiadaily master (independent_analysis, background, no new facts)",
+      "duplicate_of": "https://asiadaily.org/news/14767/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0450",
       "media": "TechNews 科技新報",
       "title": "獲利分紅成主戰場，勞資都要面對的課題，台灣美光釀罷工危機，高科技業新考驗",
@@ -15433,6 +15491,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1576",
+      "media": "Technice (科技岛/经济日报系) via PChome aggregator",
+      "title": "美光台湾桃园工会99%赞成罢工 奖金争议升温、HBM供应链添变数",
+      "url": "https://news.pchome.com.tw/science/technice/20261008/index-79142676331510338005.html",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-21T13:25:00+08:00",
+      "last_checked_at": "2026-11-21T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "translated copy of Reuters article (attribution '來源：路透社' present)",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1547",
