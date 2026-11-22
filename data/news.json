@@ -1,10 +1,68 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T14:04:08.110037+08:00",
-    "record_count": 1317,
+    "generated_at": "2026-11-22T15:20:55.986675+08:00",
+    "record_count": 1320,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1626",
+      "media": "Yahoo News TW (setn.com 三立新闻网 content feed)",
+      "title": "【美股盤前】美光蠟燭兩頭燒？台灣工會鬧罷工 美國官司又吞鉅額和解金",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%89%8D-%E7%BE%8E%E5%85%89%E8%A0%9F%E7%87%AD%E5%85%A9%E9%A0%AD%E7%87%92-%E5%8F%B0%E7%81%A3%E5%B7%A5%E6%9C%83%E9%AC%A7%E7%BD%B7%E5%B7%A5-%E7%BE%8E%E5%9C%8B%E5%AE%98%E5%8F%B8%E5%8F%88%E5%90%9E%E9%89%85%E9%A1%8D%E5%92%8C%E8%A7%A3%E9%87%91-121500073.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T15:25:00+08:00",
+      "last_checked_at": "2026-11-22T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-22 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1624",
+      "media": "SueNews (suenews.com)",
+      "title": "七成反對票否決利潤分享案：美光桃園廠這場勞資僵局，帳要從15%營業利益那一欄算起",
+      "url": "https://suenews.com/blog/micron-taoyuan-union-rejects-profit-sharing-deal",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T15:25:00+08:00",
+      "last_checked_at": "2026-11-22T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-22 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1625",
+      "media": "PivotNews (AI-generated news page)",
+      "title": "Micron workers in Taiwan reject pay deal after chip industry's first strike",
+      "url": "https://pivotnews.ai/five/micron-workers-in-taiwan-reject-pay-deal-after-chip",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T15:25:00+08:00",
+      "last_checked_at": "2026-11-22T15:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "aggregator",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-22 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1595",
       "media": "DNYUZ (aggregator copy of Futurism master)",
