@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T07:15:26.616257+08:00",
-    "record_count": 1345,
+    "generated_at": "2026-11-23T07:22:25.870495+08:00",
+    "record_count": 1346,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3827,6 +3827,26 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1655",
+      "media": "TradingKey (JP)",
+      "title": "マイクロンが時間外で4%超下落、台湾桃園工場の労組が利益配分協議から離脱し労働争議が継続",
+      "url": "https://tradingkey.com/jp/analysis/stocks/us-stocks/262302779-",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-23T07:42:00+08:00",
+      "last_checked_at": "2026-11-23T07:42:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.tradingkey.com/analysis/stocks/us-stocks/262302773-",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1654",
