@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T17:18:32.610902+08:00",
-    "record_count": 1325,
+    "generated_at": "2026-11-22T19:49:13.931849+08:00",
+    "record_count": 1329,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -11445,6 +11445,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1634",
+      "media": "LTN 財富自由 (mirror of Liberty Times article 5614555)",
+      "title": "要求分潤等4大訴求未果 美光桃園工會11幹部展開24小時罷工｜財富自由",
+      "url": "https://stock.ltn.com.tw/article/pjnmx9qcv1l6",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-22T19:35:00+08:00",
+      "last_checked_at": "2026-11-22T19:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5614555",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1607",
       "media": "Cnyes (AMP/mobile copy)",
       "title": "美光桃園工會今起罷工24小時 公司：持續溝通並誠信協商",
@@ -15203,6 +15223,27 @@
       "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/"
     },
     {
+      "id": "news-1633",
+      "media": "PrimeXBT (editorial rewrite sourcing Motley Fool)",
+      "title": "Micron's Taiwan Union Votes 99% to Authorize a Strike Over Profit Sharing",
+      "url": "https://primexbt.com/news/microns-taiwan-union-votes-99-to-authorize-a-strike-over-profit-sharing/",
+      "published_date": "2026-10-19",
+      "published_at": null,
+      "display_at": "2026-10-19T12:00:00+08:00",
+      "listed_at": "2026-11-22T19:35:00+08:00",
+      "last_checked_at": "2026-11-22T19:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.fool.com/investing/2026-10-19/a-micron-union-in-taiwan-voted-99-to-authorize-a-strike-should-you-sell-the-stock/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1598",
       "media": "China Times Infomedia (CTEE)",
       "title": "支持台中美光工會 桃園工會22日聲援式罷工1天",
@@ -15869,6 +15910,26 @@
       "status": "syndicated",
       "source_type": "Japanese translation copy of recorded asiadaily master (independent_analysis, background, no new facts)",
       "duplicate_of": "https://asiadaily.org/news/14767/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1635",
+      "media": "Medium (Tai, Japanese semiconductor engineer)",
+      "title": "Micron Taiwan Union Wins Strike Mandate, JNTC Bets on Glass Substrates - Semiconductor News, October 11, 2026",
+      "url": "https://tai-semicon.medium.com/micron-taiwan-union-wins-strike-mandate-jntc-bets-on-glass-substrates-semiconductor-news-2d72c775f80b",
+      "published_date": "2026-10-10",
+      "published_at": null,
+      "display_at": "2026-10-10T12:00:00+08:00",
+      "listed_at": "2026-11-22T19:35:00+08:00",
+      "last_checked_at": "2026-11-22T19:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "independent_analysis_blog",
+      "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
@@ -17254,6 +17315,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1632",
+      "media": "焦點事件 EventsInFocus",
+      "title": "美光罷工》同意88.3%　桃園廠通過罷工投票",
+      "url": "https://eventsinfocus.org/news/7148488",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T19:35:00+08:00",
+      "last_checked_at": "2026-11-22T19:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1630",
