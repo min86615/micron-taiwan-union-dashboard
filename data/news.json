@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T21:21:34.061857+08:00",
-    "record_count": 1333,
+    "generated_at": "2026-11-22T23:25:50.554499+08:00",
+    "record_count": 1338,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -100,6 +100,25 @@
       "source_type": "aggregator_copy",
       "duplicate_of": "https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor",
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-22 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1643",
+      "media": "tzp.news (English aggregator/summary page; no original reporting attribution shown)",
+      "title": "Phison Scraps Taoyuan R&D Site Plan as Micron's Labor Dispute at Its Taoyuan Fab Drags On",
+      "url": "https://tzp.news/en/news/2026-11-21-micronun-taoyuan-fabrikasindaki-is-anlasmazligi-nedeniyle-phison-ar-ge-merkezinden-vazgecti",
+      "published_date": "2026-11-21",
+      "published_at": null,
+      "display_at": "2026-11-21T12:00:00+08:00",
+      "listed_at": "2026-11-22T23:20:00+08:00",
+      "last_checked_at": "2026-11-22T23:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "aggregator_summary",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1615",
@@ -659,6 +678,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1644",
+      "media": "Freedom Times / Liberty Times Finance (LTN AMP copy)",
+      "title": "跨過地方勞動局？質疑美光公司介入工會活動 美光桃園工會明赴勞動部",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5646454",
+      "published_date": "2026-11-19",
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-22T23:20:00+08:00",
+      "last_checked_at": "2026-11-22T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5646454",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1617",
@@ -2010,6 +2048,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1640",
+      "media": "Yahoo!新聞 TW（鏡週刊 Mirror Media 內容轉載）",
+      "title": "封面故事／桃產總跨廠串聯 全國科技業剉咧等 美光工運變調恐縮減在台投資",
+      "url": "https://news.yahoo.com/%E5%B0%81%E9%9D%A2%E6%95%85%E4%BA%8B-%E6%A1%83%E7%94%A2%E7%B8%BD%E8%B7%A8%E5%BB%A0%E4%B8%B2%E8%81%AF-%E5%85%A8%E5%9C%8B%E7%A7%91%E6%8A%80%E6%A5%AD%E5%89%89%E5%92%A7%E7%AD%89-%E7%BE%8E%E5%85%89%E5%B7%A5%E9%81%8B%E8%AE%8A%E8%AA%BF%E6%81%90%E7%B8%AE%E6%B8%9B%E5%9C%A8%E5%8F%B0%E6%8A%95%E8%B3%87-222859344.html",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-22T23:20:00+08:00",
+      "last_checked_at": "2026-11-22T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_mirror",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1631",
@@ -17374,6 +17431,47 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1641",
+      "media": "聯合報 udn（UDN AMP 轉載頁）",
+      "title": "美光桃園工會擬發動突襲罷工 美光：續與工會溝通",
+      "url": "https://money.udn.com/money/amp/story/5612/9801036",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T23:20:00+08:00",
+      "last_checked_at": "2026-11-22T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9801036",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1642",
+      "media": "PChome新聞（PChome News CNA content feed）",
+      "title": "美光桃園廠工會取得罷工權 市調：DRAM產出添變數",
+      "url": "https://news.pchome.com.tw/finance/cna/20261007/index-17913662995416918003.html",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T23:20:00+08:00",
+      "last_checked_at": "2026-11-22T23:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_feed_copy_with_added_commentary",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070247.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1636",
