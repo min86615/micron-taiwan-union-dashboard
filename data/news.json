@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T05:30:03.937547+08:00",
-    "record_count": 1344,
+    "generated_at": "2026-11-23T07:15:26.616257+08:00",
+    "record_count": 1345,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3827,6 +3827,25 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1654",
+      "media": "Mitrade / TradingKey",
+      "title": "美光盘前跌逾4%：台湾桃园厂工会退出利润分享谈判，劳资争议持续",
+      "url": "https://www.mitrade.com/cn/insights/news/live-news/article-8-2251155-20261112",
+      "published_date": "2026-11-12",
+      "published_at": null,
+      "display_at": "2026-11-12T12:00:00+08:00",
+      "listed_at": "2026-11-23T07:20:00+08:00",
+      "last_checked_at": "2026-11-23T07:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.tradingkey.com/analysis/stocks/us-stocks/262302773-",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1538",
