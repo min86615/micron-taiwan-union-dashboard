@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T11:18:19.727957+08:00",
-    "record_count": 1310,
+    "generated_at": "2026-11-22T14:04:08.110037+08:00",
+    "record_count": 1317,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -23,6 +23,25 @@
       "source_type": "aggregator_copy",
       "duplicate_of": "https://futurism.com/future-society/workers-semiconductors-ai-chips-taiwan-strike-labor",
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-22 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1615",
+      "media": "Dataist",
+      "title": "Micron workers in Taiwan demand a share of record profits",
+      "url": "https://dataist.ai/news/micron-workers-in-taiwan-demand-a-share-of-record-profits",
+      "published_date": "2026-11-21",
+      "published_at": null,
+      "display_at": "2026-11-21T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:25:00+08:00",
+      "last_checked_at": "2026-11-22T13:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1589",
@@ -527,6 +546,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1617",
+      "media": "Yahoo新聞（轉載自由財經）",
+      "title": "跨過地方勞動局？質疑美光公司介入工會活動 美光桃園工會明赴勞動部",
+      "url": "https://news.yahoo.com/%E8%B7%A8%E9%81%8E%E5%9C%B0%E6%96%B9%E5%8B%B5%E5%8B%97%E5%B1%80-%E8%B3%AA%E7%96%91%E7%BE%8E%E5%85%89%E5%85%AC%E5%8F%B8%E4%BB%8B%E5%85%A5%E5%B7%A5%E6%9C%83%E6%B4%BB%E5%8B%95-%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E6%98%8E%E8%B5%B4%E5%8B%B5%E5%8B%97%E9%83%A8-075246294.html",
+      "published_date": "2026-11-19",
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:25:00+08:00",
+      "last_checked_at": "2026-11-22T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5646454",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1542",
@@ -1185,6 +1223,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1612",
+      "media": "桃園電子報",
+      "title": "美光勞資談判卡在3大爭議 桃園工會將投票表決資方方案",
+      "url": "https://tyenews.com/2026-11-1431014",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:25:00+08:00",
+      "last_checked_at": "2026-11-22T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://tyenews.com/2026-11-14/1431014/",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1586",
@@ -15643,6 +15700,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1611",
+      "media": "Asiadaily（Asia Daily 中文）",
+      "title": "美光桃园工会获准罢工，要求永久分享利润",
+      "url": "https://cn.asiadaily.org/news/14767",
+      "published_date": "2026-10-11",
+      "published_at": null,
+      "display_at": "2026-10-11T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:20:00+08:00",
+      "last_checked_at": "2026-11-22T13:20:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://asiadaily.org/news/14767/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1577",
       "media": "asiadaily (Japanese mirror)",
       "title": "マイクロン桃園工場の労組、ストライキを承認 恒久的な利益配分を要求",
@@ -15855,6 +15931,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1619",
+      "media": "富途牛牛新聞（財聯社）",
+      "title": "美光臺灣工會投票決定罷工 內存短缺問題或愈發惡化",
+      "url": "https://news.futunn.com/hk/post/1000704102/micron-taiwan-unions-vote-to-strike-potentially-worsening-memory-chip",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:35:00+08:00",
+      "last_checked_at": "2026-11-22T13:35:00+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cls.cn/detail/2499332",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1597",
@@ -17026,6 +17122,46 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1613",
+      "media": "三立新聞網（SJT News）",
+      "title": "桃園廠工會取得罷工權 美光：尊重員工權利持續溝通",
+      "url": "https://sjtv.com.tw/articles/113112",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:25:00+08:00",
+      "last_checked_at": "2026-11-22T13:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610070247.aspx",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1616",
+      "media": "Herald Corp (mbiz)",
+      "title": "Micron's Taiwan union wins strike vote by landslide, demands 15% profit share",
+      "url": "https://mbiz.heraldcorp.com/article/10896176",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T13:25:00+08:00",
+      "last_checked_at": "2026-11-22T13:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1601",
