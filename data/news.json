@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T03:24:52.567133+08:00",
-    "record_count": 1341,
+    "generated_at": "2026-11-23T05:30:03.937547+08:00",
+    "record_count": 1344,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1653",
+      "media": "Liberty Times (自由時報)",
+      "title": "美光桃園工會退出勞資協商 桃市府籲透過務實、理性對話進行協商",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5638612",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-23T12:00:00+08:00",
+      "listed_at": "2026-11-23T05:55:00+08:00",
+      "last_checked_at": "2026-11-23T05:55:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-23 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1652",
+      "media": "財訊 (Wealth Magazine, TW)",
+      "title": "美光台中四廠今啟用！先進製程落地台灣",
+      "url": "https://wealth.com.tw/articles/690adfa2-6e8f-4008-848c-2a97a10c8b16",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-23T12:00:00+08:00",
+      "listed_at": "2026-11-23T05:30:00+08:00",
+      "last_checked_at": "2026-11-23T05:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-23 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1648",
       "media": "Futu News (market roundup)",
@@ -697,6 +735,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1651",
+      "media": "Economic Daily / UDN (United Daily News)",
+      "title": "美光勞資爭議掀波 潘健成：取消赴桃園設研發據點規劃",
+      "url": "https://money.udn.com/money/story/5612/9889363",
+      "published_date": "2026-11-19",
+      "published_at": null,
+      "display_at": "2026-11-19T12:00:00+08:00",
+      "listed_at": "2026-11-23T05:30:00+08:00",
+      "last_checked_at": "2026-11-23T05:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1644",
