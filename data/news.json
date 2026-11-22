@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T23:25:50.554499+08:00",
-    "record_count": 1338,
+    "generated_at": "2026-11-23T01:21:16.575998+08:00",
+    "record_count": 1339,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -8263,6 +8263,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1645",
+      "media": "Want Rich 旺得富 / China Times (CTEE group)",
+      "title": "美光台中工會調解爭議 中科管理局：於法有據、尊重雙方決定",
+      "url": "https://wantrich.chinatimes.com/news/20261103900443-420501",
+      "published_date": "2026-11-03",
+      "published_at": null,
+      "display_at": "2026-11-03T12:00:00+08:00",
+      "listed_at": "2026-11-23T01:25:00+08:00",
+      "last_checked_at": "2026-11-23T01:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261103701192-430501",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1567",
