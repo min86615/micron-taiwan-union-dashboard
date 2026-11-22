@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T19:49:13.931849+08:00",
-    "record_count": 1329,
+    "generated_at": "2026-11-22T21:21:34.061857+08:00",
+    "record_count": 1333,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -1336,6 +1336,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1637",
+      "media": "Yahoo!新聞（Newtalk新聞轉載）",
+      "title": "美光勞資下午開調解會 台中會員赴政院哽咽控協議黑箱、促核發關係工會證書",
+      "url": "https://tw.news.yahoo.com/美光勞資下午開調解會-台中會員赴政院哽咽控協議黑箱-促核發關係工會證書-051046670.html",
+      "published_date": "2026-11-17",
+      "published_at": null,
+      "display_at": "2026-11-17T12:00:00+08:00",
+      "listed_at": "2026-11-22T21:35:00+08:00",
+      "last_checked_at": "2026-11-22T21:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_mirror",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-11-17/1071596",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1612",
@@ -4877,6 +4897,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1639",
+      "media": "Sohu 时间线 (sohu.com news timeline page)",
+      "title": "台湾工会用99%罢工授权，逼美光停工！30亿美元新厂被迫按暂停键",
+      "url": "https://timeline.sohu.com/news/ZaWY3QGRfG",
+      "published_date": "2026-11-09",
+      "published_at": null,
+      "display_at": "2026-11-09T12:00:00+08:00",
+      "listed_at": "2026-11-22T21:35:00+08:00",
+      "last_checked_at": "2026-11-22T21:35:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "syndicated_copy",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1568",
@@ -9982,6 +10021,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1638",
+      "media": "vlsi.kr (independent industry analysis, EN edition)",
+      "title": "Micron Taiwan Taoyuan Union Rejects Profit-Sharing Proposal: About 70% Vote No, Talks Resume October 27",
+      "url": "https://www.vlsi.kr/en/micron-taiwan-union-rejects-bonus-2026-en/",
+      "published_date": "2026-10-24",
+      "published_at": null,
+      "display_at": "2026-10-24T12:00:00+08:00",
+      "listed_at": "2026-11-22T21:35:00+08:00",
+      "last_checked_at": "2026-11-22T21:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "independent_analysis",
+      "duplicate_of": "https://www.vlsi.kr/ja/micron-taiwan-union-rejects-bonus-2026-ja/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0902",
@@ -17315,6 +17374,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1636",
+      "media": "Gate News (zh-tw); page disclaimer says content may come from third-party sources; body is a Reuters-sourced rewrite",
+      "title": "美光科技股價下跌，台灣工會因複製津貼爭議授權罷工",
+      "url": "https://www.gate.com/zh-tw/news/detail/MU/micron-stocks-fall-as-taiwan-union-authorizes-strike-over-bonus-dispute-24808134",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-22T21:35:00+08:00",
+      "last_checked_at": "2026-11-22T21:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_rewrite",
+      "duplicate_of": "https://www.gate.com/news/detail/MU/micron-taiwan-union-wins-strike-vote-with-99-approval-demands-15-profit-24801006",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1632",
