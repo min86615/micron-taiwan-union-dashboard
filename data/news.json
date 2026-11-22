@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-22T07:48:15.720681+08:00",
-    "record_count": 1308,
+    "generated_at": "2026-11-22T11:18:19.727957+08:00",
+    "record_count": 1310,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -401,6 +401,24 @@
       "status": "reported",
       "source_type": "independent new article, full body verified via direct extract this round",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1610",
+      "media": "BigGo Finance JP (syndicated translation of TVBS master 4053871)",
+      "title": "米マイクロンの労使紛争が波紋、群聯電子の潘健成CEO「桃園の研究開発拠点は断念」",
+      "url": "https://finance.biggo.jp/news/ba87bed2-0da7-4fdf-a4b2-3ba2bc212f02",
+      "published_date": "2026-11-20",
+      "published_at": "2026-11-20T05:05:16+00:00",
+      "display_at": "2026-11-20T05:05:16+00:00",
+      "listed_at": "2026-11-22T11:30:00+08:00",
+      "last_checked_at": "2026-11-22T11:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://news.tvbs.com.tw/money/4053871"
     },
     {
       "id": "news-1554",
@@ -1802,6 +1820,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1609",
+      "media": "Mirror Media 鏡周刊 (AMP full copy)",
+      "title": "封面故事／桃產總跨廠串聯 全國科技業剉咧等 美光工運變調恐縮減在台投資",
+      "url": "https://www.mirrormedia.mg/story/amp/20261116inv006",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-22T11:30:00+08:00",
+      "last_checked_at": "2026-11-22T11:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。",
+      "updated_date_note": "AMP 頁面顯示發佈 2026-11-22 06:28 臺北時間（更新顯示）；依 slug/主紀錄核為 2026-11-16，顯示時間視為更新顯示時間"
     },
     {
       "id": "news-1604",
