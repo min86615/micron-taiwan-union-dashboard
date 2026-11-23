@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T07:22:25.870495+08:00",
-    "record_count": 1346,
+    "generated_at": "2026-11-23T09:22:51.289684+08:00",
+    "record_count": 1350,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -2689,6 +2689,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5641528"
+    },
+    {
+      "id": "news-1658",
+      "media": "工商時報 CTEE",
+      "title": "工會取得合法罷工權 美光回應：尋求善意溝通",
+      "url": "https://ctee.com.tw/news/20261007702091-430503",
+      "published_date": "2026-11-15",
+      "published_at": "2026-11-15T14:39:00+08:00",
+      "display_at": "2026-11-15T14:39:00+08:00",
+      "listed_at": "2026-11-23T09:18:00+08:00",
+      "last_checked_at": "2026-11-23T09:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1363",
@@ -10439,6 +10458,24 @@
       "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
     },
     {
+      "id": "news-1657",
+      "media": "聯合報 udn (CNA wire copy)",
+      "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
+      "url": "https://udn.com/news/story/7240/9833624",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T16:28:00+08:00",
+      "display_at": "2026-10-23T16:28:00+08:00",
+      "listed_at": "2026-11-23T09:16:00+08:00",
+      "last_checked_at": "2026-11-23T09:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.cna.com.tw/news/afe/202610230158.aspx"
+    },
+    {
       "id": "news-0604",
       "media": "中央社（CNA）",
       "title": "美光桃園工會堅持分潤制 協商因颱風延至27日",
@@ -10618,6 +10655,26 @@
       "language": "TW",
       "topics": [
         "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1659",
+      "media": "Taiwan News",
+      "title": "Micron announces global profit-sharing plan as Taiwan union strikes",
+      "url": "https://www.taiwannews.com.tw/en/news/6464087",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T12:17:00+08:00",
+      "display_at": "2026-10-23T12:17:00+08:00",
+      "listed_at": "2026-11-23T09:19:00+08:00",
+      "last_checked_at": "2026-11-23T09:19:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
         "罷工"
       ],
       "status": "reported",
@@ -18579,6 +18636,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1656",
+      "media": "鉅亨網 (m.cnyes.com mobile copy)",
+      "title": "美光台灣罷工案升溫 工會99%高票取得罷工權 全球員工高度關注",
+      "url": "https://m.cnyes.com/news/id/6623733",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T09:14:41+00:00",
+      "display_at": "2026-10-07T09:14:41+00:00",
+      "listed_at": "2026-11-23T09:15:00+08:00",
+      "last_checked_at": "2026-11-23T09:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://news.cnyes.com/news/id/6623733"
     },
     {
       "id": "news-0428",
