@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T09:22:51.289684+08:00",
-    "record_count": 1350,
+    "generated_at": "2026-11-23T11:29:46.059665+08:00",
+    "record_count": 1360,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1661",
+      "media": "Joho Todai (independent analysis synthesizing Bloomberg/CNA/Taiwan News)",
+      "title": "Labor Dispute Nearly Halts Construction of Micron's Taiwan Fab 11E, Clouding 2028 HBM and DRAM Expansion Plans",
+      "url": "https://joho-todai.com/en/micron-taiwan-fab-11e-construction-halted-hbm-dram/",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-23T12:00:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "independent_analysis",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-23 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1653",
       "media": "Liberty Times (自由時報)",
@@ -2126,6 +2146,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1669",
+      "media": "財富顯微鏡 ganjingworld（摘要型聚合，引用鏡新聞/經濟日報/中央社/鉅亨網）",
+      "title": "美光桃園勞資爭議進入調解 工會同意重返會議",
+      "url": "https://ganjingworld.com/article/1j0ebvg11od4kvl8N6FFgH1o412c1c",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "SC",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "aggregator_summary",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1640",
       "media": "Yahoo!新聞 TW（鏡週刊 Mirror Media 內容轉載）",
       "title": "封面故事／桃產總跨廠串聯 全國科技業剉咧等 美光工運變調恐縮減在台投資",
@@ -3199,6 +3239,24 @@
       "status": "reported",
       "source_type": "original_reporter",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1667",
+      "media": "ETtoday 財經雲 AMP copy",
+      "title": "「簽保密才給獎金？」美光澄清絕無此事：協商期間遭恐嚇、資料外流已交警方",
+      "url": "https://finance.ettoday.net/amp/3271827",
+      "published_date": "2026-11-13",
+      "published_at": "2026-11-13T20:08:00+08:00",
+      "display_at": "2026-11-13T20:08:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://finance.ettoday.net/news/3271827"
     },
     {
       "id": "news-1313",
@@ -7785,6 +7843,25 @@
       "duplicate_of": "https://www.restofworld.org/2026/taiwan-labor-strike-ai-profits/"
     },
     {
+      "id": "news-1662",
+      "media": "BigGo Finance EN (summary of Bloomberg News)",
+      "title": "Micron Halts $4.5 Billion Taiwan Memory Plant on Prolonged Labor Dispute",
+      "url": "https://finance.biggo.com/news/1aaaf8cd-26b9-4b3f-aaeb-7c38506e7fa5",
+      "published_date": "2026-11-05",
+      "published_at": "2026-11-05T10:26:08+00:00",
+      "display_at": "2026-11-05T10:26:08+00:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
+    },
+    {
       "id": "news-1053",
       "media": "BigGo Finance JP (translation of Bloomberg News)",
       "title": "Micron halts $4.5B Taiwan memory plant construction, prolonged labor dispute cited as cause",
@@ -10234,6 +10311,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1665",
+      "media": "樂聯網（賴傳媒、記者爆料網）",
+      "title": "美光台中、桃園工會不同調！分潤協議惹議 27日勞資再協商",
+      "url": "https://leho.com.tw/archives/411952",
+      "published_date": "2026-10-24",
+      "published_at": null,
+      "display_at": "2026-10-24T12:00:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1638",
       "media": "vlsi.kr (independent industry analysis, EN edition)",
       "title": "Micron Taiwan Taoyuan Union Rejects Profit-Sharing Proposal: About 70% Vote No, Talks Resume October 27",
@@ -10680,6 +10776,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1668",
+      "media": "自由時報經濟日報股市 Unit（財富自由）",
+      "title": "美光勞資協議出爐 新增季度分紅 IPP最高5倍",
+      "url": "https://stock.ltn.com.tw/article/ae5dfmlarnvq",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1647",
@@ -11157,6 +11273,25 @@
       "topics": [
         "工會／勞資",
         "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1660",
+      "media": "Voltgrid News (independent desk summary citing AFP / Seoul Economic Daily)",
+      "title": "Micron Taoyuan Union Members Reject Profit-Sharing Plan by About 70%",
+      "url": "https://voltgridnews.com/story/micron-taoyuan-union-members-reject-profit-sharing-plan-by-about-70",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T08:53:00-04:00",
+      "display_at": "2026-10-23T08:53:00-04:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
       ],
       "status": "reported",
       "source_type": "media",
@@ -11770,6 +11905,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1666",
+      "media": "ETtoday 財經雲",
+      "title": "美光回應工會訴求！明年起全球增季度分潤 台灣員工勞退提撥調至10%",
+      "url": "https://finance.ettoday.net/news/3259321",
+      "published_date": "2026-10-22",
+      "published_at": null,
+      "display_at": "2026-10-22T12:00:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1634",
@@ -17642,6 +17796,27 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1663",
+      "media": "docomo topics AMP mirror of Reuters",
+      "title": "米マイクロン、台湾で労使対立激化 賞与制度巡り労組スト承認",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/reuters/business/reuters-20261008050",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261008050",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1641",
@@ -24029,6 +24204,27 @@
       "source_type": "analysis",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1664",
+      "media": "財経新聞 Zaikei AMP copy",
+      "title": "マイクロン台湾労組が利益連動賞与を要求、ストライキの可能性も―HBM供給への影響焦点",
+      "url": "https://zaikei.co.jp/amp/article/20260903/868491.html",
+      "published_date": "2026-09-03",
+      "published_at": "2026-09-03T11:35:45+09:00",
+      "display_at": "2026-09-03T11:35:45+09:00",
+      "listed_at": "2026-11-23T11:30:00+08:00",
+      "last_checked_at": "2026-11-23T11:30:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅",
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.zaikei.co.jp/article/20260903/868491.html"
     },
     {
       "id": "news-0107",
