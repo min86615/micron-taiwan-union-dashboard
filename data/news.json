@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-24T05:16:22.477962+08:00",
-    "record_count": 1378,
+    "generated_at": "2026-11-24T05:18:37.799145+08:00",
+    "record_count": 1379,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13874,6 +13874,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1691",
+      "media": "China Times (newspaper page, 財經/寶島 print variant)",
+      "title": "等不到分潤 桃園美光明聲援式罷工",
+      "url": "https://www.chinatimes.com/newspapers/20261021000527-263101",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-24T05:26:00+08:00",
+      "last_checked_at": "2026-11-24T05:26:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261020002233-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1684",
