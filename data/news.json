@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T21:27:14.574965+08:00",
-    "record_count": 1374,
+    "generated_at": "2026-11-23T23:17:15.993189+08:00",
+    "record_count": 1376,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -10145,6 +10145,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1688",
+      "media": "vlsi.kr（独立产业分析；zh 版為 ja 主稿之语言版本）",
+      "title": "美光台湾桃园工会否决利润分享提案 — 约70%会员反对，10月27日重启谈判",
+      "url": "https://www.vlsi.kr/zh/micron-taiwan-union-rejects-bonus-2026-zh/",
+      "published_date": "2026-10-25",
+      "published_at": null,
+      "display_at": "2026-10-25T12:00:00+08:00",
+      "listed_at": "2026-11-23T23:16:00+08:00",
+      "last_checked_at": "2026-11-23T23:16:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.vlsi.kr/ja/micron-taiwan-union-rejects-bonus-2026-ja/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-0762",
       "media": "中國時報",
       "title": "美光勞資爭議案外案！工會說明會才取消 隔天幹部遭恐嚇報警",
@@ -16722,6 +16741,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1687",
+      "media": "东方财富网（文章来源：财联社）",
+      "title": "美光台湾工会投票决定罢工 内存短缺问题或愈发恶化",
+      "url": "https://finance.eastmoney.com/a/202610083889618615.html",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-23T23:16:00+08:00",
+      "last_checked_at": "2026-11-23T23:16:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.cls.cn/detail/2499332",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1619",
