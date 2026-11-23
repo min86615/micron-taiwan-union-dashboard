@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T23:17:15.993189+08:00",
-    "record_count": 1376,
+    "generated_at": "2026-11-24T03:18:05.216453+08:00",
+    "record_count": 1377,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -22862,6 +22862,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.reuters.com/world/asia-pacific/microns-taiwan-workers-get-rewards-worth-up-68-months-pay-2026-09-11"
+    },
+    {
+      "id": "news-1689",
+      "media": "Yahoo!ニュース Japan (Bloomberg 配信)",
+      "title": "マイクロン、台湾のエンジニアに500万円近いボーナス－株式報酬も（Bloomberg）",
+      "url": "https://news.yahoo.co.jp/articles/07d77533cfa3f0e32d8efc673c6f2a9d81e04915",
+      "published_date": "2026-09-11",
+      "published_at": null,
+      "display_at": "2026-09-11T12:00:00+08:00",
+      "listed_at": "2026-11-24T03:12:00+08:00",
+      "last_checked_at": "2026-11-24T03:14:00+08:00",
+      "language": "JP",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1564",
