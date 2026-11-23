@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T13:16:21.781108+08:00",
-    "record_count": 1367,
+    "generated_at": "2026-11-23T15:18:17.247220+08:00",
+    "record_count": 1368,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -3754,6 +3754,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.france24.com/en/live-news/20261112-taiwan-union-ends-bonus-talks-with-micron-after-defeat"
+    },
+    {
+      "id": "news-1678",
+      "media": "Taiwan News",
+      "title": "Micron Taoyuan union withdraws from profit-sharing talks",
+      "url": "https://taiwannews.com.tw/news/6475503",
+      "published_date": "2026-11-12",
+      "published_at": "2026-11-12T16:56:00+08:00",
+      "display_at": "2026-11-12T16:56:00+08:00",
+      "listed_at": "2026-11-23T15:10:00+08:00",
+      "last_checked_at": "2026-11-23T15:10:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1249",
