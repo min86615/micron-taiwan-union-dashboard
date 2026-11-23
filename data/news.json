@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-23T17:22:49.808219+08:00",
-    "record_count": 1370,
+    "generated_at": "2026-11-23T19:36:27.373197+08:00",
+    "record_count": 1373,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -13857,6 +13857,26 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1684",
+      "media": "WTVB 1590 AM/95.5 FM（Thomson Reuters 轉載）",
+      "title": "Micron, Taiwan union sign deal, withdraw from mediation",
+      "url": "https://wtvbam.com/2026-10-21/micron-says-it-has-reached-agreement-with-taiwan-union/",
+      "published_date": "2026-10-21",
+      "published_at": null,
+      "display_at": "2026-10-21T12:00:00+08:00",
+      "listed_at": "2026-11-23T19:11:00+08:00",
+      "last_checked_at": "2026-11-23T19:11:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1674",
       "media": "鉅亨網 mobile variant（同稿副本）",
       "title": "勞資爭議現曙光！台灣美光與台中工會簽署協議 撤回10/22調解程序",
@@ -17591,6 +17611,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1682",
+      "media": "知新聞 Knews",
+      "title": "88.3%高票過關！台灣美光桃園工會取得罷工權　19日上凱道、不排除「突襲式罷工」",
+      "url": "https://www.knews.com.tw/news/A783DB7978C7BBFAB8944B6E5759AD4F",
+      "published_date": "2026-10-07",
+      "published_at": "2026-10-07T16:23:00+08:00",
+      "display_at": "2026-10-07T16:23:00+08:00",
+      "listed_at": "2026-11-23T19:11:00+08:00",
+      "last_checked_at": "2026-11-23T19:11:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1139",
       "media": "Yahoo 股市 TW (Knews reporter content; original Knews article URL not recoverable)",
       "title": "88.3%高票過關！台灣美光桃園工會取得罷工權　19日上凱道、不排除「突襲式罷工」",
@@ -20509,6 +20548,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.cna.com.tw/news/afe/202609190065.aspx"
+    },
+    {
+      "id": "news-1683",
+      "media": "自由時報 財富自由 LTN stock",
+      "title": "美光與工會首場調解落幕 雙方同意10/22再協商",
+      "url": "https://stock.ltn.com.tw/article/gbyfs0vv2fwy",
+      "published_date": "2026-09-19",
+      "published_at": "2026-09-19T11:33:00+08:00",
+      "display_at": "2026-09-19T11:33:00+08:00",
+      "listed_at": "2026-11-23T19:11:00+08:00",
+      "last_checked_at": "2026-11-23T19:11:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5579087"
     },
     {
       "id": "news-0312",
