@@ -1,10 +1,30 @@
 {
   "summary": {
-    "generated_at": "2026-11-24T21:19:01.950156+08:00",
-    "record_count": 1384,
+    "generated_at": "2026-11-24T23:37:56.874439+08:00",
+    "record_count": 1389,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1697",
+      "media": "三立iNEWS",
+      "title": "美光工會遭外部勢力「借殼」主導？桃產總把罷工當目的 恐嚇跑1.6兆外資",
+      "url": "https://inews.setn.com/news/1940483",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-24T12:00:00+08:00",
+      "listed_at": "2026-11-24T23:12:00+08:00",
+      "last_checked_at": "2026-11-24T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-24 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1693",
       "media": "鏡週刊（Mirror Weekly）/ mnews.tw",
@@ -2181,6 +2201,44 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1698",
+      "media": "Yahoo News TW",
+      "title": "誰在決定美光工運進退？桃產總跨界主導抗爭惹議 恐牽動1.6兆外資布局",
+      "url": "https://tw.news.yahoo.com/%E8%AA%B0%E5%9C%A8%E6%B1%BA%E5%AE%9A%E7%BE%8E%E5%85%89%E5%B7%A5%E9%81%8B%E9%80%B2%E9%80%80%EF%BC%9F%E6%A1%83%E7%94%A2%E7%B8%BD%E8%B7%A8%E7%95%8C%E4%B8%BB%E5%B0%8E%E6%8A%97%E7%88%AD%E6%83%B9%E8%AD%B0-%E6%81%90%E7%89%BD%E5%8B%9516%E5%85%86%E5%A4%96%E8%B3%87%E5%B8%83%E5%B1%80-111722914.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-24T23:12:00+08:00",
+      "last_checked_at": "2026-11-24T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-1699",
+      "media": "LINE TODAY（鏡週刊）",
+      "title": "封面故事／桃產總跨廠串聯 全國科技業剉咧等 美光工運變調恐縮減在台投資",
+      "url": "https://today.line.me/tw/v3/article/wJvWRy5",
+      "published_date": "2026-11-16",
+      "published_at": null,
+      "display_at": "2026-11-16T12:00:00+08:00",
+      "listed_at": "2026-11-24T23:12:00+08:00",
+      "last_checked_at": "2026-11-24T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261116inv007",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1669",
@@ -10910,6 +10968,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1701",
+      "media": "Newsweek Japan（Reuters 轉載）",
+      "title": "米マイクロン、27年から全世界で業績連動報酬導入へ 台湾労組の圧力受け",
+      "url": "https://newsweekjapan.jp/articles/-/337759",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-24T23:12:00+08:00",
+      "last_checked_at": "2026-11-24T23:12:00+08:00",
+      "language": "JP",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1676",
       "media": "自由時報/自由財經 AMP variant（同稿副本）",
       "title": "薔琵打亂步調！美光桃園工會罷工結束 勞資協商順延至27日",
@@ -18064,6 +18141,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1700",
+      "media": "經濟日報（UDN）",
+      "title": "要求透明分潤…美光桃園工會取得罷工權 考慮「簡訊通知」突襲式罷工",
+      "url": "https://udn.com/news/story/7238/9800675",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-24T23:12:00+08:00",
+      "last_checked_at": "2026-11-24T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9800675",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1692",
