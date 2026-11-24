@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-24T23:47:41.732705+08:00",
-    "record_count": 1390,
+    "generated_at": "2026-11-25T01:25:54.647819+08:00",
+    "record_count": 1394,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -10988,6 +10988,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1703",
+      "media": "Taipei Times",
+      "title": "Micron announces a new profit-sharing program",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026-10-23/2003866445",
+      "published_date": "2026-10-23",
+      "published_at": null,
+      "display_at": "2026-10-23T12:00:00+08:00",
+      "listed_at": "2026-11-25T01:15:00+08:00",
+      "last_checked_at": "2026-11-25T01:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1701",
       "media": "Newsweek Japan（Reuters 轉載）",
       "title": "米マイクロン、27年から全世界で業績連動報酬導入へ 台湾労組の圧力受け",
@@ -16934,6 +16953,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1706",
+      "media": "鉅亨網（Cnyes digest/mobile view）",
+      "title": "〈台股盤前要聞〉美光台灣罷工升溫、台塑看好石化景氣明年復甦",
+      "url": "https://gfemobile.cnyes.com/news/id/6624345",
+      "published_date": "2026-10-08",
+      "published_at": null,
+      "display_at": "2026-10-08T12:00:00+08:00",
+      "listed_at": "2026-11-25T01:15:00+08:00",
+      "last_checked_at": "2026-11-25T01:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://news.cnyes.com/news/id/6623733",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1687",
       "media": "东方财富网（文章来源：财联社）",
       "title": "美光台湾工会投票决定罢工 内存短缺问题或愈发恶化",
@@ -18161,6 +18199,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1705",
+      "media": "自由財經（LTN print view）",
+      "title": "美光桃園工會要求透明分潤 擬採「突襲式罷工」（列印頁）",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5598763/print",
+      "published_date": "2026-10-07",
+      "published_at": null,
+      "display_at": "2026-10-07T12:00:00+08:00",
+      "listed_at": "2026-11-25T01:15:00+08:00",
+      "last_checked_at": "2026-11-25T01:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "syndicated_copy",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5598763",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1700",
@@ -26505,6 +26563,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1704",
+      "media": "Taipei Times",
+      "title": "Japan to spend US$1.6bn on AI, semiconductors",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2025-11-29/2003848005",
+      "published_date": "2025-11-29",
+      "published_at": null,
+      "display_at": "2025-11-29T12:00:00+08:00",
+      "listed_at": "2026-11-25T01:15:00+08:00",
+      "last_checked_at": "2026-11-25T01:15:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "original_source",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1207",
