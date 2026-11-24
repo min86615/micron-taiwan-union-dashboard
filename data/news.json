@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-24T07:13:48.024958+08:00",
-    "record_count": 1380,
+    "generated_at": "2026-11-24T11:17:35.067199+08:00",
+    "record_count": 1381,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1693",
+      "media": "鏡週刊（Mirror Weekly）/ mnews.tw",
+      "title": "美光爭議讓潘健成「怕了」撤桃園！桃產總回應了",
+      "url": "https://mnews.tw/story/mm-20261123-236pol-171555",
+      "published_date": "2026-11-23",
+      "published_at": "2026-11-23T17:40:00+08:00",
+      "display_at": "2026-11-23T17:40:00+08:00",
+      "listed_at": "2026-11-24T11:18:00+08:00",
+      "last_checked_at": "2026-11-24T11:18:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1661",
       "media": "Joho Todai (independent analysis synthesizing Bloomberg/CNA/Taiwan News)",
