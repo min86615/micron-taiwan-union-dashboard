@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-25T01:25:54.647819+08:00",
-    "record_count": 1394,
+    "generated_at": "2026-11-25T03:17:21.105199+08:00",
+    "record_count": 1395,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -24,6 +24,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-24 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1707",
+      "media": "Yahoo News (mirror of Mirror Weekly / mnews.tw master)",
+      "title": "美光爭議讓潘健成「怕了」撤桃園！桃產總回應了",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E7%88%AD%E8%AD%B0%E8%AE%93%E6%BD%98%E5%81%A5%E6%88%90-%E6%80%95%E4%BA%86-%E6%92%A4%E6%A1%83%E5%9C%92-%E6%A1%83%E7%94%A2%E7%B8%BD%E5%9B%9E%E6%87%89%E4%BA%86-093800393.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-23T17:40:00+08:00",
+      "listed_at": "2026-11-25T03:12:00+08:00",
+      "last_checked_at": "2026-11-25T03:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://mnews.tw/story/mm-20261123-236pol-171555",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1693",
