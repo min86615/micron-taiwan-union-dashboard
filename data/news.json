@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-24T17:20:59.824629+08:00",
-    "record_count": 1383,
+    "generated_at": "2026-11-24T21:19:01.950156+08:00",
+    "record_count": 1384,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -10861,6 +10861,25 @@
       "display_at": "2026-10-23T14:22:00+08:00",
       "listed_at": "2026-11-01T17:08:07+08:00",
       "last_checked_at": "2026-11-01T17:08:07+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1696",
+      "media": "Newtalk News (newtalk.tw)",
+      "title": "台灣半導體業首次罷工結束 美光桃園工會：為爭取更公平的分潤制度做好抗爭準備",
+      "url": "https://newtalk.tw/news/view/2026-10-23/1067176",
+      "published_date": "2026-10-23",
+      "published_at": "2026-10-23T12:28:00+08:00",
+      "display_at": "2026-10-23T12:28:00+08:00",
+      "listed_at": "2026-11-24T21:26:00+08:00",
+      "last_checked_at": "2026-11-24T21:26:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資",
