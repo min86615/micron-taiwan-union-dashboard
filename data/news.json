@@ -1,10 +1,28 @@
 {
   "summary": {
-    "generated_at": "2026-11-25T21:20:54.611046+08:00",
-    "record_count": 1403,
+    "generated_at": "2026-11-25T23:20:47.965934+08:00",
+    "record_count": 1408,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1723",
+      "media": "The Asahi Shimbun (朝日新聞)",
+      "title": "金属労協、来春闘はベア1.5万円以上要求へ 今年より3千円増",
+      "url": "https://www.asahi.com/articles/photo/AS20261125004382.html",
+      "published_date": "2026-11-25",
+      "published_at": "2026-11-25T18:03:00+09:00",
+      "display_at": "2026-11-25T18:03:00+09:00",
+      "listed_at": "2026-11-25T23:19:00+08:00",
+      "last_checked_at": "2026-11-25T23:19:00+08:00",
+      "language": "JP",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1713",
       "media": "Yahoo News TW (mirror of China Times Instant)",
@@ -63,6 +81,44 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1722",
+      "media": "Futu News (富途资讯)",
+      "title": "美股前瞻 | 史上最大美股IPO今夜来袭！Anthropic每股定价83美元",
+      "url": "https://news.futunn.com/post/1005043742/us-stock-preview-the-largest-us-ipo-in-history-is",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-25T12:00:00+08:00",
+      "listed_at": "2026-11-25T23:18:00+08:00",
+      "last_checked_at": "2026-11-25T23:18:00+08:00",
+      "language": "ZH-",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-25 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1719",
+      "media": "Liberty Times (自由時報) amp mirror",
+      "title": "美光勞資爭議持續！美光桃園工會投票結果出爐 逾8成反對資方方案",
+      "url": "https://news.ltn.com.tw/amp/news/Taoyuan/breakingnews/5652361",
+      "published_date": "2026-11-25",
+      "published_at": null,
+      "display_at": "2026-11-25T12:00:00+08:00",
+      "listed_at": "2026-11-25T23:15:00+08:00",
+      "last_checked_at": "2026-11-25T23:15:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://news.ltn.com.tw/news/life/breakingnews/5652361",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1709",
       "media": "Newtalk (Newtalk News / 新頭殼)",
       "title": "美光桃園1117調解方案投票「八成反對」 工會籲明提合理方案對等協商",
@@ -95,6 +151,24 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1721",
+      "media": "鉅亨網 Hao Market (Cnyes blog/commentary)",
+      "title": "黃仁勳行情只維持一天：費半重挫 7.88%、美光崩跌 11%，台指期夜盤大跌 1,842 點，帶動台股 4 萬點再度失守，呈現開低走勢",
+      "url": "https://hao.cnyes.com/post/280207",
+      "published_date": "2026-11-25",
+      "published_at": "2026-11-25T07:45:00+00:00",
+      "display_at": "2026-11-25T07:45:00+00:00",
+      "listed_at": "2026-11-25T23:17:00+08:00",
+      "last_checked_at": "2026-11-25T23:17:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
@@ -233,6 +307,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-23 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1720",
+      "media": "Liberty Times Finance (自由時報財經) stock.ltn copy",
+      "title": "群聯不去桃園了！潘健成指「外部力量」介入美光勞資爭議 桃市產總提3點反擊",
+      "url": "https://stock.ltn.com.tw/article/u4a54udfwbm4",
+      "published_date": "2026-11-22",
+      "published_at": null,
+      "display_at": "2026-11-22T12:00:00+08:00",
+      "listed_at": "2026-11-25T23:16:00+08:00",
+      "last_checked_at": "2026-11-25T23:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5649625",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1627",
