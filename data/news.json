@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-11-25T15:15:58.153238+08:00",
-    "record_count": 1397,
+    "generated_at": "2026-11-25T17:16:25.768370+08:00",
+    "record_count": 1400,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1711",
+      "media": "China Times (中時新聞網)",
+      "title": "簽協議10年禁止罷工、拒絕加班！美光桃園工會1567票壓倒性否決",
+      "url": "https://www.chinatimes.com/realtimenews/20261125002714-260405",
+      "published_date": "2026-11-25",
+      "published_at": "2026-11-25T13:27:00+08:00",
+      "display_at": "2026-11-25T13:27:00+08:00",
+      "listed_at": "2026-11-25T17:12:00+08:00",
+      "last_checked_at": "2026-11-25T17:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ctee.com.tw/news/20261125701270-431401"
+    },
+    {
+      "id": "news-1710",
+      "media": "CTEE (工商時報)",
+      "title": "簽協議10年禁止罷工、拒絕加班！美光桃園工會1567票壓倒性否決",
+      "url": "https://ctee.com.tw/news/20261125701270-431401",
+      "published_date": "2026-11-25",
+      "published_at": "2026-11-25T13:27:00+08:00",
+      "display_at": "2026-11-25T13:27:00+08:00",
+      "listed_at": "2026-11-25T17:12:00+08:00",
+      "last_checked_at": "2026-11-25T17:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1709",
       "media": "Newtalk (Newtalk News / 新頭殼)",
@@ -10279,6 +10317,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1712",
+      "media": "Yahoo News mirror (Mirror Media / 鏡報)",
+      "title": "美光勞資爭議未平！台中工會會員發起撤回授權連署 桃園工會籲公司勿分化勞工",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0%E6%9C%AA%E5%B9%B3-%E5%8F%B0%E4%B8%AD%E5%B7%A5%E6%9C%83%E6%9C%83%E5%93%A1%E7%99%BC%E8%B5%B7%E6%92%A4%E5%9B%9E%E6%8E%88%E6%AC%8A%E9%80%A3%E7%BD%B2-%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%83%E7%B1%B2%E5%85%AC%E5%8F%B8%E5%8B%BF%E5%88%86%E5%8C%96%E5%8B%9E%E5%B7%A5-134700560.html",
+      "published_date": "2026-10-25",
+      "published_at": "2026-10-25T13:47:00+00:00",
+      "display_at": "2026-10-25T13:47:00+00:00",
+      "listed_at": "2026-11-25T17:12:00+08:00",
+      "last_checked_at": "2026-11-25T17:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrordaily.news/story/93739"
     },
     {
       "id": "news-0634",
