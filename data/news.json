@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T03:14:31.193943+08:00",
-    "record_count": 1410,
+    "generated_at": "2026-11-26T07:18:29.005355+08:00",
+    "record_count": 1412,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1728",
+      "media": "Yahoo Finance (article states it first appeared on GuruFocus, sourced to Seeking Alpha news item)",
+      "title": "Micron Rolls Out Quarterly Profit-Linked Bonuses",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-rolls-quarterly-profit-linked-162125635.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T07:12:00+08:00",
+      "last_checked_at": "2026-11-26T07:12:00+08:00",
+      "language": "EN",
+      "topics": [
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "market_analysis",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-26 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1724",
       "media": "DataCenterDynamics (citing Nikkei Asia)",
@@ -98,6 +117,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1727",
+      "media": "Yahoo News (Yahoo TW) - syndicated copy of Newtalk News",
+      "title": "美光桃園1117調解方案投票「八成反對」 工會籲明提合理方案對等協商",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%921117%E8%AB%BF%E8%A7%A3%E6%96%B9%E6%A1%88%E6%8A%95%E7%A5%A8-%E5%85%AB%E6%88%90%E5%8F%8D%E5%B0%8D-%E5%B7%A5%E6%9C%83%E7%B1%B2%E6%98%8E%E6%8F%90%E5%90%88%E7%90%86%E6%96%B9%E6%A1%88%E5%B0%8D%E7%AD%89%E5%8D%94%E5%95%86-052929957.html",
+      "published_date": "2026-11-25",
+      "published_at": null,
+      "display_at": "2026-11-25T12:00:00+08:00",
+      "listed_at": "2026-11-26T07:12:00+08:00",
+      "last_checked_at": "2026-11-26T07:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator_mirror",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-11-25/1073590",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1722",
