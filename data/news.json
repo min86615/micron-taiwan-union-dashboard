@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T01:23:33.180642+08:00",
-    "record_count": 1409,
+    "generated_at": "2026-11-26T03:14:31.193943+08:00",
+    "record_count": 1410,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -192,6 +192,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1726",
+      "media": "Civilmedia MediaTW (公民媒體)",
+      "title": "【新聞稿】投票超過八成反對！公司方案美光桃園工會展現民意拒絕台中黑箱協議，請公司提出合理方案對等協商",
+      "url": "https://www.civilmedia.tw/archives/142293",
+      "published_date": "2026-11-24",
+      "published_at": null,
+      "display_at": "2026-11-24T12:00:00+08:00",
+      "listed_at": "2026-11-26T03:20:00+08:00",
+      "last_checked_at": "2026-11-26T03:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "press_release",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1697",
