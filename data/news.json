@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-25T17:16:25.768370+08:00",
-    "record_count": 1400,
+    "generated_at": "2026-11-25T21:20:54.611046+08:00",
+    "record_count": 1403,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1713",
+      "media": "Yahoo News TW (mirror of China Times Instant)",
+      "title": "簽協議10年禁止罷工、拒絕加班！美光桃園工會1567票壓倒性否決",
+      "url": "https://tw.news.yahoo.com/%E7%B0%BD%E5%8D%94%E8%AD%B010%E5%B9%B4%E7%A6%81%E6%AD%A2%E7%BD%B7%E5%B7%A5-%E6%8B%92%E7%B5%95%E5%8A%A0%E7%8F%AD-%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%B7%A5%E6%9C%831567%E7%A5%A8%E5%A3%93%E5%80%92%E6%80%A7%E5%90%A6%E6%B1%BA-053201671.html",
+      "published_date": "2026-11-25",
+      "published_at": "2026-11-25T13:27:00+08:00",
+      "display_at": "2026-11-25T13:27:00+08:00",
+      "listed_at": "2026-11-25T21:20:00+08:00",
+      "last_checked_at": "2026-11-25T21:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ctee.com.tw/news/20261125701270-431401"
+    },
     {
       "id": "news-1711",
       "media": "China Times (中時新聞網)",
@@ -9121,6 +9140,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1714",
+      "media": "TVBS 財經",
+      "title": "美光財報／Q4營收飆4倍！小摩反憂「股價恐暴跌」 最新目標價曝",
+      "url": "https://news.tvbs.com.tw/money/4029912",
+      "published_date": "2026-11-01",
+      "published_at": null,
+      "display_at": "2026-11-01T12:00:00+08:00",
+      "listed_at": "2026-11-25T21:20:00+08:00",
+      "last_checked_at": "2026-11-25T21:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1101",
       "media": "TechNews (via Business Weekly licensed reprint)",
       "title": "同公司兩樣情！台中簽密約、桃園拉布條，解析美光勞資角力的三方算計",
@@ -16909,6 +16947,25 @@
       "status": "syndicated",
       "source_type": "media",
       "duplicate_of": "https://www.wealth.com.tw/articles/561dcfe4-f5e5-4878-801e-79e230dca8a0"
+    },
+    {
+      "id": "news-1715",
+      "media": "Anue 鉅亨網",
+      "title": "台積電Q3營收1.49兆元創單季高、大立光攻CPO、9月進出口連35紅 本周大事回顧",
+      "url": "https://news.cnyes.com/news/id/6626125",
+      "published_date": "2026-10-09",
+      "published_at": null,
+      "display_at": "2026-10-09T12:00:00+08:00",
+      "listed_at": "2026-11-25T21:20:00+08:00",
+      "last_checked_at": "2026-11-25T21:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0862",
