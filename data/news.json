@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T05:43:59.724455+08:00",
-    "record_count": 1460,
+    "generated_at": "2026-11-27T07:17:09.706724+08:00",
+    "record_count": 1462,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -316,6 +316,45 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1781",
+      "media": "Yahoo News TW mirror (tw.news.yahoo.com) of Newtalk News",
+      "title": "美光桃園12／4再啟調解看工會方案 市府駁關廠資遣說",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%9212-4%E5%86%8D%E5%95%9F%E8%AA%BF%E8%A7%A3%E7%9C%8B%E5%B7%A5%E6%9C%83%E6%96%B9%E6%A1%88-%E5%B8%82%E5%BA%9C%E9%A7%81%E9%97%9C%E5%BB%A0%E8%B3%87%E9%81%A3%E8%AA%AA-131544520.html",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-27T07:45:00+08:00",
+      "last_checked_at": "2026-11-27T07:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator/mirror",
+      "duplicate_of": "https://newtalk.tw/news/view/2026-11-26/1073962",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1780",
+      "media": "財訊 (wealth.com.tw)",
+      "title": "謝金河：美光在台灣可能做出最壞的決定！",
+      "url": "https://wealth.com.tw/articles/e7efeb328a179ce72aa9c35e0d56c51c8e47f774",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-27T07:30:00+08:00",
+      "last_checked_at": "2026-11-27T07:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.wealth.com.tw/articles/ea03b952",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1769",
