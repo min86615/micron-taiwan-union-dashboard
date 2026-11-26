@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T21:28:01.197214+08:00",
-    "record_count": 1442,
+    "generated_at": "2026-11-26T23:26:32.290718+08:00",
+    "record_count": 1450,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1760",
+      "media": "China Times (chinatimes.com)",
+      "title": "美光勞資爭議有進展！工會同意12／2提案 下周第3次調解",
+      "url": "https://www.chinatimes.com/realtimenews/20261126005082-260405",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T20:45:00+08:00",
+      "display_at": "2026-11-26T20:45:00+08:00",
+      "listed_at": "2026-11-26T23:10:00+08:00",
+      "last_checked_at": "2026-11-26T23:10:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1752",
       "media": "United Daily News (udn.com)",
@@ -203,6 +222,142 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1766",
+      "media": "The Inference (theinference.org)",
+      "title": "Micron's board may reassess NT$1.6 trillion of Taiwan investment, Commercial Times reports",
+      "url": "https://theinference.org/article/micron-s-board-may-reassess-nt-1-6-trillion-of-taiwan-investment-commercial-times-reports",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:14:00+08:00",
+      "last_checked_at": "2026-11-26T23:14:00+08:00",
+      "language": "EN",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1767",
+      "media": "Futu News (news.futunn.com)",
+      "title": "成交额TOP20 | Palantir股价创新高，获高盛、巴克莱看多；Lumentum涨超5%，公司光学器件售罄至2029年；Moderna大涨14%，正式纳入纳指100指数",
+      "url": "https://news.futunn.com/post/1000816222/top-20-by-trading-volume-palantir-s-stock-hits-a",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:14:00+08:00",
+      "last_checked_at": "2026-11-26T23:14:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-26 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1763",
+      "media": "Newtalk News (newtalk.tw)",
+      "title": "美光桃園12／4再啟調解看工會方案 市府駁關廠資遣說",
+      "url": "https://newtalk.tw/news/view/2026-11-26/1073962",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:12:00+08:00",
+      "last_checked_at": "2026-11-26T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1761",
+      "media": "Liberty Times Net (ec.ltn.com.tw)",
+      "title": "美光勞資爭議最新進展！工會12/2提方案、12/4再調解",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5654712",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:12:00+08:00",
+      "last_checked_at": "2026-11-26T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1764",
+      "media": "Liberty Times Net (ec.ltn.com.tw)",
+      "title": "傳美光恐因勞資爭議暫停投資台灣1.6兆 經長回應了",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5654430",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:12:00+08:00",
+      "last_checked_at": "2026-11-26T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://stock.ltn.com.tw/article/37uj1paxjhzw",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1762",
+      "media": "LTN Business / Fortune Freedom (stock.ltn.com.tw)",
+      "title": "美光勞資爭議最新進展！工會12/2提方案、12/4再調解",
+      "url": "https://stock.ltn.com.tw/article/xm2lpwvwvdje",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:12:00+08:00",
+      "last_checked_at": "2026-11-26T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5654712",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1765",
+      "media": "LTN Business / Fortune Freedom (stock.ltn.com.tw)",
+      "title": "綠營批張善政趕走科技業 桃市府澄清：積極協調美光勞資爭議",
+      "url": "https://stock.ltn.com.tw/article/vnkexvv9kzqr",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T23:12:00+08:00",
+      "last_checked_at": "2026-11-26T23:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://ec.ltn.com.tw/article/breakingnews/5654442",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1749",
