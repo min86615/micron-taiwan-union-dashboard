@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T21:25:15.308033+08:00",
+    "generated_at": "2026-11-26T21:28:01.197214+08:00",
     "record_count": 1442,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
@@ -8,7 +8,7 @@
     {
       "id": "news-1752",
       "media": "United Daily News (udn.com)",
-      "title": "美光桃園廠狹議持續延燒 12月4日再開协調會",
+      "title": "美光桃園廠勞資爭議持續延燒 12月4日再開協調會",
       "url": "https://udn.com/news/story/7240/9904382",
       "published_date": "2026-11-26",
       "published_at": "2026-11-26T20:40:00+08:00",
@@ -17,7 +17,7 @@
       "last_checked_at": "2026-11-26",
       "language": "TW",
       "topics": [
-        "美光產業"
+        "工會／勞資"
       ],
       "status": "reported",
       "source_type": "media",
@@ -26,7 +26,7 @@
     {
       "id": "news-1758",
       "media": "United Daily News (udn.com) - same-reporter rewrite copy",
-      "title": "勞資狹議不應泑為選舉操作工具 桃府市署駼斜美光暗停投資與關廠傳誜",
+      "title": "勞資爭議不應淪為選舉操作工具 桃市政府駁斥美光暫停投資與關廠傳聞",
       "url": "https://udn.com/news/story/7240/9904199",
       "published_date": "2026-11-26",
       "published_at": "2026-11-26T18:29:00+08:00",
@@ -44,7 +44,7 @@
     {
       "id": "news-1753",
       "media": "United Daily News (udn.com)",
-      "title": "傳美光關廠、暗停投資 桃府署：選舉操作不实指控",
+      "title": "傳美光關廠、暫停投資 桃市府：選舉操作不實指控",
       "url": "https://udn.com/news/story/7307/9904009",
       "published_date": "2026-11-26",
       "published_at": "2026-11-26T17:30:40+08:00",
@@ -417,7 +417,7 @@
     {
       "id": "news-1756",
       "media": "TVBS Finance (news.tvbs.com.tw/money)",
-      "title": "美光1.6兆投資恐喋卡？傳關桃園廠「3千人恐失業」 經長回應",
+      "title": "美光1.6兆投資恐喊卡？傳關桃園廠「3千人恐失業」 經長回應",
       "url": "https://news.tvbs.com.tw/money/4056599",
       "published_date": "2026-11-26",
       "published_at": null,
@@ -436,7 +436,7 @@
     {
       "id": "news-1754",
       "media": "Liberty Times Net (ec.ltn.com.tw)",
-      "title": "綠煠批彌善政趜走科技業 桃府署澋清：稍極協調美光勞資狹議",
+      "title": "綠營批張善政趕走科技業 桃市府澄清：積極協調美光勞資爭議",
       "url": "https://ec.ltn.com.tw/article/breakingnews/5654442",
       "published_date": "2026-11-26",
       "published_at": null,
@@ -455,7 +455,7 @@
     {
       "id": "news-1757",
       "media": "LTN Business / Fortune Freedom (stock.ltn.com.tw)",
-      "title": "傳美光恐因勞資狹議暗停投資台灣1.6兆 經長回應了",
+      "title": "傳美光恐因勞資爭議暫停投資台灣1.6兆 經長回應了",
       "url": "https://stock.ltn.com.tw/article/37uj1paxjhzw",
       "published_date": "2026-11-26",
       "published_at": null,
@@ -474,7 +474,7 @@
     {
       "id": "news-1755",
       "media": "China Times (chinatimes.com)",
-      "title": "美光傳關桃園廠？府署轉述董座說法：报導過度渲染",
+      "title": "美光傳關桃園廠？市府轉述董座說法：報導過度渲染",
       "url": "https://www.chinatimes.com/realtimenews/20261126004357-260405",
       "published_date": "2026-11-26",
       "published_at": null,
