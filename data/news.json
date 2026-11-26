@@ -1,10 +1,87 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T09:22:20.655187+08:00",
-    "record_count": 1415,
+    "generated_at": "2026-11-26T11:26:13.815112+08:00",
+    "record_count": 1420,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1732",
+      "media": "PeopleNews (Minbao, peoplenews.tw; current domain)",
+      "title": "美光桃園廠獎金沒了！工會轟協議不合理 今再戰資方",
+      "url": "https://www.peoplenews.tw/articles/economic-news/69715",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T11:20:00+08:00",
+      "last_checked_at": "2026-11-26T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "獎金／分紅"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1733",
+      "media": "Newtalk News (Xin Tou Bang, newtalk.tw)",
+      "title": "謝金河談美光桃園勞資爭議：可能暫停投資、關廠資遣",
+      "url": "https://newtalk.tw/news/view/2026-11-26/1073798",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T11:20:00+08:00",
+      "last_checked_at": "2026-11-26T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1735",
+      "media": "Liberty Times LTN (ec.ltn.com.tw, Taoyuan)",
+      "title": "謝金河評論美光可能關廠？市府：不多做評論、全力協調勞資達成共識",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5653857",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T11:20:00+08:00",
+      "last_checked_at": "2026-11-26T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-26 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1734",
+      "media": "ETtoday Finance (finance.ettoday.net)",
+      "title": "美光評估暫停在台投資、關閉桃園廠 謝金河：可能走向雙輸",
+      "url": "https://finance.ettoday.net/news/3278726",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T11:20:00+08:00",
+      "last_checked_at": "2026-11-26T11:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1728",
       "media": "Yahoo Finance (article states it first appeared on GuruFocus, sourced to Seeking Alpha news item)",
@@ -25828,6 +25905,25 @@
       "status": "syndicated",
       "source_type": "aggregator_translation",
       "duplicate_of": "https://finance.biggo.com/news/9a216d68-f24c-47df-8e1d-33753852d7b9"
+    },
+    {
+      "id": "news-1736",
+      "media": "Futu News flash (news.futunn.com, Futu)",
+      "title": "美光科技中国台湾工会：除非同意对奖金制度进行改革，否则他们将发起罢工",
+      "url": "https://news.futunn.com/flash/20701500/micron-technology-taiwan-union-they-will-initiate-a-strike-unless",
+      "published_date": "2026-09-01",
+      "published_at": null,
+      "display_at": "2026-09-01T12:00:00+08:00",
+      "listed_at": "2026-11-26T11:25:00+08:00",
+      "last_checked_at": "2026-11-26T11:25:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "aggregator_flash",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0923",
