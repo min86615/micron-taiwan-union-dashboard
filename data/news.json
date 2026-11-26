@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T03:24:32.362487+08:00",
-    "record_count": 1455,
+    "generated_at": "2026-11-27T05:43:59.724455+08:00",
+    "record_count": 1460,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1778",
+      "media": "SW Architect",
+      "title": "Micron strike vote: Taiwan workers want 15% of profit",
+      "url": "https://www.swarchitect.net/en/micron-bonus-strike-2026-10/",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T05:45:00+08:00",
+      "last_checked_at": "2026-11-27T05:45:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1768",
       "media": "Commercial Times / China Times group (ctee.com.tw)",
@@ -170,6 +189,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1775",
+      "media": "Yahoo TW News mirror (Storm Media credit)",
+      "title": "美光桃園廠最壞直接關廠？謝金河爆勞資糾紛「高層擬下2決定」：恐不只資遣3000人",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E6%A1%83%E5%9C%92%E5%BB%A0%E6%9C%80%E5%A3%9E%E7%9B%B4%E6%8E%A5%E9%97%9C%E5%BB%A0-%E8%AC%9D%E9%87%91%E6%B2%B3%E7%88%86%E5%8B%9E%E8%B3%87%E7%B3%BE%E7%B4%9B-%E9%AB%98%E5%B1%A4%E6%93%AC%E4%B8%8B2%E6%B1%BA%E5%AE%9A-%E6%81%90%E4%B8%8D%E5%8F%AA%E8%B3%87%E9%8A%9A3000%E4%BA%BA-054838639.html",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T13:48:00+08:00",
+      "display_at": "2026-11-26T13:48:00+08:00",
+      "listed_at": "2026-11-27T05:45:00+08:00",
+      "last_checked_at": "2026-11-27T05:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.stormmediagroup.com/opinion/news-media/f19c49650c273c318f1d3609d3b601ae"
+    },
+    {
       "id": "news-1738",
       "media": "United Daily News / Economic Daily (money.udn.com, Taoyuan)",
       "title": "美光桃園廠爭議延燒 工會：不要每次協商前就放話施壓",
@@ -204,6 +241,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1776",
+      "media": "GuruFocus",
+      "title": "Micron's $50 Billion Taiwan Investment Faces Fresh Labor Risk",
+      "url": "https://www.gurufocus.com/news/9227687/microns-50-billion-taiwan-investment-faces-fresh-labor-risk",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:17:00+08:00",
+      "listed_at": "2026-11-27T05:45:00+08:00",
+      "last_checked_at": "2026-11-27T05:45:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1772",
@@ -20847,6 +20903,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1779",
+      "media": "Investing.com (India mirror)",
+      "title": "With record earnings in the rearview, Micron faces Taiwan strike prospects",
+      "url": "https://in.investing.com/news/stock-market-news/with-record-earnings-in-the-rearview-micron-faces-taiwan-strike-prospects-5615182",
+      "published_date": "2026-10-01",
+      "published_at": null,
+      "display_at": "2026-10-01T12:00:00+08:00",
+      "listed_at": "2026-11-27T05:45:00+08:00",
+      "last_checked_at": "2026-11-27T05:45:00+08:00",
+      "language": "EN",
+      "topics": [
+        "罷工"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.investing.com/news/stock-market-news/with-record-earnings-in-the-rearview-micron-faces-taiwan-strike-prospects-4927735",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1061",
       "media": "財訊雙週刊 (Wealth Magazine)",
       "title": "美光財報亮眼、台灣投資衝上1.6兆元！4大廠區同步擴建 台灣供應鏈名單出列",
@@ -21114,6 +21189,26 @@
       "status": "reported",
       "source_type": "news_agency_original",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1777",
+      "media": "Chainvest (JP AI-analysis blog)",
+      "title": "Micronストライキで半導体・AI株はどう動くか 関連銘柄を整理",
+      "url": "https://chainvest.jp/topics/industry-tech/20260924-7xn9xg",
+      "published_date": "2026-09-24",
+      "published_at": null,
+      "display_at": "2026-09-24T12:00:00+08:00",
+      "listed_at": "2026-11-27T05:45:00+08:00",
+      "last_checked_at": "2026-11-27T05:45:00+08:00",
+      "language": "JP",
+      "topics": [
+        "罷工",
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-0351",
