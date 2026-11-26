@@ -1,10 +1,84 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T11:26:13.815112+08:00",
-    "record_count": 1420,
+    "generated_at": "2026-11-26T13:39:50.252984+08:00",
+    "record_count": 1425,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1738",
+      "media": "United Daily News / Economic Daily (money.udn.com, Taoyuan)",
+      "title": "美光桃園廠爭議延燒 工會：不要每次協商前就放話施壓",
+      "url": "https://money.udn.com/money/story/5612/9903337",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T12:38:38+08:00",
+      "display_at": "2026-11-26T12:38:38+08:00",
+      "listed_at": "2026-11-26T13:45:00+08:00",
+      "last_checked_at": "2026-11-26T13:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1739",
+      "media": "Liberty Times LTN (ec.ltn.com.tw, Taoyuan)",
+      "title": "美光桃園工會喊話 資方不要協商前就透過各種管道放話",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5654048",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T12:30:00+08:00",
+      "display_at": "2026-11-26T12:30:00+08:00",
+      "listed_at": "2026-11-26T13:45:00+08:00",
+      "last_checked_at": "2026-11-26T13:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1741",
+      "media": "Wealth Magazine 財訊 (wealth.com.tw; Shie Jone-hwa original post text)",
+      "title": "謝金河：美光在台灣可能做出最壞的決定！",
+      "url": "https://www.wealth.com.tw/articles/aff3b77b-f6a5-49ae-a35f-53fa9d09a532",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T13:45:00+08:00",
+      "last_checked_at": "2026-11-26T13:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-26 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1740",
+      "media": "Wealth Magazine 財訊 (wealth.com.tw)",
+      "title": "美國301調查報告出爐、台灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
+      "url": "https://www.wealth.com.tw/articles/713b8f63-0a6d-4bf7-9d8b-d241749d92e2",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T13:45:00+08:00",
+      "last_checked_at": "2026-11-26T13:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1732",
       "media": "PeopleNews (Minbao, peoplenews.tw; current domain)",
@@ -119,6 +193,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-26 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1737",
+      "media": "United Daily News / Economic Daily (money.udn.com, Taichung)",
+      "title": "美光工會幹部向「廟東先生」黃朝淵遞陳情書 協助勞工權益、工會民主",
+      "url": "https://money.udn.com/money/story/5612/9902925",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T10:42:18+08:00",
+      "display_at": "2026-11-26T10:42:18+08:00",
+      "listed_at": "2026-11-26T13:45:00+08:00",
+      "last_checked_at": "2026-11-26T13:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1730",
