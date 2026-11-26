@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T01:24:02.090636+08:00",
-    "record_count": 1454,
+    "generated_at": "2026-11-27T03:24:32.362487+08:00",
+    "record_count": 1455,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -204,6 +204,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1772",
+      "media": "InvestorsHub via Yahoo Finance (mirror of Commercial Times report)",
+      "title": "Micron's Taiwan Expansion Plans Face Uncertainty Amid Ongoing Labour Dispute",
+      "url": "https://finance.yahoo.com/technology/articles/micron-taiwan-expansion-plans-face-105745272.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:17:00+08:00",
+      "listed_at": "2026-11-27T03:30:00+08:00",
+      "last_checked_at": "2026-11-27T03:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1745",
