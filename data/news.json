@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T07:17:09.706724+08:00",
-    "record_count": 1462,
+    "generated_at": "2026-11-27T07:19:38.692288+08:00",
+    "record_count": 1463,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -351,9 +351,9 @@
       "topics": [
         "美光產業"
       ],
-      "status": "syndicated",
+      "status": "reported",
       "source_type": "media",
-      "duplicate_of": "https://www.wealth.com.tw/articles/ea03b952",
+      "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
@@ -835,6 +835,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1782",
+      "media": "Cnyes / 鉅亨網 (news.cnyes.com)",
+      "title": "美光勞資協商陷僵局 謝金河憂1.6兆元加碼投資生變、最壞恐關桃園廠",
+      "url": "https://news.cnyes.com/news/id/6672056",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T11:43:00+08:00",
+      "display_at": "2026-11-26T11:43:00+08:00",
+      "listed_at": "2026-11-27T07:52:00+08:00",
+      "last_checked_at": "2026-11-27T07:52:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1737",
