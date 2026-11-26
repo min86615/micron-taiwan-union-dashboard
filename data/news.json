@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-26T13:39:50.252984+08:00",
-    "record_count": 1425,
+    "generated_at": "2026-11-26T15:21:29.443970+08:00",
+    "record_count": 1430,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -40,6 +40,81 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1745",
+      "media": "Investing.com (English, republication of Commercial Times/CTEE report)",
+      "title": "Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
+      "url": "https://www.investing.com/news/stock-market-news/micron-faces-taiwan-uncertainty-as-labor-dispute-threatens-expansion-report-warns-5052030",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:17:00+08:00",
+      "listed_at": "2026-11-26T15:25:00+08:00",
+      "last_checked_at": "2026-11-26T15:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
+    },
+    {
+      "id": "news-1742",
+      "media": "Commercial Times / CTEE (ctee.com.tw)",
+      "title": "谢金河爆美光恐撤资、关厂！桃园工会反击：希望协商合理方案",
+      "url": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T12:17:00+08:00",
+      "display_at": "2026-11-26T12:17:00+08:00",
+      "listed_at": "2026-11-26T15:25:00+08:00",
+      "last_checked_at": "2026-11-26T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1746",
+      "media": "El-Fondo (English aggregator, republication of Commercial Times/CTEE report)",
+      "title": "Micron risks Taiwan expansion over NT$1.6 trillion labor row",
+      "url": "https://el-fondo.com/en/news/micron-risks-taiwan-expansion-over-nt16-trillion-labor-row",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T15:25:00+08:00",
+      "last_checked_at": "2026-11-26T15:25:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1743",
+      "media": "China Times (chinatimes.com, same-copy of CTEE master)",
+      "title": "谢金河爆美光恐撤资、关厂！桃园工会反击：希望协商合理方案",
+      "url": "https://www.chinatimes.com/realtimenews/20261126002766-260405",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-26T15:25:00+08:00",
+      "last_checked_at": "2026-11-26T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1741",
@@ -207,6 +282,24 @@
       "language": "TW",
       "topics": [
         "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1744",
+      "media": "China Times (chinatimes.com, finance)",
+      "title": "美光爆发劳资争议 谢金河揭高层最坏剧本：3000名员工恐失业",
+      "url": "https://www.chinatimes.com/realtimenews/20261126001888-260410",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T10:05:00+08:00",
+      "display_at": "2026-11-26T10:05:00+08:00",
+      "listed_at": "2026-11-26T15:25:00+08:00",
+      "last_checked_at": "2026-11-26T15:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
       ],
       "status": "reported",
       "source_type": "media",
