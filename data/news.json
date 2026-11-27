@@ -1,10 +1,47 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T20:06:53.326650+08:00",
-    "record_count": 1481,
+    "generated_at": "2026-11-27T21:32:38.589548+08:00",
+    "record_count": 1487,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1804",
+      "media": "三立iNEWS (SETN, 鏡週刊轉載)",
+      "title": "美光桃園勞資調解進展曝！12月4日再開會　張善政揭高層回應",
+      "url": "https://inews.setn.com/news/1945991",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T19:52:00+08:00",
+      "display_at": "2026-11-27T19:52:00+08:00",
+      "listed_at": "2026-11-27T21:25:00+08:00",
+      "last_checked_at": "2026-11-27T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261127edi021"
+    },
+    {
+      "id": "news-1808",
+      "media": "自由時報 財富自由 (stock.ltn.com.tw)",
+      "title": "快評》桃產總「太上工會」 逼退美光倒底誰埋單",
+      "url": "https://stock.ltn.com.tw/article/ka9gqdnypuzu",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T17:58:00+08:00",
+      "display_at": "2026-11-27T17:58:00+08:00",
+      "listed_at": "2026-11-27T21:25:00+08:00",
+      "last_checked_at": "2026-11-27T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "newspaper",
+      "duplicate_of": null
+    },
     {
       "id": "news-1800",
       "media": "ETtoday新聞雲",
@@ -133,6 +170,65 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1805",
+      "media": "崛起新傳媒 (rise-mediacorp.com)",
+      "title": "美光勞資爭議協商歷時4小時達共識 12/4第3次調解拚和平落幕",
+      "url": "https://rise-mediacorp.com/archives/164138",
+      "published_date": "2026-11-27",
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T21:25:00+08:00",
+      "last_checked_at": "2026-11-27T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://twline365.com/2026-11-1287203/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1807",
+      "media": "Yahoo新聞 (桃園電子報轉載)",
+      "title": "美光勞資協商最新進展曝光！張善政車掃秀「高層簡訊」破除關廠謠言",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E5%8D%94%E5%95%86%E6%9C%80%E6%96%B0%E9%80%B2%E5%B1%95%E6%9B%9D%E5%85%89-%E5%BC%B5%E5%96%84%E6%94%BF%E8%BB%8A%E6%8E%83%E7%A7%80-%E9%AB%98%E5%B1%A4%E7%B0%A1%E8%A8%8A-%E7%A0%B4%E9%99%A4%E9%97%9C%E5%BB%A0%E8%AC%A0%E8%A8%80-075554916.html",
+      "published_date": "2026-11-27",
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T21:25:00+08:00",
+      "last_checked_at": "2026-11-27T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://tyenews.com/2026/11/1435000",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1806",
+      "media": "Yahoo新聞 (桃園電子報/台灣線報轉載)",
+      "title": "美光勞資爭議協商歷時4小時達共識 12/4第3次調解拚和平落幕",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E5%8B%9E%E8%B3%87%E7%88%AD%E8%AD%B0%E5%8D%94%E5%95%86%E6%AD%B7%E6%99%824%E5%B0%8F%E6%99%82%E9%81%94%E5%85%B1%E8%AD%98-12-4%E7%AC%AC3%E6%AC%A1%E8%AA%BF%E8%A7%A3%E6%8B%9A%E5%92%8C%E5%B9%B3%E8%90%BD%E5%B9%95-074943469.html",
+      "published_date": "2026-11-27",
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T21:25:00+08:00",
+      "last_checked_at": "2026-11-27T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://rise-mediacorp.com/archives/164138",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1799",
       "media": "遠見雜誌 (Gv Magazine)",
       "title": "罷工戰火跨越九合一選戰！美光桃園廠仍無共識，牽動半導體布局",
@@ -202,6 +298,25 @@
       "language": "TW",
       "topics": [
         "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1803",
+      "media": "Mirror Media 鏡週刊",
+      "title": "美光工運變調／美光桃園勞資調解進展曝！12月4日再開會　張善政揭高層回應",
+      "url": "https://www.mirrormedia.mg/story/20261127edi021",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T02:17:00+08:00",
+      "display_at": "2026-11-27T02:17:00+08:00",
+      "listed_at": "2026-11-27T21:25:00+08:00",
+      "last_checked_at": "2026-11-27T21:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
       ],
       "status": "reported",
       "source_type": "media",
