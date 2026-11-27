@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-28T03:24:11.668670+08:00",
-    "record_count": 1498,
+    "generated_at": "2026-11-28T05:29:06.008967+08:00",
+    "record_count": 1502,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1823",
+      "media": "Futu牛牛 (news.futunn.com)",
+      "title": "成交额 TOP20｜闪迪暴涨16%、美光涨超7%；Anthropic大涨11%重回90美元；Palantir获波兰军方AI协议；OpenAI起诉苹果窃取商业秘密",
+      "url": "https://news.futunn.com/post/1005873900/top-20-by-trading-volume-sandisk-surges-16-micron-rises",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-28T12:00:00+08:00",
+      "listed_at": "2026-11-28T05:40:00+08:00",
+      "last_checked_at": "2026-11-28T05:40:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-28 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1815",
       "media": "焦點事件 / Events In Focus (eventsinfocus.org)",
@@ -229,6 +248,25 @@
       "status": "reported",
       "source_type": "industry site",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1820",
+      "media": "n.yam mirror (mirror of TYENews original, source attribution displayed on page)",
+      "title": "美光勞資爭議協商歷時4小時達共識 12/4第3次調解拚和平落幕",
+      "url": "https://n.yam.com/Article/20261127435001",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T15:49:00+08:00",
+      "display_at": "2026-11-27T15:49:00+08:00",
+      "listed_at": "2026-11-28T05:35:00+08:00",
+      "last_checked_at": "2026-11-28T05:35:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://twline365.com/2026-11-1287203/"
     },
     {
       "id": "news-1796",
@@ -473,6 +511,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1822",
+      "media": "United Daily News (udn.com political-path copy)",
+      "title": "美光勞資爭議淪選舉攻防 勞動部：持續與桃市府共同協助",
+      "url": "https://udn.com/news/story/7238/9904733",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T23:42:00+08:00",
+      "display_at": "2026-11-26T23:42:00+08:00",
+      "listed_at": "2026-11-28T05:30:00+08:00",
+      "last_checked_at": "2026-11-28T05:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "newspaper",
+      "duplicate_of": "https://udn.com/news/story/7240/9904733"
     },
     {
       "id": "news-1786",
@@ -3183,6 +3239,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1821",
+      "media": "Commercial Times / China Times group (ctee.com.tw)",
+      "title": "美光台中協議遭控未經會員同意 百名員工赴行政院抗議批黑箱",
+      "url": "https://ctee.com.tw/news/20261117701455-431401",
+      "published_date": "2026-11-17",
+      "published_at": "2026-11-17T14:08:00+08:00",
+      "display_at": "2026-11-17T14:08:00+08:00",
+      "listed_at": "2026-11-28T05:45:00+08:00",
+      "last_checked_at": "2026-11-28T05:45:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "newspaper",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261117002925-260405"
     },
     {
       "id": "news-1434",
