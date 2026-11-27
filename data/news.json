@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T21:32:38.589548+08:00",
-    "record_count": 1487,
+    "generated_at": "2026-11-27T23:20:04.354928+08:00",
+    "record_count": 1489,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -23,6 +23,42 @@
       "status": "syndicated",
       "source_type": "aggregator",
       "duplicate_of": "https://www.mirrormedia.mg/story/20261127edi021"
+    },
+    {
+      "id": "news-1809",
+      "media": "愛傳媒（n.yam.com）",
+      "title": "黃世杰批關廠爭議 桃市府：造謠 張善政讀美光高層簡訊：有信心維持營運",
+      "url": "https://n.yam.com/Article/20261127458769",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T18:25:00+08:00",
+      "display_at": "2026-11-27T18:25:00+08:00",
+      "listed_at": "2026-11-27T23:30:00+08:00",
+      "last_checked_at": "2026-11-27T23:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1810",
+      "media": "自由時報",
+      "title": "快評》桃產總「太上工會」 逼退美光倒底誰埋單",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5655615",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T17:58:00+08:00",
+      "display_at": "2026-11-27T17:58:00+08:00",
+      "listed_at": "2026-11-27T23:30:00+08:00",
+      "last_checked_at": "2026-11-27T23:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "newspaper",
+      "duplicate_of": "https://stock.ltn.com.tw/article/ka9gqdnypuzu"
     },
     {
       "id": "news-1808",
