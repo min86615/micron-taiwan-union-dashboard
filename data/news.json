@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T17:29:01.268789+08:00",
-    "record_count": 1477,
+    "generated_at": "2026-11-27T20:06:53.326650+08:00",
+    "record_count": 1481,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1800",
+      "media": "ETtoday新聞雲",
+      "title": "桃園美光勞資爭議協商有進展　市府勞動局：雙方12／4第3次調解",
+      "url": "https://www.ettoday.net/news/20261127/3279573.htm",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T17:05:00+08:00",
+      "display_at": "2026-11-27T17:05:00+08:00",
+      "listed_at": "2026-11-27T19:36:00+08:00",
+      "last_checked_at": "2026-11-27T19:36:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "reported",
+      "source_type": "news portal",
+      "duplicate_of": null
+    },
     {
       "id": "news-1795",
       "media": "聯合報",
@@ -21,6 +40,24 @@
       ],
       "status": "reported",
       "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1801",
+      "media": "CFM闪存市场 (chinaflashmarket.com)",
+      "title": "美光中国台湾桃园厂劳资争议持续，第二次调解未果",
+      "url": "https://www.chinaflashmarket.com/a/184457",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T16:09:00+08:00",
+      "display_at": "2026-11-27T16:09:00+08:00",
+      "listed_at": "2026-11-27T19:36:00+08:00",
+      "last_checked_at": "2026-11-27T19:36:00+08:00",
+      "language": "SC",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "industry site",
       "duplicate_of": null
     },
     {
@@ -96,6 +133,25 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1799",
+      "media": "遠見雜誌 (Gv Magazine)",
+      "title": "罷工戰火跨越九合一選戰！美光桃園廠仍無共識，牽動半導體布局",
+      "url": "https://www.gvm.com.tw/article/134904",
+      "published_date": "2026-11-27",
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T19:36:00+08:00",
+      "last_checked_at": "2026-11-27T19:36:00+08:00",
+      "language": "TW",
+      "topics": [
+        "罷工"
+      ],
+      "status": "reported",
+      "source_type": "magazine feature",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
       "id": "news-1797",
       "media": "壹蘋新聞網（Next Apple）",
       "title": "美光勞資爭議引口水戰！桃市府批綠營「做賊喊捉賊」 黃世杰反嗆別遷怒",
@@ -113,25 +169,6 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
-    },
-    {
-      "id": "news-1793",
-      "media": "Liberty Times (自由時報, stock/business)",
-      "title": "美光桃園工會曾赴行政院陳情 請中央協助成立「關係企業工會」",
-      "url": "https://stock.ltn.com.tw/article/jjdk6c6uxp8r",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-11-27T12:00:00+08:00",
-      "listed_at": "2026-11-27T15:16:00+08:00",
-      "last_checked_at": "2026-11-27T15:16:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "reported",
-      "source_type": "media",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
     },
     {
       "id": "news-1778",
@@ -362,6 +399,42 @@
       "display_at": "2026-11-26T14:31:03+08:00",
       "listed_at": "2026-11-26T17:20:00+08:00",
       "last_checked_at": "2026-11-26T17:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1802",
+      "media": "自由時報",
+      "title": "美光桃園工會曾赴行政院陳情 請中央協助成立「關係企業工會」",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5654145",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T13:53:00+08:00",
+      "display_at": "2026-11-26T13:53:00+08:00",
+      "listed_at": "2026-11-27T19:36:00+08:00",
+      "last_checked_at": "2026-11-27T19:36:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "newspaper",
+      "duplicate_of": "https://stock.ltn.com.tw/article/jjdk6c6uxp8r"
+    },
+    {
+      "id": "news-1793",
+      "media": "Liberty Times (自由時報, stock/business)",
+      "title": "美光桃園工會曾赴行政院陳情 請中央協助成立「關係企業工會」",
+      "url": "https://stock.ltn.com.tw/article/jjdk6c6uxp8r",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T13:53:00+08:00",
+      "display_at": "2026-11-26T13:53:00+08:00",
+      "listed_at": "2026-11-27T15:16:00+08:00",
+      "last_checked_at": "2026-11-27T15:16:00+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
