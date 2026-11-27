@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T11:20:05.088775+08:00",
-    "record_count": 1468,
+    "generated_at": "2026-11-27T13:18:36.970643+08:00",
+    "record_count": 1469,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -23,6 +23,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1789",
+      "media": "United Daily News (UDN)",
+      "title": "【重磅快評】綠為勝選出險招 卻要賭上美光員工飯碗？",
+      "url": "https://udn.com/news/story/124652/9905456",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T11:56:41+08:00",
+      "display_at": "2026-11-27T11:56:41+08:00",
+      "listed_at": "2026-11-27T13:00:00+08:00",
+      "last_checked_at": "2026-11-27T13:20:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
     },
     {
       "id": "news-1786",
