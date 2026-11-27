@@ -1,29 +1,10 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T11:18:41.125225+08:00",
+    "generated_at": "2026-11-27T11:20:05.088775+08:00",
     "record_count": 1468,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
-    {
-      "id": "news-1787",
-      "media": "United Daily News (udn.com)",
-      "title": "美光工會幹部向「廟東先生」黃朝淵遞陳情書 協助勞工權益、工會民主",
-      "url": "https://udn.com/news/story/7238/9902925",
-      "published_date": null,
-      "published_at": null,
-      "display_at": "2026-11-27T12:00:00+08:00",
-      "listed_at": "2026-11-27T11:14:00+08:00",
-      "last_checked_at": "2026-11-27T11:14:00+08:00",
-      "language": "TW",
-      "topics": [
-        "工會／勞資"
-      ],
-      "status": "reported",
-      "source_type": "original",
-      "duplicate_of": null,
-      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
-    },
     {
       "id": "news-1778",
       "media": "SW Architect",
@@ -947,6 +928,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1787",
+      "media": "United Daily News (udn.com)",
+      "title": "美光工會幹部向「廟東先生」黃朝淵遞陳情書 協助勞工權益、工會民主",
+      "url": "https://udn.com/news/story/7238/9902925",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T10:42:18+08:00",
+      "display_at": "2026-11-26T10:42:18+08:00",
+      "listed_at": "2026-11-27T11:14:00+08:00",
+      "last_checked_at": "2026-11-27T11:14:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "original",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9902925"
     },
     {
       "id": "news-1737",
