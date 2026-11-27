@@ -1,10 +1,65 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T13:18:36.970643+08:00",
-    "record_count": 1469,
+    "generated_at": "2026-11-27T15:23:26.331552+08:00",
+    "record_count": 1473,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1791",
+      "media": "United Daily News (UDN)",
+      "title": "美光勞資爭議12月再開會溝通 張善政曝高層訊息：這是最好答案",
+      "url": "https://udn.com/news/story/6656/9905868",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T14:25:33+08:00",
+      "display_at": "2026-11-27T14:25:33+08:00",
+      "listed_at": "2026-11-27T15:12:00+08:00",
+      "last_checked_at": "2026-11-27T15:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1790",
+      "media": "China Times (中時即時)",
+      "title": "美光傳撤資關廠引恐慌！張善政曝高層訊息：有信心維持營運",
+      "url": "https://www.chinatimes.com/realtimenews/20261127002745-260407",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T14:11:15+08:00",
+      "display_at": "2026-11-27T14:11:15+08:00",
+      "listed_at": "2026-11-27T15:12:00+08:00",
+      "last_checked_at": "2026-11-27T15:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1793",
+      "media": "Liberty Times (自由時報, stock/business)",
+      "title": "美光桃園工會曾赴行政院陳情 請中央協助成立「關係企業工會」",
+      "url": "https://stock.ltn.com.tw/article/jjdk6c6uxp8r",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T15:16:00+08:00",
+      "last_checked_at": "2026-11-27T15:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1778",
       "media": "SW Architect",
@@ -939,6 +994,24 @@
       "display_at": "2026-11-26T11:43:00+08:00",
       "listed_at": "2026-11-27T07:52:00+08:00",
       "last_checked_at": "2026-11-27T07:52:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1792",
+      "media": "Commercial Times (CTEE)",
+      "title": "美光勞資衝突恐釀雙輸？謝金河曝「美光考慮關廠撤資、資遣3千人」 恐牽動半導體產業 對台灣茲事體大",
+      "url": "https://www.ctee.com.tw/news/20261126700855-430501",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T10:47:00+08:00",
+      "display_at": "2026-11-26T10:47:00+08:00",
+      "listed_at": "2026-11-27T15:14:30+08:00",
+      "last_checked_at": "2026-11-27T15:14:30+08:00",
       "language": "TW",
       "topics": [
         "工會／勞資"
