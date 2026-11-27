@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-28T05:29:06.008967+08:00",
-    "record_count": 1502,
+    "generated_at": "2026-11-28T07:27:47.271949+08:00",
+    "record_count": 1506,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -120,6 +120,25 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-28 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1828",
+      "media": "SETN (三立新聞網)",
+      "title": "美光桃園勞資調解進展曝！12月4日再開會 張善政揭高層回應",
+      "url": "https://www.setn.com/news/1945991",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T19:52:00+08:00",
+      "display_at": "2026-11-27T19:52:00+08:00",
+      "listed_at": "2026-11-28T07:32:00+08:00",
+      "last_checked_at": "2026-11-28T07:32:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.mirrormedia.mg/story/20261127edi021"
     },
     {
       "id": "news-1804",
@@ -492,6 +511,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1829",
+      "media": "China Times",
+      "title": "美光工會願提對案給資方 12／4再調解",
+      "url": "https://www.chinatimes.com/newspapers/20261127000610-263301",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T04:10:00+08:00",
+      "display_at": "2026-11-27T04:10:00+08:00",
+      "listed_at": "2026-11-28T07:32:00+08:00",
+      "last_checked_at": "2026-11-28T07:32:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://www.chinatimes.com/newspapers/20261127000610-260114"
     },
     {
       "id": "news-1803",
@@ -931,6 +969,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1825",
+      "media": "markets.businessinsider.com (republishing TipRanks)",
+      "title": "Micron Faces Taiwan Setback as Labor Dispute Deepens",
+      "url": "https://markets.businessinsider.com/news/stocks/micron-faces-taiwan-setback-as-labor-dispute-deepens-1036803623",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-28T07:20:00+08:00",
+      "last_checked_at": "2026-11-28T07:20:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1819",
@@ -15831,6 +15888,25 @@
       "status": "syndicated",
       "source_type": "syndicated_republication",
       "duplicate_of": "https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/"
+    },
+    {
+      "id": "news-1827",
+      "media": "UDN",
+      "title": "美光與台中工會簽署勞資協議 撤回22日調解程序",
+      "url": "https://udn.com/news/story/7240/9828635",
+      "published_date": "2026-10-21",
+      "published_at": "2026-10-21T14:23:00+08:00",
+      "display_at": "2026-10-21T14:23:00+08:00",
+      "listed_at": "2026-11-28T07:32:00+08:00",
+      "last_checked_at": "2026-11-28T07:32:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://money.udn.com/money/story/5612/9828635"
     },
     {
       "id": "news-0532",
