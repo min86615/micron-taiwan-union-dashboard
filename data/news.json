@@ -1,10 +1,64 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T15:23:26.331552+08:00",
-    "record_count": 1473,
+    "generated_at": "2026-11-27T17:29:01.268789+08:00",
+    "record_count": 1477,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1795",
+      "media": "聯合報",
+      "title": "美光勞資爭議藍綠攻防…黃世杰批已造成恐慌 桃市府嗆民進黨造謠",
+      "url": "https://udn.com/news/story/124652/9906072",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T16:10:26+08:00",
+      "display_at": "2026-11-27T16:10:26+08:00",
+      "listed_at": "2026-11-27T17:25:00+08:00",
+      "last_checked_at": "2026-11-27T17:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1796",
+      "media": "自由時報",
+      "title": "外傳美光關廠！張善政拿出美光高層簡訊 破除不實傳聞",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5655386",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T15:48:26+08:00",
+      "display_at": "2026-11-27T15:48:26+08:00",
+      "listed_at": "2026-11-27T17:25:00+08:00",
+      "last_checked_at": "2026-11-27T17:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
+      "id": "news-1794",
+      "media": "自由時報",
+      "title": "台灣美光關係企業工會申請登記 桃市府勞動局已啟動審查",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5655361",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T14:51:16+08:00",
+      "display_at": "2026-11-27T14:51:16+08:00",
+      "listed_at": "2026-11-27T17:25:00+08:00",
+      "last_checked_at": "2026-11-27T17:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
     {
       "id": "news-1791",
       "media": "United Daily News (UDN)",
@@ -40,6 +94,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1797",
+      "media": "壹蘋新聞網（Next Apple）",
+      "title": "美光勞資爭議引口水戰！桃市府批綠營「做賊喊捉賊」 黃世杰反嗆別遷怒",
+      "url": "https://news.nextapple.com/politics/20261127/138932F0280DD68C87F660BAEDF74A99",
+      "published_date": "2026-11-27",
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T17:25:00+08:00",
+      "last_checked_at": "2026-11-27T17:25:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1793",
