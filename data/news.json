@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T09:23:25.581688+08:00",
-    "record_count": 1465,
+    "generated_at": "2026-11-27T11:18:41.125225+08:00",
+    "record_count": 1468,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1787",
+      "media": "United Daily News (udn.com)",
+      "title": "美光工會幹部向「廟東先生」黃朝淵遞陳情書 協助勞工權益、工會民主",
+      "url": "https://udn.com/news/story/7238/9902925",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-27T11:14:00+08:00",
+      "last_checked_at": "2026-11-27T11:14:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original",
+      "duplicate_of": null,
+      "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
     {
       "id": "news-1778",
       "media": "SW Architect",
@@ -23,6 +42,24 @@
       "source_type": "media",
       "duplicate_of": null,
       "display_time_note": "原始發布時間無法核實；以首次追蹤日 2026-11-27 作排序參考，12:00（台北時間）為估值，非來源發布時間。"
+    },
+    {
+      "id": "news-1786",
+      "media": "United Daily News (udn.com)",
+      "title": "美光勞資爭議淪選舉攻防 勞動部：持續與桃市府共同協助",
+      "url": "https://udn.com/news/story/7240/9904733",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T23:42:00+08:00",
+      "display_at": "2026-11-26T23:42:00+08:00",
+      "listed_at": "2026-11-27T11:12:00+08:00",
+      "last_checked_at": "2026-11-27T11:12:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "reported",
+      "source_type": "original",
+      "duplicate_of": null
     },
     {
       "id": "news-1768",
@@ -353,6 +390,26 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1788",
+      "media": "Yahoo News mirror (news.yahoo.com) of China Times",
+      "title": "美光工會願提對案給資方 12／4再調解",
+      "url": "https://news.yahoo.com/%E7%BE%8E%E5%85%89%E5%B7%A5%E6%9C%83%E9%A1%98%E6%8F%90%E5%B0%8D%E6%A1%88%E7%B5%A6%E8%B3%87%E6%96%B9-12-4%E5%86%8D%E8%AA%BF%E8%A7%A3-201000764.html",
+      "published_date": "2026-11-26",
+      "published_at": null,
+      "display_at": "2026-11-26T12:00:00+08:00",
+      "listed_at": "2026-11-27T11:16:00+08:00",
+      "last_checked_at": "2026-11-27T11:16:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資",
+        "勞資調解"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator/mirror",
+      "duplicate_of": "https://www.chinatimes.com/realtimenews/20261126005082-260405",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1781",
