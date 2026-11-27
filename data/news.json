@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-27T07:19:38.692288+08:00",
-    "record_count": 1463,
+    "generated_at": "2026-11-27T09:23:25.581688+08:00",
+    "record_count": 1465,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -115,6 +115,24 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1785",
+      "media": "Mnews mirror (mnews.tw) of Taoyuan Electron News (tyenews.com)",
+      "title": "爭取勞權錯了嗎？美光淨利年增895% 桃園工會拒絕讓步",
+      "url": "https://mnews.tw/external/tyenews_1434679",
+      "published_date": "2026-11-26",
+      "published_at": "2026-11-26T16:37:00+08:00",
+      "display_at": "2026-11-26T16:37:00+08:00",
+      "listed_at": "2026-11-27T09:40:00+08:00",
+      "last_checked_at": "2026-11-27T09:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator/mirror",
+      "duplicate_of": "https://n.yam.com/Article/20261126107788"
     },
     {
       "id": "news-1750",
@@ -241,6 +259,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1784",
+      "media": "Yahoo Finance (mirror of Investing.com English republication of Commercial Times/CTEE report)",
+      "title": "Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
+      "url": "https://finance.yahoo.com/technology/articles/micron-faces-taiwan-uncertainty-labor-055543451.html",
+      "published_date": null,
+      "published_at": null,
+      "display_at": "2026-11-26T12:17:00+08:00",
+      "listed_at": "2026-11-27T09:40:00+08:00",
+      "last_checked_at": "2026-11-27T09:40:00+08:00",
+      "language": "EN",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator/mirror",
+      "duplicate_of": "https://www.ctee.com.tw/news/20261126701176-431401",
+      "display_time_note": "轉載頁未標示發布時間；沿用原始稿時間作排序參考，這不是轉載頁明示的發布時間。"
     },
     {
       "id": "news-1776",
