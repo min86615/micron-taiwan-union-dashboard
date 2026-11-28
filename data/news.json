@@ -1,10 +1,48 @@
 {
   "summary": {
-    "generated_at": "2026-11-28T13:27:15.613274+08:00",
-    "record_count": 1512,
+    "generated_at": "2026-11-28T15:19:09.220619+08:00",
+    "record_count": 1515,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1837",
+      "media": "RootData (mirror of Nikkei interview)",
+      "title": "Micron Japan Head: The supply and demand for DRAM will further tighten in 2027-2028, and customers can currently only obtain about half of their demand",
+      "url": "https://www.rootdata.com/news/847761",
+      "published_date": "2026-11-28",
+      "published_at": null,
+      "display_at": "2026-11-28T12:00:00+08:00",
+      "listed_at": "2026-11-28T15:30:00+08:00",
+      "last_checked_at": "2026-11-28T15:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "syndicated",
+      "source_type": "aggregator",
+      "duplicate_of": "https://www.nikkei.com/article/DGXZQOUB1637F0W6A111C2000000/",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
+    {
+      "id": "news-1839",
+      "media": "Ad-Hoc News / boerse-global.de (independent editorial)",
+      "title": "Micron's Japanese Arm Warns DRAM Squeeze Will Deepen Through 2028",
+      "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/micron-s-japanese-arm-warns-dram-squeeze-will-deepen-through-2028/70563968",
+      "published_date": "2026-11-28",
+      "published_at": null,
+      "display_at": "2026-11-28T12:00:00+08:00",
+      "listed_at": "2026-11-28T15:30:00+08:00",
+      "last_checked_at": "2026-11-28T15:30:00+08:00",
+      "language": "EN",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1835",
       "media": "TokenPost via lypp.com (mirror)",
@@ -451,6 +489,25 @@
       "status": "reported",
       "source_type": "media",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1838",
+      "media": "聯合報 (UDN) vote2026 microsite copy",
+      "title": "美光勞資爭議藍綠攻防…黃世杰批已造成恐慌 桃市府嗆民進黨造謠",
+      "url": "https://udn.com/vote2026/story/124652/9906072",
+      "published_date": "2026-11-27",
+      "published_at": null,
+      "display_at": "2026-11-27T12:00:00+08:00",
+      "listed_at": "2026-11-28T15:30:00+08:00",
+      "last_checked_at": "2026-11-28T15:30:00+08:00",
+      "language": "TW",
+      "topics": [
+        "工會／勞資"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://udn.com/news/story/124652/9906072",
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
     },
     {
       "id": "news-1836",
