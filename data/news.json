@@ -1,10 +1,29 @@
 {
   "summary": {
-    "generated_at": "2026-11-28T17:29:46.190266+08:00",
-    "record_count": 1515,
+    "generated_at": "2026-11-28T19:25:34.771728+08:00",
+    "record_count": 1516,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
+    {
+      "id": "news-1840",
+      "media": "AI Industry Today",
+      "title": "Micron's Japan Chief Says DRAM Buyers Are Getting About Half the Volume They Want",
+      "url": "https://aiindustrytoday.com/news/micron-japan-dram-buyers-half-requested-volume-2026",
+      "published_date": "2026-11-28",
+      "published_at": null,
+      "display_at": "2026-11-28T12:00:00+08:00",
+      "listed_at": "2026-11-28T19:35:00+08:00",
+      "last_checked_at": "2026-11-28T19:35:00+08:00",
+      "language": "EN",
+      "topics": [
+        "記憶體／HBM"
+      ],
+      "status": "reported",
+      "source_type": "independent AI-news site (cites Nikkei as original)",
+      "duplicate_of": null,
+      "display_time_note": "來源只提供發布日期；12:00（台北時間）為排序用估值，不代表原文發布時刻。"
+    },
     {
       "id": "news-1837",
       "media": "RootData (mirror of Nikkei interview)",
