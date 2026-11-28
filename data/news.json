@@ -1,7 +1,7 @@
 {
   "summary": {
-    "generated_at": "2026-11-28T07:27:47.271949+08:00",
-    "record_count": 1506,
+    "generated_at": "2026-11-28T09:18:34.542660+08:00",
+    "record_count": 1508,
     "note": "Public metadata export only; published_at is the source publication timestamp when explicitly timezone-aware; display_at is the source timestamp or a clearly marked fallback for sorting/display; published_date remains the source publication date when known; listed_at is the first database-list time; last_checked_at is the latest verification time. No email, credentials, internal notes, or operational timestamps."
   },
   "articles": [
@@ -214,6 +214,24 @@
       "duplicate_of": null
     },
     {
+      "id": "news-1831",
+      "media": "LIFE生活网 (life.tw)；页面标示文章来自《桃园电子报》",
+      "title": "黄世杰批美光关厂传闻引发恐慌 桃市府狠打脸：民进党才是造谣源头",
+      "url": "https://life.tw/article/%E9%BB%83%E4%B8%96%E6%9D%B0%E6%89%B9%E7%BE%8E%E5%85%89%E9%97%9C%E5%BB%A0%E5%82%B3%E8%81%9E%E5%BC%95%E7%99%BC%E6%81%90%E6%85%8C-%E6%A1%83%E5%B8%82%E5%BA%9C%E7%8B%A0%E6%89%93%E8%87%89-%E6%B0%91%E9%80%B2%E9%BB%8A%E6%89%8D%E6%98%AF%E9%80%A0%E8%AC%8A%E6%BA%90-3238288",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T17:16:00+08:00",
+      "display_at": "2026-11-27T17:16:00+08:00",
+      "listed_at": "2026-11-28T09:42:00+08:00",
+      "last_checked_at": "2026-11-28T09:42:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "reported",
+      "source_type": "media",
+      "duplicate_of": null
+    },
+    {
       "id": "news-1800",
       "media": "ETtoday新聞雲",
       "title": "桃園美光勞資爭議協商有進展　市府勞動局：雙方12／4第3次調解",
@@ -267,6 +285,24 @@
       "status": "reported",
       "source_type": "industry site",
       "duplicate_of": null
+    },
+    {
+      "id": "news-1830",
+      "media": "民生报网 (mnews.tw) / 桃园电子报稿件",
+      "title": "美光劳资争议协商历时4小时达共识 12/4第3次调解拚和平落幕",
+      "url": "https://www.mnews.tw/external/tyenews_1435008",
+      "published_date": "2026-11-27",
+      "published_at": "2026-11-27T15:49:00+08:00",
+      "display_at": "2026-11-27T15:49:00+08:00",
+      "listed_at": "2026-11-28T09:40:00+08:00",
+      "last_checked_at": "2026-11-28T09:40:00+08:00",
+      "language": "TW",
+      "topics": [
+        "美光產業"
+      ],
+      "status": "syndicated",
+      "source_type": "media",
+      "duplicate_of": "https://tyenews.com/2026-11-1434693/"
     },
     {
       "id": "news-1820",
